@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"03d19c203a17819e","type":"group","x":-320,"y":-120,"width":220,"height":260,"label":"Cátions - metais"},
+		{"id":"26fdd474ced486bf","type":"group","x":120,"y":-120,"width":220,"height":260,"label":"Cátions - metais"},
+		{"id":"c908de6594895084","type":"text","text":"5A","x":-300,"y":-100,"width":100,"height":60},
+		{"id":"788117244a38d660","type":"text","text":"6A","x":-300,"y":-20,"width":100,"height":60},
+		{"id":"661cf7ffd6131dac","type":"text","text":"7A","x":-300,"y":60,"width":100,"height":60},
+		{"id":"3cb4bf44117e0568","type":"text","text":"Também pode ser da família do B","x":-400,"y":200,"width":360,"height":60},
+		{"id":"601ca6922396f0ec","type":"text","text":"7A","x":140,"y":60,"width":100,"height":60},
+		{"id":"ba106575d628c2fc","type":"text","text":"5A","x":140,"y":-100,"width":100,"height":60},
+		{"id":"e854d60149155a2f","type":"text","text":"6A","x":140,"y":-20,"width":100,"height":60},
+		{"id":"6d934a76a095c0ed","type":"text","text":"Também pode ser da família do B","x":40,"y":200,"width":360,"height":60}
+	],
+	"edges":[
+		{"id":"b704a875b3ceedf4","fromNode":"3cb4bf44117e0568","fromSide":"top","toNode":"03d19c203a17819e","toSide":"bottom"},
+		{"id":"5134932e8424bb6d","fromNode":"6d934a76a095c0ed","fromSide":"top","toNode":"26fdd474ced486bf","toSide":"bottom"},
+		{"id":"d5c1854b22066d15","fromNode":"03d19c203a17819e","fromSide":"right","toNode":"26fdd474ced486bf","toSide":"left"},
+		{"id":"fefc1429101ed1fa","fromNode":"26fdd474ced486bf","fromSide":"left","toNode":"03d19c203a17819e","toSide":"right"}
+	]
+}

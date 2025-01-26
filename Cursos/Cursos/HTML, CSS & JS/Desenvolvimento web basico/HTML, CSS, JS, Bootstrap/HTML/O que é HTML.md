@@ -1,0 +1,5 @@
+Utilizada para criar sites, todos os sites são feitos com base no mesmo, HTML significa Linguagem de marcação hipertexto. A linguagem foi criada por Tim Barners Lee em 1990. O HTML visa mudar a forma como visualizamos o texto, ele formata o texto, basicamente, ou dá sentido à ele(com princípios da semântica).
+
+Para formatar um texto, junto à ele colocam se marcadores, que formatam o texto, ou dão sentido à eles. Eles não são texto do conteúdo em si, mas sim feitos para formatar o texto. Na linguagem HTML existem vários marcadores chamados de Tags.
+# Curiosidade
+O word usa a técnica RTF(Formato de texto Rico), onde você formata cada letra ou frase com fontes e formatações da sua preferência. Existem outros editores, melhores para programadores, como o Visual Studio Code, que não oferecem formatações como num Word, mas sim formatam com cores os elementos da programação de acordo com o seu significado, além de ajudar a escrever o código mais rapidamente. 

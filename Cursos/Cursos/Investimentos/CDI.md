@@ -1,0 +1,1 @@
+Calculado a partir dos empréstimos do banco, ajuda a entender a instabilidade financeira, a taxa de CDI portanto é uma taxa definida para ajudar a saber a estabilidade financeira de algo. 

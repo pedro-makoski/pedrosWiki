@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"b006e0170aeab36a","type":"group","x":-380,"y":-240,"width":440,"height":100,"label":"Importante decorar"},
+		{"id":"eb5a5e8f1ede43f9","type":"text","text":"C","x":-360,"y":-220,"width":60,"height":60},
+		{"id":"ef9622e6b5c48f2c","type":"text","text":"F","x":-360,"y":-220,"width":60,"height":60},
+		{"id":"1026e2061970f851","type":"text","text":"O","x":-260,"y":-220,"width":60,"height":60},
+		{"id":"ef4ab8841b2e5b44","type":"text","text":"N","x":-160,"y":-220,"width":60,"height":60},
+		{"id":"1494854c74d2917a","type":"text","text":"Cl","x":-60,"y":-220,"width":100,"height":60},
+		{"id":"2b8f998a0fde73df","type":"text","text":"Br","x":80,"y":-220,"width":100,"height":60},
+		{"id":"cf69b1b80df66c83","type":"text","text":"I","x":220,"y":-220,"width":60,"height":60},
+		{"id":"fa0d814f1e0dc679","type":"text","text":"","x":-460,"y":-140,"width":50,"height":50},
+		{"id":"44cf6647384e168a","type":"text","text":"Eletronegatividade","x":-85,"y":-90,"width":250,"height":50},
+		{"id":"b6bb5fa46ad25cd4","type":"text","text":"S","x":320,"y":-220,"width":60,"height":60},
+		{"id":"73c7a1362599a898","type":"text","text":"C","x":420,"y":-220,"width":60,"height":60},
+		{"id":"9798e52cc2e2efee","type":"text","text":"","x":480,"y":-140,"width":50,"height":50}
+	],
+	"edges":[
+		{"id":"3eaced941f99b23a","fromNode":"9798e52cc2e2efee","fromSide":"left","toNode":"fa0d814f1e0dc679","toSide":"right"}
+	]
+}

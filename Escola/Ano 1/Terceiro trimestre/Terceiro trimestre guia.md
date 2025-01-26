@@ -1,0 +1,5 @@
+- Artes: [[Artes guia]]
+- Geografia: [[Escola/Ano 1/Terceiro trimestre/Geografia/Geografia Guia|Geografia Guia]]
+- Física: [[Escola/Ano 1/Terceiro trimestre/Física/Física Guia|Física Guia]]
+- Química: [[Escola/Ano 1/Terceiro trimestre/Química/Química Guia|Química Guia]]
+- Algoritmos e linguagem de programação: [[Algoritmos e linguagem de programação guia]]

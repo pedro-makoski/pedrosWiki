@@ -1,0 +1,1 @@
+Basicamente multiplica ou adiciona um valor, respectivamente. 

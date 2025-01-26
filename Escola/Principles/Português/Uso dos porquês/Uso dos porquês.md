@@ -1,0 +1,4 @@
+- Porque: explicação ou causalidade. 
+- Por que: para frases interrogativas. Ou substituição de pelo qual. 
+- Porquê: significado de motivo ou razão. 
+- Por quê: final da frase interrogativa. 

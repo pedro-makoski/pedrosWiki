@@ -1,0 +1,3 @@
+- Português: [[Português guia]]
+- Matemática: [[Escola/Principles/Matemática/Matemática guia|Matemática guia]]
+- Inglês: [[Escola/Principles/Inglês/Inglês guia|Inglês guia]]

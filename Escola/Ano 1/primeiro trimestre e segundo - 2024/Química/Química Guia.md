@@ -1,0 +1,5 @@
+- Aula 1: [[Escola/Ano 1/primeiro trimestre e segundo - 2024/Química/Aula 1 - Matéria - Estados de agregação/Matéria - estados de agregação]] 
+- Aula 2: [[Modelos Atômicos]]
+- Aula 3: [[Tabelas periódicas]]
+- Aula 4: [[Decaimento Radioativo e meia vida]]
+- Aula 5: [[Ligações químicas]]

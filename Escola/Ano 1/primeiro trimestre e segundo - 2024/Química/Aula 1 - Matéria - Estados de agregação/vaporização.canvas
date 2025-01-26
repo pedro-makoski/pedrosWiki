@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"355def0780c3c997","x":-120,"y":-220,"width":250,"height":60,"type":"text","text":"Vaporização"},
+		{"id":"06e5506f16e78cc3","x":-440,"y":-20,"width":250,"height":60,"color":"4","type":"text","text":"Evaporação"},
+		{"id":"13931d393384bbba","x":-120,"y":-20,"width":250,"height":60,"color":"5","type":"text","text":"Ebulição"},
+		{"id":"91a72b2da19e229e","x":180,"y":-20,"width":250,"height":60,"color":"6","type":"text","text":"Calefação"}
+	],
+	"edges":[
+		{"id":"f64d0b5c30faed2e","fromNode":"355def0780c3c997","fromSide":"bottom","toNode":"06e5506f16e78cc3","toSide":"top","color":"4"},
+		{"id":"d3b92d57a7d68a95","fromNode":"355def0780c3c997","fromSide":"bottom","toNode":"13931d393384bbba","toSide":"top","color":"5"},
+		{"id":"b7ea5da5bce5b0c9","fromNode":"355def0780c3c997","fromSide":"bottom","toNode":"91a72b2da19e229e","toSide":"top","color":"6"}
+	]
+}

@@ -1,0 +1,3 @@
+As equações são determinadas por valores, tal é igual a tal. Em inequações não podemos ter certeza a igualdade, elas normalmente são descritas como maior que, menor que, maior ou igual...
+
+Sempre quando uma operação de troca da desigualdade envolvendo um valor negativo acontece. O sinal é invertido, então se é maior que, vira menor que. Se é menor ou igual vira maior ou igual, e vice-versa.

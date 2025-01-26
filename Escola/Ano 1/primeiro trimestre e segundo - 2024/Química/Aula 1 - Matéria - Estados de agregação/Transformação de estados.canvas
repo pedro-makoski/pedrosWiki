@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"08c463516754f2eb","type":"text","text":"Líquido","x":-275,"y":-80,"width":140,"height":50},
+		{"id":"bba95fa0c7df4f8f","type":"text","text":"F - ressublimação","x":-300,"y":140,"width":220,"height":50},
+		{"id":"e17adc48adc275ac","type":"text","text":"A - Fusão","x":-425,"y":-180,"width":165,"height":60},
+		{"id":"9d1ff70679f41c54","type":"text","text":"E - sublimação","x":-292,"y":-280,"width":192,"height":60},
+		{"id":"cd20bf0d9119115f","type":"text","text":"Gasoso","x":100,"y":-80,"width":140,"height":50},
+		{"id":"fd570b6871d3de83","type":"text","text":"Sólido","x":-640,"y":-80,"width":140,"height":50},
+		{"id":"99b2572a53f7161e","type":"text","text":"C - condensação e liquefação","x":-139,"y":0,"width":224,"height":80},
+		{"id":"a629406f5b009650","type":"text","text":"D - Solidificação","x":-483,"y":20,"width":208,"height":60},
+		{"id":"7ea4852063443acd","type":"text","text":"","x":-640,"y":-400,"width":55,"height":50},
+		{"id":"63a018bf356a7dac","type":"text","text":"Absorve energia - endotérmica - pra direita","x":-423,"y":-400,"width":437,"height":50},
+		{"id":"6f805aa301229434","type":"text","text":"","x":190,"y":-400,"width":50,"height":50},
+		{"id":"37df831ac27d4357","type":"text","text":"","x":139,"y":260,"width":50,"height":50},
+		{"id":"954682fc09c91149","type":"text","text":"","x":-635,"y":260,"width":50,"height":50},
+		{"id":"ee8b6f82a60a39e1","type":"text","text":"Libera energia - exotérmica - pra esquerda","x":-425,"y":260,"width":437,"height":50},
+		{"id":"93b7e8333c842137","type":"text","text":"B - Vaporização","x":-130,"y":-175,"width":215,"height":50}
+	],
+	"edges":[
+		{"id":"e48d8382f07b2055","fromNode":"fd570b6871d3de83","fromSide":"top","toNode":"e17adc48adc275ac","toSide":"left","color":"6"},
+		{"id":"27381b21aee4b651","fromNode":"e17adc48adc275ac","fromSide":"right","toNode":"08c463516754f2eb","toSide":"top","color":"1"},
+		{"id":"b1bdf0c33544eafb","fromNode":"08c463516754f2eb","fromSide":"top","toNode":"93b7e8333c842137","toSide":"left","color":"4"},
+		{"id":"b8ec4a27ebb3f5ad","fromNode":"93b7e8333c842137","fromSide":"right","toNode":"cd20bf0d9119115f","toSide":"top","color":"6"},
+		{"id":"769b94784e549adc","fromNode":"cd20bf0d9119115f","fromSide":"bottom","toNode":"99b2572a53f7161e","toSide":"right","color":"2"},
+		{"id":"3fa642a146b4eed1","fromNode":"99b2572a53f7161e","fromSide":"left","toNode":"08c463516754f2eb","toSide":"bottom","color":"#0033ff"},
+		{"id":"0be921e2e5660103","fromNode":"08c463516754f2eb","fromSide":"bottom","toNode":"a629406f5b009650","toSide":"right","color":"6"},
+		{"id":"2274ac8be0be0ed1","fromNode":"a629406f5b009650","fromSide":"left","toNode":"fd570b6871d3de83","toSide":"bottom","color":"2"},
+		{"id":"0a4260cc895149c3","fromNode":"cd20bf0d9119115f","fromSide":"bottom","toNode":"bba95fa0c7df4f8f","toSide":"right","color":"3"},
+		{"id":"a0f3057f63b50475","fromNode":"bba95fa0c7df4f8f","fromSide":"left","toNode":"fd570b6871d3de83","toSide":"bottom","color":"3"},
+		{"id":"8382732bc79d38db","fromNode":"cd20bf0d9119115f","fromSide":"top","toNode":"9d1ff70679f41c54","toSide":"right","color":"5"},
+		{"id":"e8f973249c05c408","fromNode":"fd570b6871d3de83","fromSide":"top","toNode":"9d1ff70679f41c54","toSide":"left","color":"5"},
+		{"id":"eba3d984f537ed91","fromNode":"7ea4852063443acd","fromSide":"right","toNode":"63a018bf356a7dac","toSide":"left","color":"6"},
+		{"id":"03acbec15f85e09b","fromNode":"63a018bf356a7dac","fromSide":"right","toNode":"6f805aa301229434","toSide":"left","color":"6"},
+		{"id":"fc31fbcfeab4ece6","fromNode":"37df831ac27d4357","fromSide":"left","toNode":"ee8b6f82a60a39e1","toSide":"right","color":"5"},
+		{"id":"54678f9cc68bad56","fromNode":"ee8b6f82a60a39e1","fromSide":"left","toNode":"954682fc09c91149","toSide":"right","color":"5"}
+	]
+}

@@ -1,0 +1,1 @@
+Basicamente calcula, a direção de uma vetor(x, y, z) em relação à outro vetor(x, y,z), se o segundo apontar igual ao primeiro, ele vai dar 1, se ele dar noventa graus em relação ao primeiro, ele vai dar 0, se ele for oposto vai ser menos 1, também é possível ter valores entre eles, a partir do ângulo. 

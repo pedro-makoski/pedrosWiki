@@ -1,0 +1,3 @@
+- Aula 001: [[Evolução de computadores e das Redes de computadores]] [[Historia da computação]]
+- Aula 002: [[Sistemas de numeração]]
+- Aula 003: [[Eletrônica digital]]

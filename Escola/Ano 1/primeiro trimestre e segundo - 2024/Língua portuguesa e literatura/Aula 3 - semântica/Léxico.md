@@ -1,0 +1,1 @@
+Conjunto de vocabulários em português, com aproximadamente 660 mil palavras aproximadas.

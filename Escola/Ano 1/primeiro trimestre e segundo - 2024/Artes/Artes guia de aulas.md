@@ -1,0 +1,7 @@
+* Aula 1: [[Escola/Ano 1/primeiro trimestre e segundo - 2024/Artes/Aula 1 - Introdução ao que vamos aprender/Introdução ao que vamos aprender|Introdução ao que vamos aprender]]
+* Aula 2: [[Escola/Ano 1/primeiro trimestre e segundo - 2024/Artes/Aula 2 - arte rupestre/Arte rupestre - Pinturas rupestre]]
+* Aula 3: [[Arqueologia e cerâmica primitiva]]
+* Aula 4: [[IPHAN - bem cultural]]
+* Aula 5: [[Patrimônio histórico da humanidade]]
+* Aula 7: [[Museus]]
+* Aula 8: [[Ciência das cores]]

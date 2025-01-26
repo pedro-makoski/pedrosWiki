@@ -1,0 +1,4 @@
+A linguagem de maquina é composta por 0 e 1, cada um desses números isoladamente é chamado de bi(Binary digit  ou dígito binário), que representam impulsos elétricos. O 0 seria corrente elétrica desligada, não passa, e 1 que passa a corrente elétrica. 
+
+Os bits são organizados em grupos formando os bytes, que representam significados, como letras por exemplo. Onde 1 byte equivale a um grupo de 8 bits. Quanto maior a arquitetura de bits de um computador, maior seu será o seus recursos, se um computador tem uma arquitetura de 32 bits, ele tem a capacidade de processar 2^32 endereços da memória RAM.
+![[Pasted image 20240710160736.png]]
