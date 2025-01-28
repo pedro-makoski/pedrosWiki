@@ -32,6 +32,8 @@ e você também pode colocar um id e uma classe juntos.
 
 interessante, o id sempre sobrepoem a classe.
 
+## Dica de nomenclatura
+Quando um elemento está dentro do outro, é padrão colocar como nome separado por dois underlines, assim : nomedopai__nomedofilho, e se tiver mais um você pode fazer o mesmo nomedovo__nomedopai__nomedofilho. 
 # Div
 
 as divs são espaços que se cria no HTML, e que normalmente por padrão vão do inicio até o fim da tela, em largura.
