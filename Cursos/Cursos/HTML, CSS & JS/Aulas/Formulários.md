@@ -332,3 +332,12 @@ Um resultado a partir de inputs, por exemplo. Usado para mostrar resultado de al
 </form>
 ```
 Esse código de cima calcula a soma entre os dois inputs e mostra no output, quando é feito a alteração no input.
+# Propriedades no estilo:
+## Text-overflow 
+O text overflow trata o que acontece quando o texto excede o tamanho do espaço. Mas o que seria o text-overflow: elipsis
+
+Em CSS, `text-overflow: ellipsis;` é uma propriedade que controla como o conteúdo oculto é sinalizado aos usuários quando o texto transborda de seu contêiner. Especificamente, ele faz com que o texto excedente seja truncado e substituído por reticências (...).
+
+Para que funcione o text overflow é necessário do overflow:hidden. 
+## White-space: nowrap
+Deixa continuo numa linha e não não quebra. `white-space: nowrap;` 
