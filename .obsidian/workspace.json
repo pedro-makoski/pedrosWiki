@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens dinâmicas e áudio e vídeos.md",
+                "file": "Teste.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Imagens dinâmicas e áudio e vídeos"
+              "title": "Teste"
             }
           }
         ]
@@ -162,9 +162,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "93316408c13b24c2",
+  "active": "ae81bf04c121ccbf",
   "lastOpenFiles": [
+    "Pasted image 20250129142725.png",
+    "README.md",
     "Captura de tela 2025-01-29 141846.png",
+    "Untitled",
+    "Teste.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens dinâmicas e áudio e vídeos.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Cores/Cores.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Coisas importantes/Coisas importantes.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Modelo de caixas ou box-model/Modelo de caixas ou box-model.md",
@@ -174,7 +179,6 @@
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Formatação de textos.md",
     "Cursos/Cursos/HTML, CSS & JS/HTML & CSS.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/iframes.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens dinâmicas e áudio e vídeos.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens e Favicons.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Listas.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Como funciona HTML e CSS/Como funciona HTML e CSS.md",
@@ -200,12 +204,9 @@
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v_final_better.pdf",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v7.png",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v5.png",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v6.png",
     "Escola/Ano 2/Primeiro trimestre/Artes/Aula 001 - Movimentos artistícos/Movimentos artistícos.md",
     "Escola/Escola - IFPR.md",
     "Escola/Informações professores.md",
-    "Escola/Principles/Matemática/Matemática guia.md",
-    "Escola/Principles/Matemática/Propriedades de potenciação e radiciação/Propriedades de potenciação e radiação.md",
-    "Escola/Principles/Inglês/Vocabulário/Vocabulário.md"
+    "Escola/Principles/Matemática/Matemática guia.md"
   ]
 }
