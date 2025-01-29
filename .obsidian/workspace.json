@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste.md",
+                "file": "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens dinâmicas e áudio e vídeos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teste"
+              "title": "Imagens dinâmicas e áudio e vídeos"
             }
           }
         ]
@@ -43,7 +43,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -154,17 +154,58 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ae81bf04c121ccbf",
+  "active": "93316408c13b24c2",
   "lastOpenFiles": [
-    "Cursos/Cursos/Back end/Go lang/API.md",
-    "Teste.md"
+    "Captura de tela 2025-01-29 141846.png",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Cores/Cores.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Coisas importantes/Coisas importantes.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Modelo de caixas ou box-model/Modelo de caixas ou box-model.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Projeto Android/Projeto Android.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Quebras de linha, caracteres especiais e emoji/Quebras de linha, caracteres especiais e emoji.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Tipografia/Tipografia.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Formatação de textos.md",
+    "Cursos/Cursos/HTML, CSS & JS/HTML & CSS.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/iframes.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens dinâmicas e áudio e vídeos.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens e Favicons.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Listas.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Como funciona HTML e CSS/Como funciona HTML e CSS.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Git e GitHub/Git e Github - versionamento de Software - basico.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Estilos CSS.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens de fundo - CSS.md",
+    "Cursos/Cursos/HTML, CSS & JS/Aulas/Primeiros passos HTML.md",
+    "Cursos/Cursos/HTML, CSS & JS/Pasted image 20241223111802.png",
+    "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/Criatividade em Movimento.pdf",
+    "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/HDMI, USB.pdf",
+    "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/InteligÊnciA      ARTIFICIAL.pptx.pdf",
+    "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/Internet e modem.mp4",
+    "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/meIOS MAGNETICOS.pdf",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Matemática/Matemática Guia.md",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Matemática/Aula 001 - Conjuntos/Pasted image 20240723161113.png",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Matemática/Aula 001 - Conjuntos/Pasted image 20240704135849.png",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Matemática/Aula 001 - Conjuntos/Conjuntos.md",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/slide-sobre.pdf",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/Pasted image 20240322145606.png",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/Grandezas físicas v4.png",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Untitleda.png",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Pasted image 20240228175413.png",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v_final_better.pdf",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v7.png",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v5.png",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v6.png",
+    "Escola/Ano 2/Primeiro trimestre/Artes/Aula 001 - Movimentos artistícos/Movimentos artistícos.md",
+    "Escola/Escola - IFPR.md",
+    "Escola/Informações professores.md",
+    "Escola/Principles/Matemática/Matemática guia.md",
+    "Escola/Principles/Matemática/Propriedades de potenciação e radiciação/Propriedades de potenciação e radiação.md",
+    "Escola/Principles/Inglês/Vocabulário/Vocabulário.md"
   ]
 }
