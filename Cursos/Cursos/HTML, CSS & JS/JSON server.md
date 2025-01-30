@@ -20,7 +20,7 @@ O problema é que as versões mais recentes do JSON server não tem a opção li
 ```bash
 npm uninstall -g json-server
 ```
-Desinstalar e depois instalar uma versão mais recente:
+Desinstalar e depois instalar uma versão mais velha que tenha possibilidade:
 ```bash
 npm i -g json-server@0.17.4
 ```
