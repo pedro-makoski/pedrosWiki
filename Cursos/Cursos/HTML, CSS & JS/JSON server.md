@@ -24,4 +24,13 @@ Desinstalar e depois instalar uma versão mais velha que tenha possibilidade:
 ```bash
 npm i -g json-server@0.17.4
 ```
-
+# Concurently
+Talvez você esteja trabalhando além do JSON server, com react por exemplo. E você pode facilitar a vida das pessoas que vão rodar seu projeto adicionando no ``package.json``, algumas propriedades usando concurently, as vezes é necessário iniciar com npm init, para aparecer o `package.json`, feito isso, baixe o concurently: 
+```bash
+npm install --save-dev concurrently
+```
+E depois no package.json, no valor da key scripts, escolha opção que você deseja que rode se é no npm start, no key start ou npm build na key build, e assim vai, no valor dessa key coloque o seguinte
+```bash
+"concurrently \"comando1\" \"comando2\ \"comando 3\"""
+```
+E assim vai, com isso você faz com que os pacotes rodem sincronizadamente. 
