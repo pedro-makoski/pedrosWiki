@@ -1642,3 +1642,25 @@ Importante:
 - `fallthrough` só pode ser usado no final de um caso de `switch`.
 - Ele não verifica a condição do próximo `case`, apenas força a execução do próximo bloco de código.
 - Você pode usar `fallthrough` apenas dentro de um `switch`.
+# Regexp 
+## Must compile
+Cria um estrutura, que deve ser seguida aos elementos da string. O regexp, é uma forma de definir um padrão. Por exemplo:
+```go
+re := regexp.MustCompile(`(\w+)/(\d{4}) (\d{2}) (\d{2}):(\d{2})`)
+```
+Aquela string, indica o seguinte, (\w+) é uma sequência de caracteres alfa numéricos que pode ser infinita ou não. Depois \d indica que é o digito e {4} ou {2} significa que tem ser quatro dígitos no primeiro caso, e dois dígitos no segundo exemplo. Perceba que outros elementos que estão fora dos parênteses são partes fixas que devem estar presente exatamente igual no padrão. Os elementos dentro dos parênteses, é para que agente possa capturar várias substrings, na função que veremos a seguir. 
+## Find substring match 
+```go
+match := re.FindStringSubmatch(input)
+```
+A partir do regexp criado, colocamos uma string, como parâmetro, para retornar todas as substrings, ou seja ele vai retornar:
+- (\w+) - uma sequência de dígitos alfa numéricos. 
+- (\d{4}) - uma a sequência de 4 dígitos numéricos.
+- (\d{2}) - uma a sequência de 2 dígitos numéricos.
+- (\d{2}) - uma a sequência de 2 dígitos numéricos.
+- (\d{2}) - uma a sequência de 2 dígitos numéricos.
+## re.Match
+```go
+if re.Match(input)
+```
+Verifica se segue o padrão definido no pattern regexp. 
