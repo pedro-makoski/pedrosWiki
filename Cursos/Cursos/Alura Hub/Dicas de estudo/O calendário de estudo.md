@@ -2,8 +2,8 @@ Primeiro foque em estudar um pouco por dia, não o contrário. Fazer pausas nos 
 # Meu calendário de estudos
 - Semana 1: 
 	- 04 - formação 1 - Go lang. 
-	- 05 - formação 2 - Angular.
 	- 05 - formação 1 - Go lang.
+	- 06 - formação 2 - Angular.
 	- 07 - formação 2 - Angular. 
 	- 08 - formação 1 - Go lang. 
 - Semana 2: 
