@@ -43,3 +43,5 @@ switch comando {
 }
 ```
 Assim o mesmo comando que executa quando o valor é 1, também executará quando o valor é 10. O padrão se repete em 2 e 20. E no 0, 30, 40 testa para ver se é 0, 30 ou 40. E assim executa o comando. 
+
+Perca também, que temos o default, que como em quase todas outras linguagens de programação, é quando nenhuma condição definida anteriormente é atendida. 
