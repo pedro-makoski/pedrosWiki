@@ -23,6 +23,8 @@ Dentro da função principal, coloque o seguinte código:
 fmt.Println("Olá, mundo")
 ```
 Perceba a estrutura, primeiro coloca-se o pacote fmt, depois chame a função       **P**rintln passando como argumento dentro dos parênteses, a mensagem que você deseja passar. Perceba que o p é maiúsculo, isso serve em Go, como convenção, para indicar que a função vem de um pacote externo, como Println vem de um pacote externo colocamos a primeira letra maiúscula. 
+
+O Println imprime, e pula uma linha. Também temos o print, que apenas imprime, mas continua na mesma linha. 
 # Executando
 Você pode compilar, gerando .exe, dessa forma:
 ```sh
