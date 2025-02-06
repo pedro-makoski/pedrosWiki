@@ -3,9 +3,9 @@ Primeiro foque em estudar um pouco por dia, não o contrário. Fazer pausas nos 
 - Semana 1: 
 	- 04 - formação 1 - Go lang. 
 	- 05 - formação 1 - Go lang.
-	- 06 - formação 2 - Angular.
-	- 07 - formação 3- Git e GitHub. 
-	- 08 - formação 1 - Go lang. 
+	- 06 - formação 2 - Go lang.
+	- 07 - formação 2 - Angular. 
+	- 08 - formação 1 - Git e GitHub. 
 - Semana 2: 
 	- 10 - formação 1 - Go lang. 
 	- 11 - formação 2 - Angular. 
