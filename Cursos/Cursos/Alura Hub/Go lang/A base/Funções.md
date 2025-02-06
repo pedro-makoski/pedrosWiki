@@ -35,6 +35,23 @@ Ou no segundo caso:
 comando, comandoText := getComando()
 //O primeiro vai ser int e o segundo vai ser uma string.
 ```
+A função que retorna dois ou mais valores deve seguir a seguinte estrutura, perceptível no exemplo:
+```go
+func devolveNomeEIdade() (string, int) {
+    nome := "Pedro Makoski"
+    idade := 15    
+    return nome, idade
+}
+```
+Neste exemplo, veja que o string e int estão entre parênteses. E eles são retornados separados por vírgula. Na hora de chamar a função você pode usar o operador de identificação em branco `_`, e ele pode ser usado assim:
+```go
+_, idade := devolveNomeEIdade()
+```
+Para quando for utilizar apenas a idade. Ou:
+```go
+nome, _ := devolveNomeEIdade()
+```
+Para quando for utilizar apenas o nome. 
 # Encerrar o programa corretamente
 Você pode encerrar um programa usando o pacote os:
 ```go
