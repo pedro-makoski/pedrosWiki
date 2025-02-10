@@ -46,3 +46,6 @@ Ferramenta que roda JavaScript fora do navegador. Com comunidade ativa, ganha fe
 O primeiro é uma das mais populares bibliotecas, e permite a criação de sites, de forma componentizada. O segundo baseado no React, também é capas de desenvolver além de sites, aplicativos, tanto para Android quanto IOS.
 ## JQuery
 Biblioteca para JavaScript web, DOM, que busca facilitar a vida do programador JS, permitindo uma maior facilidade na interpretação do código. 
+# Veja mais:
+- [[Propriedades JS]]
+- [[estudos/Cursos/Cursos/Alura Hub/JS/DOM]]
