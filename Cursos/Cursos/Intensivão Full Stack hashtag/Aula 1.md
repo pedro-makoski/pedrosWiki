@@ -83,6 +83,24 @@ Nomes compostos são separador por -.
 Cima depois os dois lados, e depois em baixo.
 ## flex propriedade
 Ao inserir 1, o elemento vai ocupar o maior tamanho possível. 
+## Deixar quantidade de linhas especificas 
+```css
+.single-item__2lines {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  box-orient: vertical;
+  overflow: hidden;
+}
+```
+o line clamp que define a quantidade de linhas, você pode mudar a quantidade de linhas assim, por exemplo:
+```css
+.single-item:hover .single-item__2lines {
+  -webkit-line-clamp: 10;
+  line-clamp: 10;
+}
+```
 # json
 Javascript object notation.
 # Função estruturas diferentes
