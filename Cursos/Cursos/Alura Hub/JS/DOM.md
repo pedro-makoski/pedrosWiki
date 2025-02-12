@@ -9,7 +9,7 @@ Dentro dele você passa como parâmetro o seletor de um elemento da página HTML
 Quando elemento do Query selector não existe, é retornado null. E quando existe ele retorna o elemento, permitindo controla-lo. 
 ## document.querySelectorAll()
 Retorna uma lista(do tipo node não do tipo array) com todos os elementos com a seleção do parâmetro. 
-# Funções das TAGs
+# Funções/propriedades das TAGs
 ## Da tag audio
 ```js
 document.querySelector("#id-do-elemento").play() 
@@ -18,5 +18,9 @@ Isso inicia o áudio.
 >[!Atenção]
 >
 >Uma política do navegador é não permitir que o áudio toque quando o JS é carregado. Ou seja, se você tentar colocar o .play() de um áudio no escopo principal do código, isso vai retornar um erro.
-
-
+## Da tag input
+É possível obter o value usando, o .value.
+```js
+document.querySelector("#id-do-elemento").value
+```
+Você pode inclusive trocar um elemento usando do outro lado da igualdade. 

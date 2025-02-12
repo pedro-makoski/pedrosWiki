@@ -10,3 +10,9 @@ Ele retorna uma node list, onde você pode obter cada elemento que possui aquele
 ```js
 lista[0].innerHTML = "aaaa"
 ```
+# Obter o length do código
+Você pode obter a quantidade de elementos de uma lista, usando a propriedade .length. Assim:
+```js
+lista.length
+```
+Com isso é possível ver a quantidade de elementos da lista. 

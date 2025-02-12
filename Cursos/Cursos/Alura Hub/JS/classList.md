@@ -1,0 +1,1 @@
+É um objeto que tem as classes de um elemento. Por exemplo, [0] é a primeira classe e assim vai. Você tem funções também como add para adiconar classes, .remove para remover classes, .update para mudar classes e assim por diante. O tipo da lista não é array é DOMTokenList.

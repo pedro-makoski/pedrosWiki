@@ -54,4 +54,11 @@ Biblioteca para JavaScript web, DOM, que busca facilitar a vida do programador J
 - [[Comentários em JS]]
 - [[Listas em JS]]
 - [[Referências - variáveis e seus tipos]]
-
+- [[Loop JS]]
+- [[Função anônima]]
+- [[Template string]]
+- [[classList]]
+# Dica
+>[!info]
+>
+>No final de todo código deixar uma linha vázia
