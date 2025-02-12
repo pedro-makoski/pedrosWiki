@@ -12,3 +12,5 @@ Dentro da tag head, insira o seguinte:
 <script src="./scripts/main.js" defer></script>
 ```
 Não se esqueça de usar a propriedade ``defer``, para adiar o script para ser executado depois de executar a página. Dentro do ``main.js``, é onde vai ser executado os códigos JS.
+
+Se você não colocar defer vai acontecer erro ao usar TAGs HTML. Outra forma de resolver isso é colocar os scripts lá no final. Antes do fechamento da TAG body. 

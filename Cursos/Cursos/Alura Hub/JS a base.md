@@ -49,3 +49,5 @@ Biblioteca para JavaScript web, DOM, que busca facilitar a vida do programador J
 # Veja mais:
 - [[Propriedades JS]]
 - [[estudos/Cursos/Cursos/Alura Hub/JS/DOM]]
+- [[Funções js]]
+- [[Eventos]]
