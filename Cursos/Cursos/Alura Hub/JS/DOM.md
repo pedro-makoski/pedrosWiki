@@ -7,6 +7,8 @@ Dentro dele você passa como parâmetro o seletor de um elemento da página HTML
 - Elemento HTML, elementos como button, img, div, section, main, body e afins são colocados sem inicialização. 
 - Você também pode selecionar a partir de atributos HTML. Colocando entre colchetes assim: ``elemento[atributo="valor"]``. E então você seleciona tal elemento com tal propriedade e valor. 
 Quando elemento do Query selector não existe, é retornado null. E quando existe ele retorna o elemento, permitindo controla-lo. 
+## document.querySelectorAll()
+Retorna uma lista(do tipo node não do tipo array) com todos os elementos com a seleção do parâmetro. 
 # Funções das TAGs
 ## Da tag audio
 ```js
