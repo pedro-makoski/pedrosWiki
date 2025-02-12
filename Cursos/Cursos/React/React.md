@@ -106,3 +106,23 @@ E depois na imagem:
 <img src={imagem} />
 ```
 E importante, em tags sem tag de fechamento, é necessário colocar um /> no final. 
+# useState
+Essa é uma função do React, que permite controlar uma variável de maneira que possa ser melhor trabalhada dentro de componentes React. Se você usar uma variável comum, ocorrerá problemas de atualização e tals. Já no useState não.
+Você define a da seguinte forma:
+```js
+const [isRight, setIsRight] = useState(true)
+```
+Você pode, usar o isRight para fazer o get da propriedade, ou seja obter o valor do elemento, por exemplo:
+```js
+console.log(isRight)
+```
+o primeiro retorno é um elemento, uma variável que não é uma função. Já o segundo elemento é, que serve para alterar um elemento para outro.
+```js
+setIsRight(false)//Isso altera a variável isRight para outro valor.
+```
+Isso permite que ao mudar essa variável, todos os componentes que chamam os isRight atualizem conjuntamente. 
+Você também usar uma função, para alterar o valor no parâmetro, onde um dos parâmetro da função é o valor atual, para a partir dai trocar. Então você pode:
+```js
+setIsRight(prev => !prev) //Assim é feito uma especie de toggle do elemento. Quando ta true fica false e vice versa. 
+```
+
