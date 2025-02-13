@@ -13,5 +13,7 @@
 - [[Pacote OS]]
 - [[bufio]]
 - [[Strings]]
+- [[Time]]
+
 
 

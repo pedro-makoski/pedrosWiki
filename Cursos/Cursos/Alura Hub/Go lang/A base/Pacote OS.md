@@ -28,3 +28,49 @@ if err != nil {
 }
 fmt.Println(string(file))
 ```
+O readFile já abre e fecha o arquivo por padrão.
+# Ler caminho do arquivo de forma mais inteligente
+Você pode usar o método do OS:
+```go
+os.OpenFile(file, flag, fileMode)
+```
+O primeiro é o arquivo que você quer ler. O segundo é a flag:
+![[Pasted image 20250213180414.png]]
+Que indica o que você quer que ele faça, você pode juntar flags com o operador |. Assim por exemplo:
+```go
+os.O_RDWR|os.O_CREATE
+```
+Que poder tanto um, quanto outro.
+Já no file mode, tem um número em octal que indica as permissões do arquivo, por exemplo:
+- 0666: permite com que o arquivo seja escrito e criado. 
+Por exemplo, esse código cria ou abre um arquivo:
+```go
+func createOrOpen(path string) {
+
+    arquivo, err := os.OpenFile(path, os.O_RDWR|os.O_CREATE, 0666)
+    defer arquivo.Close()
+    if err != nil {
+        fmt.Println("Ocorreu o erro", err)
+        return
+    }
+
+    fmt.Println(arquivo)
+}
+```
+## write file
+```go
+arquivo.WriteString(site + "- online:" + strconv.FormatBool(status))
+```
+Esse código tem um problema, pois se você usa o WriteString ele sobrescreve o arquivo, sobrescrevendo a primeira linha, nos primeiros caracteres. 
+Você pode resolver isso, adicionando nas flags, ``os.O_APPEND`` que faz com que o arquivo faça appends, ao invés de sobrescrever. 
+```go
+arquivo, err := os.OpenFile("log.txt", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
+defer arquivo.Close()
+if err != nil {
+	fmt.Println("Ocorreu o erro", err)
+	return
+}
+
+arquivo.WriteString(site + "- online:" + strconv.FormatBool(status) + "\n")
+```
+	
