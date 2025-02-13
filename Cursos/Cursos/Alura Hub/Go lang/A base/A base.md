@@ -10,4 +10,8 @@
 - [[Time em Go]]
 - [[Variáveis em Go]]
 - [[Estruturas]]
+- [[Pacote OS]]
+- [[bufio]]
+- [[Strings]]
+
 
