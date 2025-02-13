@@ -125,4 +125,4 @@ Você também usar uma função, para alterar o valor no parâmetro, onde um dos
 ```js
 setIsRight(prev => !prev) //Assim é feito uma especie de toggle do elemento. Quando ta true fica false e vice versa. 
 ```
-
+Quando você muda através do set, os componentes são re-renderizados. 

@@ -9,6 +9,10 @@ Dentro dele você passa como parâmetro o seletor de um elemento da página HTML
 Quando elemento do Query selector não existe, é retornado null. E quando existe ele retorna o elemento, permitindo controla-lo. 
 ## document.querySelectorAll()
 Retorna uma lista(do tipo node não do tipo array) com todos os elementos com a seleção do parâmetro. 
+## .localName
+Obtem o nome da tag em minúsculo. 
+## .tagName, .nodeName
+Obteo o nome da tag em maiúsculo. 
 # Funções/propriedades das TAGs
 ## Da tag audio
 ```js

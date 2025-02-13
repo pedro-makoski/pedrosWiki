@@ -4,3 +4,6 @@ Você pode colocar uma função de evento, usando o objeto de retorno de um quer
 elemento.onclick = funcao
 ```
 Então a função vai ser executada quando o elemento for clicado. E algo importante, é que a função não deve conter os parênteses na maioria dos casos, pois se tiver o onclick vai receber o retorno da função e não a função. Então coloque sem os parênteses para passar a função. 
+
+As funções de eventos, recebem uma função, e essa função tem como primeiro parâmetro, o evento. Um objeto, onde tem todos os detalhes do evento. 
+Você pode chamar(conveção) de e/evento/event e entre outros. 

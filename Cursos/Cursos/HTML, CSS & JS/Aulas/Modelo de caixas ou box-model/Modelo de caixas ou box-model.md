@@ -114,17 +114,17 @@ para fazer ser inline no CSS você usar a propriedade em display como inline.
 
 sendo outros exemplos:
 
-- <span>
-- <a>
-- <code>
-- <small>
-- <strong>
-- <em>
-- <sup>- <sub>
-- <label>
-- <button>
+- `` <span>``
+- `` <a>``
+- ``<code>``
+- ``<small>``
+- ``<strong>``
+- ``<em>``
+- ``<sup>- <sub>``
+- ``<label>``
+- ``<button>``
 - <input>
-- <select>
+- ``<select>``
 
 
 ## e o box-level
@@ -137,17 +137,17 @@ para fazer no CSS um elemento box-level, você pode usar na propriedade display 
 
 outros exemplos:
 
-- <div>
-- <h1> - <h6>
-- <p>
-- <main>
-- <header>
-- <nav>
-- <article>
-- <aside>
-- <footer>
-- <form>
-- <video>
+- ``<div>``
+- ``<h1> - <h6>``
+- ``<p>``
+- ``<main>``
+- ``<header>``
+- ``<nav>``
+- ``<article>``
+- ``<aside>``
+- ``<footer>``
+- ``<form>``
+- ``<video>``
 - e etc.
 
 # Grouping tags
@@ -206,3 +206,9 @@ e depois o border-image-repeat, que fala se a parte do meio da imagem pode repet
 e o shorthand seria o border-image onde primeiro vem o url do local da imagem, depois a quantidade de fatias e depois se repete ou não.
 
 e lembrando que tem que existir uma borda definida antes de criar a imagem decorada.
+
+Outro ponto do border-radius, é que se você colocar um valor separado em /. Assim o border-radius, que seria o raio do círculo, pode ter o primeiro horizontal-radius e depois vertical-radius. Por exemplo:
+```css
+border-radius: 8px / 20px
+```
+Cria em todos os lugares da borda, um radius que é 8px na horizontal e 20px na vertical.

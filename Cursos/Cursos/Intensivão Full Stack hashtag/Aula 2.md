@@ -71,7 +71,12 @@ E o route cria uma rota específica(path), e coloca um elemento dento dele(eleme
 ![[Pasted image 20250211213655.png]]
 Você pode colocar query Param, que você pode acessar em uma página:
 ![[Pasted image 20250211213900.png]]
-Com algo, por exemplo, :id. E o quert Param vai ser o id, e vai poder ser acessado no elemento. 
+Com algo, por exemplo, :id. E o query Param vai ser o id, e vai poder ser acessado no elemento. 
+Você pode obter o id, da seguinte forma, no arquivo:
+```js
+const { id } = useParams()
+```
+E precisa importar o useParams. 
 
 E também tem o link, que é ancora do react-router-do, mas ao invés de a é Link e o href é DOM.
 ![[Pasted image 20250211214156.png]]

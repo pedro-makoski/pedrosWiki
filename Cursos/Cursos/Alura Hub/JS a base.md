@@ -58,6 +58,8 @@ Biblioteca para JavaScript web, DOM, que busca facilitar a vida do programador J
 - [[Função anônima]]
 - [[Template string]]
 - [[classList]]
+- [[Teclado comandos]]
+- [[Condições]]
 # Dica
 >[!info]
 >
