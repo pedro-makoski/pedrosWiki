@@ -7,3 +7,19 @@ Então a função vai ser executada quando o elemento for clicado. E algo import
 
 As funções de eventos, recebem uma função, e essa função tem como primeiro parâmetro, o evento. Um objeto, onde tem todos os detalhes do evento. 
 Você pode chamar(conveção) de e/evento/event e entre outros. 
+```js
+element.addEventListener(evento, (e) => {
+	
+})
+```
+# Os eventos
+- click: quando o usuário clica no botão.
+- submit: evento que ocorre quando o envio de formulário acontece. Para não enviar, você pode usar a função e.preventDefault(), para evitar o envio do formulário. 
+- Eventos do teclado:
+	- keydown: quando a tecla foi pressionada.
+	- keyup: quando a tecla foi solta.
+	- keypress: quando a tecla foi pressionada, mas não solta.
+- Eventos do foco:
+	- focus: quando o elemento ganha foco.
+	- blur: quando o elemento perde o foco. 
+- 

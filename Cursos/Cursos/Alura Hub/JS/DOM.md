@@ -1,5 +1,5 @@
 # document
-Se trata de todo o documento HTML do código. A partir dele você consegue várias propriedades e funções pertencentes a página. 
+Se trata da referências todo o documento HTML do código, e mais alguns outros elementos. A partir dele você consegue várias propriedades e funções pertencentes a página. 
 ## document.querySelector()
 Dentro dele você passa como parâmetro o seletor de um elemento da página HTML. Pode ser por meio de:
 - Classes: iniciados com ponto. `.classe`
@@ -13,6 +13,11 @@ Retorna uma lista(do tipo node não do tipo array) com todos os elementos com a 
 Obtem o nome da tag em minúsculo. 
 ## .tagName, .nodeName
 Obteo o nome da tag em maiúsculo. 
+## document.getElementsByClassName:
+Retorna todos os elementos com aquela classe. 
+## document.getElementById
+Pega o elemento com aquele ID. 
+
 # Funções/propriedades das TAGs
 ## Da tag audio
 ```js
@@ -27,4 +32,6 @@ Isso inicia o áudio.
 ```js
 document.querySelector("#id-do-elemento").value
 ```
-Você pode inclusive trocar um elemento usando do outro lado da igualdade. 
+Você pode inclusive trocar um elemento usando do outro lado da igualdade.
+## De qualquer tag:
+- .setAttribute: muda o atributo HTML pelo JS. 
