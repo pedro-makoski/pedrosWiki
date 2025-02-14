@@ -90,3 +90,42 @@ npm i cors
 É um middleware(ação que é feito ao longo de um projeto, no meio do caminho). O cors permite com que seja possível você usar a API em outras portas. 
 Coloque no início do projeto:
 ![[Pasted image 20250213205116.png]]
+# useRef
+Permite usar referências entre elementos, para poder utiliza-los. 
+![[Pasted image 20250213211245.png]]
+Pois no querySelector não funciona. 
+Para acessar o elemento em si, pegue objeto current:
+```js
+audioPlayer.current
+```
+# Propriedades do audio
+Você pode obter o tempo atual de um áudio, assim: 
+```js
+audioPlayer.current.currentTime
+```
+# Transformar número em um número de duas casas 
+```js
+numero.toString().padStart(2, "0")
+```
+O 2 indica a quantidade caracteres, e 0, o que ele vai colocar no espaço faltante.
+# Função setInterval
+Executar certa função a cada quantidade de tempo(em milesimos).
+O setInterval retorna um ID, a qual você pode usar no clearInterval com o id, para parar.
+```js
+const idInterval = setInterval(() => {
+	
+}, TIME)
+```
+E depois limpar:
+```js
+clearInterval(idInterval)
+```
+# Hook useEffect
+Cria uma função que é rodada ao ser executado o react. A função do useEffect como primeiro parâmetro retorna a função que deve ser feita, quando o elemento for destruído.
+E no segundo parâmetro, tem uma lista que é uma lista que contém as variáveis que quando ela mudar ela vai executar novamente. 
+# Alterar variável CSS por JS
+![[Pasted image 20250213213920.png]]
+O primeiro parâmetro é a variável e o segundo é o novo valor. 
+# Split string
+Gera uma lista a partir de um delimitador:
+![[Pasted image 20250213214120.png]]
