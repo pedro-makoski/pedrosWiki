@@ -34,4 +34,8 @@ document.querySelector("#id-do-elemento").value
 ```
 Você pode inclusive trocar um elemento usando do outro lado da igualdade.
 ## De qualquer tag:
-- .setAttribute: muda o atributo HTML pelo JS. 
+- .setAttribute: muda o atributo HTML pelo JS. O primeiro parâmetro é o nome do atributo e o segundo é novo valor. 
+- .getAttribute: recebe o atributo, e retorna o valor dele.
+- .hasAttribute: recebe um atributo, e retorna true se tem o atributo e retorna false se não tem o atributo. 
+- .removeAttribute: recebe um atributo como parâmetro e remove ele da tag.
+- .innerHTML, pode ser tanto para obter quanto para mudar, colocando do outro lado da igualdade. Permite controlar o texto dentro da TAG HTML.
