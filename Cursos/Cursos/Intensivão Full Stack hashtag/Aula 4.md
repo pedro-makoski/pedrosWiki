@@ -129,3 +129,34 @@ O primeiro parâmetro é a variável e o segundo é o novo valor.
 # Split string
 Gera uma lista a partir de um delimitador:
 ![[Pasted image 20250213214120.png]]
+# GitHub
+```sh
+git init
+```
+Isso cria um ambiente git. 
+```sh
+git add
+```
+Adicionada os arquivos no ambiente.
+```sh
+git commit -m "Nome do commit"
+```
+Comita todas as modificações. 
+# Deploy 
+Em caso em uma pasta com duas pastas, uma para o back-end outra pro front-end. É necessário algumas configurações:
+Você vai criar um package.json, na pasta onde está as duas pastas. Nela deve conter um scripts build e o scripts start:
+```json
+"scripts": {
+    "build":"npm install --prefix spotify-server && npm install --prefix spotify && npm run build --prefix spotify",
+    "start": "npm run start --prefix spotify-server"
+}
+```
+O operador && serve para após um comando no terminal finalizar, executar o próximo. O --prefix, informa que ele vai executar o comando antes definido dentro de uma pasta especifica. Perceba que só é definido o run do servidor, isso pois estamos fazendo um redirecionamento no server:
+```js
+const __dirname = path.resolve();
+app.use(express.static(path.join(__dirname, "../spotify/dist")))
+app.get("*", (req, res) => {
+    res.sendFile(path.join(__dirname, "../spotify/dist/index.html"))
+})
+```
+Antes do app.Listen, ele serve para redirecionar quando você não está em nenhuma das rotas definida anteriormente. E ele está justamente enviado o dist, que foi criado no ``npm run build --prefix spotify`` que roda o ``vite build``. E o`` __dirname``, pega a pasta atual, para com base nela definir o caminho. Que neste caso é onde está o package.json do server. 
