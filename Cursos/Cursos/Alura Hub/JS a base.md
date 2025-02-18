@@ -61,6 +61,7 @@ Biblioteca para JavaScript web, DOM, que busca facilitar a vida do programador J
 - [[Teclado comandos]]
 - [[Condições]]
 - [[Classe Audio]]
+- [[Objeto DATE]]
 # Dica
 >[!info]
 >
