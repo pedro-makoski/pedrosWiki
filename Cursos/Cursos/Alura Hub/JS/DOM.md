@@ -39,3 +39,8 @@ Você pode inclusive trocar um elemento usando do outro lado da igualdade.
 - .hasAttribute: recebe um atributo, e retorna true se tem o atributo e retorna false se não tem o atributo. 
 - .removeAttribute: recebe um atributo como parâmetro e remove ele da tag.
 - .innerHTML, pode ser tanto para obter quanto para mudar, colocando do outro lado da igualdade. Permite controlar o texto dentro da TAG HTML.
+- .parentNode; retorna o elemento pai do elemento.
+- .childNodes: retorna uma lista com todos os elementos filhos.
+- .nextElementSibling: retorna o próximo elemento irmão do elemento. 
+- .previousElementSibling: Permite acessar o irmão anterior do elemento.
+- 

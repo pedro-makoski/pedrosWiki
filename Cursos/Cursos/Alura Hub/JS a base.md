@@ -60,6 +60,7 @@ Biblioteca para JavaScript web, DOM, que busca facilitar a vida do programador J
 - [[classList]]
 - [[Teclado comandos]]
 - [[Condições]]
+- [[Classe Audio]]
 # Dica
 >[!info]
 >

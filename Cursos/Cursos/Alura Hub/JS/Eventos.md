@@ -22,4 +22,4 @@ element.addEventListener(evento, (e) => {
 - Eventos do foco:
 	- focus: quando o elemento ganha foco.
 	- blur: quando o elemento perde o foco. 
-- 
+- change: quando o input altera de valor. 
