@@ -65,6 +65,12 @@ Biblioteca para JavaScript web, DOM, que busca facilitar a vida do programador J
 # Node JS
 - [[Por que usar]]
 - [[Es lint]]
+- [[Formatação e padronização do código com prettier]]
+- [[Comandos node]]
+- [[Pacotes globais]]
+- [[Entendo a sintaxe do versionamento]]
+- [[Scripts]]
+- [[Axios]]
 # Dica
 >[!info]
 >

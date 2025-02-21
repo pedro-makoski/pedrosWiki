@@ -3,10 +3,25 @@
 npm init @eslint/config@latest
 ```
 Para ter configurado para colocar esse pacote no seu projeto. Coloque:
-```js
+```sh
 npm init
 ```
+Para evitar configurações demoradas, use o comando
+```sh
+npm init -y 
+```
+ou 
+```sh
+npm init -yes
+```
+Afim de que se pule todas as configurações no terminal. 
 Que configurará o ambiente. 
+# Qual é a diferença entre npm init e o npm init ``<inicializador>``
+O npm init configura o espaço de trabalho. Ja o outro, ele é equivalente:
+```sh
+npx <inicializador>
+```
+
 ![[Pasted image 20250220174128.png]]
 Configure da seguinte forma. O @latest que ele pergunta depois dessa imagem significa a ultima versão.
 # O que são devDepedencies e dependencies  no package.json
@@ -42,3 +57,21 @@ npx eslint .
 O ponto significa todos os arquivos js da pasta atual, mas você pode especificar entre pastas e arquivos JS. Após executar se não tiver nenhum erro retorna nada, mas tiver retorna o erro e a linha que ele está. 
 # O que é npx
 Ao invés de node package manager, o npx é node package execute. Que ajuda no processo de execução do código. 
+# Escopo
+Perceba que alguns pacotes começam com @, isso significa que eles se trata de um escopo. Todo escopo deve ter depois uma barra e o nome do pacote, assim:
+```
+@somescope/nomedopacote
+```
+Cada usuário/organização do npm tem seu próprio escopo, e somente você pode adicionar pacotes no seu escopo. Isso significa que você não precisa se preocupar com alguém pegando o nome do seu pacote antes de você.
+Escopos são uma maneira de agrupar pacotes relacionados e também afetam algumas coisas sobre a maneira como o npm trata o pacote.
+# Extensão do eslint
+Permite controlar os erros de forma mais eficiente. Ele assim sempre demonstra os erros JS, toda vez que os comete. 
+# Erros que o ESlint identifica
+- Variáveis não utilizadas.
+- Declaração de variáveis sem o uso de `const`, `let` ou `var`
+- Erros de escopo: - Previne problemas relacionados a escopo de variáveis, identificando quando variáveis estão sendo acessadas fora do escopo em que foram declaradas.
+- Uso de == ao invés 
+```js 
+===
+```
+E esses são alguns exemplos apenas. 
