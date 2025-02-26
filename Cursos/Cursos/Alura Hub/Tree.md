@@ -3,6 +3,8 @@
 - [[estudos/Cursos/Cursos/Alura Hub/Go lang/Go lang|Go lang]]
 - [[Angular]]
 - [[JS a base]]
+- [[Linkedin]]
+- [[Git e Github]]
 
 
 
