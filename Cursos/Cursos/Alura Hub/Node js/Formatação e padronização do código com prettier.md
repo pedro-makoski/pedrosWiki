@@ -3,7 +3,7 @@ Ajuda a seguir boas práticas no código, quando você as esquece.
 ```sh
 npm install --save-dev --save-exact prettier
 ```
-Esse processo de instalação, tem dois comandos interessantes de notar. O primeiro é o save-dev, que salva apenas no estágio de desenvolvimento. E o save-exact, que para quem instalar o projeto instale exatamente a mesma versão.
+Esse processo de instalação, tem dois comandos interessantes de notar. O primeiro é o save-dev, que salva apenas no estágio de desenvolvimento. E o save-exact, que para quem instalar o projeto instale exatamente a mesma versão, sem o que ^ no ínicio da versão.
 # Extensão do VS code 
 Uma forma de facilitar o processo é usar a extensão do VS code. Instale o prettier. E depois siga os passos:
 - ctrl+shift+p

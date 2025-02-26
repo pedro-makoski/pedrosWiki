@@ -24,3 +24,37 @@ git checkout nome_da_outra_branch
 E nela você pode ir criando as versões no pull request, numa branch auxiliar, e aprovar o pull request, para depois fazer o merge do pull request da branch não principal na principal. Se um arquivo é alterado duas vezes num mesmo arquivo, onde um modificou algo e outro também na mesma linha, isso que acontece é chamado de conflito.
 # Palavra chave
 - Git Drama
+- Polvo gato
+# repo.new
+Já cria um lugar para configurar um novo repositório. 
+# Resolvendo conflitos
+```sh
+git status
+```
+Visualiza as diferenças do virtual e do local. 
+```sh
+git pull origin main --rebase
+```
+Ele trás a parte do código virtual e atualiza com seu novo código juntamente. Alterando seu projeto de acordo com as alterações remotas, sem juntar as versão nova com a antiga remotamente.
+# Branch
+```sh
+git branch
+```
+Retorna todas as branchs, e coloca um asterrisco do lado da atual.
+```sh
+git checkout -b branchOther
+```
+Cria ou acessa uma nova branch. O -b faz com que seja criado a branch.
+```sh
+git switch outraBranch
+```
+Altera para outraBranch, nome da outra branch.
+## Merge de branches
+Você deve estar na que vai ficar a nova branch. Onde vai ser a que vai ficar.
+E depois:
+```sh
+git merge branchQueVaiJuntarComAAtual 
+```
+# Abrir vs code no git
+Digite no seu repositório na web. Clicando em . no teclado. Permitindo ver o código.
+Quando você clica no ., ele altera de github.com para github.dev.
