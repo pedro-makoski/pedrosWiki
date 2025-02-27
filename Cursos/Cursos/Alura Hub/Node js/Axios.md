@@ -38,6 +38,41 @@ Quando for adicionar o script com um import, adicione na tag script, a proprieda
 ```html
 <script src="script.js" type="module"></script>
 ```
+## Build e preview para ver o build rodando
+```sh
+npm run build
+```
+Isso roda o build do programa, ou seja constroi os arquivos, e compacta eles o máximo possível aumentando a performace, além disso agora também é possível executar os arquivos sem node.
+Mas você pode ainda usar o node executar o dist, que foi criado no build, assim:
+```sh
+npm run preview
+```
+### Criando script que faz o build e já joga pro preview a casa alteração
+Para fazer isso adicione o seguinte script:
+```json
+"build-preview": "vite build --watch",
+```
+E assim ele atualizará a cada nova mudança. 
+## Variável de ambiente do vite
+É disponibilizado algumas variáveis de ambientes no vite, uma delas é a PROD, que permite saber se nosso código está em produção ou não. Isso ajuda a fazer com que possamos usar links e URLs diferentes em diferentes meios, permitindo que não criemos nenhum erro no servidor de produção.
+Essa variável retorna true, quando o projeto está em build e false para quando está em desenvolvimento. 
+Use o assim:
+```js
+import.meta.env.PROD
+```
+### Melhorando processo
+Você pode melhorar a repetição desse processo de forma muito simples, com o vite. Você pode criar um arquivo chamado `.env.development`, nele vai ser criado variáveis de ambiente que serão usadas apenas no processo de desenvolvimento.
+Nos arquivos env, você segue essa estrutura, como exemplo:
+```env
+VITE_URL_VIDEOS=http://localhost:3000/videos
+```
+O arquivo deve ser criado na raiz do projeto.
+Para esses arquivos do Vite, devemos seguir a sintaxe `VITE_VARIAVEL=valor`. Os nomes das variáveis devem ser iniciados com `VITE_`.
+E da mesma forma crie outro arquivo chamado .env.production
+Depois chame a variável igual chamamos antes:
+```js
+import.meta.env.VITE_URL_VIDEOS
+```
 # Algo a mais sobre desestruturação 
 Quando for usar algo do tipo:
 ```js

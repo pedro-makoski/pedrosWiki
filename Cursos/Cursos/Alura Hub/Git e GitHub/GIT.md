@@ -2,7 +2,7 @@
 Tem como função registrar as alterações e ajudar na colaboração.
 # Comandos
 - ``git log`` - vê as ultimas alterações.
-- ``git log --inline`` faz o git log com cada mensagem em uma linha. 
+- ``git log --oneline`` faz o git log com cada mensagem em uma linha. 
 - ``git init`` - diz que o projeto atual, da pasta atual vai usar o git. Ele cria uma pasta que configura o git na pasta.
 - ``git add .`` adiciona a pasta atual para ele olhar as alterações. Você pode selecionar arquivos específicos. 
 - `git commit -m "Nome do Commit"`: cria uma versão das alterações feitas. O -m significa mensagem. 

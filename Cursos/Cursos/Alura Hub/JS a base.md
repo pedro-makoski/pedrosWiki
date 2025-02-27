@@ -71,6 +71,7 @@ Biblioteca para JavaScript web, DOM, que busca facilitar a vida do programador J
 - [[Entendo a sintaxe do versionamento]]
 - [[Scripts]]
 - [[Axios]]
+- [[Deploy]]
 # Dica
 >[!info]
 >
