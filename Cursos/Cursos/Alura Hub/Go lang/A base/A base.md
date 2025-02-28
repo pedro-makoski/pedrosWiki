@@ -14,6 +14,8 @@
 - [[bufio]]
 - [[Strings]]
 - [[Time]]
+- [[Quick sort]]
+
 
 
 

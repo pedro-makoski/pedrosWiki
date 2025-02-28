@@ -67,3 +67,9 @@ os.Exit(-1)
 ```
 Para informar que o programa saiu sem sucesso. E deu algum erro. 
 O parâmetro passado passado no os.Exit, é chamado de status. Quando o valor é diferente de 0, indica que aconteceu algum erro. 
+# Simplificação no uso dos parâmetros
+Quando existem um ou mais parâmetros do mesmo tipo, numa função, por exemplo, você pode simplificar da seguinte maneira:
+```go
+func funcao(n, m, c int)
+```
+Assim n, m e c são números inteiros. E eu não precisei repetir o tipo da variável duas vezes. 
