@@ -66,4 +66,4 @@ Isso informa que o programa foi encerrado com sucesso. Já caso tenha dado algo 
 os.Exit(-1)
 ```
 Para informar que o programa saiu sem sucesso. E deu algum erro. 
-O parâmetro passado passado no os.Exit, é chamado de status.
+O parâmetro passado passado no os.Exit, é chamado de status. Quando o valor é diferente de 0, indica que aconteceu algum erro. 

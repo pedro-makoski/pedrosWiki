@@ -1,3 +1,4 @@
+
 # Para que serve
 Funções relacionadas com o sistema operacional. Já vimos isso com a função os.Exit. 
 # Ler arquivo
@@ -73,4 +74,14 @@ if err != nil {
 
 arquivo.WriteString(site + "- online:" + strconv.FormatBool(status) + "\n")
 ```
-	
+# os.Args
+Retorna uma lista de argumentos usadas no terminal, para executar o programa. Por exemplo:
+```sh
+arquivo test oi
+```
+Retorna uma slice com:
+- arquivo
+- test
+- oi
+
+

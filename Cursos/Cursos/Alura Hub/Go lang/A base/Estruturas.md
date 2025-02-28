@@ -23,3 +23,8 @@ cap(sliceName)
 ```
 Mas caso enquanto você faça o append, adicionar mais itens que o dobro, ele encaixará com a quantidade. 
 Ou seja, len obtem o tamanho do slice, quantos elementos ele possui, e cap a capacidade, quantos espaços o array por baixo dos panos tem. 
+# Slicing
+```go
+lista[inicio:fim]
+```
+Ele começa a lista no ínicio(contado a partir do 0) e vai até o ultimo elemento antes do fim. 
