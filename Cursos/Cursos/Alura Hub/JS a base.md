@@ -62,6 +62,7 @@ Biblioteca para JavaScript web, DOM, que busca facilitar a vida do programador J
 - [[Condições]]
 - [[Classe Audio]]
 - [[Objeto DATE]]
+- [[Evolução do JavaScript]]
 # Node JS
 - [[Por que usar]]
 - [[Es lint]]

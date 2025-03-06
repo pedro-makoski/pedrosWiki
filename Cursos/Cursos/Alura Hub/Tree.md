@@ -5,6 +5,7 @@
 - [[JS a base]]
 - [[Linkedin]]
 - [[Git e Github]]
+- [[estudos/Cursos/Cursos/TS|TS]]
 
 
 

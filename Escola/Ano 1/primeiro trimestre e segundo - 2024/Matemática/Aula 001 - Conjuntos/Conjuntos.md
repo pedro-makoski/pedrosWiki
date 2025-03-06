@@ -210,6 +210,9 @@ São os números que compõe os números inteiros, e também dizimas periódicas
 Números decimais que possuem representação infinita, e não periódica. São exemplo o pi, √2 e √3.
 
 ![[Pasted image 20240725165442.png|700]]
+## Conjunto dos números reais
+---
+É o conjunto que envolve números racionais(Q) e irracionais(I). 
 # Como encontrar a divisão de uma dizima periódica
 $$
 x = 0,8888...

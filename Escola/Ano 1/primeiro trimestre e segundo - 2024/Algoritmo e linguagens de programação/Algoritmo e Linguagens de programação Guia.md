@@ -15,4 +15,4 @@
 - Aula 015: [[Continue e break]]
 - Aula 016: [[Vetores]]
 - Aula 017: [[Ordenação de vetores]]
-- Aula 018: [[Matrizes]]
+- Aula 018: [[estudos/Escola/Ano 1/Terceiro trimestre/Algoritmos e linguagem de programação/Aula 001 - Matrizes/Matrizes]]

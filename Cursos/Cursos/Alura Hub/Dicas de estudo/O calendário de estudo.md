@@ -27,6 +27,13 @@ Primeiro foque em estudar um pouco por dia, não o contrário. Fazer pausas nos 
 	- 27 - formação 1 - Angular. 
 	- 28 - formação 1 - Go lang. 
 	- 01 - formação 1 - Angular. 
+## Mês de março
+- Semana 5:
+	- 04/03/2025: Angular
+	- 05/03/2025: Go Lang. 
+	- 06/03/2025: Angular.
+	- 07/03/2025: Go lang.
+	- 08/03/2025: Angular.
 A ideia é começar por volta das 16:00, e ficar por uma 1 hora/1h30/2h.
 
 Uma dica também feita por cientistas, é diversificar os temas de estudos. Junto com isso, coloque os temas diversificados na agenda, para assim evitar duvidas. 
