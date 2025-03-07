@@ -37,3 +37,6 @@ ferramentas>placa "nome-da-placa-atual" - permite trocar a placa atual, pela sua
 ## Estrutura do código
 void setup - o primeiro código a ser rodado. Feito sempre no inicio da aplicação. 
 void loop - função que acontece várias vezes em loop. 
+# Versões da internet
+4.0 - IoT - internet das coisas. 
+5.0 - IA.
