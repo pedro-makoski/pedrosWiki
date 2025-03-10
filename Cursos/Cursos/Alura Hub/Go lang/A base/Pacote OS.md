@@ -82,8 +82,5 @@ Retorna uma slice com:
 - arquivo
 - test
 - oi
-# Teste Go
-jfsdjsdklfjkdlsjfklds
-sdjgfjdkgjdfjklgdjgldfk
 
 
