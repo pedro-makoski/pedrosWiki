@@ -1,4 +1,3 @@
-
 # Para que serve
 Funções relacionadas com o sistema operacional. Já vimos isso com a função os.Exit. 
 # Ler arquivo
@@ -83,5 +82,8 @@ Retorna uma slice com:
 - arquivo
 - test
 - oi
+# Teste Go
+jfsdjsdklfjkdlsjfklds
+sdjgfjdkgjdfjklgdjgldfk
 
 
