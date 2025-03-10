@@ -82,8 +82,6 @@ Retorna uma slice com:
 - arquivo
 - test
 - oi
-# b
-AAAA
 
 
 
