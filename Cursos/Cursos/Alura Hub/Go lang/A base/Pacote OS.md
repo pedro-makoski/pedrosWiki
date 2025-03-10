@@ -76,12 +76,12 @@ arquivo.WriteString(site + "- online:" + strconv.FormatBool(status) + "\n")
 # os.Args
 Retorna uma lista de argumentos usadas no terminal, para executar o programa. Por exemplo:
 ```sh
-arquivo test oi let
+arquivo test oi
 ```
 Retorna uma slice com:
 - arquivo
 - test
 - oi
-- let
+
 
 
