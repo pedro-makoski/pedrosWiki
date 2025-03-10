@@ -36,7 +36,7 @@ Você faz assim:
 ```go
 nome := "Pedro Makoski"
 ```
-Isso se chama operador declarador curto de variáveis. 
+Isso se chama operador declarador curto de variáveis. Está última abordagem com := (dois pontos, igual), usamos apenas quando vamos criar e atribuir um valor **dentro do escopo de uma função**.
 # fmt.Scanf
 Tem como função, obter um valor de entrada do usuário. Ele recebe dois parâmetros, o primeiro é o modificador, indicando o tipo de entrada do usuário, e o segundo é o ponteiro indicando a variável que será atribuída:
 ```go
@@ -56,3 +56,29 @@ fmt.Scan(&comando)
 E funcionará corretamente, como antes. 
 
 Quando você coloca um valor que não participa do tipo da variável, ele muda para o valor padrão dela, que neste caso é o valor 0. 
+# Definir mais de uma variável em uma mesma linha
+Quando se trata do mesmo tipo isso é sim possível desse jeito, veja:
+```go
+var idade, dia int = 15, 29
+```
+Quando possuem tipos diferentes, faça assim:
+```go
+var ( 
+idade int 
+altura float32 
+nome string 
+)
+idade = 15 
+altura = 1.78
+nome = "Guilherme"
+```
+E você pode inferir os dados assim:
+```go
+var ( 
+idade = 15 
+altura = 1.78 
+nome = "Guilherme" 
+)
+```
+# O que acontece quando nenhum valor é atribuído
+A linguagem Go sempre inicializa a variável com valor 0. Ou seja 0 para número, false para bool, "" para string. Mas é sempre bom nos mesmos atribuirmos as variáveis, para que nosso código não pare de funcionar, caso a linguagem mude. 
