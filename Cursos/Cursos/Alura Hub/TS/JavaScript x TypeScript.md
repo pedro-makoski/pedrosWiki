@@ -26,4 +26,6 @@ interface Produto {
 - Processo de refatoração mais fácil;
 - Autocomplete da linguagem, muito boa no vscode;
 - Poder adotar gradualmente typescript em uma base de código;
+- Criar regras fixas junto com padrões fixos. A qual o JS fazeria sem dar problema. 
+- Avisar os problemas do código antes de executar. 
 isto é, todo seu código JavaScript é válido em TypeScript (mas não o contrário). A principal diferença vai ser em relação a tipagem de dados, ao uso de classes, aos mecanismos de abstração, que são bem mais fortes.
