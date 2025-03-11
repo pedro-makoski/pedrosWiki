@@ -10,3 +10,5 @@
 - Tem como regra a identação, que é obrigátoria. E são 4 espaços. 
 # O que é IDE
 Ambiente de desenvolvimento integrado. 
+# Importante
+No email a professora sempre mandar pelo campo assunto o nome e a turma.
