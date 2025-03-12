@@ -12,6 +12,7 @@ São nada mais nada menos que tabelas.
 |     |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |
+
 Que possuem as colunas(j) e as linhas(i). Todas as: I x J = ordem das matrizes, A ordem por sua vez indica o tamanho da matriz. Ou seja quantidade de linhas x quantidade de colunas, e é sempre assim nenhuma vez diferente. 
 $$
 \begin{pmatrix}  
