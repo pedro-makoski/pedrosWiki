@@ -31,4 +31,93 @@ Essa é uma matriz 3x1. As matrizes podem ser representadas por colchetes ou par
 
 Numa representação da ordem matriz deve se ter primeiro a quantidade de linhas depois a de colunas, não importa a letra IxJ ou NxM.
 # Tipo de matrizes
+## Matriz linha
+$$
+A = \begin{bmatrix}  
+1 &2 &3
+\end{bmatrix}
+$$
+## Matriz coluna
+$$
+B =\begin{bmatrix}  
+1 \\
+2\\
+3
+\end{bmatrix}
+$$
+## Matriz quadrada
+$$
+A = \begin{bmatrix}
+1 &2 &3\\
+1&1&1\\
+5&4&2
+\end{bmatrix}
+$$
+## Matriz nula
+$$
+A= \begin{pmatrix}
+0&0\\
+0&0
+\end{pmatrix}
+$$
+Possui só zeros. É nula. 
+## Matriz identidade 
+Ela começa sempre com I. Ela é uma matriz quadrada, ou seja para cada linha tem uma coluna. Os valores na diagonal principal são iguais. 
+$$
+I_3=\begin{pmatrix}
+1&0&0\\
+1&1&1\\
+2&3&1
+\end{pmatrix}
+$$
+Temos também esse índice, que indica a quantidade de linhas/colunas.
+### O que é diagonal principal
+Aonde o I e o J são iguais. Ou seja o índice de linhas é o mesmo que o da coluna. 
+## Matriz diagonal superior e inferior
+Quando os valores em cima ou em baixo da diagonal principal são iguais a 0. 
+$$
+A = \begin{pmatrix}
+1&3&4\\
+0&2&x\\
+0&0&-1
+\end{pmatrix}
+$$
+Esse foi um exemplo de matriz diagonal superior. 
+$$
+A = \begin{pmatrix}
+1&0&0\\
+1&2&0\\
+2&3&-1
+\end{pmatrix}
+$$
+Esse foi um exemplo de matriz diagonal inferior. 
 
+# Posição de um valor da matriz
+Se coloca o nome da variável da matriz, junto com o ij, ou seja o número da linha e da coluna. Por exemplo, se um elemento está na linha 1 e na coluna 2, de uma matriz A, então a sua posição é 
+$$
+A_{11}
+$$Então:
+$$
+A_{ij}
+$$
+# Determinação de um exemplo de matriz por enumeração 
+Por exemplo:
+$$
+A= (a_{ij})_{2x2}/a_{ij}=i+j
+$$
+Traduzindo:
+Determine uma matriz A, sendo que as linhas são i, e as colunas são j, tal que cada posição da matriz 2x3, é o valor de i+j. 
+A matriz genérica:
+$$
+A = \begin{pmatrix}
+a_{11}&a_{12}\\
+a_{21}&a_{22}\\
+\end{pmatrix}
+$$
+O resultado:
+$$
+A = \begin{pmatrix}
+2&3\\
+3&4\\
+\end{pmatrix}
+$$
