@@ -48,7 +48,7 @@ O primeiro é uma das mais populares bibliotecas, e permite a criação de sites
 Biblioteca para JavaScript web, DOM, que busca facilitar a vida do programador JS, permitindo uma maior facilidade na interpretação do código. 
 # Veja mais:
 - [[Propriedades JS]]
-- [[estudos/Cursos/Cursos/Alura Hub/JS/DOM]]
+- [[estudos/Cursos/Alura Hub/JS/DOM]]
 - [[Funções js]]
 - [[Eventos]]
 - [[Comentários em JS]]

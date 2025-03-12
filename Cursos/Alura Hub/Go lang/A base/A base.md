@@ -5,7 +5,7 @@
 -  [[Estrutura condicional]]
 - [[Estrutura de arquivos]]
 - [[Funções GO]]
-- [[estudos/Cursos/Cursos/Alura Hub/Go lang/A base/LOOP]]
+- [[LOOP]]
 - [[net http - requisições web]]
 - [[Time em Go]]
 - [[Variáveis em Go]]
