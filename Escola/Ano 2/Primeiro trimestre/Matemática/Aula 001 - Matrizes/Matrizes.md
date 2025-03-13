@@ -122,3 +122,10 @@ A = \begin{pmatrix}
 3&4\\
 \end{pmatrix}
 $$
+# Igualdade das matrizes
+**Definição**: duas ou mais matrizes são iguais se possuem a mesma ordem e seus elementos são exatamente iguais, na mesma posição. 
+# Adição e subtração de matrizes 
+Para isso funcionar, é necessário que tenha a mesma ordem. 
+Para realizar a soma de duas matrizes, pegam-se cada posição tipo a11 e b11 e depois soma cada um, ou subtrai cada um, dependendo da operação. Sempre quando houver um + ou um -, você deve pegar cada elemento e fazer a operação com seu respectivo. 
+## Matriz oposta
+Podem ser representada por -{Letra da matriz}, ou colocando um traço em cima do A/B/C/Ou qualquer letra que representa a matriz. Se trata de multiplicar todos os elementos da matriz por -1. 
