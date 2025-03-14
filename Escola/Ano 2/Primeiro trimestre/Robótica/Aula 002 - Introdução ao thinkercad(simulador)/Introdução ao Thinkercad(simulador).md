@@ -10,7 +10,7 @@ Na opção de código, fora da simulação. Clique onde está escrito blocos e c
 	- `Serial.println(<msg>)`: Imprime no console serial do computador.
 # O que é uma resistência
 Resiste a energia vinda. Para evitar problemas de queimar. A resistência 0, resiste nada, e quanto maior ele vai resistindo mais. 
-# O que são sensores 
+# O que são sensores
 Fazem as leituras do ambiente e passam para o Arduino. 
 ## Sensor de ultrassom
 Presente em morcegos, baleias belugas e afins. Tem como função medir a distância de um objeto, medindo através do tempo de demora de um som, a partir da velocidade do som. Esse sensor possui uma facha específica que ele pode capturar. 
