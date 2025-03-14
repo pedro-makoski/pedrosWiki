@@ -51,7 +51,7 @@ A arte da guerra. Mais para frente acontece outro movimento parecido nos EUA, em
 - Principais artistas: Kirchner, Otto Dix, James Ensor, Schimidt-Rottluff, Kandinsky, Marc, Macke, Paul Klee. 
 ### Cubismo, França, 1907-1914
 - Dividia-se em três momentos: Cubismo inicial, cubismo analítico e cubismo sintético.
-- Características: pontos de vista diversos(tentavam capturar vários pontos de vistas num mesmo plano), figuras fragmentadas, cores neutras. O cubismo sofre influência da cultura africana. É a maior ruptura com a representação clássica em pintura. Foram perseguidos pelo regime nazista.
+- Características: pontos de vista diversos(tentavam capturar vários pontos de vistas num mesmo plano), figuras fragmentadas, cores neutras. O cubismo sofre influência da cultura africana. É a maior ruptura com a representação clássica em pintura. Foram perseguidos pelo regime nazista. Também possui o conceito de ser aleatório e tratar um objeto de diferentes ângulos.
 	- Cubismo analítico: cores neutras, como cinza e bege, fragmentação total das imagens. 
 	- Cubismo sintético: cores fortes, fragmentação parcial, uso de colagens. 
 - Linguagens usadas: Pintura, colagens. 
