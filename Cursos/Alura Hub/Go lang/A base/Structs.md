@@ -44,3 +44,23 @@ contaDaCris.saldo = 501
 fmt.Println(*contaDaCris)
 ```
 Aqui o new cria um novo espaço na memoria e retorna um ponteiro. Ou seja é necessária que o tipo da variável também seja um ponteiro. E quando queremos acessar o valor da variável e não o ponteiro, devemos colocar o `*` antes. E perceba que se imprimirmos sem o ``*``, ele vai começar com o &. Esse & indica que é um local da memória que possui os valores. 
+# Comparando structs 
+O GO é inteligente o bastante, para entender que quando o conteúdo de uma struct é igual a de outra. Ou seja quando todos os campos são iguais entre duas variáveis, então `var1 == var2` retorna `true`. Mas lembrando que o ponteiro é diferente, quando você compara o endereço de algo com o endereço de outro, é retornado false, pois são locais diferentes, mesmo sendo com o mesmo conteúdo. Para comparar melhor, coloque um `*`, para pegar o conteúdo.
+# Métodos de struct
+```go
+func (c *ContaCorrente) Sacar(valorDoSaque float64) string {
+    podeSacar := valorDoSaque > 0 && valorDoSaque <= c.saldo
+    if podeSacar {
+        c.saldo -= valorDoSaque
+        return "Saque realizado com sucesso"
+    }
+
+    return "Saldo insuficiente"
+}
+```
+Permite acessar a função, por meio de uma estrutura como:
+```go
+tipo.funcao()
+```
+Uma boa prática é colocar o nome, com a inicial do tipo. 
+Além disso perceba que tem um ponteiro, esse ponteiro indica que possamos alterar o valor.
