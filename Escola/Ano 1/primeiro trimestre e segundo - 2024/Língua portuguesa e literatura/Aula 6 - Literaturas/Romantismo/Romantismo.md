@@ -1,4 +1,4 @@
-Existiu um gap entre o final do arcadismo e início do romantismo. No romantismo teve uma tentativa de algo novo, um nacionalismo.
+Existiu um gap entre o final do arcadismo e início do romantismo, um gap de decadas. No romantismo teve uma tentativa de algo novo, um nacionalismo. Uma vez que a partir da independência, acontece um processo gradual de nacionalismo. Assim criando-se uma identidade brasileira, que é fluída(altera ao longo do tempo).
 # Contexto
 - 1808 até 1836. 
 - Fim do arcadismo. 
@@ -64,3 +64,6 @@ Exaltação da pátria, (nacionalismo ufanista). Causado pelo recente processo d
 	Nacionalismo ufanista é uma relação de soberba e soberania de uma nação, exaltação nacionalista. 
 No plano individual, nostalgia da infância.
 Valorização do exotismo da natureza brasileira. 
+# Termos
+Regia - do Rei.
+Imprensa regia - imprensa do rei. 
