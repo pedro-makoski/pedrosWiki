@@ -20,3 +20,12 @@ O signo muitas das vezes, não tem o mesmo sentido entre diferentes grupos socia
 A semiótica busca, entender como o ser humano consegue interpretar as coisas, principalmente o ambiente que o envolve, desta forma estuda como indivíduo atribui o significados para diferentes grupos. 
 # Significados 
 Objetos, símbolos e afins podem ter significados diferentes, entre diferentes grupos, faixas etárias e gêneros. 
+# Estrutura do anuncio publicitário 
+- **Título:** frase curta, interativa e impactante afim de chamar a atenção do leitor. E o fazer ter vontade de ler o resto do anuncio. É interessante começar com algo positivo, e definitivamente não triste.
+- **Imagem**: mais importante, é normalmente a imagem que atrai a pessoa a comprar o produto. 
+- **Corpo do texto**: Não muito grande, possui:
+	- Vantagens e desvantagens 
+	- Busca convencer o leitor
+	- Anuncia um produto ou ideia
+	- Tem que seduzir o leitor
+- **Slogan:** frase curta e de impacto que identifique um produto ou marca. Uma frase que fique grudado na cabeça, logo depois de ver o anuncio. 
