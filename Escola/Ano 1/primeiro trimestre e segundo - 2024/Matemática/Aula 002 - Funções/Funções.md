@@ -63,6 +63,11 @@ $$
 y = ax^2+bx+c =a(x-x_1)(x-x_2)
 $$
 Isso ajuda a deixar mais fácil e simples a função quadrática. 
+## Quando o c é 0 
+Você pode colocar em evidência, e fazer cada termo da multiplicação como 0. Assim, por exemplo:
+$$
+ax^2+bx = x(ax+b) \rightarrow x^{I} = o~\&\&~x^{II} = \frac{-b}{a}
+$$
 ## Vértice
 O ponto máximo ou ponto mínimo do gráfico da equação quadrática. Se a < 0 ponto máximo, já se a > 0 vai ser ponto mínimo. 
 
