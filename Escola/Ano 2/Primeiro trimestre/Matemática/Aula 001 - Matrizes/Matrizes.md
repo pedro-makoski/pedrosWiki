@@ -129,3 +129,18 @@ Para isso funcionar, é necessário que tenha a mesma ordem.
 Para realizar a soma de duas matrizes, pegam-se cada posição tipo a11 e b11 e depois soma cada um, ou subtrai cada um, dependendo da operação. Sempre quando houver um + ou um -, você deve pegar cada elemento e fazer a operação com seu respectivo. 
 ## Matriz oposta
 Podem ser representada por -{Letra da matriz}, ou colocando um traço em cima do A/B/C/Ou qualquer letra que representa a matriz. Se trata de multiplicar todos os elementos da matriz por -1. 
+# Multiplicação de um número escalar(Número real) com uma matriz
+**Definição**: a multiplicação de um número escalar(real) por uma matriz, é igual a todos os valores da matriz multiplicados por aquele valor. Por exemplo 
+$$
+A = \begin{pmatrix}
+a_{11}&a_{12}\\
+a_{21}&a_{22}\\
+\end{pmatrix}*x
+$$
+$$
+A = \begin{pmatrix}
+a_{11}*x&a_{12}*x\\
+a_{21}*x&a_{22}*x\\
+\end{pmatrix}
+$$
+
