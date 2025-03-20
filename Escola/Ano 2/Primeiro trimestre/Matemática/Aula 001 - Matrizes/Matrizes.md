@@ -143,4 +143,11 @@ a_{11}*x&a_{12}*x\\
 a_{21}*x&a_{22}*x\\
 \end{pmatrix}
 $$
-
+# Multiplicação das matrizes
+## Passo a passo
+1. Verifique se as duas matrizes é do tipo nxm. Se não for não funcionará
+2. Verifique se a matriz do primeiro termo tem o mesmo número de colunas que o número de linhas do segundo termo
+3. Crie uma matriz com ordem de número de linhas do primeiro termo x número de colunas do segundo termo. 
+4. A cada posição da matriz faça o seguinte cálculo, pegando o número da linha e da coluna. O número da linha você pega a linha do primeiro termo, e pegando o número da coluna, você pega a coluna do segundo termo. Então você com esses valores você multiplica os correspondentes(ex.:posição 1 linha, posição 1 da coluna), e soma tudo, obtendo assim o valor da matriz resultante.
+## Importante
+Diferente da propriedade comutátiva, vista em números normais, isso não existe para matrizes, a posição dos termos da multiplicação das matrizes importa. 
