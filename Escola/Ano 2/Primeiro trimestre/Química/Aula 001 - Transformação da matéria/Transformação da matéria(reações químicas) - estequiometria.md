@@ -48,6 +48,9 @@ Para fazer esse balanceamento é necessário muitas vezes ir na tentativa e erro
 Em um balanceamento é necessário sempre mudar o coeficiente. E não os outros valores, afim de que se mantenha a estabilidade já feita na versão sem balanceamento. 
 
 Uma equação química só pode ser correta quando todos os elementos estão balanceados. 
-
-
-
+# Quantidade de matéria
+Estuda-se balanceamento para saber as proporções certas. E agente pode ler, entendo que precisa de tanto de tal molécula e tanto da outra... para formar tanto para outra. 
+Mas no mundo real não é contado por molécula e sim por peso. E usamos isso através do mol, que corresponde a uma unidade de medida equivalente a `6,02 * 10^{23}` unidades de moléculas. Essa unidade relaciona a quantidade de átomos e moléculas a suas massas, medidas em gramas, a partir da massa molecular. 
+Quem descobriu isso foi o Avogrado:
+![[Pasted image 20250320155212.png]]
+Descobriu que quando você tem um mol de certa substância, você tem o valor da unidade de massa atômica, só que em gramas. Por exemplo, Hidrogênio tem UMA(unidade de massa atômica) de 1, 1 mol então equivale a 1 grama, ou seja 602 septilhões de hidrogênio possuem um grama.
