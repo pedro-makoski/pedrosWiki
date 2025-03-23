@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "00abfdaf1f8477ac",
+        "id": "15da70bb224bb2e7",
         "type": "tabs",
         "children": [
           {
-            "id": "ae81bf04c121ccbf",
+            "id": "e59d9b48052643b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teste.md",
+                "file": "Escola/Ano 2/Primeiro trimestre/Matemática/Exercícios/Aula 001-Matrizes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teste"
+              "title": "Aula 001-Matrizes"
             }
           }
         ]
@@ -40,10 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teste.md",
+                "file": "Escola/Ano 2/Primeiro trimestre/Matemática/Exercícios/Aula 002-Matrizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Teste"
+              "title": "Links inversos para Aula 002-Matrizes"
             }
           },
           {
@@ -154,21 +155,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ae81bf04c121ccbf",
+  "active": "e59d9b48052643b1",
   "lastOpenFiles": [
+    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 001 - Matrizes/Matrizes.md",
+    "Escola/Principles/Priciples guia.md",
+    "Escola/Escola - IFPR.md",
+    "Escola/Informações professores.md",
+    "Escola/Ano 2/Primeiro trimestre/Matemática/Exercícios/Aula 001-Matrizes.md",
+    "Escola/Teste.md",
+    "aUntitled.md",
+    "Teste.md",
+    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 002 - A composição química das células/A composição química das células.md",
+    "Escola/Ano 2/Primeiro trimestre/Matemática/Exercícios",
     "Pasted image 20250129142725.png",
     "README.md",
     "Captura de tela 2025-01-29 141846.png",
     "Untitled",
-    "Teste.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens dinâmicas e áudio e vídeos.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Cores/Cores.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Coisas importantes/Coisas importantes.md",
@@ -185,28 +195,20 @@
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Git e GitHub/Git e Github - versionamento de Software - basico.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Estilos CSS.md",
     "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens de fundo - CSS.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Primeiros passos HTML.md",
     "Cursos/Cursos/HTML, CSS & JS/Pasted image 20241223111802.png",
     "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/Criatividade em Movimento.pdf",
     "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/HDMI, USB.pdf",
     "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/InteligÊnciA      ARTIFICIAL.pptx.pdf",
     "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/Internet e modem.mp4",
     "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/meIOS MAGNETICOS.pdf",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Matemática/Matemática Guia.md",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Matemática/Aula 001 - Conjuntos/Pasted image 20240723161113.png",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Matemática/Aula 001 - Conjuntos/Pasted image 20240704135849.png",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Matemática/Aula 001 - Conjuntos/Conjuntos.md",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/slide-sobre.pdf",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/Pasted image 20240322145606.png",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/Grandezas físicas v4.png",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Untitleda.png",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Pasted image 20240228175413.png",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v_final_better.pdf",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v7.png",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v5.png",
-    "Escola/Ano 2/Primeiro trimestre/Artes/Aula 001 - Movimentos artistícos/Movimentos artistícos.md",
-    "Escola/Escola - IFPR.md",
-    "Escola/Informações professores.md",
-    "Escola/Principles/Matemática/Matemática guia.md"
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v7.png"
   ]
 }
