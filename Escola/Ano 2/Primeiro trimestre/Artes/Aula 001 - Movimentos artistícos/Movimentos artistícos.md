@@ -56,6 +56,17 @@ A arte da guerra. Mais para frente acontece outro movimento parecido nos EUA, em
 	- Cubismo sintético: cores fortes, fragmentação parcial, uso de colagens. 
 - Linguagens usadas: Pintura, colagens. 
 - Principais artistas: Pablo Picasso, Georges Braque. 
+	- Picasso não foi apenas cubista. 
+		- Ele teve um estilo de misturar o rosto no estilo perfil(de lado) e no estilo de frente ao mesmo tempo. 
+		- Por mais de seus desenhos de mais velho, parecerem um desenho simples, ele começou a desenhar nos 15 anos, num estilo realista, desenhando sua mãe e depois com 16 ciência e caridade. 
+		- Les Desmoiselles d'Avignon, 1907
+			- ![[Pasted image 20250321141225.png]]
+			- A primeira obra Cubista. Inaugurando o cubismo.
+			- Inspira-se nas mascaras africanas. Mudando o padrão antes visto, da necessidade da cultura europeia.
+- Múltiplos pontos de vista.
+- Influência da cultura africana
+
+
 # Arte contemporânea ou pós-modernismo 
 1960 d.C até os dias de hoje.
 - Pop-Art(1960)
@@ -72,3 +83,5 @@ A arte da guerra. Mais para frente acontece outro movimento parecido nos EUA, em
 - Arte e tecnologia 
 - Arte processo ou work in progress 
 - Estética Relacional(2000)
+# O que é uma vanguarda
+Artistas que fazem algo diferente do padrão em vigor. 
