@@ -63,4 +63,5 @@ Permite acessar a função, por meio de uma estrutura como:
 tipo.funcao()
 ```
 Uma boa prática é colocar o nome, com a inicial do tipo. 
-Além disso perceba que tem um ponteiro, esse ponteiro indica que possamos alterar o valor.
+Além disso perceba que tem um ponteiro, esse ponteiro indica que possamos alterar o valor.]
+Perceba o ponteiro, este serve para você poderar alterar os dados da instância. Quando não passado, ele cria um cópia da estrutura, e você não pode altera-la.
