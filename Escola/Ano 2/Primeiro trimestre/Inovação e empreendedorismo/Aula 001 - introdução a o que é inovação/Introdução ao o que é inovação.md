@@ -28,3 +28,6 @@ Não no sentido partidário(politics), e sim no sentido de policy, ou seja criar
 		- Para ter inovação é necessário ter investimento do governo ou de alguma instituição. 
 # Ciclos da inovação
 Primeiro tinhamos uma indústria mais mecânica depois teve inovações na robótica, e mais depois teve a revolução com a internet das coisas(IoT).
+# Termos
+WEG - empresa de motores elétricos
+INPI - instituto nacional de propriedades intelectuais.
