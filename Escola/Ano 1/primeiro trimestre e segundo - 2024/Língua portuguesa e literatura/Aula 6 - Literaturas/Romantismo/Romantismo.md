@@ -61,9 +61,17 @@ Desajuste social: fuga da realidade pela volta ao passado. Na Europa retorna-se 
 
 O negro não participa do projeto literário - nacionalista. 
 Exaltação da pátria, (nacionalismo ufanista). Causado pelo recente processo de independência.
-	Nacionalismo ufanista é uma relação de soberba e soberania de uma nação, exaltação nacionalista. 
+	Nacionalismo ufanista é uma relação de soberba e soberania de uma nação, exaltação nacionalista. São exemplos o nazismo.  
 No plano individual, nostalgia da infância.
 Valorização do exotismo da natureza brasileira. 
+## Principais autores
+- Gonçalvez de Magalhães: fundador do romantismo brasileiro, professor, político, médico e etc.
+- Gonçalvez Dias: Jornalista, professor, advogado e etc. Um dos melhores poetas do Brasil e da primeira fase romântica. 
+## Características
+Cada capítulo tinha uma forma diferente, para cada parágrafo.
+Ritmo de tambores. 
 # Termos
 Regia - do Rei.
 Imprensa regia - imprensa do rei. 
+Indianista - Índios/heróis como ídolos, junto com as belezas das mulheres. 
+Indigenismo - voz do indígena, massacre, pobreza, roubo de terras indígenas. 
