@@ -47,3 +47,34 @@ idade = int(input("Digite sua idade: "))
 print(f"Teste {nome}")
 ```
 Imprime um valor do terminal. Não precisa do f no começo, esse f é usado para poder chamar variáveis, quando colocadas dentro de {}. O print também pode ter \n para quebrar a linha. Inclusive por padrão no python tem um valor end="\n", antes de fechar os parênteses você pode colocar o end=" ", para dar um espaço ao invés de quebrar a linha.
+Você pode formatar o número em python, como float ou int adiciondo um : 2 a formatação:
+```python
+print(f"Teste {idade:02d}")
+print(f"{numeroFloat:.2f}")
+```
+Essas formatações são apenas cortes e não arredondamentos. O f é chamado de formatação f-string.
+# Funções em python
+## Round
+```python
+res = round(<numero-atual>, <numero-de-casas-decimais-ou-seja-apos-a-virgula>)
+```
+Ele arredonda um número até certa quantidade de casas decimais. 
+## sqrt
+```python
+import math
+
+res = math.sqrt(<numero-para-fazer-a-raiz-quadrada>)
+```
+É sempre necessário fazer a importação da biblioteca math, para usar o sqrt, ou seja para calcular a raiz quadrada de um número. 
+## pow
+```python
+res = pow(<base>, <expoente>)
+```
+Eleva um número ao seu expoente. 
+# Como comentar em python
+```python
+# comentário in-line
+'''
+Comentário de multiplas linhas, necessário ter linha própria. 
+'''
+```
