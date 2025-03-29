@@ -20,3 +20,13 @@ Os seres vivos apresentam características **especificas** e **compartilhadas**.
 	- Evolução - características selecionadas pelo ambiente. Então as características de um ser vivo, dependem do seu ambiente. 
 	- Somos evoluídos como uma barata, pois elas ainda estão vivas, como nós. 
 	- As mudanças ocorrem pela alteração do material genético. Antes do nascimento, podendo ser um erro. 
+- Célula vegetal x célula animal: 
+	- Célula vegetal: tem parede celular. 
+	- Célula animal: não tem parede célular. 
+	- Ambas possui a membrana plasmática, citoplasma e núcleo.
+- As células se dividem em:
+	- procariontes: material genético disperso no citoplasma
+	- eucariontes: material genético no núcleo da célula. 
+- Quanto mais metabolismo, mais energia ou/e mais utilidade, mais água será necessária. 
+# Curiosidade
+O pó da pele pode vir das células mortas da pele.

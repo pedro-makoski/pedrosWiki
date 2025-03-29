@@ -26,5 +26,19 @@
 | Cálcio   | Formação e manutenção dos ossos e dentes, participantes dos processos de coagulação sanguínea, contração muscular e de transmissão do tecido nervososo. | Leite e derivados, vegetais verdes e escuros.                         |
 | Fósforo  | Formação e manutenção de ossos e dentes, faz parte das moléculas do DNA, RNA e ATR(Adensonina tri-fosfato), moeda de energia da célula                  | Leite e derivados, carnes(vermelha, aves e peixes), cereais e legumes |
 | Potássio | Participa do processo de contração muscular e de transmissão do impulso nervoso. Regulação do equilibrio hidrico da pressão sanguínea.                  | Verduras, frutas, legumes carnes e leite.                             |
+| Sódio    | Regulação do equilíbrio hídrico, e da transmissão do impulso nervoso.                                                                                   | Sal de cozinha                                                        |
+| Ferro    | Componente da hemoglobina e da mioglobina. Pigmentos com afinidade com o oxigênio                                                                       | Carne, vegetais verde-escuros, leguminosas.                           |
+| Iodo     | Componente dos hormônios da glândula tireoide que regulam o metabolismo. Sua falta pode levar ao desenvolvimento de bócio.                              | Peixes, frutos do mar, sal iodado.                                    |
+| Flúor    | Atua na manutenção e na estrutura dos ossos e do esmalte dos dentes                                                                                     | Água fluorada                                                         |
+|          |                                                                                                                                                         |                                                                       |
+|          |                                                                                                                                                         |                                                                       |
+|          |                                                                                                                                                         |                                                                       |
+Quando dissolvidos na água, os elementos podem fazer ligações iônica formando ions. 
+Quando se tem muitos sais minerais nas células, corre o risco da célula colapsar, quando alguém tomar água. 
+O Fe mais o oxigênio é avermelhado, por isso o sangue é vermelho. Pois no sangue, que tem a hemoglobina, contém esses materiais de ferro e oxigênio. 
+Mioglobina - músculo. 
+Cálcio é super necessário para a contração muscular. 
+# Tireoide 
+Necessita de Iodo. Cria quase todos os hormônios para o metabolismo, e para ela fazer isso ela precisa de iodo. Sem iodo a pessoa tente a ficar lenta, e pode desenvolver bócio esticando a pele, aumentando a glândula tireoide. A falta de iodo pode também causar nanismo, para os bebes com falta.
 # Disclaimer importante
 É comum acharmos que os seres vivos se adaptam a novos ambientes, mais sujos, por exemplo. Mas na verdade, os seres vivos já adptados que sobrevivem, e se reproduzem com outros adaptados. 
