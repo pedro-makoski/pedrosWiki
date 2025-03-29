@@ -92,7 +92,11 @@ A = \begin{pmatrix}
 \end{pmatrix}
 $$
 Esse foi um exemplo de matriz diagonal inferior. 
-
+## Matriz simétrica
+Quando a matriz é igual a sua transposta. 
+$$
+A = A^t
+$$
 # Posição de um valor da matriz
 Se coloca o nome da variável da matriz, junto com o ij, ou seja o número da linha e da coluna. Por exemplo, se um elemento está na linha 1 e na coluna 2, de uma matriz A, então a sua posição é 
 $$

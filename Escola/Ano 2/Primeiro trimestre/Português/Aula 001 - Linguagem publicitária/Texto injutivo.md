@@ -1,0 +1,1 @@
+Instrucional. Está pautado na explicação e no método para se concretizar uma ação. Transmitir instruções, como fazer algo, sem técnicas persuassivas. 

@@ -18,6 +18,11 @@ Busca convencer o usuário. Trata-se de convencer alguém a fazer ou comprar alg
 É o estudo dos signos, que consiste em todos os elementos, que representam algum significado e sentido para o ser humano, abrangendo as linguagem verbais e não verbais. 
 O signo muitas das vezes, não tem o mesmo sentido entre diferentes grupos sociais. 
 A semiótica busca, entender como o ser humano consegue interpretar as coisas, principalmente o ambiente que o envolve, desta forma estuda como indivíduo atribui o significados para diferentes grupos. 
+## Semiose social
+- Estudos dos Signos
+	- Significados 
+	- Signficantes
+Isso para a sociedade. 
 # Significados 
 Objetos, símbolos e afins podem ter significados diferentes, entre diferentes grupos, faixas etárias e gêneros. 
 # Estrutura do anuncio publicitário 
