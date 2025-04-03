@@ -71,3 +71,28 @@ const (
 ```
 Pereba aqui que tem várias contantes que indicam diferentes formatações. 
 Veja mais https://go.dev/src/time/format.go.
+
+|O que queremos editar|código|
+|---|---|
+|dia (com zero)|02|
+|dia (sem o zero)|2|
+|dia da semana (inteiro)|Monday|
+|dia da semana abreviado|Mon|
+|mês com número (com zero)|01|
+|mês com número (sem zero)|1|
+|mês (nome inteiro)|January|
+|mês (nome abreviado)|Jan|
+|ano (inteiro)|2006|
+|ano (abreviado)|06|
+|hora (com zero)|03|
+|hora (sem zero)|3|
+|hora (formato 24 horas)|15|
+|minutos (com zero)|04|
+|minutos (sem zero)|4|
+|segundos (com zero)|05|
+|segundos (sem zero)|5|
+# Now()
+Retorna o tempo atual. 
+```go
+func main() { data := time.Now() fmt.Println(data) } // 2019-05-03 10:29:46.986583 -0300 -03 m=+0.000178751
+```

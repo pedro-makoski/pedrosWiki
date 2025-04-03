@@ -1,0 +1,1 @@
+Pasta routes com as rotas. Pasta de controllers, para fazer os controles dos dados. Modelos, trabalha com os dados.
