@@ -1,0 +1,1 @@
+Pega um elemento de uma posição. Valores negativos começam lá do fim, -1 - ultimo elemento, -2 - penúltimo elemento.

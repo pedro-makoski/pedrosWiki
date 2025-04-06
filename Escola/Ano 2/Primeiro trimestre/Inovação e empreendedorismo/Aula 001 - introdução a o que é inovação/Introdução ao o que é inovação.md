@@ -31,3 +31,14 @@ Primeiro tinhamos uma indústria mais mecânica depois teve inovações na robó
 # Termos
 WEG - empresa de motores elétricos
 INPI - instituto nacional de propriedades intelectuais.
+# Indústria 4.0 - fique atento a tudo o que envolve
+Trabalha nas tecnólogias
+- IoT.
+- Nuvem
+- Robos 
+- Realidade aumentada
+- Big data
+- Cyber segurança
+- Simuladores
+- Manufatura aditiva
+- Impressora 3d
