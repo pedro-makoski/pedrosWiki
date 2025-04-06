@@ -155,3 +155,14 @@ $$
 4. A cada posição da matriz faça o seguinte cálculo, pegando o número da linha e da coluna. O número da linha você pega a linha do primeiro termo, e pegando o número da coluna, você pega a coluna do segundo termo. Então você com esses valores você multiplica os correspondentes(ex.:posição 1 linha, posição 1 da coluna), e soma tudo, obtendo assim o valor da matriz resultante.
 ## Importante
 Diferente da propriedade comutátiva, vista em números normais, isso não existe para matrizes, a posição dos termos da multiplicação das matrizes importa. 
+# Matriz inversa/invertida
+$$
+A*A^{-1} = I_n
+$$
+Para existir matriz inversa é necessário que sejam quadradas. A matriz inversa é o valor multiplicado pela sua versão versão original, de a identidade. O -1, pode indicar como se fosse divisão. 
+Assim como o valor original multiplicado pelo seu valor invertido dá um.
+Por exemplo:
+$$
+2*2^{-1} = 1
+$$
+Para calcular a matriz invertida é necessário criar uma matriz genêrica, com os valores como icôgnitas, e usar o sistema de equações para descobrir seus valores. 
