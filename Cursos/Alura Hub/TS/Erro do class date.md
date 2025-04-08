@@ -1,0 +1,1 @@
+Sempre quando você for colocar uma data fixa. Tipo dd/mm/aaaa, é importante colocar o horário também, nem que seja 00:00:00, para que o JS não entenda como ambiguidade e coloque a um dia anterior.
