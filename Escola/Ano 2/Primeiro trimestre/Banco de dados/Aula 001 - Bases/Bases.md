@@ -41,7 +41,7 @@ Uma ferramenta bem mais completa que um sistema de banco de dados. SGBD disponib
 	- Criar regras do que pode ou não pode ser feito num banco de dados. Uma faixa de valores para um número. Valores que podem ser atribuídos. 
 	- Ou até mesmo, não permitir deletar um item de uma tabela, quando outras tabelas dependem desse valor. 
 ## Relação de pai e filho 
-O elemento pai só depende dele para existir. Já os filhos dependem dos seus pais e afins. 
+O elemento pai só depende dele para existir. Já os filhos dependem dos seus pais. 
 As relações podem ser feitos por colunas que recebem o id de outra tabela, para relacionar os dados. 
 Um pai tem vários filhos, mas um filho tem um pai. 
 ID_{CAMPO_DO_PAI}, conecta o banco de dados do pai, colocando seu ID.
@@ -70,6 +70,6 @@ SELECT * FROM <nome-da-tabela>
 ```
 Esse código acima, mostra todas as colunas da tabela.
 # Quem usa um banco de dados
-1. Administrador do banco de dados(DBA): é o responsável por monitorar e gerenciar todas as bases de dados no SGBD, também é quem controla as permissões e os usuários, garante que os usuários tenham acesso aos dados, realiza backups, recupera os dados, em caso de falhas garante o melhor desempenho para o banco de dados, monitora serviços, jobs, os usuários no banco de dados, etc. Normalmente, um DBA é responsável pelo SGBD específico, e deve ter estudado e feito cursos para aquele SGBD, por exemplo: DBA oracle, DBA SQL server. 
+1. Administrador do banco de dados(DBA): é o responsável por monitorar e gerenciar todas as bases de dados no SGBD, também é quem controla as permissões e os usuários, garante que os usuários tenham acesso aos dados, realiza backups, recupera os dados, em caso de falhas, garante o melhor desempenho para o banco de dados, monitora serviços, jobs, os usuários no banco de dados, etc. Normalmente, um DBA é responsável pelo SGBD específico, e deve ter estudado e feito cursos para aquele SGBD, por exemplo: DBA oracle, DBA SQL server. 
 2. Analista de sistemas e programadores de aplicações: são responsáveis por modelar a base de dados, implementa-los no SGBD escolhido. Também são responsáveis por desenvolver a aplicação(programa escrito em uma das linguagens Java, C++, C# e etc). E conectar essas aplicações à base de dados do sistema, esse usuário precisa conhecer a área de banco de dados, e também conhecer a linguagem SQL.
 3. Usuários finais: os usuários finais são aquelas pessoas que vão trabalhar diariamente, com as aplicações desenvolvidas. São eles os responsáveis pela entrada de dados no banco de dados, e pelas alterações dos dados armazenados, esse usuários não precisam ter nenhum conhecimento sobre banco de dados, ou saber qual foi o SGBD utilizado. Para eles o banco de dados é transparente, e só interessas se as informações estejam sendo sendo salvas, e possam ser recuperadas. 
