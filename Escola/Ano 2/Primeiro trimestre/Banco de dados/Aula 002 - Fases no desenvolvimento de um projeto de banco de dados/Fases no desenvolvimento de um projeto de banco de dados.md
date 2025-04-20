@@ -14,7 +14,7 @@ Para obter as informações necessárias para desenvolver a modelagem conceitual
 # Modelagem lógica
 A modelagem lógica compreende os processo de descrever como os dados serão armazenados no sistema e como irão se relacionar. Isso significa: transformar o modelo atual obtido na primeira fase, num modelo próximo da implementação. Para bancos de dados relacionais, o modelo utilizado nessa fase é o modelo relacional. Também é necessário descrever o dicionário de dados numa base de dados, nesta etapa. Antes da implementação é necessário, ainda verificar se o modelo está respeitado e em caso negativo, deve-se normalizar o poder.
 ## Dicionário de dados
-Cada coluna recebe uma explicação(descrição), tipo e tamanho se houver. 
+Cada coluna recebe uma explicação(descrição), tipo e tamanho, se houver. 
 ## ID - inteiro
 Forma única de representar um registro na tabela, chave primária. 
 ## Diferença de char e varchar
