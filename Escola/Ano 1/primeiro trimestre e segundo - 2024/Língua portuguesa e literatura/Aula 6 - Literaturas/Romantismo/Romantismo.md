@@ -70,6 +70,25 @@ Valorização do exotismo da natureza brasileira.
 ## Características
 Cada capítulo tinha uma forma diferente, para cada parágrafo.
 Ritmo de tambores. 
+# Romantismo segunda geração - mal do século
+Segunda fase do romantismo: ultrarromantismo. Os autores morreram cedo, por causa de uma depressão. 
+## Lord Byron(1788-1824)
+**Spleen** - tédio, mau humor e melancolia, por problemas como o amor não correspondido, ou pela descrença na vida causando a aproximação da morte.
+### Circulo Byroniano 
+Pessoas mostravam e competiam para quem tinha a leitura mais depressiva. 
+## Mary Shelley(1797-1851)
+Autora de contos, dramaturga, ensaísta. Seus livros eram assinados pelo seu marido, até que em outras leituras mais a frente, deixavam de ser assinadas pelo seu marido, e começou assinar com seu próprio nome.
+## Ultrarromantismo no Brasil
+### Cassimiro de Abreu 
+Um dos principais poetas brasileiros. Escreveu um só livro: primaveras, publicado em 1859. Uma das literaturas de primaveras: "Meus oito anos". Faleceu de tuberculose ao 23 anos. 
+### Alvarez de Azevedo
+Faleceu aos 21 anos de tuberculose, escreveu a respeito da passagem do tempo, do sentido da vida e do amor. Devido ao seu acidente de cavalo, ficou fixado com a morte.
+**Lira dos vinte anos**: amor impossível, amor platônico, melâncolia, características góticas. 
+## Características do ultrarromantismo
+- Expressão plena dos sentimentos pessoais e paixões.
+	- Amor platônico.
+		- Amor impossível de realizar
+- Poesias com temáticas extremamente geocêntrica e sentimental. 
 # Termos
 Regia - do Rei.
 Imprensa regia - imprensa do rei. 
