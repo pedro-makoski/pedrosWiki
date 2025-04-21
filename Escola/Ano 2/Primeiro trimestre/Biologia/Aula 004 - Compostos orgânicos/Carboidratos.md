@@ -1,3 +1,5 @@
+Carboidrato = Açucar = glicídio
+Nem todos os açucares tem sabor adocicado. Quando mastigamos um amido, uma saliva vem e quebra o amido, ai dando para sentir o açúcar, devido a demora de tempo na boca.
 # Grupos
 Também chamados de glicídios, hidratos, carbono ou açúcar. Pode ser dividida em três grupos:
 - Monossalarídios
@@ -20,3 +22,15 @@ São exemplos de hexoses, a glicose e a frutose, importantes como fontes de ener
 São formados a partir da união de dois monossacarídeos. Exemplos:
 Sacarose = Glicose + Frutose
 Lactose = glicose + galactose. 
+## Polissacarídeos 
+Formados por várias moléculas de monossacarídeos, principalmente a Glicose. 
+São insolúveis, em água e podem ser desdobrados em açucares simples por hidrolise. 
+A insolubilidade dos polissacarídeos é vantajosa por permitir que eles participem como componentes estruturais das moléculas. Ou que funcionem como armazenadores de energia.
+### Polissacarídeos estruturais
+#### Celulose
+Celulose encontrada na parede celular das plantas. A celulose não é digerida pelos seres humanos, é denominada geneticamente como fibra importante para o funcionamento do intestino. 
+#### Quintina
+Encontrada na parede celular dos fungos e no exoesqueleto dos animais artrópodes, formadas por moléculas de glicose e por grupos de anina(NH_2).
+### Polissacarídeos de reserva de energia
+- Amido: encontrada nas raízes dos tubérculos, e sementes das plantas.
+- Glicogênio: encontrada nos fungos e nos animais. Em mamifero é armazenada no fígado e nos músculos.
