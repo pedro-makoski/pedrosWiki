@@ -3,7 +3,7 @@ Os seres vivos são formados por células.
 	- Substâncias inorgânicas(água e sais minerais)
 	- Substâncias orgânicas(carboidratos, lipídios, proteínas e ácidos nucleícos)
 	- A porcentagem média dessas substâncias vária entre os tecidos de um mesmo indivíduo, e até mesmo entre organismos da mesma espécie com idades diferentes.
-	- Tomando como exemplo uma **celula animal** temos as seguintes proporções:
+	- Tomando como exemplo uma **célula animal** temos as seguintes proporções:
 
  ![[chart.png]]
 

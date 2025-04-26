@@ -3,7 +3,7 @@ Nem todos os açucares tem sabor adocicado. Quando mastigamos um amido, uma sali
 # Grupos
 Também chamados de glicídios, hidratos, carbono ou açúcar. Pode ser dividida em três grupos:
 - Monossalarídios
-- Dussalarídios 
+- Dissalarídios 
 - Polissalarídios 
 ## Monossalarídios 
 São os glicídios mais simples.
