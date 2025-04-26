@@ -67,11 +67,11 @@ Ela começa sempre com I. Ela é uma matriz quadrada, ou seja para cada linha te
 $$
 I_3=\begin{pmatrix}
 1&0&0\\
-1&1&1\\
-2&3&1
+0&1&0\\
+0&0&1
 \end{pmatrix}
 $$
-Temos também esse índice, que indica a quantidade de linhas/colunas.
+Temos também esse índice, que indica a quantidade de linhas/colunas. O resto é tudo zero.
 ### O que é diagonal principal
 Aonde o I e o J são iguais. Ou seja o índice de linhas é o mesmo que o da coluna. 
 ## Matriz diagonal superior e inferior
