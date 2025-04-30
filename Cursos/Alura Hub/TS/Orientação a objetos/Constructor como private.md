@@ -1,0 +1,3 @@
+Quando é private, é desnecessário colocas os parênteses ao instanciar a classe. Porém para eu poder usar sem instanciar, só é possível obter as funções e atributo com tipo static. Ou seja um tipo estático, que não depende de instanciar para funcionar. 
+
+Os métodos estáticos são uma maneira poderosa de definir comportamentos e lógicas que podem ser usados diretamente na classe, sem a necessidade de criar objetos. Quando é estático significa que o método pertence à própria classe, não a instâncias específicas da classe.
