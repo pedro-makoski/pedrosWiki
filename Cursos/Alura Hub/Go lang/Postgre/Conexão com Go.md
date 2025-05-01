@@ -63,7 +63,7 @@ func index(w http.ResponseWriter, r *http.Request) {
 
   
 
-    for selectDeTodosOsProdutos.Next() {//Vai procurando novos itens até que acabe, as linhas. 
+    for selectDeTodosOsProdutos.Next() {//Vai procurando novos itens até que acabe, as linhas. O .Next() é necessário sempre, mesmo quando o retorno só tenha uma coluna.
 
         var id, quantidade int
 
@@ -105,3 +105,13 @@ func index(w http.ResponseWriter, r *http.Request) {
 
 }
 ```
+## Concatenação da query
+```go
+produtoDoBanco, err := db.Query("select * from produtos where id=$1", id)
+```
+Colocando o $ e o número que representa a posição do parâmetro, você pode colocar depois os parâmetros que serão substituídos, sem precisar usar o fmt.Sprintf.
+## Colocando os dados em ordem
+```go
+selectDeTodosOsProdutos, err := db.Query("select * from produtos order by id asc")
+```
+Você está basicamente pedindo para ordernar pelo id, em ordem ascendente(crescente).
