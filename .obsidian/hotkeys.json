@@ -1,0 +1,26 @@
+{
+  "obsidian-style-settings:show-style-settings-leaf": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "obsidian-kanban:create-new-kanban-board": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-importer:open-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "0"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "path:estudos  ",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:estudos/Escola  ",
+      "color": {
+        "a": 1,
+        "rgb": 1462469
+      }
+    },
+    {
+      "query": "path:Me/Diário  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:estudos/Cursos  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:\"Me/Leituras bíblicas e liturgia diária\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 3.04823529411765,
+  "lineSizeMultiplier": 0.215294117647059,
+  "collapse-forces": true,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.05932617187500021,
+  "close": false
+}

@@ -1,1 +1,17 @@
-{}
+{
+  "accentColor": "#00ffb3",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "monospaceFontFamily": "Inter",
+  "textFontFamily": "Inter",
+  "baseFontSize": 18,
+  "nativeMenus": false,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "style"
+  ],
+  "cssTheme": "Prism",
+  "showViewHeader": false,
+  "baseFontSizeAction": false,
+  "showRibbon": true
+}

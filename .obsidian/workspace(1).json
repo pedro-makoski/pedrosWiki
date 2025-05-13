@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "3eeaefade4a6a806",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d8ae47bd908691a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df828e405c809655",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e6c035c2d9e8af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "30751b6d8cfb9c5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6bbbc5f01df37320",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "654bc7fd028ace24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "2Rs 14",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "ead99ae91e9adb94",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 425.5
+  },
+  "right": {
+    "id": "4275801da5876094",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d42cd82ef64b917",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3680c806826788b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f75a30211576d452",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79b203e7a1b7de54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "139930f1d099103b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65f7fa33f5d0a4e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8e45389a3d3f246a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "3d24f72ada9bb502",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "df828e405c809655",
+  "lastOpenFiles": [
+    "Me/Diário/Registro diário do dia 21-05-2024.md",
+    "Escola/primeiro trimestre - 2024/Língua portuguesa e literatura/Aula 3 - semântica/imagens/desktop.ini",
+    "Me/Lista de leituras/O mistério quântico/Ψ - função de onda.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 23-02-2024/Resumo das leituras/desktop.ini",
+    "Me/Lista de leituras/O mistério quântico/Introdução.md",
+    "Me/Lista de leituras/O mistério quântico",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 21-05-2024/Leitura do segundo livro de Crônicas.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 21-05-2024/Evangelho de Jesus Cristo segundo Marcos.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 21-05-2024/Primeira leitura - leitura da primeira carta de são Thiago.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 21-05-2024/Dia 21-05-2024.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 14-05-2024/Dia 14-05-2024.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 21-05-2024",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 20-05-2024/Dia 20-05-2024.md",
+    "Me/Diário/Registro diário do dia 20-05-2024.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 20-05-2024/Leitura do segundo livro de Crônicas.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 22-03-2024/Resumo das leituras/Leitura do segundo livro de Reis.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 20-05-2024/Evangelho de Jesus Cristo segundo João.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 20-05-2024/Primeira leitura - leitura do livro de Gênesis.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 20-05-2024/primeira leitura - leitura dos atos dos apóstolos.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 17-05-2024/Dia 17-05-2024.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 22-03-2024/Resumo das leituras 1.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 22-03-2024/Resumo das leituras.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 20-05-2024",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 19-05-2024/Evangelho de Jesus Cristo  segundo João.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 19-05-2024/Primeira leitura - leitura dos atos dos apóstolos.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 19-05-2024/Dia 19-05-2024.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 19-05-2024/Segunda leitura - leitura da primeira carta de são Paulo aos Coríntios.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 18-05-2024/Dia 18-05-2024.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 19-05-2024",
+    "Me/Diário/Registro diário do dia 18-05-2024.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 18-05-2024/Leitura do segundo livro de Crônicas.md",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 18-05-2024",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 17-05-2024",
+    "Me/Leituras bíblicas e liturgia diária/Leituras diárias/Dia 16-05-2024",
+    "Relationships/Companies/Alphabet inc/Google IO",
+    "Cursos/Cursos/Investimentos/Youtube/FIIs/Pasted image 20240510151639.png",
+    "Escola/Ano 1/primeiro trimestre - 2024/Química/Aula 1 - Matéria - Estados de agregação/vaporização.canvas",
+    "Escola/Ano 1/primeiro trimestre - 2024/Química/Aula 1 - Matéria - Estados de agregação/Captura de tela 2024-05-07 140244.png",
+    "Escola/Ano 1/primeiro trimestre - 2024/Química/Aula 1 - Matéria - Estados de agregação/Pasted image 20240311142542.png",
+    "Escola/Ano 1/primeiro trimestre - 2024/Química/Aula 1 - Matéria - Estados de agregação/Pasted image 20240318135038.png",
+    "Escola/Ano 1/primeiro trimestre - 2024/Química/Aula 1 - Matéria - Estados de agregação/Pasted image 20240319135509.png",
+    "Escola/Ano 1/primeiro trimestre - 2024/Química/Aula 1 - Matéria - Estados de agregação/Transformação de estados.canvas",
+    "notion-bakcup/Untitled.canvas",
+    "notion-bakcup/02/Wallpaper_Desktop.png",
+    "notion-bakcup/02/Untitled 33.png",
+    "notion-bakcup/02/Untitled 31.png",
+    "notion-bakcup/02/_6d8ad442-5924-4898-b205-d964dfd3290e.jpg",
+    "notion-bakcup/02/_136bbb9e-5fed-4e40-bcd7-764de303684d.jpg",
+    "Escola/Ano 1/primeiro trimestre - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",
+    "notion-bakcup/02/Untitled 4.canvas",
+    "notion-bakcup/02/Untitled 3.canvas",
+    "notion-bakcup/02/Untitled 2.canvas",
+    "notion-bakcup/02/Untitled 1.canvas",
+    "notion-bakcup/02/Untitled.canvas",
+    "notion-bakcup/04/Untitled 4.canvas"
+  ]
+}

@@ -1,24 +1,25 @@
 {
   "main": {
-    "id": "bf94d1c6f0d02bb1",
+    "id": "3eeaefade4a6a806",
     "type": "split",
     "children": [
       {
-        "id": "15da70bb224bb2e7",
+        "id": "d9b2ecaa92a6a045",
         "type": "tabs",
         "children": [
           {
-            "id": "e59d9b48052643b1",
+            "id": "26d846758d31557c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escola/Ano 2/Primeiro trimestre/Matemática/Exercícios/Aula 001-Matrizes.md",
+                "file": "estudos/Escola/Ano 2/Primeiro trimestre/História/Aula 001 - Conceito de história/Conceito de história.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aula 001-Matrizes"
+              "title": "Conceito de história"
             }
           }
         ]
@@ -27,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "db29e225fcf0b7fa",
+    "id": "8e6c035c2d9e8af2",
     "type": "split",
     "children": [
       {
-        "id": "fb55024b8272e228",
+        "id": "30751b6d8cfb9c5a",
         "type": "tabs",
         "children": [
           {
-            "id": "93316408c13b24c2",
+            "id": "6bbbc5f01df37320",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,11 +45,11 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
-            "id": "e73bd3aef730bab7",
+            "id": "654bc7fd028ace24",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,41 +62,62 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
-            "id": "75dab13838c56420",
+            "id": "72e591c10f1b689f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 425.5
   },
   "right": {
-    "id": "6b65d6b3aa511c45",
+    "id": "4275801da5876094",
     "type": "split",
     "children": [
       {
-        "id": "0cfbe6ce93e656e5",
+        "id": "0d42cd82ef64b917",
         "type": "tabs",
         "children": [
           {
-            "id": "8338e7fd78fd1ffb",
+            "id": "e3680c806826788b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f75a30211576d452",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "79b203e7a1b7de54",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Escola/Ano 2/Primeiro trimestre/Matemática/Exercícios/Aula 002-Matrizes.md",
-                "collapseAll": false,
+                "file": "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/Tecnologias.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,49 +126,65 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Aula 002-Matrizes"
+              "title": "Backlinks for Tecnologias"
             }
           },
           {
-            "id": "f18f76a8ae5d8a54",
+            "id": "139930f1d099103b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Teste.md",
-                "linksCollapsed": false,
+                "file": "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/Tecnologias.md",
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Teste"
+              "title": "Outgoing links from Tecnologias"
             }
           },
           {
-            "id": "eaf810b52b8cda1b",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "45047b22f3d5fb7f",
+            "id": "65f7fa33f5d0a4e2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teste.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Teste"
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8e45389a3d3f246a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "3d24f72ada9bb502",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Escola/Ano 1/primeiro trimestre - 2024/Física/Aula 4 - Energia/Energia.md"
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,60 +193,71 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e59d9b48052643b1",
+  "active": "26d846758d31557c",
   "lastOpenFiles": [
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 001 - Matrizes/Matrizes.md",
-    "Escola/Principles/Priciples guia.md",
-    "Escola/Escola - IFPR.md",
-    "Escola/Informações professores.md",
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Exercícios/Aula 001-Matrizes.md",
-    "Escola/Teste.md",
-    "aUntitled.md",
-    "Teste.md",
-    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 002 - A composição química das células/A composição química das células.md",
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Exercícios",
-    "Pasted image 20250129142725.png",
-    "README.md",
-    "Captura de tela 2025-01-29 141846.png",
-    "Untitled",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens dinâmicas e áudio e vídeos.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Cores/Cores.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Coisas importantes/Coisas importantes.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Modelo de caixas ou box-model/Modelo de caixas ou box-model.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Projeto Android/Projeto Android.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Quebras de linha, caracteres especiais e emoji/Quebras de linha, caracteres especiais e emoji.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Tipografia/Tipografia.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Formatação de textos.md",
-    "Cursos/Cursos/HTML, CSS & JS/HTML & CSS.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/iframes.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens e Favicons.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Listas.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Como funciona HTML e CSS/Como funciona HTML e CSS.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Git e GitHub/Git e Github - versionamento de Software - basico.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Estilos CSS.md",
-    "Cursos/Cursos/HTML, CSS & JS/Aulas/Imagens de fundo - CSS.md",
-    "Cursos/Cursos/HTML, CSS & JS/Pasted image 20241223111802.png",
-    "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/Criatividade em Movimento.pdf",
-    "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/HDMI, USB.pdf",
-    "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/InteligÊnciA      ARTIFICIAL.pptx.pdf",
-    "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/Internet e modem.mp4",
-    "Escola/Ano 1/Terceiro trimestre/AOC/Aula 001 - Tecnologias/files/SEMINÁRIO/meIOS MAGNETICOS.pdf",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Matemática/Aula 001 - Conjuntos/Pasted image 20240723161113.png",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Matemática/Aula 001 - Conjuntos/Pasted image 20240704135849.png",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/slide-sobre.pdf",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/Pasted image 20240322145606.png",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/Grandezas físicas v4.png",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Untitleda.png",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Pasted image 20240228175413.png",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v_final_better.pdf",
-    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 1 - grandezas físicas e unidades de medida/imgs/Grandezas físicas v7.png"
+    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Classes.md",
+    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Decorators.md",
+    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Herança.md",
+    "estudos/Cursos/Alura Hub/Go lang/Postgre/Conexão com Go.md",
+    "estudos/Cursos/Alura Hub/Go lang/Postgre/Deletando dados.md",
+    "estudos/Cursos/Alura Hub/Go lang/Postgre/Editando os produtos.md",
+    "estudos/Cursos/Alura Hub/Go lang/Postgre/Inserindo dados.md",
+    "estudos/Cursos/Alura Hub/Go lang/Postgre/pgAdmin 4.md",
+    "estudos/Cursos/Alura Hub/Go lang/Postgre/Veja o link.md",
+    "estudos/Cursos/Alura Hub/Go lang/Web/Convenção do MVC.md",
+    "estudos/desktop.ini",
+    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Generics.md",
+    "estudos/Cursos/Alura Hub/TS/Untitled/desktop.ini",
+    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Constructor como private.md",
+    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Encapsulamento.md",
+    "[estudos/Cursos/Cursos/Alura Hub/Go lang/A base/desktop.ini",
+    "notion-bakcup/02/01/Aba pessoal/Estudos/Escola 2024/Matérias que temos no IFPR campus colombo primeiro ano/Artes I/desktop.ini",
+    "notion-bakcup/02/01/Aba pessoal/Estudos/Escola 2024/Matérias que temos no IFPR campus colombo primeiro ano/AOC(arquitetura e organização de Computadores)/desktop.ini",
+    "estudos/Cursos/Alura Hub/TS/Untitled",
+    "estudos/Cursos/Alura Hub/Go lang/Web/Partials.md",
+    "estudos/Cursos/Alura Hub/Go lang/Web/Obtendo parâmetros da URL.md",
+    "estudos/Cursos/Alura Hub/Go lang/Aula ao vivo.md",
+    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Paradigmas da programação.md",
+    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/desktop.ini",
+    "estudos/Cursos/TS.md",
+    "estudos/Cursos/Alura Hub/TS/Orientação a objetos",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Matemática/Aula 001 - Matrizes/Matrizes.md",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 003 - Compostos inorgânicos/Compostos inorgânicos.md",
+    "notion-bakcup/02/01/Aba pessoal/Estudos/Escola 2024/Matérias que temos no IFPR campus colombo primeiro ano/Química I 759a25284ee04a7fab6ebfc1f6d7104b/desktop.ini",
+    "estudos/Cursos/Alura Hub/Go lang/Web/Redirecionando para outra página.md",
+    "estudos/Cursos/Alura Hub/Go lang/Web/Obtendo parâmetros do método post.md",
+    "estudos/Cursos/Alura Hub/Go lang/Código bom/Modularizando o código.md",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Carboidratos.md",
+    "estudos/Cursos/Alura Hub/Go lang/Código bom/Untitled",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 002 - A composição química das células/A composição química das células.md",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Matemática/Aula 002 - Determinantes/Determinantes.md",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/formula-estrutural-triglicerídeo(1).jpg",
+    "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Untitled.canvas",
+    "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Artes/Aula 2 - arte rupestre/pinturas-de-caverna-de-lascaux-97995049.webp",
+    "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Artes/Aula 2 - arte rupestre/Arte-rupestre.canvas",
+    "estudos/Escola/Pasted image 20250321143228.png",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Robótica/Aula 002 - Introdução ao thinkercad(simulador)/Pasted image 20250321142722.png",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Robótica/Aula 002 - Introdução ao thinkercad(simulador)/Pasted image 20250321142335.png",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Robótica/Aula 002 - Introdução ao thinkercad(simulador)/Pasted image 20250321142319.png",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Artes/Aula 001 - Movimentos artistícos/Pasted image 20250321141225.png",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Química/Aula 001 - Transformação da matéria/Pasted image 20250320155212.png",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 003 - Compostos inorgânicos/Pasted image 20250320144523.png",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 003 - Compostos inorgânicos/Pasted image 20250320144319.png",
+    "teste/teste.canvas",
+    "estudos/Escola/Ano 2/Primeiro trimestre/Róbotica/Untitled.canvas",
+    "Escola/Ano 1/Terceiro trimestre/Geografia/Aula 1 - Desigualdade Social/Desigualdade social.canvas",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Química/Aula 1 - Matéria - Estados de agregação/Transformação de estados.canvas",
+    "Untitled 1.canvas",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Química/Aula 5 - Ligações químicas/exemplo-ionica.canvas",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas"
   ]
 }
