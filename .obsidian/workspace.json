@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Cursos/Alura Hub/Angular/Componentes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Componentes"
             }
           }
         ]
@@ -79,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 422.5
   },
   "right": {
     "id": "4275801da5876094",
@@ -201,8 +201,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bbbc5f01df37320",
+  "active": "26d846758d31557c",
   "lastOpenFiles": [
+    "Cursos/Alura Hub/Angular/Como começar com o Angular.md",
+    "Cursos/Alura Hub/Angular/Angular.md",
+    "Cursos/Alura Hub/Angular/O que é Angular CLI.md",
+    "Cursos/Alura Hub/Angular/Componentes.md",
+    "Cursos/Alura Hub/Angular/Instalar o Angular CLI.md",
+    "README.md",
     "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Classes.md",
     "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Decorators.md",
     "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Herança.md",
@@ -232,13 +238,7 @@
     "estudos/Escola/Ano 2/Primeiro trimestre/Matemática/Aula 001 - Matrizes/Matrizes.md",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 003 - Compostos inorgânicos/Compostos inorgânicos.md",
     "notion-bakcup/02/01/Aba pessoal/Estudos/Escola 2024/Matérias que temos no IFPR campus colombo primeiro ano/Química I 759a25284ee04a7fab6ebfc1f6d7104b/desktop.ini",
-    "estudos/Cursos/Alura Hub/Go lang/Web/Redirecionando para outra página.md",
-    "estudos/Cursos/Alura Hub/Go lang/Web/Obtendo parâmetros do método post.md",
-    "estudos/Cursos/Alura Hub/Go lang/Código bom/Modularizando o código.md",
-    "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Carboidratos.md",
     "estudos/Cursos/Alura Hub/Go lang/Código bom/Untitled",
-    "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 002 - A composição química das células/A composição química das células.md",
-    "estudos/Escola/Ano 2/Primeiro trimestre/Matemática/Aula 002 - Determinantes/Determinantes.md",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/formula-estrutural-triglicerídeo(1).jpg",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Untitled.canvas",
