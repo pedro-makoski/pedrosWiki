@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "estudos/Escola/Ano 2/Primeiro trimestre/História/Aula 001 - Conceito de história/Conceito de história.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Conceito de história"
+              "title": "README"
             }
           }
         ]
@@ -201,7 +201,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26d846758d31557c",
+  "active": "6bbbc5f01df37320",
   "lastOpenFiles": [
     "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Classes.md",
     "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Decorators.md",
