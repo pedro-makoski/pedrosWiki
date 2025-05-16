@@ -1,0 +1,4 @@
+Coloque:
+```html
+<ng-content>
+```
