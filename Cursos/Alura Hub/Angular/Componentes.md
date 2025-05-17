@@ -2,6 +2,10 @@ Crie componentes assim:
 ```bash
 ng generate component <pasta-com-nome-do-componente>
 ```
+Ou:
+```bash
+ng g c <pasta-com-nome-do-componente>
+```
 Perceba que ele tem um html, um CSS e um TS. Neste TS temos:
 ```ts
 import { Component } from '@angular/core';
