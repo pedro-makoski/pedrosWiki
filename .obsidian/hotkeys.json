@@ -22,5 +22,14 @@
       ],
       "key": "0"
     }
+  ],
+  "post-blog:undefined": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
   ]
 }

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3d04cf366966af14",
+        "id": "1d04b54c5ec9fcbe",
         "type": "tabs",
         "children": [
           {
-            "id": "2da94554a6b1c688",
+            "id": "c0b9651f6d14f4f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 003 - Modelo de entidade e relacionamento/Modelo de entidade e relacionamento.md",
+                "file": "Cursos/Alura Hub/Angular/Componentes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Modelo de entidade e relacionamento"
+              "title": "Componentes"
             }
           }
         ]
@@ -201,12 +201,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2da94554a6b1c688",
+  "active": "c0b9651f6d14f4f0",
   "lastOpenFiles": [
+    "Cursos/Alura Hub/Angular/Instalar o Angular CLI.md",
+    "Cursos/Alura Hub/Angular/O que é Angular CLI.md",
+    "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC/Entenda mais sua situação corporal através do IMC.md",
+    "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC/capa.png",
+    "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC",
+    "Blogs/Ideias para você",
+    "Blogs",
+    "Untitled.md",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 004 - Comandos no SQL/Comandos no SQL.md",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Untitled.md",
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 004 - Comandos no SQL",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 003 - Modelo de entidade e relacionamento/Modelo de entidade e relacionamento.md",
+    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 004 - Comandos no SQL",
     "WhatsApp Image 2025-05-17 at 14.17.30.jpeg",
     "WhatsApp Image 2025-05-17 at 13.56.49 1.jpeg",
     "WhatsApp Image 2025-05-17 at 13.56.49.jpeg",
@@ -215,8 +223,6 @@
     "Cursos/Alura Hub/Angular/Como colocar os elementos filhos do HTML do componente no componente.md",
     "Cursos/Alura Hub/Angular/Componentes.md",
     "Cursos/Alura Hub/Angular/Como começar com o Angular.md",
-    "Cursos/Alura Hub/Angular/Instalar o Angular CLI.md",
-    "Cursos/Alura Hub/Angular/O que é Angular CLI.md",
     "Cursos/Alura Hub/Angular/Pasta de imagens.md",
     "Cursos/Alura Hub/Angular/Angular.md",
     "README.md",
@@ -233,15 +239,9 @@
     "estudos/desktop.ini",
     "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Generics.md",
     "estudos/Cursos/Alura Hub/TS/Untitled/desktop.ini",
-    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Constructor como private.md",
-    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Encapsulamento.md",
     "[estudos/Cursos/Cursos/Alura Hub/Go lang/A base/desktop.ini",
     "notion-bakcup/02/01/Aba pessoal/Estudos/Escola 2024/Matérias que temos no IFPR campus colombo primeiro ano/Artes I/desktop.ini",
     "notion-bakcup/02/01/Aba pessoal/Estudos/Escola 2024/Matérias que temos no IFPR campus colombo primeiro ano/AOC(arquitetura e organização de Computadores)/desktop.ini",
-    "estudos/Cursos/Alura Hub/TS/Untitled",
-    "estudos/Cursos/Alura Hub/Go lang/Web/Partials.md",
-    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/desktop.ini",
-    "estudos/Cursos/Alura Hub/TS/Orientação a objetos",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/formula-estrutural-triglicerídeo(1).jpg",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Untitled.canvas",
@@ -251,7 +251,6 @@
     "estudos/Escola/Ano 2/Primeiro trimestre/Robótica/Aula 002 - Introdução ao thinkercad(simulador)/Pasted image 20250321142722.png",
     "estudos/Escola/Ano 2/Primeiro trimestre/Robótica/Aula 002 - Introdução ao thinkercad(simulador)/Pasted image 20250321142335.png",
     "estudos/Escola/Ano 2/Primeiro trimestre/Robótica/Aula 002 - Introdução ao thinkercad(simulador)/Pasted image 20250321142319.png",
-    "estudos/Escola/Ano 2/Primeiro trimestre/Artes/Aula 001 - Movimentos artistícos/Pasted image 20250321141225.png",
     "teste/teste.canvas",
     "estudos/Escola/Ano 2/Primeiro trimestre/Róbotica/Untitled.canvas",
     "Escola/Ano 1/Terceiro trimestre/Geografia/Aula 1 - Desigualdade Social/Desigualdade social.canvas",
