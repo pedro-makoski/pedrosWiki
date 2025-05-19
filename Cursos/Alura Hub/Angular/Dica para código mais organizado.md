@@ -1,0 +1,1 @@
+Todas as funções que não envolvam coisas visuais devem estar na classe e não no template.
