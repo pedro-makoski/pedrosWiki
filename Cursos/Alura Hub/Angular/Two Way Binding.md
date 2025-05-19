@@ -39,4 +39,19 @@ Com esses exemplos, você pode ver como o [(ngModel)] torna o trabalho com difer
 
 E aí, pronto para usar o poder do [(ngModel)] nos seus projetos Angular e fazer mágica com seus formulários?
 
-E então você pode criar métodos com essa variável, e automaticamente todos os componentes que usam essa variável vão alterar quando ela for alterada. 
+E então você pode criar métodos com essa variável, e automaticamente todos os componentes que usam essa variável vão alterar quando ela for alterada.
+# Usando os getter e setters 
+Para quando o valor é alterado ou adicionado talvez seja interessante adicionar os getter e os setter que permitem adicionar funções a propriedades de obter e alterar.
+```ts
+get variavel() any {
+	return variavel
+}
+set variavel(novovalor any) {
+	_variavel = novovalor
+} 
+```
+Assim quando os valores forem alterados pelo ngModel, será passado por essa função. Assim como, quando nos colocamos:
+```ts
+classe.variavel//passa pela função get
+classe.variavel = novovalor //passa pela função set.
+```
