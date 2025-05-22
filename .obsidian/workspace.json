@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9325a9c4bf050dfe",
+        "id": "cd093a6c917526d7",
         "type": "tabs",
         "children": [
           {
-            "id": "35a2f003585011c5",
+            "id": "593549656ac0e59a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Angular/Two Way Binding.md",
+                "file": "Cursos/Alura Hub/Go lang/Web/Responder com JSON a partir de objeto Go.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Two Way Binding"
+              "title": "Responder com JSON a partir de objeto Go"
             }
           }
         ]
@@ -201,10 +201,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "35a2f003585011c5",
+  "active": "593549656ac0e59a",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Angular/NgFor.md",
+    "Cursos/Alura Hub/Go lang/Criando um tipo pensando no JSON.md",
+    "Cursos/Alura Hub/Go lang/Web/Responder com JSON a partir de objeto Go.md",
+    "Cursos/Back end/Go lang/fmt.FPrint.md",
+    "Cursos/Back end/Go lang/Atalho na criação da parte main.md",
+    "Cursos/Back end/Go lang/Go mod init.md",
+    "Cursos/Back end/Go lang/O que é ORM.md",
     "Cursos/Alura Hub/Angular/Two Way Binding.md",
+    "Cursos/Alura Hub/Angular/NgFor.md",
     "Cursos/Alura Hub/Angular/Dica para código mais organizado.md",
     "Cursos/Alura Hub/Angular/Conectar JSON no TS.md",
     "Escola/Ano 2/Primeiro trimestre/POO/Aula 002 - Estrutura de selação IF, ELIF e ELSE python/Estrutura de selação IF, ELIF e ELSE python.md",
@@ -232,12 +238,6 @@
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 002 - Fases no desenvolvimento de um projeto de banco de dados/Fases no desenvolvimento de um projeto de banco de dados.md",
     "Cursos/Alura Hub/Angular/Como colocar os elementos filhos do HTML do componente no componente.md",
     "Cursos/Alura Hub/Angular/Como começar com o Angular.md",
-    "Cursos/Alura Hub/Angular/Pasta de imagens.md",
-    "Cursos/Alura Hub/Angular/Angular.md",
-    "README.md",
-    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Classes.md",
-    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Decorators.md",
-    "estudos/Cursos/Alura Hub/TS/Orientação a objetos/Herança.md",
     "estudos/desktop.ini",
     "estudos/Cursos/Alura Hub/TS/Untitled/desktop.ini",
     "[estudos/Cursos/Cursos/Alura Hub/Go lang/A base/desktop.ini",

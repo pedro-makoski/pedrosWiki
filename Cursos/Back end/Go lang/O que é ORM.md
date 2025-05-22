@@ -1,0 +1,1 @@
+Forma de abstrair as query do SQL. Significa mapeamento de objeto relacional. 

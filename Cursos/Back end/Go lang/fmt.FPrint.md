@@ -1,0 +1,1 @@
+Permite rodar comando no response writter.
