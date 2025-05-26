@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "cd093a6c917526d7",
+        "id": "614422214f47e46a",
         "type": "tabs",
         "children": [
           {
-            "id": "593549656ac0e59a",
+            "id": "bdbb9279eb0c012a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Go lang/Web/Responder com JSON a partir de objeto Go.md",
+                "file": "Cursos/Alura Hub/Go lang/Web/Docker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Responder com JSON a partir de objeto Go"
+              "title": "Docker"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "formulários",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,10 +201,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "593549656ac0e59a",
+  "active": "bdbb9279eb0c012a",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Go lang/Criando um tipo pensando no JSON.md",
+    "Cursos/Alura Hub/Go lang/Web/Requisição filtrada.md",
+    "Cursos/Alura Hub/Go lang/Web/Docker.md",
+    "Cursos/Alura Hub/Go lang/Web/Gorilla mux.md",
+    "Cursos/Alura Hub/Go lang/Postgre/Conexão com Go.md",
+    "Cursos/Alura Hub/Go lang/Web/Convenção do MVC.md",
+    "Cursos/HTML, CSS & JS/Aulas/Formulários.md",
+    "Cursos/HTML, CSS & JS/Desenvolvimento web basico/BootStrap/Componentes.md",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 3 - força/Força.md",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 4 - Energia/Energia.md",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Física/Aula 2 - Movimento/Movimento.md",
+    "Escola/Ano 1/Terceiro trimestre/Física/Aula 002 - Movimento retilíneo uniforme/Movimento Retilíneo Uniforme - MRU.md",
+    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 003 - Compostos inorgânicos/Compostos inorgânicos.md",
+    "Cursos/Alura Hub/TS/Boa prática.md",
+    "Cursos/HTML, CSS & JS/Desenvolvimento web basico/Computação e orientação a objetos/Orientação a objetos/4 pilares do POO -  Encapsulamento, herança e polimorfismo.md",
     "Cursos/Alura Hub/Go lang/Web/Responder com JSON a partir de objeto Go.md",
+    "Cursos/Alura Hub/Go lang/Criando um tipo pensando no JSON.md",
     "Cursos/Back end/Go lang/fmt.FPrint.md",
     "Cursos/Back end/Go lang/Atalho na criação da parte main.md",
     "Cursos/Back end/Go lang/Go mod init.md",
@@ -215,29 +229,15 @@
     "Cursos/Alura Hub/Angular/Conectar JSON no TS.md",
     "Escola/Ano 2/Primeiro trimestre/POO/Aula 002 - Estrutura de selação IF, ELIF e ELSE python/Estrutura de selação IF, ELIF e ELSE python.md",
     "Escola/Ano 2/Primeiro trimestre/POO/Aula 001 - Introdução ao python/Introdução ao Python.md",
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 003 - Modelo de entidade e relacionamento/Modelo de entidade e relacionamento.md",
-    "Cursos/Alura Hub/Angular/Binding de valores.md",
-    "Cursos/Alura Hub/Angular/Componentes.md",
-    "Cursos/Alura Hub/Angular/Controle de fluxo - for.md",
-    "Cursos/Alura Hub/Angular/Estilos no Angular.md",
-    "Cursos/Alura Hub/Angular/Instalar o Angular CLI.md",
-    "Cursos/Alura Hub/Angular/O que é Angular CLI.md",
-    "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC/Entenda mais sua situação corporal através do IMC.md",
     "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC/capa.png",
     "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC",
     "Blogs/Ideias para você",
     "Blogs",
-    "Untitled.md",
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 004 - Comandos no SQL/Comandos no SQL.md",
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Untitled.md",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 004 - Comandos no SQL",
     "WhatsApp Image 2025-05-17 at 14.17.30.jpeg",
     "WhatsApp Image 2025-05-17 at 13.56.49 1.jpeg",
     "WhatsApp Image 2025-05-17 at 13.56.49.jpeg",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 003 - Modelo de entidade e relacionamento",
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 002 - Fases no desenvolvimento de um projeto de banco de dados/Fases no desenvolvimento de um projeto de banco de dados.md",
-    "Cursos/Alura Hub/Angular/Como colocar os elementos filhos do HTML do componente no componente.md",
-    "Cursos/Alura Hub/Angular/Como começar com o Angular.md",
     "estudos/desktop.ini",
     "estudos/Cursos/Alura Hub/TS/Untitled/desktop.ini",
     "[estudos/Cursos/Cursos/Alura Hub/Go lang/A base/desktop.ini",

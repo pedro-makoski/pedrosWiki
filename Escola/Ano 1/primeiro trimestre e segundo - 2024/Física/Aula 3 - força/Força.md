@@ -66,7 +66,7 @@ Nesse caso, se a força resultante é para cima, ou seja a força da tração é
 $$
 \downarrow Fr => m.a = P-T
 $$
-Se a força peso é maior que a tração, ou seja o elemento está descendo, força resultante seria a força peso, menos a força de tração. 
+Se a força peso é maior que a tração, ou seja o elemento está descendo, força resultante seria a força peso, menos a força de tração. \
 ## Força Normal
 Força de contato entre dois corpos, que não deixa que um corpo atravesse o outro. 
 É perpendicular a superfície(90º). Existe um limite de ruptura, quando a força Normal atinge seu limite, o limite de ruptura. 
