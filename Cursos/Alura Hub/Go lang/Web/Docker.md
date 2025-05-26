@@ -50,3 +50,22 @@ E depois rode o comando:
 ```bash
 sudo docker-compose up
 ```
+E assim você poderá acessar o pelo `localhost:54321` o docker.
+# Criando servidor no pgAdmin
+Clique com botão direito em server, depois em register, depois em server.
+Na aba connection, aonde está escrito host name/Adresss, coloque o valor obtido a partir do resultado de:
+```bash
+sudo docker-compose exec postgres sh
+```
+Depois quando aparecer o `#`, digite:
+```docker
+hostname -i
+```
+Pegue o valor de resultado e coloque neste campo.
+Outra forma de acessar o valor, é:
+1. Execute: sudo docker ps -a
+2. Procure na tabela, o postgrees, e na coluna CONTAINER ID, pegue os primeiros três caracteres.
+3. E rode: sudo docker inspect ``<os-três-primeiros-caracteres-do-container-id>`` | grep IPAddress
+Depois perceba que tem um campo chamado maintaince, nele coloque o valor definido, no: POSTGRES_DB, no nosso caso foi o root.
+
+E perceba que as configurações feitas no ./migration/docker-database-initial, já estão lá presentes.
