@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Go lang/Web/Docker.md",
+                "file": "Cursos/Alura Hub/Go lang/Web/GORM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "GORM"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "bdbb9279eb0c012a",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Go lang/Web/Requisição filtrada.md",
     "Cursos/Alura Hub/Go lang/Web/Docker.md",
+    "Cursos/Alura Hub/Go lang/Web/GORM.md",
+    "Cursos/Alura Hub/Go lang/Web/Requisição filtrada.md",
     "Cursos/Alura Hub/Go lang/Web/Gorilla mux.md",
     "Cursos/Alura Hub/Go lang/Postgre/Conexão com Go.md",
     "Cursos/Alura Hub/Go lang/Web/Convenção do MVC.md",
@@ -228,7 +229,6 @@
     "Cursos/Alura Hub/Angular/Dica para código mais organizado.md",
     "Cursos/Alura Hub/Angular/Conectar JSON no TS.md",
     "Escola/Ano 2/Primeiro trimestre/POO/Aula 002 - Estrutura de selação IF, ELIF e ELSE python/Estrutura de selação IF, ELIF e ELSE python.md",
-    "Escola/Ano 2/Primeiro trimestre/POO/Aula 001 - Introdução ao python/Introdução ao Python.md",
     "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC/capa.png",
     "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC",
     "Blogs/Ideias para você",
