@@ -60,3 +60,24 @@ var personalidade models.Personalidade
 database.DB.First(&personalidade, id)
 ```
 Encontra a primeira personalidade com o mesmo id.
+# Inserir item numa tabela
+## Método POST - Gorilla Mux
+```go
+r.HandleFunc("/api/personalidades", controllers.CriaUmaNovaPersonalidade).Methods("POST")
+```
+## Criando função
+```go
+func CriaUmaNovaPersonalidade(w http.ResponseWriter, r *http.Request) {
+
+    var personalidade models.Personalidade
+
+    json.NewDecoder(r.Body).Decode(&personalidade)
+
+    database.DB.Create(&personalidade)
+
+    json.NewEncoder(w).Encode(personalidade)
+
+}
+```
+Não se esqueça de colocar o &, no DB create, isso faz com que ele colocará todos os dados faltantes que você não prencheu na tabela.
+O r.Body, é o corpo da requisição, por exemplo, no postman, podemos colocar em Body, um raw no formato JSON, e esse JSON é colocado no r.Body, que é convertido no tipo estruturado.
