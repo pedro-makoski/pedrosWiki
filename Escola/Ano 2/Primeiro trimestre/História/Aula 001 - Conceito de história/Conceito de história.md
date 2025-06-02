@@ -27,4 +27,4 @@ A partir de uma única concentração única e instável que explodiu e virou o 
 E = MC^2, - matéria em energia e vice-versa.
 A terra foi formada aos poucos, a terra possuí o núcleo líquido. 
 Há 4 milhões de anos atrás, já temos registro de hôminidios. 
-DNA mitocondrial - explica a origem dos seres humanos 
+DNA mitocondrial - explica a origem dos seres humanos. A partir de uma Eva genética que deu origem a todos os humanos. 

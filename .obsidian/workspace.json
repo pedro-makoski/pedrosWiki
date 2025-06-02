@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "614422214f47e46a",
+        "id": "713080c41bc8b5d0",
         "type": "tabs",
         "children": [
           {
-            "id": "bdbb9279eb0c012a",
+            "id": "fa5bbb5aa03b5e0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Go lang/Web/GORM.md",
+                "file": "Escola/Ano 2/Primeiro trimestre/História/Aula 004 - Povos africanos/Povos Antigos da Africa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GORM"
+              "title": "Povos Antigos da Africa"
             }
           }
         ]
@@ -201,10 +201,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdbb9279eb0c012a",
+  "active": "fa5bbb5aa03b5e0e",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Go lang/Web/Docker.md",
+    "Escola/Ano 2/Primeiro trimestre/História/Untitled.md",
+    "Escola/Ano 2/Primeiro trimestre/História/Aula 003 - Inovações do humano/Inovações do humano.md",
+    "Escola/Ano 2/Primeiro trimestre/História/Aula 002 - Povos do oriente médio/Povos do oriente médio.md",
+    "Escola/Ano 2/Primeiro trimestre/História/Aula 001 - Conceito de história/Conceito de história.md",
+    "Escola/Ano 2/Primeiro trimestre/História/Aula 004 - Povos africanos/Povos Antigos da Africa.md",
+    "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC/desktop.ini",
+    "Cursos/Alura Hub/Git e GitHub/desktop.ini",
+    "Cursos/HTML, CSS & JS/Aulas/Projeto Android/desktop.ini",
+    "Cursos/HTML, CSS & JS/Aulas/Modelo de caixas ou box-model/desktop.ini",
+    "Cursos/HTML, CSS & JS/Desenvolvimento web basico/Dot Net/desktop.ini",
+    "Cursos/HTML, CSS & JS/Desenvolvimento web basico/BootStrap/desktop.ini",
+    "Cursos/Back end/Imersão Backend Alura/desktop.ini",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Geografia/Aula 4 - Orientação no espaço geográfico/desktop.ini",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Geografia/Aula 5 - Escala/desktop.ini",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 4 - gêneros literários/desktop.ini",
     "Cursos/Alura Hub/Go lang/Web/GORM.md",
+    "Cursos/Alura Hub/Go lang/Web/Docker.md",
     "Cursos/Alura Hub/Go lang/Web/Requisição filtrada.md",
     "Cursos/Alura Hub/Go lang/Web/Gorilla mux.md",
     "Cursos/Alura Hub/Go lang/Postgre/Conexão com Go.md",
@@ -224,25 +239,10 @@
     "Cursos/Back end/Go lang/Atalho na criação da parte main.md",
     "Cursos/Back end/Go lang/Go mod init.md",
     "Cursos/Back end/Go lang/O que é ORM.md",
-    "Cursos/Alura Hub/Angular/Two Way Binding.md",
-    "Cursos/Alura Hub/Angular/NgFor.md",
-    "Cursos/Alura Hub/Angular/Dica para código mais organizado.md",
-    "Cursos/Alura Hub/Angular/Conectar JSON no TS.md",
-    "Escola/Ano 2/Primeiro trimestre/POO/Aula 002 - Estrutura de selação IF, ELIF e ELSE python/Estrutura de selação IF, ELIF e ELSE python.md",
     "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC/capa.png",
-    "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC",
-    "Blogs/Ideias para você",
-    "Blogs",
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 004 - Comandos no SQL",
     "WhatsApp Image 2025-05-17 at 14.17.30.jpeg",
     "WhatsApp Image 2025-05-17 at 13.56.49 1.jpeg",
     "WhatsApp Image 2025-05-17 at 13.56.49.jpeg",
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 003 - Modelo de entidade e relacionamento",
-    "estudos/desktop.ini",
-    "estudos/Cursos/Alura Hub/TS/Untitled/desktop.ini",
-    "[estudos/Cursos/Cursos/Alura Hub/Go lang/A base/desktop.ini",
-    "notion-bakcup/02/01/Aba pessoal/Estudos/Escola 2024/Matérias que temos no IFPR campus colombo primeiro ano/Artes I/desktop.ini",
-    "notion-bakcup/02/01/Aba pessoal/Estudos/Escola 2024/Matérias que temos no IFPR campus colombo primeiro ano/AOC(arquitetura e organização de Computadores)/desktop.ini",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/formula-estrutural-triglicerídeo(1).jpg",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Untitled.canvas",
