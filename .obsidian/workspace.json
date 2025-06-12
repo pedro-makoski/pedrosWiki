@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Angular/Formulários Angular.md",
+                "file": "Cursos/Alura Hub/Angular/Evento de submissão de formulário data bynding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Formulários Angular"
+              "title": "Evento de submissão de formulário data bynding"
             }
           }
         ]
@@ -203,8 +203,9 @@
   },
   "active": "7795384a7f1e2431",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Angular/Componentes.md",
     "Cursos/Alura Hub/Angular/Formulários Angular.md",
+    "Cursos/Alura Hub/Angular/Evento de submissão de formulário data bynding.md",
+    "Cursos/Alura Hub/Angular/Componentes.md",
     "Cursos/Alura Hub/Angular/Conectar JSON no TS.md",
     "Cursos/Alura Hub/Angular/Controle de fluxo - for.md",
     "Cursos/Alura Hub/Angular/Dica para código mais organizado.md",
@@ -245,7 +246,6 @@
     "Escola/Ano 2/Primeiro trimestre/História/Aula 004 - Povos africanos/Povos Antigos da Africa.md",
     "Escola/Ano 2/Primeiro trimestre/História/Aula 002 - Povos do oriente médio/Povos do oriente médio.md",
     "Escola/Ano 2/Primeiro trimestre/História/Aula 001 - Conceito de história/Conceito de história.md",
-    "Escola/Ano 2/Primeiro trimestre/História/Untitled.md",
     "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC/desktop.ini",
     "Cursos/Alura Hub/Git e GitHub/desktop.ini",
     "Cursos/HTML, CSS & JS/Aulas/Projeto Android/desktop.ini",
