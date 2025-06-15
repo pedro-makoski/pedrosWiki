@@ -15,4 +15,4 @@
 15. Defina um verbo fixo para cada caso e continue nele. Por exemplo, evite criar funções com nomes como get e fetch, onde get e fetch tem o mesmo sentido,  escolha um verbo e seja feliz com ele.
 16. Evite usar verbos iguais para sentidos diferentes. 
 17. Selecione nomes técnicos para programadores, não para outras áreas.
-18. Adicione contextos as variáveis. Evite colocar nomes que sem contexto não fazem sentido, coloque eles a uma classe, namespace, tipo estruturado, prefixo do nome ou afim para colocar um contexto a variável.
+18. Adicione contextos as variáveis. Evite colocar nomes que sem contexto não fazem sentido, coloque eles a uma classe, namespace, tipo estruturado, prefixo do nome ou afim para colocar um contexto a variável.                          

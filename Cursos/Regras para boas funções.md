@@ -1,0 +1,18 @@
+- Funções pequenas, e com um único proposito. 
+- Blocos de identação em while, if e else, devem ter apenas uma linha. 
+- As funções devem fazer apenas uma coisa. E deve faze-la bem. 
+- As funções devem ser indivisiveis, ao menos que apenas seja uma reformulação da função atual. 
+- Um nível de abstração por função. Ou seja, não coloque coisas simples de se fazer junto com coisas complexas. Tipo um append de uma função junto com uma que renderiza um HTML.
+- A cada função mais em baixo, a abstração diminui. Ou seja, a função de cima chama as funções de baixo. 
+- Evite no máximo de passar de dois parâmetros na função. 
+- Quando a função é de um parâmetro, ela deve seguir uma dessas formas, normalmente:
+	- Retorna um booleano sobre o parâmetro
+	- Trabalha com o parâmetro e retorna algo relacionado 
+	- Cria um evento sobre o parâmetro.
+- A função normalmente deve evitar a alteração de um dado do parâmetro sem realizar um retorno. Coloque retornos ao invés de parâmetro de saída.
+- A função não pode ter como parâmetro um booleano que diz se a função deve fazer algo ou fazer outro, pois isso indica que ela faz de mais uma coisa.
+- Quando certos parâmetros de uma função pertence a um contexto único e não relacionado a outros da função, ele deve participar de um objeto próprio, agrupando os parâmetros.
+- Evite funções que fazem coisas que ela não deve fazer. Evite funções com efeitos colaterais.
+- Ou uma função faz algo sobre um dado, ou te dá uma status sobre algo, mas não pode ser os dois juntos. 
+- Evite funções que retornam um erro(exceto no Go), utilize excessões ao invés. 
+- Tratamento de erros ao realizar uma função, é uma coisa só.

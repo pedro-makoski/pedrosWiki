@@ -13,13 +13,23 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Regras para ter bons nomes.md",
+                "file": "Cursos/Regras para boas funções.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Regras para ter bons nomes"
+              "title": "Regras para boas funções"
+            }
+          },
+          {
+            "id": "1021f5f61a124d10",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -203,8 +213,20 @@
   },
   "active": "7795384a7f1e2431",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Angular/Rotas.md",
+    "Cursos/Regras para boas funções.md",
     "Cursos/Regras para ter bons nomes.md",
+    "Untitled Kanban.md",
+    "Blogs/Atualizações/Arte-Ascii/desktop.ini",
+    "Blogs/Como fazer/desktop.ini",
+    "Blogs/Ideias para você/desktop.ini",
+    "Blogs/desktop.ini",
+    "Cursos/Intensivão Full Stack hashtag/desktop.ini",
+    "Cursos/Alura Hub/TS/Orientação a objetos/desktop.ini",
+    "Cursos/Alura Hub/Go lang/Web/desktop.ini",
+    "Cursos/Alura Hub/Go lang/A base/desktop.ini",
+    "Cursos/Alura Hub/Go lang/Código bom/desktop.ini",
+    "Cursos/Alura Hub/JS/desktop.ini",
+    "Cursos/Alura Hub/Angular/Rotas.md",
     "Cursos/Alura Hub/Angular/Validators dos formulários.md",
     "Cursos/Alura Hub/Angular/Evento de submissão de formulário data bynding.md",
     "Cursos/Alura Hub/Angular/Formulários Angular.md",
@@ -224,11 +246,8 @@
     "Blogs/Ideias para você/Novo jogo/capa.png",
     "Blogs/Atualizações/Arte-Ascii/matpixel.png",
     "Blogs/Como fazer/MMC/Como calcular o MMC e o MDC de certos valores e números.md",
-    "Blogs/Ideias para você/Novo jogo",
-    "Blogs/Ideias para v",
     "Blogs/Como fazer/MMC/capa.png",
     "Blogs/Atualizações/Arte-Ascii/Crie artes de texto em ASCII.md",
-    "Blogs/Como fazer/MMC",
     "Blogs/Atualizações/Arte-Ascii/exemplo2.png",
     "Blogs/Atualizações/Arte-Ascii/capa.png",
     "Blogs/Atualizações/Untitled.md",
@@ -239,16 +258,7 @@
     "WhatsApp Image 2025-05-17 at 13.56.49.jpeg",
     "Untitled.md",
     "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC/capa.png",
-    "Blogs/Atualizações/desktop.ini",
-    "Blogs/Atualizações/Arte-Ascii",
-    "Blogs/Atualizações",
     "Blogs/Como fazer/Matriz.md",
-    "Blogs/Como fazer/Matriz latex.md",
-    "Blogs/Como fazer",
-    "Cursos/Alura Hub/Go lang/Web/Método delete.md",
-    "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC/desktop.ini",
-    "Cursos/Alura Hub/Git e GitHub/desktop.ini",
-    "Cursos/HTML, CSS & JS/Aulas/Projeto Android/desktop.ini",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Untitled.canvas",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Artes/Aula 2 - arte rupestre/Arte-rupestre.canvas",
