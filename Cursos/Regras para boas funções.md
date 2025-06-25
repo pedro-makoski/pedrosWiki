@@ -16,3 +16,4 @@
 - Ou uma função faz algo sobre um dado, ou te dá uma status sobre algo, mas não pode ser os dois juntos. 
 - Evite funções que retornam um erro(exceto no Go), utilize excessões ao invés. 
 - Tratamento de erros ao realizar uma função, é uma coisa só.
+- Evite ultrapassar 120 caracteres por linha.

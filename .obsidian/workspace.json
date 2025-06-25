@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Angular/Como resetar um formulário.md",
+                "file": "Cursos/Alura Hub/Devops/Do que se trata devops.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Como resetar um formulário"
+              "title": "Do que se trata devops"
             }
           },
           {
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "formulários",
+                "query": "FII",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,10 +213,19 @@
   },
   "active": "7795384a7f1e2431",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Angular/Redicionando via TS.md",
-    "Cursos/Alura Hub/Angular/Como resetar um formulário.md",
-    "Cursos/Alura Hub/Angular/Generate interface.md",
+    "Blogs/Atualizações/Math-Market/Math Market.md",
+    "Cursos/Alura Hub/Devops/Do que se trata devops.md",
+    "Cursos/Alura Hub/Devops",
+    "Blogs/Atualizações/Math-Market/imagem_exemplo.png",
+    "Blogs/Atualizações/Math-Market/capa_math_market.png",
+    "Cursos/Investimentos/Youtube/FIIs/Dicas para pesquisas e investir em FIIs - critérios.md",
+    "Blogs/Atualizações/Math-Market",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/Artes/Aula 2 - arte rupestre/Arte rupestre - Pinturas rupestre.md",
+    "Cursos/Investimentos/Youtube/Primo rico/12 erros que todo investidor iniciante comete.md",
     "Cursos/Regras para boas funções.md",
+    "Cursos/Alura Hub/Angular/Como resetar um formulário.md",
+    "Cursos/Alura Hub/Angular/Redicionando via TS.md",
+    "Cursos/Alura Hub/Angular/Generate interface.md",
     "Cursos/Alura Hub/Angular/ngOnInit.md",
     "Cursos/Alura Hub/Angular/Services e injection.md",
     "Cursos/Regras para ter bons nomes.md",
@@ -229,8 +238,6 @@
     "Cursos/Alura Hub/TS/Orientação a objetos/desktop.ini",
     "Cursos/Alura Hub/Go lang/Web/desktop.ini",
     "Cursos/Alura Hub/Go lang/A base/desktop.ini",
-    "Cursos/Alura Hub/Go lang/Código bom/desktop.ini",
-    "Cursos/Alura Hub/JS/desktop.ini",
     "Cursos/Alura Hub/Angular/Rotas.md",
     "Cursos/Alura Hub/Angular/Validators dos formulários.md",
     "Cursos/Alura Hub/Angular/Evento de submissão de formulário data bynding.md",
@@ -244,21 +251,14 @@
     "Cursos/Alura Hub/Angular/O que é Angular CLI.md",
     "Cursos/Alura Hub/Go lang/Web/GORM.md",
     "Cursos/Alura Hub/Go lang/Web/Gorm ORM.md",
-    "Cursos/Alura Hub/Go lang/Web/Editando usando o GORM.md",
-    "Cursos/Alura Hub/Go lang/Web/Alterando o tipo de resposta.md",
-    "Cursos/Alura Hub/Go lang/Web/CORS.md",
-    "Blogs/Ideias para você/Novo jogo/Apreenda Matemática se divertindo com MatPixel.md",
     "Blogs/Ideias para você/Novo jogo/capa.png",
     "Blogs/Atualizações/Arte-Ascii/matpixel.png",
-    "Blogs/Como fazer/MMC/Como calcular o MMC e o MDC de certos valores e números.md",
     "Blogs/Como fazer/MMC/capa.png",
     "Blogs/Atualizações/Arte-Ascii/exemplo2.png",
     "Blogs/Atualizações/Arte-Ascii/capa.png",
     "Escola/Pasted image 20250604131619.png",
     "WhatsApp Image 2025-05-17 at 14.17.30.jpeg",
     "WhatsApp Image 2025-05-17 at 13.56.49 1.jpeg",
-    "WhatsApp Image 2025-05-17 at 13.56.49.jpeg",
-    "Blogs/Ideias para você/Entenda mais sua situação corporal através do IMC/capa.png",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Untitled.canvas",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Artes/Aula 2 - arte rupestre/Arte-rupestre.canvas",
