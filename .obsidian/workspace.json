@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Go lang/Gin/Criando uma rota em Go.md",
+                "file": "Cursos/Alura Hub/Go lang/Gin/Query Params no Gin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Criando uma rota em Go"
+              "title": "Query Params no Gin"
             }
           },
           {
@@ -213,8 +213,9 @@
   },
   "active": "7795384a7f1e2431",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Go lang/Gin/Rodando um servidor.md",
     "Cursos/Alura Hub/Go lang/Gin/Criando uma rota em Go.md",
+    "Cursos/Alura Hub/Go lang/Gin/Query Params no Gin.md",
+    "Cursos/Alura Hub/Go lang/Gin/Rodando um servidor.md",
     "Cursos/Alura Hub/Go lang/Gin/Baixar gin.md",
     "Cursos/Alura Hub/Go lang/Gin/Saiba mais em.md",
     "Cursos/Alura Hub/Go lang/Untitled.md",
@@ -250,7 +251,6 @@
     "Cursos/Alura Hub/Angular/Componentes.md",
     "Cursos/Alura Hub/Angular/Conectar JSON no TS.md",
     "Cursos/Alura Hub/Angular/Controle de fluxo - for.md",
-    "Cursos/Alura Hub/Angular/Dica para código mais organizado.md",
     "Blogs/Ideias para você/Novo jogo/capa.png",
     "Blogs/Atualizações/Arte-Ascii/matpixel.png",
     "Blogs/Como fazer/MMC/capa.png",
