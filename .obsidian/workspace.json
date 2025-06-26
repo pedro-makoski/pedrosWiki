@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Devops/Do que se trata devops.md",
+                "file": "Cursos/Alura Hub/Go lang/Gin/Criando uma rota em Go.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Do que se trata devops"
+              "title": "Criando uma rota em Go"
             }
           },
           {
@@ -213,8 +213,14 @@
   },
   "active": "7795384a7f1e2431",
   "lastOpenFiles": [
-    "Blogs/Atualizações/Math-Market/Math Market.md",
+    "Cursos/Alura Hub/Go lang/Gin/Rodando um servidor.md",
+    "Cursos/Alura Hub/Go lang/Gin/Criando uma rota em Go.md",
+    "Cursos/Alura Hub/Go lang/Gin/Baixar gin.md",
+    "Cursos/Alura Hub/Go lang/Gin/Saiba mais em.md",
+    "Cursos/Alura Hub/Go lang/Untitled.md",
+    "Cursos/Alura Hub/Go lang/Gin",
     "Cursos/Alura Hub/Devops/Do que se trata devops.md",
+    "Blogs/Atualizações/Math-Market/Math Market.md",
     "Cursos/Alura Hub/Devops",
     "Blogs/Atualizações/Math-Market/imagem_exemplo.png",
     "Blogs/Atualizações/Math-Market/capa_math_market.png",
@@ -237,7 +243,6 @@
     "Cursos/Intensivão Full Stack hashtag/desktop.ini",
     "Cursos/Alura Hub/TS/Orientação a objetos/desktop.ini",
     "Cursos/Alura Hub/Go lang/Web/desktop.ini",
-    "Cursos/Alura Hub/Go lang/A base/desktop.ini",
     "Cursos/Alura Hub/Angular/Rotas.md",
     "Cursos/Alura Hub/Angular/Validators dos formulários.md",
     "Cursos/Alura Hub/Angular/Evento de submissão de formulário data bynding.md",
@@ -246,11 +251,6 @@
     "Cursos/Alura Hub/Angular/Conectar JSON no TS.md",
     "Cursos/Alura Hub/Angular/Controle de fluxo - for.md",
     "Cursos/Alura Hub/Angular/Dica para código mais organizado.md",
-    "Cursos/Alura Hub/Angular/Estilos no Angular.md",
-    "Cursos/Alura Hub/Angular/Instalar o Angular CLI.md",
-    "Cursos/Alura Hub/Angular/O que é Angular CLI.md",
-    "Cursos/Alura Hub/Go lang/Web/GORM.md",
-    "Cursos/Alura Hub/Go lang/Web/Gorm ORM.md",
     "Blogs/Ideias para você/Novo jogo/capa.png",
     "Blogs/Atualizações/Arte-Ascii/matpixel.png",
     "Blogs/Como fazer/MMC/capa.png",
