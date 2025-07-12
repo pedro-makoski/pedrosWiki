@@ -156,3 +156,113 @@ export const getRoomsRoute: FastifyPluginCallbackZod= async (app) => {
     })
 }
 ```
+
+# Formulários
+```ts
+import { useForm } from "react-hook-form";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./ui/card";
+import { z } from 'zod/v4'
+import { zodResolver } from '@hookform/resolvers/zod'
+import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from "./ui/form";
+import { Input } from "./ui/input";
+import { Textarea } from "./ui/textarea";
+import { Button } from "./ui/button";
+import { useCreateRoom } from "@/http/use-create-room";
+
+
+const createRoomSchema = z.object({
+    name: z.string().min(3, { message: "Inclua no mínimo 3 caracteres"}),
+    description: z.string()
+})
+
+type CreateRoomFormData = z.infer<typeof createRoomSchema>
+
+export function CreateRoomForm() {
+    const { mutateAsync: createRoom } = useCreateRoom()
+
+    const createRoomForm = useForm<CreateRoomFormData>({
+        resolver: zodResolver(createRoomSchema),
+        defaultValues: {
+            name: "",
+            description: "  "
+        }
+    })
+
+    async function handleCreateRoom({name, description}: CreateRoomFormData) {
+        await createRoom({name, description})
+        
+        createRoomForm.reset()
+    }
+
+    return (
+        <Card>
+            <CardHeader>
+                <CardTitle>
+                    Criar sala
+                </CardTitle>
+                <CardDescription>
+                    Crie uma nova sala para começar a fazer perguntas as respostas de I.A.
+                </CardDescription>
+            </CardHeader>
+            <CardContent>
+                <Form {...createRoomForm}>
+                    <form className="flex flex-col gap-4" onSubmit={createRoomForm.handleSubmit(handleCreateRoom)}>
+                        <FormField control={createRoomForm.control} name="name" render={({ field }) => {
+                            return <FormItem>
+                                <FormLabel>Nome da sala</FormLabel>
+                                <FormControl>
+                                    <Input {...field} placeholder="Digite o nome da sala"/>
+                                </FormControl>
+                                <FormMessage></FormMessage>
+                            </FormItem>
+                        }}></FormField>
+                        <FormField control={createRoomForm.control} name="description" render={({ field }) => {
+                            return <FormItem>
+                                <FormLabel>Descrição</FormLabel>
+                                <FormControl>
+                                    <Textarea {...field}/>
+                                </FormControl>
+                                <FormMessage></FormMessage>
+                            </FormItem>
+                        }}></FormField>
+
+                        <Button type="submit" className="w-full">Criar sala</Button>
+                    </form>
+                </Form>
+            </CardContent>
+        </Card>
+    )
+}
+```
+# Usando o método o POST
+Diferente do GET que se usa o useQuery, no POST e afins usa-se o useMutation.
+```ts
+import { useMutation, useQueryClient } from "@tanstack/react-query";
+import type { CreateRoomResponse } from "./types/create-room-response";
+import type { createRoomRequest } from "./types/create-room-request";
+
+export function useCreateRoom() {
+    const queryClient = useQueryClient()
+
+    return useMutation({
+        mutationFn: async (data: createRoomRequest) => {
+            const response = await fetch('http://localhost:3333/rooms', {
+                method: "POST",
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+
+            const result: CreateRoomResponse = await response.json()
+
+            return result
+        },
+
+        onSuccess: () => {
+            queryClient.invalidateQueries({queryKey: ["get-rooms"]})//Quando der sucesso ele pede pare recarregar o query com esse key.
+        }
+    })
+}
+
+```
