@@ -24,5 +24,32 @@ A gordura animal é saturada, e óleo vegetal é insaturado.
 #### Hidrogenação
 Colocar o hidrogênio, e quebra a insaturação do óleo da planta. A gordura trans vem dai, que é quando não é perfeitamente quebrado a insaturação. E para melhorar isso é feito um espelhamento com a gordura CIS. Mas a gordura insaturada ainda permanece.  
 ## Fosfolídeos 
+São formados por duas moléculas de ácidos graxos, uma delas contem fosfato ligados a uma molécula de glicerol. 
+
+    OH                                              |
+	|                                                   |                   > Fosfato   
+o = p - oh                                   |                
+      |                                           |
+CH2 - CH - CH2 > Glicerol
+|            |                                |
+O          O                               | 
+|            |                                |
+C = O   O                               |
+|             |                               |
+O           C = O                       | > Áciidos graxos
+|             |                               |
+C = O     O                             |
+|              |                              |                  
+O             C = O                     |
+.               .                             |
+.               .                             |
+.               .                             |
+![[2b2a49770b4e04bbc81a15b09381c3bc26bb8979.png]]
+Essa cabeça é hidrofílica(interage com a água) já a cauda é hidrofóbica(não interage com a água). 
+### Fosfolipídios e membrana plasmática
+A membrana plasmática e todas as membranas celulares são formados por duas camadas de fosfolipídios, onde estão imersas algumas proteínas -> membranas lisopoproteicos. 
+### Bicamade de fosfolipídios
+![[9115f95990eca82b10f2111a83db4e1e96a29f8c.png]]
+No meio tem água e fora tem água também. 
 ## Cerídios
 ## Esteroides
