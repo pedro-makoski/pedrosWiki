@@ -141,7 +141,30 @@ Surgiu a partir do ultrarromantismo.
 ### Literaturas
 - O gato preto - Edgar Allan Poe
 - A igreja do diabo - Machado de Assis
-
+# Romantismo 3º geração - geração condoreira
+- O Transicional entre o romantismo e o realismo/naturalismo
+- Teve como um dos autores - Machado de Assis
+- Nome baseado na Condor - ave gigantesca, visão aguçada. 
+- Abolicionismo - presença do negro. Tentativa de acabar com a escravização do país. 
+- Ocorreu entre 1870 e 1880. Visão de liberdade e uma visão mais ampla de criticas sociais
+	- Desde 1500 de 1870 nunca houve uma produção brasileira de criticas sóciais
+- Tentaram a popularização da literatura. Pelo fato dos nobres não quererem ler críticas a eles mesmos
+## Autores
+- Vitor-marie Hugo(1802-1885)
+	- Os miseráveis - 1862
+	- Notre Dame de Paris - 1831
+	- Influenciou autores como Albert Camus, Charles Dickens e outros
+- Castro Alvez - navio negreiro 
+- Joaquim De Souza Andrade - O Guessa
+- Joaquim Nabuco - Abolicionismo, escravos
+- Silveira de Romero: cantos do fim do século
+## Características
+- Erotismo
+- Pecado - sexual
+- Liberdade - escravidão
+- Abolicionismo 
+- Realidade Social
+- Negação do Amor platônico
 # Termos
 Regia - do Rei.
 Imprensa regia - imprensa do rei. 
