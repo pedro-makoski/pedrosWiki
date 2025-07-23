@@ -1,0 +1,8 @@
+- São formados essencialmente por carbono(C), oxigênio(O), nitrogênio(N), hidrogênio(H), e alguns podem conter enxofre. 
+- São macromoléculas formadas pela união de várias menores(os aminoácidos).
+- As proteínas participam da composição plástica de muitas estruturas dos seres vivos.
+- Podem também ter funções energéticas.
+- Além disso as proteínas desempenham outras importantes funções tais como:
+	- **Enzimas**: aumentam a velocidade das reações químicas
+	- **Anticorpos**: proteínas que participam dos mecanismos de defesa do corpo. 
+	- **Hormônios**: como a a insulina e o glucagom. 
