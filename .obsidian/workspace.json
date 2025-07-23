@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Proteínas.md",
+                "file": "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Ácidos nucleícos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Proteínas"
+              "title": "Ácidos nucleícos"
             }
           }
         ],
@@ -217,8 +217,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6aed108f39523b8b",
+  "active": "6bbbc5f01df37320",
   "lastOpenFiles": [
+    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/nucleotideo.webp",
+    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Proteínas.md",
+    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Ácidos nucleícos.md",
     "images (2).jpg",
     "Pasted image 20250723120852.png",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Pasted image 20250723120840.png",
@@ -227,7 +230,6 @@
     "Formação ligação peptídica.png",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/estrutura-do-aminoacido.webp",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Lípidios.md",
-    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Proteínas.md",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/9115f95990eca82b10f2111a83db4e1e96a29f8c.png",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/2b2a49770b4e04bbc81a15b09381c3bc26bb8979.png",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Carboidratos.md",
@@ -248,7 +250,6 @@
     "Blogs/Atualizações/Math-Market/Math Market.md",
     "Cursos/Alura Hub/Devops",
     "Blogs/Atualizações/Math-Market/imagem_exemplo.png",
-    "Blogs/Atualizações/Math-Market/capa_math_market.png",
     "Cursos/Investimentos/Youtube/FIIs/Dicas para pesquisas e investir em FIIs - critérios.md",
     "Blogs/Atualizações/Math-Market",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Artes/Aula 2 - arte rupestre/Arte rupestre - Pinturas rupestre.md",
@@ -258,7 +259,6 @@
     "Cursos/Alura Hub/Angular/Redicionando via TS.md",
     "Cursos/Alura Hub/Angular/Generate interface.md",
     "Cursos/Alura Hub/Angular/ngOnInit.md",
-    "Cursos/Alura Hub/Angular/Services e injection.md",
     "Blogs/Atualizações/Arte-Ascii/desktop.ini",
     "Blogs/Como fazer/desktop.ini",
     "Blogs/Ideias para você/desktop.ini",
