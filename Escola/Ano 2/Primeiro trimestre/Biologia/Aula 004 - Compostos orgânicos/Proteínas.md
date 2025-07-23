@@ -59,4 +59,14 @@ Quando duas ou mais cadeias se unem para formar uma proteína.
 			- Cascina 
 			- Colâgeno 
 # Enzimas
+As reações biológicas são pouco espontâneas, e muito lenta. Ou seja, os reagentes podem não interagir, e caso a interação ocorra, a velocidade da reação, pode ser muito lenta. Uma das formas de aumentar a probabilidade de interação entre os reagentes é aumentar a temperatura. Risco de desnaturação em células. As enzimas conseguem aumentar a velocidade das reações químicas, que ocorrem nas células porque diminuem a energia de ativação necessária para reação.
 
+Mesmo tendo o mesmo DNA, as células produzem proteínas diferentes, pois para produzir a proteína é usado partes do DNA diferentes. 
+![[enzimas.jpg]]
+Os enzimas são altamente específicos para cada quebra.
+
+## Fatores que influenciam a atividade enzimática 
+Temperatura:
+![[Pasted image 20250723120840.png]]
+ph:
+![[images (2).jpg]]
