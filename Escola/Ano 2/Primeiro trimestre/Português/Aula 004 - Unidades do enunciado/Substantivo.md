@@ -47,6 +47,8 @@ Sobrecomuns -> Só um gênero
 ## Mais detalhes
 Toda palavra substantivada é masculina
 O significado pode variar de acordo se é masculino ou feminino. 
+## Substantivos uniformes
+Possuem apenas uma forma para os dois gêneros.
 # Variação do grau
 Significação aumenta ou diminui, auxiliado por sufixos derivacionais. 
 Homemzarrão e homezinho, por exemplo, são formas derivadas, não flexão dela. 
