@@ -29,3 +29,34 @@ Esse Grupo R ou radical vária entre os aminoácidos.
 # Ligação peptídica 
 Ligação que une os aminoácidos
 ![[Formação ligação peptídica.png]]
+# Estrutura da proteína
+![[newsOs-diferentes-tipos-de-estruturas-das-proteinas[1].jpg]]
+## Estrutura primária
+Sequencia linear de aminoácidos determinados geneticamente. 
+VAL - HIS - LEU - TRE
+## Estruturas secundárias e terciárias
+A molécula de proteína apresenta dobramentos e enrolamentos determinados por atrações químicas entre os aminoácidos. Estes dobramentos conferem uma uma forma tridimensional ás proteínas
+## Estrutura quartenária
+Quando duas ou mais cadeias se unem para formar uma proteína. 
+
+- Alterações genéticas podem determinar mudanças nos aminoácidos e na forma tridimensional da proteína
+- A forma tridimensional da proteína pode determinar sua função
+- Outros fatores podem determinar alterações alterações na forma da proteína, como, por exemplo o aumento da temperatura - desnaturação.
+- As proteínas podem ser classificadas em
+	- Simples: somente aminoácidos, na sua estrutura
+	- Conjugados: aminoácidos + grupo prestético
+		- As proteínas conjugados são classificados em:
+			- Cromoproteinas
+			- Lipoproteínas 
+			- Glicoproteínas 
+			- Núcleo proteínas
+		- Exemplos de proteínas:
+			- Insulina
+			- Globina
+			- Albumina
+			- Fibrinogenico  
+			- Queratina 
+			- Cascina 
+			- Colâgeno 
+# Enzimas
+
