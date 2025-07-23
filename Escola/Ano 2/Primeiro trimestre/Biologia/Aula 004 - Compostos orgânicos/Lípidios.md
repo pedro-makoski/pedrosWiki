@@ -52,4 +52,6 @@ A membrana plasmática e todas as membranas celulares são formados por duas cam
 ![[9115f95990eca82b10f2111a83db4e1e96a29f8c.png]]
 No meio tem água e fora tem água também. 
 ## Cerídios
+São as ceras. Em plantas as ceras impermeabilizam a superfície de folhas e frutos. Afim de evitar a evaporação da água. 
+Animais como abelhas produzem a cera para a construção de suas colmeias.
 ## Esteroides
