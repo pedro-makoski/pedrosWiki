@@ -26,3 +26,6 @@
 |                        | Tirosina             |
 Todos os aminoácidos possuem uma parte em comum, em suas moléculas, um agrupamento amino(NH2) e um agrupamento carboxila ou ácido.![[estrutura-do-aminoacido.webp]]
 Esse Grupo R ou radical vária entre os aminoácidos.
+# Ligação peptídica 
+Ligação que une os aminoácidos
+![[Formação ligação peptídica.png]]
