@@ -1,0 +1,23 @@
+- Marcado pela oralidade
+- Dialogo entre duas ou mais pessoas
+- Entrevistador(es) x entrevistado(s)
+- O principal objetivo é declarar informações, sobre determinado assunto ou extrair.
+- Formatos: 
+	- Jornalistica
+	- De emprego
+	- Psicológia
+	- Social
+	- ETC
+- Podem participar de outros textos jornalísticos, ex: notícia e reportagem. 
+- Discurso direto
+- Debate
+# Função Social
+- Difusão de conhecimento 
+- Formação de opinião(debate)
+- Posicionamento crítico da sociedade
+# Características
+- Textos informativos, ou opinativos
+- Presença de entrevistador e entrevistado.  
+- Linguagem dialógica e oral.
+- Marca do discurso direto e da subjetividade
+- Linguagem formal e informal, juntas mesclados. 
