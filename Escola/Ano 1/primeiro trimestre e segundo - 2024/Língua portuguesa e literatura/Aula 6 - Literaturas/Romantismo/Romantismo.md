@@ -111,6 +111,36 @@ Faleceu aos 21 anos de tuberculose, escreveu a respeito da passagem do tempo, do
 	- Coloquialismo
 	- Liberdade criativa: conteúdo mais importante que a forma
 	- Inadequações gramaticais. Verso livre
+## Literatura gótica
+Surgiu a partir do ultrarromantismo. 
+- Mistério e obscurantismo 
+- Contradições aos costumes, tradições e cultura da sociedade
+- Contracultura, cultura marginal
+- satanismo
+- Loucura, terror psicológico
+- Simbologia - terror - suspense - monstros - etc 
+- Fantasia - literatura fantástica - sobrenatural
+	- Monstros, vampiros, lobisomens e etc.
+- Metafísica(anormal)
+	- Fora do que a ciência pode explicar
+- Sentimentalismo profundo
+	- Se ama, ama para valer
+	- Se fica triste, fica triste para valer
+- Simbologia
+	- Símbolos com sentidos obscuros
+- Terror e suspense
+- Monstros
+### Autores importantes
+- Charles Baudelaire
+- Lord Byron
+- Edgar Allan Poe
+	- O gato preto
+- Alvarez de Azevedo
+- Augusto dos Anjos
+- Alphonsos de Guimarães 
+### Literaturas
+- O gato preto - Edgar Allan Poe
+- A igreja do diabo - Machado de Assis
 
 # Termos
 Regia - do Rei.
