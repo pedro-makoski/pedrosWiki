@@ -24,3 +24,33 @@ Um conceito a ser pensado, então tanto um fato ou argumento.
 ## Modo performático
 Poético + crítica sócial
 Possui um impacto, quer te fazer chorar. Proximidade com filme de ficção, visão do cineasta. 
+# Roteiro do documentário
+Pode e deve fazer, mas isso depende do:
+- Pesquisa e planejamento
+- Visualização
+- Organizar a estrutura do documentário
+- Redigir o texto
+- Texto: descrever o que será mostrado, as narrações, os diálogos e etc.
+	- Narração: tudo que o espectador, não pode captar diretamente das imagens
+	- Diálogos: Se há pessoas reais, se escreve o que se espera da fala dos atores. 
+## Estrutura
+- Começo: Introdução ao tema, a problemática
+- Meio: Apresentação das dependências
+- Final: resolvendo o conflito
+	- Propostas
+## Tratamento do documentário
+- Lista de objetivos
+	- O quero com esse documentário? O que quero atingir?
+## Dois formatos de roteiro
+### Classico
+Marcações de rubricas(indicações visuais e sonoras no texto), personagens e falas.
+### TV
+Duas colunas: Vídeo e áudio. 
+Video(Ações)
+Aúdio(Falas e sons)
+## Sugestões
+- Pense em imagens, não em texto
+- Mostre tanto a pesquisa quanto os resultados
+- Não escreva um romance, quando você só tem espaço para o conto. 
+- Tome cuidado com as entrevistas, mostre apenas o que comprova o seu viés
+- Filme e vídeo são sempre o aqui e o agora
