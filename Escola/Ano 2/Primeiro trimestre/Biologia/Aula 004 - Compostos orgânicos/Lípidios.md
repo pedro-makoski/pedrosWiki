@@ -55,3 +55,16 @@ No meio tem água e fora tem água também.
 São as ceras. Em plantas as ceras impermeabilizam a superfície de folhas e frutos. Afim de evitar a evaporação da água. 
 Animais como abelhas produzem a cera para a construção de suas colmeias.
 ## Esteroides
+- Grupo quimicamente complexo de lipídios.
+- O esteroide mais abundante nos animais é o colesterol. 
+### Colesterol 
+O colesterol é produzido no fígado. O colesterol participa:
+- Da composição química da membrana plasmática dos animais
+- É precursor dos ácidos biliares
+- É precursor da vitamina D
+- Participa da composição química do hormônio sexual masculino(testosterona)
+- Participa do hormônio sexual feminino(estrogeno). 
+o colesterol pode ser transitório no sangue 
+#### Existem dois tipos de colesterol
+1. HDL: bom colesterol - Lipo proteína de alta densidade 
+2. LDL: mau colesterol - Lipo proteína de baixa densidade - entope os vasos sanguíneos.
