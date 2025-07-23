@@ -89,6 +89,29 @@ Faleceu aos 21 anos de tuberculose, escreveu a respeito da passagem do tempo, do
 	- Amor platônico.
 		- Amor impossível de realizar
 - Poesias com temáticas extremamente geocêntrica e sentimental. 
+- Perspectiva adolescente
+- Pessimismo doentio
+	- Amor que não pudesse ser realizado
+	- Nada de bom se realiza
+	- Morte
+- Tédio pela vida
+	- Não ter vontade de viver
+	- Só querer ficar na cama
+	- Sem vida no futuro, sem perspectiva
+- Obsecados pela morte e descrença de tudo
+	- Como ficavam na cama pessimistas sobre a vida, queriam morrer
+	- Não acreditavam em nenhum tipo de Deus
+- Desilusão e tristeza
+	- Amorosa e na vida em geral
+- Fuga da realidade por meio da morte
+	- Alguns voltam ao passado. Principalmente na infância, quando não tinham sofrimentos
+	- Outros vão para morte fugindo da realidade
+- Quanto a forma
+	- O mais importante é o conteúdo
+	- Coloquialismo
+	- Liberdade criativa: conteúdo mais importante que a forma
+	- Inadequações gramaticais. Verso livre
+
 # Termos
 Regia - do Rei.
 Imprensa regia - imprensa do rei. 
