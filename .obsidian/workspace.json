@@ -4,35 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "e61749c8af53db51",
+        "id": "de5ed9467cf33a52",
         "type": "tabs",
         "children": [
           {
-            "id": "7795384a7f1e2431",
+            "id": "1aecbad7be8ccdea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Go lang/Gin/Query Params no Gin.md",
+                "file": "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Lípidios.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Query Params no Gin"
+              "title": "Lípidios"
             }
           },
           {
-            "id": "1021f5f61a124d10",
+            "id": "6aed108f39523b8b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Carboidratos.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Carboidratos"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,10 +217,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7795384a7f1e2431",
+  "active": "6aed108f39523b8b",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Go lang/Gin/Criando uma rota em Go.md",
+    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 003 - Compostos inorgânicos/Compostos inorgânicos.md",
+    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Lípidios.md",
+    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Carboidratos.md",
+    "Escola/Ano 2/Parte do primeiro trimestre e segundo",
+    "Escola/Ano 1/primeiro trimestre e segundo - 2024/AOC e sistemas operacionais/Aula 3 - Eletrônica digital/Eletrônica digital.md",
+    "Cursos/nlw-rocketseat/aula2.md",
+    "Cursos/nlw-rocketseat/aula3.md",
+    "Cursos/nlw-rocketseat/aula1.md",
     "Cursos/Alura Hub/Go lang/Gin/Query Params no Gin.md",
+    "Cursos/Alura Hub/Go lang/Gin/Criando uma rota em Go.md",
     "Cursos/Alura Hub/Go lang/Gin/Rodando um servidor.md",
     "Cursos/Alura Hub/Go lang/Gin/Baixar gin.md",
     "Cursos/Alura Hub/Go lang/Gin/Saiba mais em.md",
@@ -243,14 +257,6 @@
     "Blogs/desktop.ini",
     "Cursos/Intensivão Full Stack hashtag/desktop.ini",
     "Cursos/Alura Hub/TS/Orientação a objetos/desktop.ini",
-    "Cursos/Alura Hub/Go lang/Web/desktop.ini",
-    "Cursos/Alura Hub/Angular/Rotas.md",
-    "Cursos/Alura Hub/Angular/Validators dos formulários.md",
-    "Cursos/Alura Hub/Angular/Evento de submissão de formulário data bynding.md",
-    "Cursos/Alura Hub/Angular/Formulários Angular.md",
-    "Cursos/Alura Hub/Angular/Componentes.md",
-    "Cursos/Alura Hub/Angular/Conectar JSON no TS.md",
-    "Cursos/Alura Hub/Angular/Controle de fluxo - for.md",
     "Blogs/Ideias para você/Novo jogo/capa.png",
     "Blogs/Atualizações/Arte-Ascii/matpixel.png",
     "Blogs/Como fazer/MMC/capa.png",

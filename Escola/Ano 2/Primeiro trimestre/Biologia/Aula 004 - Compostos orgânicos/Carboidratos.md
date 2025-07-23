@@ -18,6 +18,10 @@ Os nomes dos monossacarídeos dizem respeito ao número de átomos de átomos de
 - Hexoses(C6H12O6)
 Para os organismos, os principais açucares são as pentoses e as hexoses. São exemplos de pentoses: a ribose e dissoxir ribose, do material genético(DNA e RNA).
 São exemplos de hexoses, a glicose e a frutose, importantes como fontes de energia para os seres vivos. 
+### Hexoses
+Glicose - energia da célula. Tem duas principais:
+- Amido: Está nos tubérculos e sementes
+- Glicogênio: está no fígado e nos músculos.
 ## Dissocarídeos 
 São formados a partir da união de dois monossacarídeos. Exemplos:
 Sacarose = Glicose + Frutose

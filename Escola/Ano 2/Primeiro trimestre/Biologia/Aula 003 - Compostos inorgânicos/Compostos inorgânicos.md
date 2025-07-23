@@ -17,6 +17,7 @@
 	- Isso é um problema, pois quando você está no frio, as células com grande parte feita de água, congela e aumenta o volume, explodindo a célula. Necrosando os tecidos. 
 - A água tem elevado calor especifico.
 	- A água precisa de alto calor para roubar, afim de evaporar/liquidificar, por isso elevado. Diferente do álcool, por exemplo.
+- Quanto mais velha a pessoa menos água ela tem dentro do corpo. E as partes do corpo que mais possuem metabolismo possuem mais água.
 # Sais minerais
 - Podem participar como constituintes das estruturas esqueticas do corpo, como o fosfato de cálcio abundantes nos ossos e dentes. 
 - Podem também ocorrer dissolvidos em água, caso em que eles se dissociem em íons, que são partículas com carga elétrica positiva ou negativa. 
@@ -38,6 +39,10 @@ Quando se tem muitos sais minerais nas células, corre o risco da célula colaps
 O Fe mais o oxigênio é avermelhado, por isso o sangue é vermelho. Pois no sangue, que tem a hemoglobina, contém esses materiais de ferro e oxigênio. 
 Mioglobina - músculo. 
 Cálcio é super necessário para a contração muscular. 
+Os sais minerais podem estar de forma conjunta tipo: NaCl(plastificado) ou de forma ionizada na água(Na+ e Cl- - seperados).
+
+---
+Fe - Pigmento sanguíneo e transporta os oxigênios para as células.
 # Tireoide 
 Necessita de Iodo. Cria quase todos os hormônios para o metabolismo, e para ela fazer isso ela precisa de iodo. Sem iodo a pessoa tente a ficar lenta, e pode desenvolver bócio esticando a pele, aumentando a glândula tireoide. A falta de iodo pode também causar nanismo, para os bebes com falta.
 # Disclaimer importante
