@@ -100,6 +100,12 @@ $$
 \end{pmatrix}^2
 $$
 Sendo Ab a área da base menor e AB a área da base maior. 
+$$
+\frac{V'}{V}=\begin{pmatrix}
+\frac{h'}{h}
+\end{pmatrix}^3
+$$
+Sendo V o volume.
 ### Área do tronco
 $$
 Al = \frac{(b+B)*h}{2}*nº~de~faces
