@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 007 - brModelo/brModelo.md",
+                "file": "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos/Conceitos e equipamentos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "brModelo"
+              "title": "Conceitos e equipamentos"
             }
           }
         ]
@@ -203,8 +203,17 @@
   },
   "active": "66c7567b2c026265",
   "lastOpenFiles": [
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 006 - Revisão de conceitos e modelos/Modelos.md",
+    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 005 - Circuitos/Circuitos.md",
+    "Escola/Ano 2/Primeiro trimestre/Robótica/Untitled.md",
+    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos/Conceitos e equipamentos.md",
+    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 005 - Circuitos",
+    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 003 - Microcontrolador/Microcontrolador.md",
+    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos/Untitled",
+    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos",
+    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 002 - Introdução ao thinkercad(simulador)/Introdução ao Thinkercad(simulador).md",
+    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 003 - Microcontrolador",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 007 - brModelo/brModelo.md",
+    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 006 - Revisão de conceitos e modelos/Modelos.md",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 007 - brModelo",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 005 - Relacionamento/Relacionamento.md",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 006 - Revisão de conceitos e modelos",
@@ -230,23 +239,14 @@
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 002 - Determinantes/images.png",
     "Escola/Ano 2/Primeiro trimestre/Artes/Aula 002 - Arte contemporânea/Arte contemporânea.md",
     "Escola/Ano 2/Primeiro trimestre/Artes/Aula 001 - Movimentos artistícos/Movimentos artistícos.md",
-    "Escola/Ano 2/Primeiro trimestre/Artes/Aula 002 - Arte contemporânea/Untitled",
-    "Escola/Ano 2/Primeiro trimestre/Artes/Aula 002 - Arte contemporânea",
     "Escola/Ano 2/Primeiro trimestre/Química/Aula 001 - Transformação da matéria/Transformação da matéria(reações químicas) - estequiometria.md",
     "Escola/Ano 2/Primeiro trimestre/POO/Aula 004 - Listas/Listas.md",
-    "Escola/Ano 2/Primeiro trimestre/Química/Aula 002 -",
     "Escola/Ano 2/Primeiro trimestre/POO/Aula 003 - Estruturas de repetição/Estruturas de repetição.md",
-    "Escola/Ano 2/Primeiro trimestre/POO/Aula 004 - Listas",
     "Escola/Ano 2/Primeiro trimestre/POO/Aula 002 - Estrutura de selação IF, ELIF e ELSE python/Estrutura de selação IF, ELIF e ELSE python.md",
     "Escola/Ano 2/Primeiro trimestre/Inovação e empreendedorismo/Aula 002 - Ambientes de inovação/Ambientes de inovação.md",
     "Escola/Ano 2/Primeiro trimestre/Inovação e empreendedorismo/Aula 001 - introdução a o que é inovação/Introdução ao o que é inovação.md",
     "Escola/Ano 2/Primeiro trimestre/História/Aula 007 - Idade média/Idade média.md",
     "Escola/Ano 2/Primeiro trimestre/História/Aula 006 - Império Romano/Império romano.md",
-    "Escola/Ano 2/Primeiro trimestre/História/Aula 005 - Outros povos/Grécia antiga.md",
-    "Escola/Ano 2/Primeiro trimestre/História/Aula 005 - Outros povos/Povo islâmico.md",
-    "Escola/Ano 2/Primeiro trimestre/História/Aula 005 - Outros povos/Império bizantino.md",
-    "Escola/Ano 2/Primeiro trimestre/História/Aula 005 - Outros povos/Japão.md",
-    "Escola/Ano 2/Primeiro trimestre/História/Aula 005 - Outros povos/Índia.md",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 005 - Citologia/hq720.jpg",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/nucleotideo.webp",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",
