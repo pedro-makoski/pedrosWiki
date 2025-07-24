@@ -17,7 +17,7 @@ professores-cursos: curso em vídeo - Gustavo Guanabara
 | [[Hierarquia de títulos]]                                  | 7            | 13 de janeiro de 2024   | 1                     | HTML                          |                 |
 | [[Cursos/Cursos/HTML & CSS/Aulas/Semântica|Semântica]] |              | 8                       | 13 de janeiro de 2024 | 1                             | HTML, semântica |
 | [[Formatação de textos]]                                   | 8            | 13 de janeiro de 2024   | 1                     | HTML, semântica               |                 |
-| [[Listas]]                                                 | 9            | 15 de janeiro de 2024   | 1                     | HTML                          |                 |
+| [[Cursos/HTML, CSS & JS/Aulas/Listas]]                                                 | 9            | 15 de janeiro de 2024   | 1                     | HTML                          |                 |
 | [[Links]]                                                  | 10           | 1 de fevereiro de 2024  | 1                     | HTML, Links                   |                 |
 | [[Imagens dinâmicas e áudio e vídeos]]                     | 11           | 1 de fevereiro de 2024  | 1                     | HTML, Imagens, vídeos, áudios |                 |
 | [[Estilos CSS]]                                            | 12           | 1 de fevereiro de 2024  | 1                     | CSS                           |                 |
