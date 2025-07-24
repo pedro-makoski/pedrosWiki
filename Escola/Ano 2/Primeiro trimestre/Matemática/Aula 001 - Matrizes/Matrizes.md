@@ -166,3 +166,19 @@ $$
 2*2^{-1} = 1
 $$
 Para calcular a matriz invertida é necessário criar uma matriz genêrica, com os valores como icôgnitas, e usar o sistema de equações para descobrir seus valores. 
+
+Esse método é interessante com matrizes 2x2 e as vezes 3x3, porém perceba que vai ficando muito difícil de calcular, por isso outro método interessante é:
+$$
+A^{-1}= \frac{1}{|A|}*Adj
+$$
+Esse Adj vem de matriz adjunta
+## Matriz adjunta
+É a matriz transposta dos seus cofatores. Ou seja, todos os seus elementos são cofatores da matriz original. 
+$$
+Adj = (cofat)^T
+$$
+## Matriz de cofatores
+Dada uma matriz A, e a matriz de cofatores de A: C
+$$
+C = (c_{ij})ixj/c_{ij}=cofator~de~a_{ij}
+$$
