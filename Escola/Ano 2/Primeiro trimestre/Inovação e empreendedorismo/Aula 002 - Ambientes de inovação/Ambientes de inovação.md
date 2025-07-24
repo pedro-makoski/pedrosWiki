@@ -1,0 +1,7 @@
+- Áreas aonde a inovação é feita
+- Exemplos
+	- Incubadora tecnológica
+	- Labmaker
+	- Coworking
+	- Polo de inovação
+	- Empresas juniores
