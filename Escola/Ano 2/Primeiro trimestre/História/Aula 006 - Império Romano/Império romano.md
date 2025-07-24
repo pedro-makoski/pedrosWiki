@@ -34,3 +34,19 @@ Anualmente escolhiam os consules(~3 consules) que dividiam o poder entre eles. R
 - O regime do trabalho foi alterado para livres/colonos(estrangeiros germânicos) que começaram a ser contratados. 
 - No ano 300, foi criado a cidade de Bizâncio que foi chamada de Constantinopla posteriormente. Assim dividindo o império em 2, romano do ocidente sediada por Roma e do oriente sediada em constantinopla
 - Ocidente foi afetado pelos germânicos e outros povos e acabou antes do império do oriente. Após isso a Constantinopla foi dominada por turcos e se tornou Instambul(Única cidade que participa de dois continentes).
+# Cristianismo no império romano
+O império romano começou sendo politeísta(muitos deuses). 
+Entre 54 - 305 d.C -> Cristianismo era perguido.
+No ano de 313 teve a liberdade de culto. 
+No ano de 380 - cristianismo passa a ser a religião oficial do império
+	O imperador se converte 
+		Única religião de roma
+No ano de 330 - Constantino mudou a capital para bizâncio, depois chamada de Constantinopla. Em Roma estava ocorrendo problemas de invasão.
+No ano de 395 ocorreu a divisão do império romano, os dois filhos do imperador dividem em dois:
+- Império romano do ocidente(capital: roma)
+- Império romano do oriente(capital: Constantinopla)
+	- Divisão da igreja católica no ocidente: cristianismo - romano - catolicismo - papa.
+	- No oriente - Constantinopla - ortodoxa - matriarca
+
+Cristo - aquele que vem salvar - grego
+Jesus - aquele que vem salvar - hebraico
