@@ -1,0 +1,7 @@
+- Divisão do império romano. 
+- Também chamado do império romano do oriente
+- Viveu mais 1000 anos além do império romano ocidental
+- Cristianismo ortodoxo
+- Grego(não latim)
+- Agricultura
+- Cruzadas: guerras por religião entre o império romano e bizantino. E na 4 cruzada, o império bizantino perdeu quase todo o território para o império romano

@@ -1,0 +1,20 @@
+- Rios indo e Ganges
+- Organização inicial e trabalho
+	- Agricultura
+		- Algodão, cevada, trigo e melão
+- No período Ariano 
+	- Sistema de #castas - quem era rico permanecia rico, assim como quem era pobre continuava pobre
+- Religião
+	- Hinduísta
+	- Budismo
+- Economia
+	- Comércio maritimico 
+	- Produção artesanal
+	- Base agricula
+- Período védico
+	- Foi criado os livros vedas usado até hoje
+- Reinos hindus
+- Persas e macedônia
+- Império Maurya
+- Império Gueta
+- Sultana de Déli

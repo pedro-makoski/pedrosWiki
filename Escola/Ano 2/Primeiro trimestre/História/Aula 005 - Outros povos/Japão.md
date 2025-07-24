@@ -1,0 +1,13 @@
+- Agricultura de arroz, tinha impostos. Pesca.
+- Artesão, marcadores, trabalhadores de mineração e construção. 
+- Hierarquia
+	- Lideres sociais
+		- Guerreiro
+			- Agricultores
+				- Artesões e trabalhadores especializados
+					- Escravos ou servos
+- Religião: 
+	- Xitoísmo 
+	- Budismo
+- O conto de Gengi - o primeiro romance do mundo
+- Arroz - base alimentar do japão
