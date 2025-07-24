@@ -55,3 +55,5 @@ Quem descobriu isso foi o Avogrado:
 ![[Pasted image 20250320155212.png]]
 Descobriu que quando você tem um mol de certa substância, você tem o valor da unidade de massa atômica, só que em gramas. Por exemplo, Hidrogênio tem UMA(unidade de massa atômica) de 1, 1 mol então equivale a 1 grama, ou seja 602 septilhões de hidrogênio possuem um grama.
 Quantidade de matéria - quantidade de mols. 
+# Rendimento
+A porcentagem que indica de quanto daquele elemento foi aproveitado na reação. Tipo de tal grama, quantas delas foram realmente usadas em reação.
