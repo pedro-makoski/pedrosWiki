@@ -84,3 +84,30 @@ $$
 Vp = \frac{Ab*h}{3}
 $$
 Pirâmide obliqua - pirâmide inclinada
+## Tronco da pirâmide
+![[Pasted image 20250724162718.png]]
+Seja alpha um plano e beta um plano paralelo a alpha, que conta a pirâmide P numa altura h
+Se separarmos a pirâmide obtemos o tronco da pirâmide.
+![[Pasted image 20250724162251.png]]
+### Relações validadas
+$$
+\frac{aresta'~base}{aresta~base}=\frac{h'}{h}
+$$
+Esse ' presente no primeiro termo indica que se fala da pirâmide superior.
+$$
+\frac{Ab}{AB}=\begin{pmatrix}
+\frac{h'}{h}
+\end{pmatrix}^2
+$$
+Sendo Ab a área da base menor e AB a área da base maior. 
+### Área do tronco
+$$
+Al = \frac{(b+B)*h}{2}*nº~de~faces
+$$A área da base depende do polígono. 
+$$
+At = Ab+AB+Al
+$$
+### Volume do tronco
+$$
+V = \frac{h}{3}*(AB+Ab)+\sqrt{AB*Ab}
+$$
