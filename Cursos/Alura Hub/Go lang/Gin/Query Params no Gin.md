@@ -7,3 +7,7 @@ E depois dentro da função, Saudacao por exemplo, você obtem pelo nome, por ex
 ```go
 nome := c.Params.ByName("nome")
 ```
+Isso é o equivalente à:
+```go
+nome := c.Param("nome")
+```

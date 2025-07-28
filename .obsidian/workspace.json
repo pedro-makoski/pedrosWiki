@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "byName",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,9 +203,11 @@
   },
   "active": "dd5e0b5e95d8504a",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Go lang/Gin/Criando servidor no pgadmin.md",
+    "Cursos/Alura Hub/Go lang/Gin/Query Params no Gin.md",
     "Cursos/Alura Hub/Go lang/Gin/GORM.md",
     "Cursos/Alura Hub/Go lang/Gin/Baixar gin.md",
+    "Cursos/Alura Hub/Go lang/Gin/Criando uma rota em Go.md",
+    "Cursos/Alura Hub/Go lang/Gin/Criando servidor no pgadmin.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Poliedros.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Pasted image 20250724162251.png",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos/Conceitos e equipamentos.md",
@@ -245,8 +247,6 @@
     "Escola/Ano 2/Primeiro trimestre/Química/Aula 001 - Transformação da matéria/Transformação da matéria(reações químicas) - estequiometria.md",
     "Escola/Ano 2/Primeiro trimestre/POO/Aula 004 - Listas/Listas.md",
     "Escola/Ano 2/Primeiro trimestre/POO/Aula 003 - Estruturas de repetição/Estruturas de repetição.md",
-    "Escola/Ano 2/Primeiro trimestre/POO/Aula 002 - Estrutura de selação IF, ELIF e ELSE python/Estrutura de selação IF, ELIF e ELSE python.md",
-    "Escola/Ano 2/Primeiro trimestre/Inovação e empreendedorismo/Aula 002 - Ambientes de inovação/Ambientes de inovação.md",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 005 - Citologia/hq720.jpg",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/nucleotideo.webp",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",

@@ -80,3 +80,13 @@ func CriaNovoAluno(c *gin.Context) {
 ```go
 r.POST("/alunos", controllers.CriaNovoAluno)
 ```
+# Atualizando colunas
+```go
+database.DB.Model(&aluno).UpdateColumns(aluno)
+```
+Procura a partir do modelo do aluno, e altera as colunas em função das colunas de aluno.
+# Where no GORM
+```go
+database.DB.Where(&models.Aluno{CPF: cpf}).First(&aluno)
+```
+Ele procura o aluno que tem os mesmos dados que a entidade criada. E coloca o primeiro elemento em ``aluno``

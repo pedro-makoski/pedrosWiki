@@ -20,3 +20,8 @@ func ExibeTodosOsAlunos(c *gin.Context) {
 }
 ```
 E isso retornará na rota o JSON especificado.
+# Métodos para os verbos HTTP
+- GET
+- POST
+- DELETE
+- PATCH: para atualizar algo
