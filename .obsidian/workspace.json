@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3cea8c5e6821fda8",
+        "id": "adb4bcf61f6e8634",
         "type": "tabs",
         "children": [
           {
-            "id": "dd5e0b5e95d8504a",
+            "id": "46bfc35cfb2a0faf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Go lang/Gin/GORM.md",
+                "file": "Cursos/Alura Hub/Angular/Comunicação HTTP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "GORM"
+              "title": "Comunicação HTTP"
             }
           }
         ]
@@ -201,10 +201,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd5e0b5e95d8504a",
+  "active": "46bfc35cfb2a0faf",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Go lang/Gin/Query Params no Gin.md",
+    "Cursos/Alura Hub/Angular/Untitled.md",
+    "Cursos/Alura Hub/TS/readonly.md",
+    "Cursos/Alura Hub/Angular/Comunicação HTTP.md",
+    "Cursos/Alura Hub/JSON-SERVER/JSON-SERVER.md",
+    "Cursos/Alura Hub/Untitled.md",
+    "Cursos/Alura Hub/JSON-SERVER",
     "Cursos/Alura Hub/Go lang/Gin/GORM.md",
+    "Cursos/Alura Hub/Go lang/Gin/Query Params no Gin.md",
     "Cursos/Alura Hub/Go lang/Gin/Baixar gin.md",
     "Cursos/Alura Hub/Go lang/Gin/Criando uma rota em Go.md",
     "Cursos/Alura Hub/Go lang/Gin/Criando servidor no pgadmin.md",
@@ -240,13 +246,7 @@
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 003 - Sistemas de equações lineares/Sistemas de equações lineares.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 002 - Determinantes/Determinantes.md",
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 003 - Sistemas de equações lineares",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 002 - Determinantes/images.png",
-    "Escola/Ano 2/Primeiro trimestre/Artes/Aula 002 - Arte contemporânea/Arte contemporânea.md",
-    "Escola/Ano 2/Primeiro trimestre/Artes/Aula 001 - Movimentos artistícos/Movimentos artistícos.md",
-    "Escola/Ano 2/Primeiro trimestre/Química/Aula 001 - Transformação da matéria/Transformação da matéria(reações químicas) - estequiometria.md",
-    "Escola/Ano 2/Primeiro trimestre/POO/Aula 004 - Listas/Listas.md",
-    "Escola/Ano 2/Primeiro trimestre/POO/Aula 003 - Estruturas de repetição/Estruturas de repetição.md",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 005 - Citologia/hq720.jpg",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/nucleotideo.webp",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",

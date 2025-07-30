@@ -1,0 +1,1 @@
+Propriedade dentro de classes, que tem mesmo efeito que criar uma constante.
