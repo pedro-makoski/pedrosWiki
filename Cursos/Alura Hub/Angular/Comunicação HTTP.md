@@ -45,3 +45,8 @@ Em aplicações Angular, os observables são frequentemente utilizados para lida
 Compreender e aplicar Observables em Angular é fundamental para lidar com dados assíncronos e eventos de forma eficiente e reativa, proporcionando uma melhor experiência em aplicações web modernas.
 
 Se você deseja aprofundar seu conhecimento sobre como utilizar Observables no Angular, recomendamos o curso [RxJS e Angular: programando de forma reativa](https://cursos.alura.com.br/course/rxjs-angular-programando-forma-reativa), onde você aprenderá a utilizar o poderoso RxJS em conjunto com o Angular para criar aplicações reativas e elegantes.
+# Requisição POST
+```ts
+this.http.post<Contato>(this.API, contato)
+```
+O segundo parâmetro é o body da resposta. Essa função também retornam um observable com o subscribe.

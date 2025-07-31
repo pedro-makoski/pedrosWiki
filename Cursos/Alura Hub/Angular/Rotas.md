@@ -91,3 +91,23 @@ No botão ou ancora que você deseja colocar o link adicione a propriedade route
 
     </button>
 ```
+# Colocando rota com get params
+Para fazer isso, coloque o :nome-do-atributo, na rota. Por exemplo:
+```ts
+{
+
+        path: "perfil-contato/:id",
+
+        component: PerfilContatoComponent
+
+    },
+```
+## Acessando num RouterLink
+Você pode ao invés de apenas uma string, colocar uma lista passando a rota atual, mais os comandos necessários:
+```html
+<button aria-label="Botão de editar" [routerLink]="['/perfil-contato', id]">
+
+                <img src="/assets/pencil-square.png" alt="Botão de editar" />
+
+            </button>
+```

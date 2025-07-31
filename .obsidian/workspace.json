@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Angular/Comunicação HTTP.md",
+                "file": "Cursos/Alura Hub/Angular/Rotas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Comunicação HTTP"
+              "title": "Rotas"
             }
           }
         ]
@@ -203,9 +203,11 @@
   },
   "active": "46bfc35cfb2a0faf",
   "lastOpenFiles": [
+    "Cursos/Alura Hub/Angular/Como colocar os elementos filhos do HTML do componente no componente.md",
+    "Cursos/Alura Hub/Angular/Problemas de hidratação.md",
+    "Cursos/Alura Hub/Angular/Comunicação HTTP.md",
     "Cursos/Alura Hub/Angular/Untitled.md",
     "Cursos/Alura Hub/TS/readonly.md",
-    "Cursos/Alura Hub/Angular/Comunicação HTTP.md",
     "Cursos/Alura Hub/JSON-SERVER/JSON-SERVER.md",
     "Cursos/Alura Hub/Untitled.md",
     "Cursos/Alura Hub/JSON-SERVER",
@@ -243,9 +245,7 @@
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724145856.png",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 001 - Matrizes/Matrizes.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724145331.png",
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 003 - Sistemas de equações lineares/Sistemas de equações lineares.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas",
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 002 - Determinantes/Determinantes.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 002 - Determinantes/images.png",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 005 - Citologia/hq720.jpg",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/nucleotideo.webp",
