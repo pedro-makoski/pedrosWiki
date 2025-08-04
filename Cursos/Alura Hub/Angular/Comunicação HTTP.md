@@ -50,3 +50,27 @@ Se você deseja aprofundar seu conhecimento sobre como utilizar Observables no A
 this.http.post<Contato>(this.API, contato)
 ```
 O segundo parâmetro é o body da resposta. Essa função também retornam um observable com o subscribe.
+# Requisição delete
+Também é retorna um observable.
+```typescript
+excluirContato(id: number): Observable<Contato> {
+    const url = `${this.API}/${id}`
+    return this.http.delete<Contato>(url)
+ } 
+```
+# Requisição PUT
+```ts
+editarOuSalvarContato(contato: Contato): Observable<Contato> {
+
+    if(contato.id) {
+
+      return this.editarContato(contato)
+
+    }
+
+  
+
+    return this.salvarContato(contato)
+
+  }
+```

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Angular/Rotas.md",
+                "file": "Cursos/Alura Hub/Angular/Formulários Angular.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Rotas"
+              "title": "Formulários Angular"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "byName",
+                "query": ".post",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,9 +203,12 @@
   },
   "active": "46bfc35cfb2a0faf",
   "lastOpenFiles": [
+    "Cursos/Alura Hub/Angular/Comunicação HTTP.md",
+    "Cursos/Alura Hub/Angular/Conectar JSON no TS.md",
+    "Cursos/Alura Hub/Angular/activatedRoute.md",
+    "Cursos/Alura Hub/Angular/Rotas.md",
     "Cursos/Alura Hub/Angular/Como colocar os elementos filhos do HTML do componente no componente.md",
     "Cursos/Alura Hub/Angular/Problemas de hidratação.md",
-    "Cursos/Alura Hub/Angular/Comunicação HTTP.md",
     "Cursos/Alura Hub/Angular/Untitled.md",
     "Cursos/Alura Hub/TS/readonly.md",
     "Cursos/Alura Hub/JSON-SERVER/JSON-SERVER.md",
@@ -237,13 +240,10 @@
     "Pasted image 20250724162718.png",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Conceitos primitivos.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros",
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Polígonos regulares.md",
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Areas.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150748.jpg",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150704.jpg",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724145955.jpg",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724145856.png",
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 001 - Matrizes/Matrizes.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724145331.png",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 002 - Determinantes/images.png",
