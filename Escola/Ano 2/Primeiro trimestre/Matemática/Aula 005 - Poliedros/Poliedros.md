@@ -117,3 +117,15 @@ $$
 $$
 V = \frac{h}{3}*(AB+Ab)+\sqrt{AB*Ab}
 $$
+# Tetraedro Regular
+4 triângulos equilateros - 4 faces
+$$
+At = a^2\sqrt{3}
+$$
+$$
+h = \frac{a\sqrt{6}}{3}
+$$
+$$
+V = \frac{a^3\sqrt{2}}{12}
+$$
+Sendo a a medida da aresta do tetaedro regular

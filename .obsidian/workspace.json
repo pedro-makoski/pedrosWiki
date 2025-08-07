@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Angular/Imagens.md",
+                "file": "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Poliedros.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Imagens"
+              "title": "Poliedros"
             }
           }
         ]
@@ -203,8 +203,8 @@
   },
   "active": "b19addbdd4bd043b",
   "lastOpenFiles": [
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Poliedros.md",
     "Cursos/Alura Hub/Angular/Imagens.md",
+    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Poliedros.md",
     "Cursos/Alura Hub/Angular/Formulários Angular.md",
     "Cursos/Alura Hub/Angular/Comunicação HTTP.md",
     "Cursos/Alura Hub/Angular/Conectar JSON no TS.md",
