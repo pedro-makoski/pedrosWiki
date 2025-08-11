@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d5ce9631a30f2272",
+        "id": "d06dba4a432a2195",
         "type": "tabs",
         "children": [
           {
-            "id": "b19addbdd4bd043b",
+            "id": "634239e3647aa385",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Poliedros.md",
+                "file": "Cursos/Alura Hub/Go lang/Testify.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Poliedros"
+              "title": "Testify"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".post",
+                "query": "parâmetros",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,14 +201,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b19addbdd4bd043b",
+  "active": "634239e3647aa385",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Angular/Imagens.md",
+    "Cursos/Alura Hub/Go lang/Testes em Go.md",
+    "Cursos/Alura Hub/Go lang/Testify.md",
+    "Cursos/Alura Hub/Go lang/Validators.md",
+    "Cursos/Alura Hub/Angular/activatedRoute.md",
+    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Lípidios.md",
+    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Carboidratos.md",
+    "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Ácidos nucleícos.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Poliedros.md",
+    "Cursos/Alura Hub/Angular/Imagens.md",
     "Cursos/Alura Hub/Angular/Formulários Angular.md",
     "Cursos/Alura Hub/Angular/Comunicação HTTP.md",
     "Cursos/Alura Hub/Angular/Conectar JSON no TS.md",
-    "Cursos/Alura Hub/Angular/activatedRoute.md",
     "Cursos/Alura Hub/Angular/Rotas.md",
     "Cursos/Alura Hub/Angular/Como colocar os elementos filhos do HTML do componente no componente.md",
     "Cursos/Alura Hub/Angular/Problemas de hidratação.md",
@@ -225,17 +231,11 @@
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Pasted image 20250724162251.png",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos/Conceitos e equipamentos.md",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 005 - Circuitos/Circuitos.md",
-    "Escola/Ano 2/Primeiro trimestre/Robótica/Untitled.md",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 005 - Circuitos",
-    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 003 - Microcontrolador/Microcontrolador.md",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos/Untitled",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos",
-    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 002 - Introdução ao thinkercad(simulador)/Introdução ao Thinkercad(simulador).md",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 003 - Microcontrolador",
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 007 - brModelo/brModelo.md",
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 006 - Revisão de conceitos e modelos/Modelos.md",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 007 - brModelo",
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 005 - Relacionamento/Relacionamento.md",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 006 - Revisão de conceitos e modelos",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 005 - Relacionamento",
     "Pasted image 20250724162718.png",
