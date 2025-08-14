@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Go lang/Testify.md",
+                "file": "Cursos/Alura Hub/Go lang/Marshal.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Testify"
+              "title": "Marshal"
             }
           }
         ]
@@ -203,14 +203,20 @@
   },
   "active": "634239e3647aa385",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Go lang/Testes em Go.md",
+    "Cursos/Alura Hub/Go lang/UnMarshal.md",
+    "Cursos/Alura Hub/Go lang/Marshal.md",
+    "Cursos/Alura Hub/Go lang/Gin/Rodando um teste específico.md",
+    "Cursos/Alura Hub/Go lang/Gin/Modo Realease.md",
+    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Poliedros.md",
+    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Areas.md",
+    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Polígonos regulares.md",
     "Cursos/Alura Hub/Go lang/Testify.md",
+    "Cursos/Alura Hub/Go lang/Testes em Go.md",
     "Cursos/Alura Hub/Go lang/Validators.md",
     "Cursos/Alura Hub/Angular/activatedRoute.md",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Lípidios.md",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Carboidratos.md",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/Ácidos nucleícos.md",
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Poliedros.md",
     "Cursos/Alura Hub/Angular/Imagens.md",
     "Cursos/Alura Hub/Angular/Formulários Angular.md",
     "Cursos/Alura Hub/Angular/Comunicação HTTP.md",
@@ -224,13 +230,7 @@
     "Cursos/Alura Hub/Untitled.md",
     "Cursos/Alura Hub/JSON-SERVER",
     "Cursos/Alura Hub/Go lang/Gin/GORM.md",
-    "Cursos/Alura Hub/Go lang/Gin/Query Params no Gin.md",
-    "Cursos/Alura Hub/Go lang/Gin/Baixar gin.md",
-    "Cursos/Alura Hub/Go lang/Gin/Criando uma rota em Go.md",
-    "Cursos/Alura Hub/Go lang/Gin/Criando servidor no pgadmin.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Pasted image 20250724162251.png",
-    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos/Conceitos e equipamentos.md",
-    "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 005 - Circuitos/Circuitos.md",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 005 - Circuitos",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos/Untitled",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos",
