@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Go lang/Marshal.md",
+                "file": "Cursos/Alura Hub/Go lang/Gin/Redirecionando para página de erro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Marshal"
+              "title": "Redirecionando para página de erro"
             }
           }
         ]
@@ -203,8 +203,14 @@
   },
   "active": "634239e3647aa385",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Go lang/UnMarshal.md",
+    "Cursos/Alura Hub/Go lang/Gin/Arquivos staticos do Gin.md",
+    "Cursos/Alura Hub/Go lang/Gin/Redirecionando para página de erro.md",
+    "Cursos/Alura Hub/Go lang/Gin/Template HTML.md",
+    "Cursos/Alura Hub/Go lang/Gin/Untitled.md",
+    "Cursos/Alura Hub/Go lang/Untitled 1.md",
+    "Cursos/Alura Hub/Go lang/Untitled",
     "Cursos/Alura Hub/Go lang/Marshal.md",
+    "Cursos/Alura Hub/Go lang/UnMarshal.md",
     "Cursos/Alura Hub/Go lang/Gin/Rodando um teste específico.md",
     "Cursos/Alura Hub/Go lang/Gin/Modo Realease.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Poliedros.md",
@@ -224,12 +230,7 @@
     "Cursos/Alura Hub/Angular/Rotas.md",
     "Cursos/Alura Hub/Angular/Como colocar os elementos filhos do HTML do componente no componente.md",
     "Cursos/Alura Hub/Angular/Problemas de hidratação.md",
-    "Cursos/Alura Hub/Angular/Untitled.md",
-    "Cursos/Alura Hub/TS/readonly.md",
-    "Cursos/Alura Hub/JSON-SERVER/JSON-SERVER.md",
-    "Cursos/Alura Hub/Untitled.md",
     "Cursos/Alura Hub/JSON-SERVER",
-    "Cursos/Alura Hub/Go lang/Gin/GORM.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Pasted image 20250724162251.png",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 005 - Circuitos",
     "Escola/Ano 2/Primeiro trimestre/Robótica/Aula 004 - Conceitos e equipamentos/Untitled",
@@ -245,7 +246,6 @@
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724145955.jpg",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724145856.png",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724145331.png",
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 002 - Determinantes/images.png",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 005 - Citologia/hq720.jpg",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 004 - Compostos orgânicos/nucleotideo.webp",
