@@ -33,7 +33,7 @@ São pontos que pertencem a uma mesma reta
 - Do plano:
 	- Três pontos não colineares determinam um único plano que passar por eles
 ## Postulado da inclusão
-Se uma reta tem dois pontos contidos num plano, então a reta está contida no mesmo planto.
+Se uma reta tem dois pontos contidos num plano, então a reta está contida no mesmo plano.
 ## Pontos complanares
 São os que pertencem ao mesmo plano.
 ## Retas concorrentes

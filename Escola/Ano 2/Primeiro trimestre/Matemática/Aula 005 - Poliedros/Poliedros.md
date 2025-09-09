@@ -115,7 +115,7 @@ At = Ab+AB+Al
 $$
 ### Volume do tronco
 $$
-V = \frac{h}{3}*(AB+Ab)+\sqrt{AB*Ab}
+V = \frac{h}{3}*(AB+Ab+\sqrt{AB*Ab})
 $$
 # Tetraedro Regular
 4 triângulos equilateros - 4 faces
