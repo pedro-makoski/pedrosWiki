@@ -9,7 +9,7 @@ Retorna um objeto, sobre a localização atual. Inclusive o pathname que é a ro
 ```js
 const { rota } = useLocation()
 ```
-Isso é pertencente do [[Aula 2#react-router-dom|react-router-dom]].
+Isso é pertencente do [[Cursos/Intensivão Full Stack hashtag/Aula 2#react-router-dom|react-router-dom]].
 # Converter string em tipo número
 ```js
 Number(texto)
