@@ -185,7 +185,7 @@ export async function getStaticPaths() {
 
     paths: paths,//Retorna os caminhos possíveis a partir desta rota, desta página específica
 
-    fallback: false // Se for false, ele faz com que bloqueie em páginas não existentes.
+    fallback: false // Cuida de como ele vai reagir. Se for false, ele vai realizar apenas se já tiver carregado, se for true, ele vai responder com um JS e vai reponder depois, e se for 'blocking' ele vai segura até ter todo o conteúdo da requisição.
 
   };
 
@@ -226,8 +226,70 @@ export async function getStaticProps(context) {// Retorna as props que serão pa
       content: post.content,
 
     },
+   validate: 60, // Tempo para ver se deve ser alterado alguma página estática específica do cache. 
+  }
+
+}
+```
+# Rodando props no servidor
+Você pode gerar as props do lado do servidor, assim:
+```js
+export async function getServerSideProps(context) {
+
+  const cookies = nookies.get(context); // Obtem os cookies a partir do contexto
+
+  
+
+  const SENHA_SECRETA = '123456';
+
+  const senhaInformadaPeloUsuario = cookies.SENHA_SECRETA; // Obtem o dado específico do cokies. 
+
+  const isAutorizado = SENHA_SECRETA === senhaInformadaPeloUsuario;
+
+  if(!isAutorizado) {
+
+    console.log('NÃO Autorizado!!!');
+
+    return {
+
+      redirect: {// Redireciona para a raiz do projeto, com o status=401 como parâmetro
+
+        permanent: false,
+
+        destination: '/?status=401',
+
+      }
+
+    };
+
+  }
+
+  
+
+  console.log('Autorizado!!!');
+
+  return {
+
+    props: {}
 
   }
 
 }
 ```
+Você pode atualizar/criar um cookie da seguinte forma:
+```js
+nookies.set(null, 'SENHA_SECRETA', senha, { 
+
+              maxAge: 30 * 24 * 60 * 60, // Define por quanto tempo vai existir esse cookies.
+ 
+              path: '/', // Define a rota minima acessível para este cookie
+
+            });
+```
+Para remover um cookies, use:
+```ts
+nookies.destroy(null, 'SENHA_SECRETA');
+```
+Sendo SENHA_SECRETA o nome do parâmetro do cookies. 
+# Incremental Static Generation
+Gera a partir do uso, e salvar no cache pacotes estaticos. 
