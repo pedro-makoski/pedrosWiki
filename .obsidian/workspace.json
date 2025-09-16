@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/next/Parametros.md",
+                "file": "Cursos/Alura Hub/next/Tour.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Parametros"
+              "title": "Tour"
             }
           }
         ]
@@ -204,8 +204,8 @@
   },
   "active": "634239e3647aa385",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/next/Tour.md",
     "Cursos/Alura Hub/next/Parametros.md",
+    "Cursos/Alura Hub/next/Tour.md",
     "Cursos/Alura Hub/Agentes de IA/Aula 3.md",
     "Pasted image 20250913110854.png",
     "Cursos/Alura Hub/Agentes de IA/Aula 2.md",

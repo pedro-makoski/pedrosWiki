@@ -293,3 +293,28 @@ nookies.destroy(null, 'SENHA_SECRETA');
 Sendo SENHA_SECRETA o nome do parâmetro do cookies. 
 # Incremental Static Generation
 Gera a partir do uso, e salvar no cache pacotes estaticos. 
+# Prever o comportamento - prefetch
+Em um link do next, o prefetch pode ser true ou false, quando é true, ele carrega todas estas páginas no momento que o usuário entra num site. Quando é false ele carrega quando é feito o hover no link.
+# Dinamic Import
+Você pode fazer importações dinâmicas no Next, que serão carregadas apenas quando forem realmente usadas.
+Para fazer isso importe:
+```js
+import dynamic from 'next/dynamic';
+```
+E depois faça o dinamic import do devidos componentes no escopo principal.
+```js
+const YouTubeVideo = dynamic(() => import('../components/DynamicVideo'));
+```
+# Iniciar projeto ts
+```bash
+npx create-next-app@latest --typescript
+```
+# Como converter
+Basta trocar as extensões para tsx. E depois rodar normalmente.
+# Babel
+Conversor de linguagens, também converte JS recente para mais compatibilidade em navegadores mais antigos.
+# Componente React Tipo
+```tsx
+JSX.Element
+```
+
