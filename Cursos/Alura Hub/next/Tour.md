@@ -317,4 +317,46 @@ Conversor de linguagens, também converte JS recente para mais compatibilidade e
 ```tsx
 JSX.Element
 ```
+# BFF
+No Next você pode criar espécies de backends para frontend, normalmente. Como funções como essa:
+```js
+export default function capturadorDeRequest(req, res) {
 
+  res.status(200).json({ name: 'Pedro Makoski' })
+
+}
+```
+Isso é bom para fazer o BFF, onde você cria backends focados para o seu frontend, para disponibilizar contratos importantes com o servidor.
+
+# Glossário do NextJS
+
+  
+
+- **Static**
+
+  - Por padrão
+
+  - Só vai usar o `next export`, em casos onde TUDO é pré-renderizado
+
+  - `getStaticProps`: versão com menos recursos
+
+  
+
+- **SSG(Static Site Generation)**:
+
+  - `getStaticProps`
+
+    - `revalidate`: true [npm run build && npm start]
+
+  - **Incremental Static Generation** [npm run build && npm start]
+
+    - fallback: true || 'blocking' e o getStaticPaths vem vazio ou com somente alguns itens
+
+  
+  
+
+- **SSR(Server Side Render)**:
+
+  - `getServerSideProps`
+
+  - Se tiver dentro da pasta `/api` é uma API Route e é SSR
