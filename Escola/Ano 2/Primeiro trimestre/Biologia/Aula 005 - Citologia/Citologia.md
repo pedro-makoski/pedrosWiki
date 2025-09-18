@@ -40,10 +40,9 @@ As células encontraram-se individualizadas, separadas do meio pelos envoltorios
 - O modelo de estrutura da MP, foi proposto pelos cientistas Jonathan Singer e Garth Nicolson em 1971, é chamado de modo fluído
 - A MP apresenta permeabilidade seletiva
 - Nas membranas celulares dos animais, além de fosfolípidios e proteínas, há também colesterol 
-
 ### Envoltórios externos a membrana plasmática
 Os envoltórios conferem maior resistência à célula, sem interferir na permeabilidade.
-#### Glicolix
+#### Glicocalix
 - Glico = glicídio 
 - Cólix = Involtário
 - Ocorre externamente ás células animais
@@ -51,3 +50,54 @@ Os envoltórios conferem maior resistência à célula, sem interferir na permea
 - Constitui uma barreira contra agentes químicos e físicos
 - Confere as células a capacidade de se reconhecerem 
 - Formam uma malha que ficam nela os nutrientes para a célula
+- Controla também a entrada e saída das células
+#### Parede célular
+- Estrutura semiumida, celulas que a possuem tem menos possibilidade de mudança de formato.
+- Estrutura permeável
+- Nas bactérias a parede célular é composta de peptidoglicano
+- Nas plantas a parede célular é composta por célulose
+- Nas algas a parede celular é compostor por glicose ou silica.
+- Nos fungos a parede célular é feita de quitina
+# Processos de trocas entre a célula e o meio externo
+Podem ser agrupados em três categorias:
+## Processos passivos 
+Ocorrem sem gasto de energia.
+### Osmose
+Osmose é o processo de difusão de moléculas de água através de uma membrana semipermeável. 
+A água difunde-se da solução hipotônica(menor concentração) para a hipertônica(maior concentração).
+### Difusão Simples
+Corresponde ao movimento de particulas de soluto, de onde elas estão mais concentradas para onde estão menos concentradas.
+Ocorre de pequenas moléculas como oxigênio e gás carbônico. 
+### Difusão facilitada
+Processo que ocorre também sem gasto de energia.
+Neste tipo de difusão de proteínas da membrana plasmática chamadas de permeases, permitem a passagem de substâncias.
+Esse tipo de movimento é comum para substâncias como glicose, vitaminas, alguns aminoácidos e alguns íons como cálcio.
+## Processos ativos
+Ocorrem com gasto de energia. 
+### Bomba de sódio e potássio
+Ocorrem graças ao fornecimento de energia. Neste tipo de transporte ocorre o movimento de solutos contra o gradiente de concentração. Ou seja, da solução menos concentrada para a mais concentrada. 
+Sódio (Na+) e potássio (K+) são dois íons importantes para a célula. 
+As células gastam energia para manter maior concentração de potássio no interior e sódio no líquido extra celular. 
+## Processos dedicados e vesículas
+### Endocitose
+Uma bolsa de vesícula de entra na célula trazendo substâncias.
+#### Fagocitose
+- **Significado:** Deriva do grego, "comer célula".
+- **Função:** Englobamento de partículas grandes e sólidas, como bactérias, restos celulares e protozoários.
+- **Mecanismo:** A membrana plasmática da célula emite expansões chamadas pseudópodes, que envolvem a partícula. Em seguida, a partícula é incorporada em uma grande vesícula, chamada fagossomo.
+- **Ocorrência:** É comum em células do sistema imunológico, como macrófagos, que usam a fagocitose para destruir patógenos.
+#### Pinocitose
+- **Significado:** Deriva do grego, "beber célula".
+- **Função:** Absorção de pequenas quantidades de fluido extracelular e partículas pequenas dissolvidas.
+- **Mecanismo:** A membrana plasmática se dobra para dentro, formando uma pequena vesícula que se desprende e leva o fluido para o interior da célula.
+- **Ocorrência:** Acontece em muitos tipos de células de forma contínua para coletar nutrientes e outras moléculas importantes
+### Exocitose
+Uma bolsa de vesícula sai da célula levando substâncias.
+# Concentração de uma solução
+- Solução = soluto(menor quantidade) + solvente(maior quantidade)
+- Concentração de uma solução = quantidade de soluto por unidade de solvente.
+- Termos para a diferença de concentração:
+	- Hipotonica: menor concentração
+	- Hipertonica: maior concentração
+	- Isotonica: mesma quantidade de concentração
+
