@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/next/Middlewares.md",
+                "file": "Cursos/Alura Hub/Angular/rxJs/Observer x Observable.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Middlewares"
+              "title": "Observer x Observable"
             }
           }
         ]
@@ -204,8 +204,11 @@
   },
   "active": "634239e3647aa385",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/next/Internacionalização do next.md",
+    "Cursos/Alura Hub/Angular/rxJs/Programação reativa.md",
+    "Cursos/Alura Hub/Angular/rxJs/Observer x Observable.md",
+    "Cursos/Alura Hub/Angular/Parâmetros de URL.md",
     "Cursos/Alura Hub/next/Middlewares.md",
+    "Cursos/Alura Hub/next/Internacionalização do next.md",
     "Cursos/Alura Hub/next/Componente de imagem.md",
     "Cursos/Alura Hub/Agentes de IA/Fazendo um bom prompt.md",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 005 - Citologia/Citologia.md",
@@ -242,9 +245,6 @@
     "Cursos/Alura Hub/Go lang/API REST.md",
     "Cursos/Alura Hub/Go lang/Interpolação do código.md",
     "Cursos/Alura Hub/Go lang/Diferença entre GO e JS.md",
-    "Cursos/Alura Hub/Go lang/Onde normalmente fica o main.go em projetos grandes.md",
-    "Escola/Ano 2/Primeiro trimestre/Artes/Aula 002 - Arte contemporânea/Arte contemporânea.md",
-    "Cursos/Alura Hub/Angular/rxJs/Ciclo de vida do Angular.md",
     "Pasted image 20250724162718.png",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150748.jpg",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150704.jpg",
