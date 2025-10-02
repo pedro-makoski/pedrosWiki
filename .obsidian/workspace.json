@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Angular/rxJs/Observer x Observable.md",
+                "file": "Cursos/Alura Hub/Angular/rxJs/Operadores.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Observer x Observable"
+              "title": "Operadores"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "634239e3647aa385",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Angular/rxJs/Programação reativa.md",
     "Cursos/Alura Hub/Angular/rxJs/Observer x Observable.md",
+    "Cursos/Alura Hub/Angular/rxJs/Operadores.md",
+    "Cursos/Alura Hub/Angular/rxJs/Programação reativa.md",
     "Cursos/Alura Hub/Angular/Parâmetros de URL.md",
     "Cursos/Alura Hub/next/Middlewares.md",
     "Cursos/Alura Hub/next/Internacionalização do next.md",
@@ -244,7 +245,6 @@
     "Cursos/Alura Hub/Go lang/A base/bufio.md",
     "Cursos/Alura Hub/Go lang/API REST.md",
     "Cursos/Alura Hub/Go lang/Interpolação do código.md",
-    "Cursos/Alura Hub/Go lang/Diferença entre GO e JS.md",
     "Pasted image 20250724162718.png",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150748.jpg",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150704.jpg",
