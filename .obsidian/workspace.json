@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Angular/rxJs/Operadores.md",
+                "file": "Cursos/Alura Hub/Angular/rxJs/Observable do input.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Operadores"
+              "title": "Observable do input"
             }
           }
         ]
@@ -204,8 +204,11 @@
   },
   "active": "634239e3647aa385",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Angular/rxJs/Observer x Observable.md",
+    "Cursos/Alura Hub/Angular/rxJs/PIPEs.md",
+    "Cursos/Alura Hub/Angular/rxJs/Observable do input.md",
+    "Untitled 1.md",
     "Cursos/Alura Hub/Angular/rxJs/Operadores.md",
+    "Cursos/Alura Hub/Angular/rxJs/Observer x Observable.md",
     "Cursos/Alura Hub/Angular/rxJs/Programação reativa.md",
     "Cursos/Alura Hub/Angular/Parâmetros de URL.md",
     "Cursos/Alura Hub/next/Middlewares.md",
@@ -242,9 +245,6 @@
     "Escola/Ano 2/Primeiro trimestre/História/Aula 006 - Império Romano/Império romano.md",
     "Cursos/Alura Hub/Go lang/TO-DO.md",
     "Cursos/Alura Hub/Go lang/A base/Pacote OS.md",
-    "Cursos/Alura Hub/Go lang/A base/bufio.md",
-    "Cursos/Alura Hub/Go lang/API REST.md",
-    "Cursos/Alura Hub/Go lang/Interpolação do código.md",
     "Pasted image 20250724162718.png",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150748.jpg",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150704.jpg",
