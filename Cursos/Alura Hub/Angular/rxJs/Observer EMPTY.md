@@ -1,0 +1,1 @@
+O Observer EMPTY, é um observer que imediatamente encerra o ciclo quando iniciada.

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Angular/rxJs/Observable do input.md",
+                "file": "Cursos/Alura Hub/Angular/rxJs/Operadores.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Observable do input"
+              "title": "Operadores"
             }
           }
         ]
@@ -204,10 +204,11 @@
   },
   "active": "634239e3647aa385",
   "lastOpenFiles": [
+    "Cursos/Alura Hub/Angular/rxJs/Observer EMPTY.md",
+    "Cursos/Alura Hub/Angular/rxJs/Operadores.md",
     "Cursos/Alura Hub/Angular/rxJs/PIPEs.md",
     "Cursos/Alura Hub/Angular/rxJs/Observable do input.md",
     "Untitled 1.md",
-    "Cursos/Alura Hub/Angular/rxJs/Operadores.md",
     "Cursos/Alura Hub/Angular/rxJs/Observer x Observable.md",
     "Cursos/Alura Hub/Angular/rxJs/Programação reativa.md",
     "Cursos/Alura Hub/Angular/Parâmetros de URL.md",
@@ -244,7 +245,6 @@
     "Escola/Ano 2/Primeiro trimestre/História/Aula 007 - Idade média/Idade média.md",
     "Escola/Ano 2/Primeiro trimestre/História/Aula 006 - Império Romano/Império romano.md",
     "Cursos/Alura Hub/Go lang/TO-DO.md",
-    "Cursos/Alura Hub/Go lang/A base/Pacote OS.md",
     "Pasted image 20250724162718.png",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150748.jpg",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150704.jpg",
