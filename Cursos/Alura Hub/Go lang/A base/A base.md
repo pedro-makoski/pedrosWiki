@@ -13,7 +13,7 @@
 - [[Pacote OS]]
 - [[bufio]]
 - [[Strings]]
-- [[Time]]
+- [[Cursos/Alura Hub/Go lang/A base/Time]]
 - [[Quick sort]]
 # Importante
 - Em Go não se tem herença. Mas sim composição, onde tipos de estrutura possuem outros tipos na sua composição. 
