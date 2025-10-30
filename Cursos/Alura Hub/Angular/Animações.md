@@ -61,6 +61,16 @@ transition('default => highlighted', [
     ])
 ```
 O primeiro parâmetro indica de qual para qual está indo, através da seta =>, e depois tem se uma lista de Metadados, um que indica os estilo após a transição, e outro que indica o tempo da animação através do método `animate`, em milisegundos, essa função também pode receber uma string no mesmo formato que um CSS normal, com três items ``'<tempo> <delay> <funcao>' ``, esse ultimo de função você pode dar uma olhada aqui: https://easings.net/  . O segundo parâmetro do animate pode ser um metadados de estilo.
+
+O operador => indica o lado da transição. Caso seja vice e versa, você pode usar o operador <=>.
+## Estado void
+Quando uma transição ocorre com um elemento que não existe ainda no DOM, é importante colocar no estado o modo void. Que é e o estado de não existência. Você pode colocar tanto antes do operador => quando depois.
+## Estado coringa
+Quando o item está presente no dom. Representado pelo asterrisco, ele pode ser colocado antes ou depois do operador =>.
+
+Para ativar este estado coringa, basta apenas colocar a animação no componente. `@<nome-animacao>`.
+## Eventos  na animação do trigger
+Você pode colocar ao invés de ``void => *`` ou `* => void`, você pode substituir respectivamente por: `:enter` e `:leave`.
 # Funções de animação
 As funções de temporização nos permitem ajustar a velocidade com que a animação é executada ao longo do tempo. Em animações curtas, de 200 ou 300 milissegundos talvez não haja um grande impacto visual, mas quanto mais demorada a animação, mais importante se torna a easing function.
 
@@ -69,3 +79,15 @@ Quando você deixa cair algo no chão, esse movimento não ocorre de forma linea
 [Nesta página](https://easings.net/#easeInExpo), você poderá ver vários exemplos e escolher a função correta para sua necessidade.
 # Boas praticas com animações
 Crie um arquivo separado com a lista de animações, e triggers, e depois apenas importe.
+# Resumo
+Abaixo estão listados os métodos vistos no curso e sua respectiva função, de acordo com a [documentação](https://angular.io/guide/animations). Consulte sempre que precisar.
+
+**trigger()** - inicia a animação e serve como um contêiner para todas as outras chamadas de função de animação. O template é vinculado ao nome do trigger, que é declarado como primeiro argumento da função. Usa sintaxe de matriz.
+
+**style()** - define um ou mais estilos CSS para usar em animações. Controla a aparência visual dos elementos HTML durante as animações. Usa sintaxe de objeto.
+
+**state()** - cria um conjunto nomeado de estilos CSS que devem ser aplicados na transição bem-sucedida para um determinado estado. O estado pode então ser referenciado pelo nome dentro de outras funções de animação.
+
+**animate()** - especifica as informações de tempo para uma transição. Valores opcionais para delay e easing function. Pode conter métodos `style()`.
+
+**transition()** - define a sequência de animação entre dois estados nomeados. Usa sintaxe de matriz.
