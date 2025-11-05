@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Angular/Animações.md",
+                "file": "Cursos/Alura Hub/Go lang/Canais bufferizados.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Animações"
+              "title": "Canais bufferizados"
             }
           }
         ]
@@ -204,8 +204,9 @@
   },
   "active": "6899c2b480ba95b8",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Go lang/Go routines.md",
     "Cursos/Alura Hub/Angular/Animações.md",
+    "Cursos/Alura Hub/Go lang/Canais bufferizados.md",
+    "Cursos/Alura Hub/Go lang/Go routines.md",
     "Pasted image 20251024175645.png",
     "Cursos/Alura Hub/Go lang/Interpolação do código.md",
     "Cursos/Alura Hub/Go lang/Go lang.md",
@@ -232,7 +233,6 @@
     "Cursos/Alura Hub/Angular/rxJs/Programação reativa.md",
     "Cursos/Alura Hub/Angular/Parâmetros de URL.md",
     "Cursos/Alura Hub/next/Middlewares.md",
-    "Cursos/Alura Hub/next/Internacionalização do next.md",
     "Pasted image 20250913110854.png",
     "Pasted image 20250909181134.png",
     "Cursos/Alura Hub/Agentes de IA",
