@@ -8,7 +8,7 @@
 - Aula 008: [[entrada C, usando scanf]]
 - Aula 009: [[Gets e fflush]]
 - Aula 010: [[If e else]]
-- Aula 011: [[Switch case]]
+- Aula 011: [[Escola/Ano 1/primeiro trimestre e segundo - 2024/Algoritmo e linguagens de programação/Aula 011 - switch case/Switch case]]
 - Aula 012: [[Loop while em C ou flow]]
 - Aula 013: [[Do... while]]
 - Aula 014: [[Loop For]]
