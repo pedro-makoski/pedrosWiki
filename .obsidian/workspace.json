@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Git e GitHub/Explicação.md",
+                "file": "Cursos/Alura Hub/Java/Protected.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Explicação"
+              "title": "Protected"
             }
           }
         ]
@@ -204,6 +204,9 @@
   },
   "active": "5b70284256c0ee5e",
   "lastOpenFiles": [
+    "Cursos/Alura Hub/Java/Sobrecarga de métodos.md",
+    "Cursos/Alura Hub/Java/Protected.md",
+    "Cursos/Alura Hub/Java/Anotations.md",
     "Cursos/Alura Hub/Git e GitHub/Explicação.md",
     "Cursos/Alura Hub/Untitled",
     "Cursos/Alura Hub/Java/Comando para criar items semelhantes.md",
@@ -244,9 +247,6 @@
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150748.jpg",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Areas.md",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Conceitos primitivos.md",
-    "Cursos/Alura Hub/Go lang/Time.md",
-    "Cursos/Alura Hub/Go lang/UnMarshal.md",
-    "Cursos/Alura Hub/Go lang/Validators.md",
     "Pasted image 20250913110854.png",
     "Pasted image 20250909181134.png",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 005 - Poliedros/Pasted image 20250724162251.png",

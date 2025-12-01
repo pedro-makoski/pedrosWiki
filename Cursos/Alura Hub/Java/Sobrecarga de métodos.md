@@ -1,0 +1,1 @@
+Quando funções definidas no mesmo escopo, tem nomes iguais porém com parâmetros diferentes, e elas são usadas a partir do tipo do parâmetro.
