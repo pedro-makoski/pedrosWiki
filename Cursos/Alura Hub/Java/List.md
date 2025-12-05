@@ -1,0 +1,1 @@
+List é uma interface, a qual ArrayList implementa. Do pacote: `java.util.List`.

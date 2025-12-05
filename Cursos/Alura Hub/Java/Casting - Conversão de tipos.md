@@ -28,3 +28,127 @@ No exemplo anterior, o valor da variável x é convertido em um valor inteiro ut
 Abaixo tem uma tabela, onde você pode visualizar mais facilmente as conversões que são implícitas e as que necessitam ser feitas de forma explícita.
 
 ![alt: Imagem de uma tabela, que descreve os tipos primitivos e indica os casos em que o cast é implícito e os casos em que é necessário informar de forma explícita.](https://cdn3.gnarususercontent.com.br/2858-java-criando-primeira-aplicacao/imagem21.png)
+
+# Verificar se um item é uma instância de outro
+
+```java
+package principal;  
+  
+import calculos.CalculadoraDeTempo;  
+import model.Filme;  
+import model.Serie;  
+import model.Titulo;  
+  
+import java.util.ArrayList;  
+  
+public class TrabalhandoComListas {  
+    public static void main(String[] args) {  
+        Filme filme = new Filme(  
+                "O poderoso Chefão",  
+                1970,  
+                false,  
+                180,  
+                "Someone"  
+        );  
+  
+        filme.avalia(9);  
+  
+        Serie serie = new Serie(  
+                "Lost",  
+                2000,  
+                false,  
+                3,  
+                false,  
+                5,  
+                5  
+        );  
+  
+        var filmeDoPaulo = new Filme(  
+                "Paulo",  
+                2000,  
+                false,  
+                100,  
+                "Paulo"  
+        );  
+  
+        filmeDoPaulo.avalia(9);  
+  
+        ArrayList<Titulo> lista = new ArrayList<>();  
+        lista.add(filmeDoPaulo);  
+        lista.add(filme);  
+        lista.add(serie);  
+  
+        for(Titulo titulo : lista) {  
+            System.out.println(titulo.getNome());  
+  
+            if(titulo instanceof Filme) {  
+                Filme filmeNovo = (Filme) titulo;  
+                System.out.println("Classificação: " + filme.getClassificacao());  
+            }  
+  
+        }  
+    }  
+}
+```
+
+O instanceof verifica se um elemento, que vem de uma interface ou classe geral, é passivel de uma instância de outra classe.
+## Exemplo interessante
+Perguntando se é uma instancia, e atribuindo em uma variável nova, depois do instance of ``<nome-da-classe>``.
+```java
+package principal;  
+  
+import calculos.CalculadoraDeTempo;  
+import model.Filme;  
+import model.Serie;  
+import model.Titulo;  
+  
+import java.util.ArrayList;  
+  
+public class TrabalhandoComListas {  
+    public static void main(String[] args) {  
+        Filme filme = new Filme(  
+                "O poderoso Chefão",  
+                1970,  
+                false,  
+                180,  
+                "Someone"  
+        );  
+  
+        filme.avalia(9);  
+  
+        Serie serie = new Serie(  
+                "Lost",  
+                2000,  
+                false,  
+                3,  
+                false,  
+                5,  
+                5  
+        );  
+  
+        var filmeDoPaulo = new Filme(  
+                "Paulo",  
+                2000,  
+                false,  
+                100,  
+                "Paulo"  
+        );  
+  
+        filmeDoPaulo.avalia(9);  
+  
+        ArrayList<Titulo> lista = new ArrayList<>();  
+        lista.add(filmeDoPaulo);  
+        lista.add(filme);  
+        lista.add(serie);  
+  
+        for(Titulo titulo : lista) {  
+            System.out.println(titulo.getNome());  
+  
+            if(titulo instanceof Filme filmeNovo) {  
+                System.out.println("Classificação: " + filmeNovo.getClassificacao());  
+            }  
+  
+        }  
+    }  
+}
+```
