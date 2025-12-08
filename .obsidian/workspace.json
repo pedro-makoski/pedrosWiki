@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Java/Map e HashMap.md",
+                "file": "Cursos/Alura Hub/Java/Padrões de projeto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Map e HashMap"
+              "title": "Padrões de projeto"
             }
           }
         ]
@@ -204,15 +204,19 @@
   },
   "active": "5b70284256c0ee5e",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Java/Outras classes de Lista Java.md",
-    "Cursos/Alura Hub/Java/Map e HashMap.md",
-    "Cursos/Alura Hub/Java/List.md",
+    "Cursos/Alura Hub/Java/Fazendo requisições em Java.md",
+    "Cursos/Alura Hub/Java/Padrões de projeto.md",
     "Cursos/Alura Hub/Java/Ordenando elementos.md",
+    "Cursos/Alura Hub/Java/Http e Https.md",
+    "Cursos/Alura Hub/Java/Modificadores de acesso.md",
+    "Cursos/Alura Hub/Java/Listas e arrays.md",
+    "Cursos/Alura Hub/Java/List.md",
+    "Cursos/Alura Hub/Java/Map e HashMap.md",
+    "Cursos/Alura Hub/Java/Outras classes de Lista Java.md",
     "Cursos/Alura Hub/Java/Referências.md",
     "Cursos/Alura Hub/Java/Casting - Conversão de tipos.md",
     "Cursos/Alura Hub/Java/For each.md",
     "Cursos/Alura Hub/Java/Construtor.md",
-    "Cursos/Alura Hub/Java/Listas e arrays.md",
     "Cursos/Alura Hub/Java/Object.md",
     "Cursos/Alura Hub/Java/Var.md",
     "Cursos/Next.js/Baixando.md",
@@ -227,12 +231,8 @@
     "Cursos/Alura Hub/Java/Comando para criar items semelhantes.md",
     "Cursos/Alura Hub/Java/Padrão de nome de pacotes.md",
     "Cursos/Alura Hub/Java/JavaDOC.md",
-    "Cursos/Alura Hub/Java/Modificadores de acesso.md",
     "Cursos/Alura Hub/Java/Ler linhas.md",
-    "Cursos/Alura Hub/Java/Switch case.md",
     "Pasted image 20251127190847.png",
-    "Cursos/Alura Hub/Java/String.md",
-    "Cursos/Alura Hub/Java/Definições.md",
     "Cursos/Alura Hub/Java",
     "Pasted image 20251126185501.png",
     "Pasted image 20251126185446.png",
