@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Java/Padrões de projeto.md",
+                "file": "Cursos/Alura Hub/Java/Erros.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Padrões de projeto"
+              "title": "Erros"
             }
           }
         ]
@@ -204,10 +204,20 @@
   },
   "active": "5b70284256c0ee5e",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Java/Fazendo requisições em Java.md",
-    "Cursos/Alura Hub/Java/Padrões de projeto.md",
-    "Cursos/Alura Hub/Java/Ordenando elementos.md",
+    "Cursos/Alura Hub/Java/DTOs.md",
+    "Cursos/Alura Hub/Java/Erros.md",
+    "Cursos/Alura Hub/Java/Anotations.md",
+    "Cursos/Alura Hub/Java/Records.md",
+    "Cursos/Alura Hub/Java/GSON.md",
+    "Cursos/Alura Hub/Java/Ler linhas.md",
+    "Cursos/Alura Hub/Java/JavaDOC.md",
     "Cursos/Alura Hub/Java/Http e Https.md",
+    "Cursos/Alura Hub/Java/Framework x Biblioteca.md",
+    "Cursos/Alura Hub/Java/MVN Repository.md",
+    "Cursos/Alura Hub/Rotas.md",
+    "Cursos/Alura Hub/Java/Padrões de projeto.md",
+    "Cursos/Alura Hub/Java/Fazendo requisições em Java.md",
+    "Cursos/Alura Hub/Java/Ordenando elementos.md",
     "Cursos/Alura Hub/Java/Modificadores de acesso.md",
     "Cursos/Alura Hub/Java/Listas e arrays.md",
     "Cursos/Alura Hub/Java/List.md",
@@ -220,18 +230,8 @@
     "Cursos/Alura Hub/Java/Object.md",
     "Cursos/Alura Hub/Java/Var.md",
     "Cursos/Next.js/Baixando.md",
-    "Cursos/NVM.md",
     "Cursos/Next.js",
-    "Cursos/Alura Hub/Node.js.md",
-    "Cursos/Alura Hub/Java/Protected.md",
-    "Cursos/Alura Hub/Java/Sobrecarga de métodos.md",
-    "Cursos/Alura Hub/Java/Anotations.md",
-    "Cursos/Alura Hub/Git e GitHub/Explicação.md",
     "Cursos/Alura Hub/Untitled",
-    "Cursos/Alura Hub/Java/Comando para criar items semelhantes.md",
-    "Cursos/Alura Hub/Java/Padrão de nome de pacotes.md",
-    "Cursos/Alura Hub/Java/JavaDOC.md",
-    "Cursos/Alura Hub/Java/Ler linhas.md",
     "Pasted image 20251127190847.png",
     "Cursos/Alura Hub/Java",
     "Pasted image 20251126185501.png",
