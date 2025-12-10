@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Java/ViaCEP.md",
+                "file": "Cursos/curso.dev/Protocolos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ViaCEP"
+              "title": "Protocolos"
             }
           }
         ]
@@ -204,8 +204,10 @@
   },
   "active": "5b70284256c0ee5e",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Java/GSON.md",
     "Cursos/Alura Hub/Java/ViaCEP.md",
+    "Cursos/curso.dev/Protocolos.md",
+    "Cursos/curso.dev",
+    "Cursos/Alura Hub/Java/GSON.md",
     "Cursos/Alura Hub/Java/Untitled.md",
     "Cursos/Alura Hub/Java/Classe File.md",
     "Cursos/Alura Hub/Java/FileWriter.md",
@@ -229,7 +231,6 @@
     "Cursos/Alura Hub/Java/Outras classes de Lista Java.md",
     "Cursos/Alura Hub/Java/Referências.md",
     "Cursos/Alura Hub/Java/Casting - Conversão de tipos.md",
-    "Cursos/Alura Hub/Java/For each.md",
     "Cursos/Next.js",
     "Cursos/Alura Hub/Untitled",
     "Pasted image 20251127190847.png",
@@ -244,7 +245,6 @@
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 004 - Comandos no SQL/desktop.ini",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 002 - Fases no desenvolvimento de um projeto de banco de dados/desktop.ini",
     "Escola/Ano 2/Primeiro trimestre/Inovação e empreendedorismo/Aula 001 - introdução a o que é inovação/desktop.ini",
-    "Escola/Ano 2/Primeiro trimestre/Química/Aula 001 - Transformação da matéria/desktop.ini",
     "Pasted image 20251024175645.png",
     "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150748.jpg",
     "Pasted image 20250913110854.png",
