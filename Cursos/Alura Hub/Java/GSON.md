@@ -12,3 +12,13 @@ Gson gson = new GsonBuilder()
         .setFieldNamingPolicy(FieldNamingPolicy.UPPER_CAMEL_CASE)  
         .create();
 ```
+# Converter Objeto em String
+```java
+Gson gson = new GsonBuilder()  
+        .setPrettyPrinting()  
+        .setFieldNamingPolicy(FieldNamingPolicy.UPPER_CAMEL_CASE)  
+        .create();  
+FileWriter escrita = new FileWriter("filmes.json");  
+escrita.write(gson.toJson(titulos));  
+escrita.close();
+```

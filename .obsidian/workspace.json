@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Java/Erros.md",
+                "file": "Cursos/Alura Hub/Java/ViaCEP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Erros"
+              "title": "ViaCEP"
             }
           }
         ]
@@ -204,11 +204,15 @@
   },
   "active": "5b70284256c0ee5e",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Java/DTOs.md",
+    "Cursos/Alura Hub/Java/GSON.md",
+    "Cursos/Alura Hub/Java/ViaCEP.md",
+    "Cursos/Alura Hub/Java/Untitled.md",
+    "Cursos/Alura Hub/Java/Classe File.md",
+    "Cursos/Alura Hub/Java/FileWriter.md",
     "Cursos/Alura Hub/Java/Erros.md",
+    "Cursos/Alura Hub/Java/DTOs.md",
     "Cursos/Alura Hub/Java/Anotations.md",
     "Cursos/Alura Hub/Java/Records.md",
-    "Cursos/Alura Hub/Java/GSON.md",
     "Cursos/Alura Hub/Java/Ler linhas.md",
     "Cursos/Alura Hub/Java/JavaDOC.md",
     "Cursos/Alura Hub/Java/Http e Https.md",
@@ -226,10 +230,6 @@
     "Cursos/Alura Hub/Java/Referências.md",
     "Cursos/Alura Hub/Java/Casting - Conversão de tipos.md",
     "Cursos/Alura Hub/Java/For each.md",
-    "Cursos/Alura Hub/Java/Construtor.md",
-    "Cursos/Alura Hub/Java/Object.md",
-    "Cursos/Alura Hub/Java/Var.md",
-    "Cursos/Next.js/Baixando.md",
     "Cursos/Next.js",
     "Cursos/Alura Hub/Untitled",
     "Pasted image 20251127190847.png",
