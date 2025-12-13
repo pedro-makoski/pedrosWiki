@@ -171,6 +171,8 @@ O **TCP/IP** é a base da comunicação em redes modernas, incluindo a interne
     ```bash
     nmap -Pn 192.168.1.1
     ```
+* netstat -an | findstr :443
+    - Encontra todas as portas conectadas pelo seu computador HTTP. Por isso 443, que é a porta do HTTPs.
     
 
 # Diferença de TCP e UDP
@@ -178,14 +180,30 @@ O **TCP/IP** é a base da comunicação em redes modernas, incluindo a interne
 Entrega dos pacotes de forma ordenada. Estabelece a conexão. Detecta e corrige os erros. São usado em aplicações web.
 ## UDP
 Não estabelece a conexão. Entrega não ordenada. Sem detecção ou correção de erros.
-
-### Referências
-
-- Guia da **GNU/Linux iproute2** (substituto do ifconfig): [https://man7.org/linux/man-pages/man8/ip.8.html](https://man7.org/linux/man-pages/man8/ip.8.html)
-- Manual do **tcpdump**: [https://www.tcpdump.org/manpages/tcpdump.1.html](https://www.tcpdump.org/manpages/tcpdump.1.html)
-- Documentação do **ss/netstat**: [https://man7.org/linux/man-pages/man8/ss.8.html](https://man7.org/linux/man-pages/man8/ss.8.html)
-- Projeto **nmap**: [https://nmap.org](https://nmap.org/)
-- Tutorial de redes Linux no DigitalOcean: [https://www.digitalocean.com/community/tutorials](https://www.digitalocean.com/community/tutorials)
+# Endereços IP
+Registro, que indica o endereço que uma informação da internet deve chegar. Identifica dispositivos em uma rede. Você pode verificar um ip de um servidor usando o comando ping do terminal.
+## Portas 
+Números que identificam um processo ou serviço específico em um dispositivo.
+São numeradas entre 0 a 65535.
+Algumas portas padrão:
+- Porta 80 - HTTP
+- SMTP -  Porta 25
+- Porta 53 - DNS
+## Sockets
+Combinação de um endereço de IP e um número da porta.
+Utilizado para identificar um ponto final de comunicação em uma rede IP.
+## IPv4 vs IPv6
+IPv4 - formato de endereço de 32 bits, com 4,3 bilhões endereços possíveis.
+IPv6 - formato de endereço de 128 bits, com 340 undecilhões de endereços possíveis.
+Atualmente a maioria dos servidores usa o IPv4.
+# Resolução de nomes de DNS
+Sistema WEB que vincula endereços de IP, com nomes de domínio.
+Servidores DNS, servidores que tem esta tabela de vinculação.
+## Processo
+- Usuário digita o nome do domínio
+- Navegador envia consulta DNS
+- Servidor DNS consulta outros servidores.
+- Retorna o IP
 # Resumo 2
 ## Conceitos-Chave
 
@@ -303,3 +321,29 @@ O **modelo TCP/IP** organiza a comunicação na internet em **camadas complem
 |Interface|Comunicação física|MAC address|
 
 Essas camadas garantem que, ao digitar um site no navegador, a mensagem viaje de forma ordenada e eficiente desde o computador até o servidor, e volte com a página carregada.
+# Impacto, latencia e confiabilidade
+## Conceito de Latência
+
+A latência pode ser entendida como o tempo que uma requisição leva para percorrer um caminho na rede, desde o envio pelo dispositivo até o recebimento de uma resposta. Esse conceito é essencial para avaliar a experiência do usuário, pois redes com alta latência podem fazer com que operações pareçam lentas ou até interromper a interação em tempo real, como em jogos online ou videoconferências.
+
+Em uma rede local (LAN), a latência tende a ser muito baixa, devido à curta distância entre os dispositivos e à infraestrutura dedicada. Em contrapartida, ao utilizar a internet – com sua série de dispositivos intermediários, longas distâncias e rotas dinâmicas – o tempo de resposta pode aumentar consideravelmente. Além disso, fatores como congestionamento da rede ou a necessidade de passar por múltiplos roteadores podem impactar esse tempo.
+
+Para exemplificar, uma simples verificação de latência pode ser feita utilizando o comando "ping" no terminal. Essa ferramenta envia pequenos pacotes de dados e mede o tempo que eles levam para retornar, ajudando a identificar se a rede possui ou não atrasos significativos.
+
+## Entendimento de Confiabilidade
+
+A confiabilidade de uma rede diz respeito à capacidade de garantir que os dados transmitidos cheguem ao destino sem perdas ou erros. Essa característica é influenciada por diversos fatores, como a qualidade dos equipamentos, a estabilidade da conexão e a resiliência do caminho utilizado para comunicação.
+
+Em infraestruturas locais, onde os elementos que compõem a rede são controlados, a confiabilidade costuma ser alta. Por outro lado, na internet, a transmissão pode ser afetada por diversos intermediários e por condições variáveis (como falhas temporárias em algum nó da rede), o que pode resultar em perda de pacotes ou na necessidade de retransmissão de dados. Esse cenário exige mecanismos de controle, como o protocolo TCP, que garante que os dados sejam entregues de forma ordenada e completa.
+
+## Fatores de Influência e Estratégias de Otimização
+
+Diversos aspectos podem impactar tanto a latência quanto a confiabilidade:
+
+- **Distância Física e Número de Saltos:** Quanto maior a distância e maior o número de dispositivos intermediários, maior tende a ser a latência e menor a confiabilidade, pois há mais pontos de possível falha.
+- **Qualidade dos Equipamentos e Infraestrutura:** Equipamentos modernos e bem configurados suportam melhor as demandas da rede, colaborando para transmissões mais estáveis.
+- **Congestionamento e Tráfego:** Em momentos de alta demanda, a rede pode sofrer congestionamento, aumentando os tempos de resposta e a chance de perda de pacotes.
+
+Como estratégia para otimizar essas variáveis, técnicas como o uso de cache local, balanceamento de carga e até mesmo redes privadas podem ser adotadas para minimizar os impactos. Ferramentas de monitoramento e diagnóstico, como análises de pacotes, ajudam a identificar gargalos e falhas na comunicação.
+
+Em resumo, compreender os mecanismos por trás da latência e confiabilidade permite desenhar redes mais eficientes e oferecer uma experiência de uso superior, seja em ambientes controlados como em uma LAN, ou na vasta e variada infraestrutura da internet.

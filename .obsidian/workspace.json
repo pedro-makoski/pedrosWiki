@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Redes e protocolos.md",
+                "file": "Cursos/Alura Hub/Protocolos HTTP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Redes e protocolos"
+              "title": "Protocolos HTTP"
             }
           }
         ]
@@ -204,11 +204,17 @@
   },
   "active": "5b70284256c0ee5e",
   "lastOpenFiles": [
+    "Pasted image 20251213172417.png",
+    "Pasted image 20251213172143.png",
+    "Pasted image 20251213171252.png",
+    "Cursos/Alura Hub/WWW.md",
+    "Cursos/Alura Hub/Protocolos HTTP.md",
+    "Pasted image 20251213170350.png",
+    "Cursos/Alura Hub/TCP-IP.md",
     "Pasted image 20251212162705.png",
     "Pasted image 20251212161422.png",
     "Pasted image 20251212161100.png",
     "Cursos/curso.dev/Protocolos.md",
-    "Cursos/Alura Hub/Redes e protocolos.md",
     "Cursos/Alura Hub/Java/ViaCEP.md",
     "Cursos/curso.dev",
     "Cursos/Alura Hub/Java/GSON.md",
@@ -231,8 +237,6 @@
     "Cursos/Alura Hub/Java/Modificadores de acesso.md",
     "Cursos/Alura Hub/Java/Listas e arrays.md",
     "Cursos/Alura Hub/Java/List.md",
-    "Cursos/Alura Hub/Java/Map e HashMap.md",
-    "Cursos/Alura Hub/Java/Outras classes de Lista Java.md",
     "Cursos/Next.js",
     "Cursos/Alura Hub/Untitled",
     "Pasted image 20251127190847.png",
@@ -240,16 +244,12 @@
     "Pasted image 20251126185501.png",
     "Pasted image 20251126185446.png",
     "Pasted image 20251126185334.png",
-    "Pasted image 20251126183415.png",
     "Cursos/Alura Hub/Computacao Teorica",
     "Escola/Ano 2/Primeiro trimestre/História/Aula 005 - Outros povos/desktop.ini",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 003 - Compostos inorgânicos/desktop.ini",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 004 - Comandos no SQL/desktop.ini",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 002 - Fases no desenvolvimento de um projeto de banco de dados/desktop.ini",
     "Escola/Ano 2/Primeiro trimestre/Inovação e empreendedorismo/Aula 001 - introdução a o que é inovação/desktop.ini",
-    "Pasted image 20251024175645.png",
-    "Escola/Ano 2/Primeiro trimestre/Matemática/Aula 004 - Revisão de Figuras planas/Pasted image 20250724150748.jpg",
-    "Pasted image 20250913110854.png",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Untitled.canvas",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Artes/Aula 2 - arte rupestre/Arte-rupestre.canvas",
