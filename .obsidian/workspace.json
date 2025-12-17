@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Java/Generics.md",
+                "file": "Cursos/Alura Hub/Java/Lambda functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Generics"
+              "title": "Lambda functions"
             }
           }
         ]
@@ -204,8 +204,10 @@
   },
   "active": "ca7cb346d7e70087",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Java/Spring boot/JsonAlias x JsonProperty.md",
+    "Cursos/Alura Hub/Java/Collections.md",
+    "Cursos/Alura Hub/Java/Lambda functions.md",
     "Cursos/Alura Hub/Java/Generics.md",
+    "Cursos/Alura Hub/Java/Spring boot/JsonAlias x JsonProperty.md",
     "Cursos/Alura Hub/Java/Spring boot/Jackson.md",
     "Cursos/Alura Hub/Java/Spring boot/Spring boot - Sem WEB.md",
     "Cursos/Alura Hub/Java/Spring boot/Maven e gradle.md",
@@ -239,8 +241,6 @@
     "Cursos/Alura Hub/Java/Erros.md",
     "Cursos/Alura Hub/Java/DTOs.md",
     "Cursos/Alura Hub/Java/Anotations.md",
-    "Cursos/Alura Hub/Java/Records.md",
-    "Cursos/Alura Hub/Java/Ler linhas.md",
     "Cursos/Next.js",
     "Cursos/Alura Hub/Untitled",
     "Pasted image 20251127190847.png",
