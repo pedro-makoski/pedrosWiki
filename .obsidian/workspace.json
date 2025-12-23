@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "08267083f4621e47",
+        "id": "71dccb3075d93f4a",
         "type": "tabs",
         "children": [
           {
-            "id": "632515562470c13f",
+            "id": "d2f0a5864fae3b51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Java/Stream API.md",
+                "file": "Cursos/Alura Hub/Java/Enums.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Stream API"
+              "title": "Enums"
             }
           }
         ]
@@ -202,10 +202,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6bbbc5f01df37320",
+  "active": "d2f0a5864fae3b51",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Java/FindAny x FindFirst.md",
+    "Como será feito a analise pelo RTD.md",
+    "Cursos/Alura Hub/Java/Enums.md",
+    "Cursos/curso.dev/Next.js.md",
+    "Cursos/curso.dev/Protocolos.md",
     "Cursos/Alura Hub/Java/Stream API.md",
+    "Cursos/Alura Hub/Java/FindAny x FindFirst.md",
     "Cursos/Alura Hub/Java/Spring boot/CommandLineRunner.md",
     "Cursos/Alura Hub/Java/LocalDate - JAVA.md",
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Matemática/Aula 002 - Funções/Funções.md",
@@ -236,11 +240,7 @@
     "Pasted image 20251212162705.png",
     "Pasted image 20251212161422.png",
     "Pasted image 20251212161100.png",
-    "Cursos/curso.dev/Protocolos.md",
-    "Cursos/Alura Hub/Java/ViaCEP.md",
     "Cursos/curso.dev",
-    "Cursos/Alura Hub/Java/GSON.md",
-    "Cursos/Alura Hub/Java/Untitled.md",
     "Cursos/Next.js",
     "Cursos/Alura Hub/Untitled",
     "Pasted image 20251127190847.png",

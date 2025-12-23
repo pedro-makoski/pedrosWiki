@@ -1,0 +1,7 @@
+No semantic system, deve conter mais estes atributos:
+- non break fragment open: indicam que quando é achado este elemento ele deve não fragmentar, até achar um fragment close
+- non break fragment close: geralmente indica um \n, porém pode ser também um outra palavra para indicar o fechamento. 
+- agrupator keywords: são caracteres ou palavras especiais, que devem garantir que uma sintaxe está junta a outra
+E então a partir desses atributos acima se agrupa um comando completo, que deve ser fragmentado. Ele deve achar pequenas sintaxes primeiro, e então indo para as maiores, sequindo o padrão do inicio até o fim, onde por exemplo: "t".toUpperCase(), ele deve achar o texto "t" primeiro, e trocar uma referencia, de replacable value, então ele vai encontrar a sintaxe de trás para frente x.toUpperCase, e trocar por uma outra referencia, e depois encontrar y() para encontrar o resultado final.
+Em caso de sintaxes de repetição, deve ser encontrado os elementos agrupados para depois aplicar cada item. Usando aqueles atributos falados inicialmente.
+Em caso de ser encontrado um replacable value, mais no final, e não no começo, a partir de uma sintaxe que deve ser seguida, ela deve acionar uma outra procura de sintaxe encontrar um outro replacable value.

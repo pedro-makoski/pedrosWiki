@@ -20,3 +20,5 @@ Não depende de conferência entre as partes envolvidas.
 Garantia que o conteúdo vai estar correto, fazendo verificações de integridade.
 # Protocolo IP
 Internet protocol. Protocolo para transitar informações entre a internet.
+# Protocolo HTTP
+É com esse protocolo que o servidor WEB que o servidor consegue se comunicar com o cliente.
