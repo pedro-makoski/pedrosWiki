@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Java/Enums.md",
+                "file": "Cursos/Alura Hub/Java/Spring boot/Injeção de dependências.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Enums"
+              "title": "Injeção de dependências"
             }
           }
         ]
@@ -202,10 +202,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2f0a5864fae3b51",
+  "active": "6bbbc5f01df37320",
   "lastOpenFiles": [
-    "Como será feito a analise pelo RTD.md",
+    "Cursos/Alura Hub/Java/Hibernate/Persistir dados.md",
+    "Cursos/Alura Hub/Java/Spring boot/Injeção de dependências.md",
     "Cursos/Alura Hub/Java/Enums.md",
+    "Cursos/Alura Hub/Java/Hibernate",
+    "Como será feito a analise pelo RTD.md",
     "Cursos/curso.dev/Next.js.md",
     "Cursos/curso.dev/Protocolos.md",
     "Cursos/Alura Hub/Java/Stream API.md",
@@ -234,9 +237,7 @@
     "Pasted image 20251213172417.png",
     "Pasted image 20251213172143.png",
     "Pasted image 20251213171252.png",
-    "Cursos/Alura Hub/WWW.md",
     "Pasted image 20251213170350.png",
-    "Cursos/Alura Hub/TCP-IP.md",
     "Pasted image 20251212162705.png",
     "Pasted image 20251212161422.png",
     "Pasted image 20251212161100.png",
@@ -249,7 +250,6 @@
     "Escola/Ano 2/Primeiro trimestre/História/Aula 005 - Outros povos/desktop.ini",
     "Escola/Ano 2/Primeiro trimestre/Biologia/Aula 003 - Compostos inorgânicos/desktop.ini",
     "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 004 - Comandos no SQL/desktop.ini",
-    "Escola/Ano 2/Primeiro trimestre/Banco de dados/Aula 002 - Fases no desenvolvimento de um projeto de banco de dados/desktop.ini",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Untitled.canvas",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Artes/Aula 2 - arte rupestre/Arte-rupestre.canvas",
