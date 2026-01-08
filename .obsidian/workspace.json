@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c14d8c608c68ce73",
+        "id": "065286a96bc014b3",
         "type": "tabs",
         "children": [
           {
-            "id": "1250451fc6f0ec61",
+            "id": "ffab76709d723a94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Java/Spring boot/Fetch Type.md",
+                "file": "Cursos/curso.dev/Comandos GIT offline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Fetch Type"
+              "title": "Comandos GIT offline"
             }
           }
         ]
@@ -202,10 +202,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1250451fc6f0ec61",
+  "active": "ffab76709d723a94",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Java/Spring boot/Operações em cascata.md",
+    "Cursos/curso.dev/Comandos GIT offline.md",
     "Cursos/Alura Hub/Java/Spring boot/Fetch Type.md",
+    "Cursos/Alura Hub/Java/Spring boot/Operações em cascata.md",
     "Cursos/Alura Hub/Java/Spring boot/Relacionamento.md",
     "Cursos/Alura Hub/Java/Spring boot/Injeção de dependências.md",
     "Cursos/Alura Hub/Java/Hibernate/Persistir dados.md",
@@ -232,7 +233,6 @@
     "Cursos/Alura Hub/Desenvolvimento WEB.md",
     "Cursos/CURL.md",
     "Pasted image 20251215174059.png",
-    "Cursos/Alura Hub/Criptografia.md",
     "Pasted image 20251213183720.png",
     "Pasted image 20251213172417.png",
     "Pasted image 20251213172143.png",
