@@ -331,3 +331,145 @@ Trabalha com as principais operações do CRUD.
 public interface SerieRepository extends JpaRepository<Serie, Long> {  
 }
 ```
+## Derived queries
+Consulta derivadas. Onde a partir do nome do método que se coloca fica um comando personalizada.
+Exemplo:
+```ts
+Optional<Serie> findByTituloContainingIgnoreCase(String nomeSerie);
+```
+Ele encontra a primeira serie com titulo que contem, sem considerar case sensitive.
+A JPA tem diversos recursos, e um dos mais legais que podemos utilizar são as derived queries, em que trabalhamos com métodos específicos que consultam o banco de forma personalizada. Esses métodos são criados na interface que herda de JpaRepository. Neles, utilizaremos palavras-chave (em inglês) para indicar qual a busca que queremos fazer.
+
+A estrutura básica de uma derived query na JPA consiste em:
+
+`verbo introdutório + palavra-chave “By” + critérios de busca`
+
+Como verbos introdutórios, temos _find_, _read_, _query_, _count_ e _get_. Já os critérios são variados. Veremos alguns exemplos em vídeo, mas você pode explorar bastante a prática para entendê-los melhor.
+
+Os critérios mais simples envolvem apenas os atributos da classe mapeada no Repository. No nosso caso, um exemplo desse critério seria o `findByTitulo`, em que fazemos uma busca por séries com um atributo específico da classe `Serie`. Mas podemos acrescentar condições a esses critérios. É aí que surge o `findByTituloContainingIgnoreCase()`. Para fazer os filtros, poderíamos utilizar várias outras palavras. Dentre elas, podemos citar:
+
+- Palavras relativas à igualdade:
+    
+    - `Is`, para ver igualdades
+    - `Equals`, para ver igualdades (essa palavra-chave e a anterior têm os mesmos princípios, e são mais utilizadas para a legibilidade do método).
+    - `IsNot`, para checar desigualdades
+    - `IsNull`, para verificar se um parâmetro é nulo
+- Palavras relativas à similaridade:
+    
+    - `Containing`, para palavras que contenham um trecho
+    - `StartingWith`, para palavras que comecem com um trecho
+    - `EndingWith`, para palavras que terminem com um trecho
+    - Essas palavras podem ser concatenadas com outras condições, como o `ContainingIgnoreCase`, para não termos problemas de Case Sensitive.
+- Palavras relacionadas à comparação:
+    
+    - `LessThan`, para buscar registros menores que um valor
+    - `LessThanEqual`, para buscar registros menores ou iguais a um valor
+    - `GreaterThan`, para identificar registros maiores que um valor
+    - `GreaterThanEqual`, para identificar registros maiores ou iguais a um valor
+    - `Between`, para saber quais registros estão entre dois valores
+
+Essas são apenas algumas das palavras que podemos utilizar, e podemos combiná-las de muitas formas! Ao longo dos próximos vídeos, vamos exercitar nossos conhecimentos fazendo várias buscas com essas palavras-chave, mas também te convidamos a testar com vários exemplos para ver na prática como funciona!
+
+ [Discutir no Fórum](https://cursos.alura.com.br/forum/curso-java-persistencia-dados-consultas-spring-data-jpa/exercicio-para-saber-mais-consultas-derivadas-derived-queries/142239/novo)
+Para trabalhar com a ordenação de registros pesquisados, também existem algumas palavras-chave. Podemos utilizar o `OrderBy` para ordenar os registros por algum atributo deles, como a série pela avaliação. Também podemos encadear atributos. Se uma Série tem um Ator e queremos ordenar pelo nome do ator, podemos utilizar `OrderByAtorNome`, por exemplo.
+
+Além do OrderBy, ainda existem alguns outros recursos de filtros que podem ser utilizados:
+
+- **Distinct**, para remover dados duplicados
+- **First**, para pegar o primeiro registro
+- **Top**, para limitar o número de dados
+
+Ainda existe uma infinidade de palavras-chave e recursos que podemos utilizar com as derived queries. Sugerimos que você leia a documentação e exercite a prática.
+
+A documentação da Spring Data JPA está no [link](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/).
+
+# Linguagem JPQL
+## Sem linguagem JPQL - SQL Nativo
+Quando usamos um banco de dados com base no SQL que estou usando, é possível colocar na forma nativa:
+```java
+@Query(value = """  
+    select *    from series    where series.total_temporadas <= 5  
+    and series.avaliacao >= 7.5""", nativeQuery = true)
+```
+Porém isso é problemático pois alguns comandos são diferentes entre as linguagens.
+## Com JPQL
+Java Persistence Query Language.
+Quando começamos a aprender sobre o desenvolvimento web com Java, em algum momento, nos deparamos com a necessidade de interagir com bancos de dados. Dentro deste universo, podemos fazer vários tipos de busca, como as derived queries, a JPQL (Java Persistence Query Language) e o próprio SQL nativo.
+
+Mas qual é a diferença entre elas e como isso afeta a portabilidade entre diferentes bancos de dados? Iremos analisar aqui as queries nativas e a JPQL.
+
+A JPQL é uma linguagem de consulta orientada a objetos que foi definida como parte da especificação JPA (Java Persistence API). Ela é usada para fazer consultas em bancos de dados relacionais de maneira similar ao SQL, mas com uma diferença fundamental: em vez de trabalhar com tabelas e colunas, como no SQL, a JPQL trabalha com classes e atributos que fazem parte do seu modelo de domínio.
+
+```java
+// Exemplo de Query JPQL
+String jpql = "select c from Customer c where c.name like :name";
+```
+
+## 2. Entendendo o SQL Nativo
+
+O SQL Nativo, por outro lado, é a linguagem padrão usada para interagir com bancos de dados relacionais. Com ela, você escreve consultas que são específicas para a estrutura e sintaxe do banco de dados que está usando.
+
+```sql
+-- Exemplo de Query SQL Nativo
+SELECT * FROM Customer WHERE name LIKE '%John%';
+```
+
+Para utilizá-las no repositório, devemos usar o atributo `nativeQuery` da anotação `@Query`, conforme visto em vídeo.
+
+A principal diferença entre JPQL e SQL Nativo é, portanto, o nível de abstração. A JPQL abstrai os detalhes do banco de dados, permitindo que você trabalhe no nível do modelo de domínio. Isso pode tornar o código mais legível e fácil de manter.
+
+O SQL Nativo, por outro lado, permite um controle mais detalhado e direto sobre as consultas ao banco de dados. Isso pode ser útil se você precisa otimizar suas consultas para um banco de dados específico.
+
+Porém, há a questão da portabilidade. Como a JPQL é uma abstração de alto nível, ela é compatível com qualquer banco de dados que suporte a especificação JPA. Se você precisar mudar seu aplicativo de um banco de dados para outro, a maioria das suas consultas JPQL continuarão funcionando sem alterações.
+
+Já com o SQL Nativo, se você decidir mudar de um banco de dados para outro, provavelmente terá que reescrever uma parte das suas consultas, visto que cada banco tem suas particularidades de sintaxe e funcionamento.
+
+A escolha entre JPQL e SQL Nativo muitas vezes depende das necessidades do seu projeto. Se a portabilidade é uma prioridade e se o seu modelo de domínio é complexo e rico de informações, a JPQL pode ser a melhor escolha. Se o desempenho é uma prioridade e você precisa de controle detalhado sobre suas consultas, o SQL Nativo pode ser a melhor opção.
+
+Entender esses conceitos possibilitará que você tome decisões mais acertadas, minimizando problemas futuros e otimizando a performance de suas aplicações. Então, continue estudando e aprofundando seus conhecimentos!
+## Like e ILIKE
+LIKE é um comando SQL usado na cláusula WHERE para procurar um padrão específico em uma coluna. Em outras palavras, é uma maneira de fazer uma pesquisa em uma tabela, da mesma maneira que você pode usar um filtro de pesquisa em uma planilha do Excel, ou utilizar o método `contains()` do Java.
+
+Você pode estar se perguntando: "Por que eu deveria aprender sobre LIKE se eu simplesmente posso procurar diretamente a informação que quero na minha tabela?". Bom, imagine que você tem uma tabela com milhares de registros, e você precisa encontrar todos os nomes que começam com a letra 'A'. Fazer isso manualmente levaria muito tempo, não é? É aqui que o comando LIKE é realmente útil!
+
+Com o comando LIKE, você pode simplificar essa tarefa fazendo uma consulta que retorna apenas os registros que correspondem ao padrão que você define.
+
+A sintaxe básica para usar o comando LIKE é a seguinte:
+
+```sql
+SELECT column1, column2, ...
+FROM table_name
+WHERE column LIKE pattern;
+```
+
+O 'pattern' é o padrão que você está procurando. Para definir esse padrão, você usa os caracteres curinga `%` e `_`. O `%` substitui zero ou mais caracteres, enquanto `_` substitui um único caractere.
+
+Por exemplo, para encontrar todos os nomes em uma tabela de clientes que começam com 'A', você usaria:
+
+```sql
+SELECT nome
+FROM clientes
+WHERE nome LIKE 'A%';
+```
+
+Isso retornará todos os registros na coluna 'nome' que começam com 'A'.
+
+Se você quiser todos os nomes com 'A' em qualquer lugar do nome, você usaria:
+
+```sql
+SELECT nome
+FROM clientes
+WHERE nome LIKE '%A%';
+```
+
+Mas onde se encaixa o comando ILIKE que utilizamos em aula? O comando LIKE é sensível a maiúsculas e minúsculas em alguns bancos de dados. Portanto, se você quiser uma busca que não leve isso em consideração, como se fosse o `IgnoreCase` em Java, você deve utilizar o ILIKE.
+
+Novamente, é importante que a gente entenda o uso dos dois comandos para conseguir compará-los e escolher o que melhor se adequa à nossa realidade de pessoas desenvolvedoras.
+## Join
+Quando um elemento possui uma lista de elementos. Você poder colocar no JQPL os atributos depois de um JOIN.
+## Year
+```java
+@Query("""  
+    SELECT e    FROM Serie s    JOIN s.episodios e    WHERE e.titulo ILIKE %:trechoEpisodio%    AND YEAR(e.dataLancamento) >= :ano""")
+```
+YEAR é a função que pega o ano da data.

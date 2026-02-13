@@ -1,0 +1,2 @@
+- package.json: arquivo de manifesto que indica metadados, scripts, dependências
+- package-lock.json: manifesto dedicados as dependências, assim como as dependências das dependências.

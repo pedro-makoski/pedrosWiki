@@ -21,6 +21,8 @@ Ele coloca um identificador em cada arquivo, relacionando com seu conteúdo. For
 Uma foto é um conjunto de apontamentos para alguns blobs.
 # Git log
 Mostra todos os logs(registros), todas as versões do código.
+``--stat`` - indica para o log ser mais detalhado.
+
 # Git status
 Compara a versão de agora com o ultimo commit. 
 # 3 estágios que um arquivo passa no controle de versão
@@ -40,3 +42,14 @@ git commit --amend
 ```
 O git ammend rescreve o commit anterior, deletando-o e colocando outros.
 Os comits são imutáveis por isso cria outro commit para colocar no lugar.
+# Branchs 
+São linhas do tempo. Ramificações do código.
+# origin/main x local/main
+- origin/main -> no github
+- local/main -> no computador atual
+# git push
+Empurra as branchs locais para a origin.
+# git pull
+Puxa os commits da origin para a origin.
+# Problemas do push após um --amend
+Quando você faz um commit --amend, o ultimo commit é apagado e fica outro no local. Porém para fazer o push vai entrar em conflito, com o da origem, pois um commit desapareceu dali. Por isso, ilegalmente você precisar usar um git push --force para forçar que o commit seja sobrescrito.
