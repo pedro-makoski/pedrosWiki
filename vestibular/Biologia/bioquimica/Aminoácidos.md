@@ -1,0 +1,39 @@
+- Compostos orgânicos
+- Formados por C, H, O, N, S(nem todos tem)
+- Um carbono está ligado com quatro itens:
+	- NH2 - grupo amina
+	- COOH - grupo ácido carboxilico 
+	- H - hidrogênio
+	- R -> radical, o único que muda dentre os 20 aminoácidos
+- Apenas 20 AA nos seres vivos
+	- 11 são naturais 
+	- 9 são essenciais 
+- Na natureza existem 140-200
+- Autótrofos -> produzem todos
+- Heterótrofos -> não produzem todos
+	- AA naturais -> produzidos no nosso corpo
+	- AA essenciais -> não são produzidos no nosso corpo 
+- A produção ocorre por transaminação
+- Funções dos aminoácidos
+	- Formam as proteínas
+	- Isolados podem atuar como hormônios
+	- Sistema-tampão -> mantém o pH constante
+	- Industria de alimentos -> aspartante 
+	- Fonte(alimentação)
+		- Proteína animal 
+		- Leguminosas(feijão, soja, ervilha, lentilha)
+		- Arroz + Feijão = todos os essenciais 
+	- Ligação entre os aminoácidos 
+		- AA é o monômero das proteínas que são polimeros
+		- Ligação 
+		- Ligação peptídica
+			- Proteína é um grande peptídico 
+			- Classificação peptídica
+				- Oligopetídios(de 2 a 10 AA)
+					- Dipeptídio 
+					- Tripeptídeos 
+				- Polipeptídeos(de 10 a 80 AA)
+				- Proteínas(+ de 80 A)
+			- Se ligam através de uma síntese por desitratação, formando uma molécula de água
+				- Uma hidroxila(OH) de um ácido carboxílico + hidrogênio do grupo amina, forma um H2O
+				- Para quebrar uma proteína é feito a hidrolise da proteína, entrando uma água.

@@ -1,0 +1,14 @@
+# Estrutura base
+- A cabeça -> núcleo enzimas que ajudam no processo de fecundação.
+	- citoplasma
+	- núcleo
+	- citoesqueleto 
+	- acrossomo
+		- complexo golgiense 
+		- enzimas que ajudam a entrar no ovocito
+			- enzimas as quais são são semelhante as presentes nos lisossomos 
+- Intermediária -> rica em mitocôndrias
+	- permitindo que ocorra os movimentos flagelares 
+- Cauda -> ajuda na movimentação do espermatozoide 
+	- Formado por 11 microtúbulos
+	- E uma membrana célular

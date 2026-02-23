@@ -1,0 +1,116 @@
+Dissertação argumentativa.
+	é um texto em prosa que defende um ponto de vista ([tese](https://www.google.com/search?q=tese&rlz=1C1FKPE_pt-BRBR1179BR1179&oq=o+que+%C3%A9+disserta%C3%A7%C3%A3o+&gs_lcrp=EgZjaHJvbWUqBwgBEAAYgAQyBggAEEUYOTIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDU2OTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8&ved=2ahUKEwiq1aqVjuuSAxU3I7kGHdESEwgQgK4QegYIAQgAEAQ)) sobre um tema, geralmente social, político ou cultural, utilizando argumentos sólidos, coerentes e lógicos para convencer o leitor
+Deve ter introdução, desenvolvimento e conclusão.
+Avalia a escrita e a leitura.
+# Competência 1
+- Domínio da modalidade escrita formal da língua portuguesa
+	- Uso do gramática
+- 5 níveis
+	- 0 - O texto é entendível 
+	- 1 - Estrutura sintática com muitos desvios
+	- 2 - Estrutura sintática deficitária ou muitos desvios
+	- 3  - Estrutura sintática regular e alguns desvios 
+	- 4 - Estrutura sintática boa e poucos desvios
+	- 5 - Estrutura sintática excelente(no máximo uma falha) e, no máximo, dois desvios 
+- Desvios de gramática
+	- Acentuação
+	- Ortografia
+	- Hífen
+	- Maiúscula e minúsculas
+- Desvios de sintaxe
+	- Regência
+	- Concordância
+	- Pontuação
+	- Paralelismo sintático
+	- Crase
+- O que ela observa
+	- Estrutura sintática
+	- Desvios gramaticais
+	- Escolha de registro
+		- Informalidade
+		- Marca e oralidade
+	- Semântica
+# Competência 2
+- Compreender a proposta da redação e aplicar conceito de várias áreas de conhecimento para desenvolver o tema, dentro dos limites estruturais do texto dissertativo argumentativo em prosa(orma natural da linguagem escrita ou falada, organizada em frases e parágrafos contínuos, sem a métrica ou rima da poesia.
+- Não tangenciar o tema
+	- Tangenciar o tema seria falar algo que é quase o proposto, mas não é
+- Seguir a estrutura da dissertação argumentativa
+	- Apenas disserta - expõe
+	- E argumentar/persuadir 
+	- Estrutura
+		- Introdução em 1 parágrafo - introdução ao tema e a tese.
+		- 1 desenvolvimento em dois parágrafos com 2 argumentos.
+		- Conclusão em outro parágrafo
+- Diluir as palavras do tema da redação.
+- Tema x assunto
+	- O assunto é macro
+	- O tema é um recorte do assunto
+- Níveis
+	- Nível 1 - Tangencia o tema ou texto composto por aglomerado de palavras ou traços constantes de outros tipos textuais
+	- Nível 2 - Abordagem completa do tema. Copiou o texto motivacional. 
+	- Nível 3 - Abordagem completa do tema. Repertório baseado nos textos motivacionais. 1 parte embrionária(trecho não desenvolvido).
+	- Nível 4 - Abordagem completa do tema. Nenhuma parte embrionária. Repertório legitimado, mas com uso improdutivo(não desenvolvo)
+	- Nível 5 - Abordagem completa do tema. Nenhuma parte embrionária. Repertório legitimado e desenvolvido.
+# Competência 3
+- Selecionar, relacionar, organizar e interpretar informações, fatos, opiniões e argumentos em defesa de um ponto de vista.
+	- **Selecionar:** Escolher a partir do próprio repertório, informações, fatos, opiniões e argumentos relacionados ao tema proposto e ao seu ponto de vista.
+	- **Relacionar:** relacionar os argumentos, sintática e semanticamente, para guiar o leitor até o seu ponto de vista, deixando claro o caminho percorrido. É importante desenvolver os argumentos, para que essa ação não seja responsabilidade do avaliador
+	- **Organizar**: criar uma hierarquia produtiva entre informações, fatos, opiniões e argumentos, observando quais são os principais e quais ficam em segundo plano.
+	- **Interpretar**: ir além das simples reprodução de ideias, interpretando informações, fatos, opiniões e argumentos, relacionando-os ao tema e ao seu ponto de vista. 
+- O foco é avaliar o projeto de texto e o desenvolvimento dos argumentos
+- Relação entre a proposta de intervenção e a discussão apresentada ao longo do texto.
+- Níveis:
+	- 1 - Tangente ao tema e com direção
+	- 2 - projeto de texto com muitas falhas, sem desenvolvimento. 
+	- 3 - projeto de texto com algumas falhas.
+	- 4 - projeto de texto com poucas falhas
+	- 5 - projeto de texto estratégico
+- Projeto de texto
+	- Planejamento da redação antes de escrever
+- Autoria
+	- o texto deve se sustentar sozinho.
+# Competência 4
+- Demonstrar os domínios linguísticos necessários para a construção da argumentação
+- A Coesão do texto se manifesta na superfície textual e conduz à compreensão profunda do texto
+- As marcas linguísticas são responsáveis pela conexão das ideias, fazendo com que o texto avance na argumentação.
+	- Devem estar no sentido adequado
+		- Garante que a conexão entre os elementos seja corretamente estabelecida 
+	- E devem estar diversificada 
+		- Garante que diferentes estratégias sejam mobilizadas na formulação dos argumentos.
+- Operadores argumentativos
+	- **Somam argumentos**: também, ainda, nem, não só... Mas, também, além de, etc.
+	- **Indicam um argumento mais forte:** inclusive, até mesmo, nem mesmo, etc
+	- **Contrapõe argumentos**: mas, porém, contudo, todavia, no entanto
+	- **Introduzem uma conclusão**: logo, portanto, pois, por conseguinte, em decorrência e etc
+- **Coesão referencial**: retoma elementos já mencionados ou introduz aqueles que ainda serão apresentados. 
+- Coesão sequencial: dá continuidade lógica aos componentes textuais(orações subordinadas)
+- Níveis
+	- Nível 0 - Palavras e períodos justapostos e desconexos ao longo de todo o texto, o que demonstra ausência de articulação.
+	- Nível 1 - Presença rara de elementos coesivos inter e/ou intraparagrafos e/ou excessivas repetições e/ou excessivas inadequações
+	- Nível 2 - presença pontual de elementos coesivos inter e/ou intraparágrafos e/ou muitas repetições e/ou muitas inadequações 
+	- Nível 3 - Presença regular de elementos coesivos inter e/ou intraparagrafos e/ou algumas repetições e/ou algumas inadequações
+	- Nível 4 - Presença constante de elementos coesivos inter* e/ou intraparagrafos e/ou poucas repetições e/ou poucas inadequações
+	- Nível 5 - Presença excessiva de elementos coesivos inter e/ou intraparágrafos e/ou raras ou ausentes repetições e sem inadequação
+# Competência 5
+- Elaborar a proposta de intervenção para o problema abordado, respeitando os direitos humanos
+- Proposta de intervenção(**não solução**)
+	- Sugerir uma iniciativa que busque uma possível intervenção para o problema apresentado no tema
+- É feita no ultimo parágrafo.
+- Use o deve numa locução verbal, para fazer uma proposta.
+- Não pode ferir os direitos humanos. Se ferir zera a competência 5.
+- 5 elementos: ação + agente + modo/meio + efeito + detalhamento(acrescentar informações, mais detalhes sobre um dos outros elementos: ação, agente, modo/meio e efeito).
+- Níveis
+	- 0 - Ausência de proposta ou copia integral da proposta ou proposta de intervenção que desrespeita os direitos humanos ou proposta de intervenção que não se relaciona com o assunto
+	- 1 - Tangenciamento do tema ou apenas elemento(s) nulo(s) ou 1 elemento válido
+	- 2 - 2 elementos válidos ou estruturas condicionais 
+	- 3 - 3 elementos válidos
+	- 4 - 4 elementos válidos
+	- 5 - 5 elementos válidos  
+- Os direitos humanos englobam
+	- dignidade humana
+	- igualdade de direitos
+	- reconhecimento e valorização das diferenças e diversidades
+	- laicidade do estado
+	- democracia na educação
+	- transversalidade, vivência e globalidade
+	- sustentabilidade socio ambiental.

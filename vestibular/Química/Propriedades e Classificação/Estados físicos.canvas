@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"8302290e99f9995b","type":"text","text":"Sólido","x":-52,"y":-30,"width":105,"height":60},
+		{"id":"fedb9e12ef1dc255","type":"text","text":"Líquido","x":200,"y":-30,"width":120,"height":60},
+		{"id":"e82752d3e9a0a6fa","type":"text","text":"Fusão","x":80,"y":-140,"width":105,"height":60},
+		{"id":"2e881c4732449b50","type":"text","text":"Gasoso","x":500,"y":-30,"width":120,"height":60},
+		{"id":"5e0b08d9b4fcfd66","type":"text","text":"Vaporização","x":342,"y":-140,"width":158,"height":60},
+		{"id":"ea324c1205cda8c7","type":"text","text":"Liquefação(gás)/Condensação(Vapor)\n","x":240,"y":100,"width":348,"height":60},
+		{"id":"5c2a3e3a1a545934","type":"text","text":"Solidificação","x":39,"y":100,"width":161,"height":60},
+		{"id":"cc086ce51ba4a694","type":"text","text":"Sublimação","x":200,"y":-280,"width":145,"height":60},
+		{"id":"92c5120f8d0f360d","type":"text","text":"Sublimação/ressublimação","x":161,"y":220,"width":260,"height":70}
+	],
+	"edges":[
+		{"id":"89dff6ca5eb3352b","fromNode":"e82752d3e9a0a6fa","fromSide":"bottom","toNode":"8302290e99f9995b","toSide":"top","toEnd":"none"},
+		{"id":"af6d93b18aaf484a","fromNode":"e82752d3e9a0a6fa","fromSide":"bottom","toNode":"fedb9e12ef1dc255","toSide":"top"},
+		{"id":"67f26820005ce218","fromNode":"fedb9e12ef1dc255","fromSide":"top","toNode":"5e0b08d9b4fcfd66","toSide":"bottom","toEnd":"none"},
+		{"id":"66231c19bce641e2","fromNode":"5e0b08d9b4fcfd66","fromSide":"bottom","toNode":"2e881c4732449b50","toSide":"top"},
+		{"id":"a50f2be83a6677a6","fromNode":"2e881c4732449b50","fromSide":"bottom","toNode":"ea324c1205cda8c7","toSide":"top","toEnd":"none"},
+		{"id":"3a4f9fb833c2dce6","fromNode":"ea324c1205cda8c7","fromSide":"top","toNode":"fedb9e12ef1dc255","toSide":"bottom"},
+		{"id":"c5101e14466f5b24","fromNode":"5c2a3e3a1a545934","fromSide":"top","toNode":"8302290e99f9995b","toSide":"bottom"},
+		{"id":"6b9427cd4313db50","fromNode":"fedb9e12ef1dc255","fromSide":"bottom","toNode":"5c2a3e3a1a545934","toSide":"top","toEnd":"none"},
+		{"id":"327154074cbdcf99","fromNode":"8302290e99f9995b","fromSide":"top","toNode":"cc086ce51ba4a694","toSide":"left","toEnd":"none"},
+		{"id":"42bc632f5814c304","fromNode":"cc086ce51ba4a694","fromSide":"right","toNode":"2e881c4732449b50","toSide":"top"},
+		{"id":"2e6796d2bf53e89b","fromNode":"2e881c4732449b50","fromSide":"bottom","toNode":"92c5120f8d0f360d","toSide":"right","toEnd":"none"},
+		{"id":"1a54e89da25857fd","fromNode":"92c5120f8d0f360d","fromSide":"left","toNode":"8302290e99f9995b","toSide":"bottom"}
+	]
+}

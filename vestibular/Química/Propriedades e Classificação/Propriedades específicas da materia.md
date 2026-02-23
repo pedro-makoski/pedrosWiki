@@ -1,0 +1,32 @@
+Nem todos tem essas propriedades.
+- Funcionais
+	- Função química
+	- Pode ser:
+		- Ácido
+		- Básico
+		- Sais
+		- Ácidos carboxílicos 
+		- Óxidos
+- Ponto de fusão
+	- Sólido para líquido 
+	- Varia entre as substâncias
+- Ponto de ebulição
+	- Líquido para gasoso
+	- Varia entre as substâncias
+- Densidade
+	- Relação da massa com o volume
+- Solubilidade
+	- Capacidade de se dissolver em outra
+	- Nem todas as materiais são solúveis as outras
+- Dureza
+	- Algumas substâncias são mais duras que outras
+- Maleabilidade
+	- Capacidade de moldar a matéria 
+- Ductibilidade 
+	- Formar fios 
+- Tenacidade
+	- Resistir ao impacto
+- Organolépticas
+	- Tem relação com os nossos sentidos 
+
+

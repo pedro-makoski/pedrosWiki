@@ -1,0 +1,4 @@
+- Somar com 9 -> anda 10 e subtrai 1
+- Somar com 8 -> anda 10 e subtrai 2
+- Multiplicação um valor de uma unidade com duas -> separa em dois números os valores e multiplica independente.
+- Dividir por 5 -> dobra  e divide por 10

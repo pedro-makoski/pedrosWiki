@@ -1,0 +1,2 @@
+- Substância pura: apenas 1 substância
+- Mistura: mais de uma substância 

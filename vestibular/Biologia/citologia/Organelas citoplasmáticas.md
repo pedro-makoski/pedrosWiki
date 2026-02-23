@@ -1,0 +1,286 @@
+# O que é o citoplasma
+Toda a região formada desde a MP até o núcleo.
+Formado por citosol(formado por água principalmente e outras substâncias dissolvidas nela), organelas, estruturas(citoesqueleto e ribossomo).
+## Citoesqueleto
+Dá sustentação à célula.
+São filamentos proteícos.
+Organização estrutural, manutenção da forma e movimentos celulares.
+Tem três tipos:
+- Microtúbulos 
+	- Formado por tubulinas alpha e beta
+	- partem do centrossomos
+	- Instáveis, podem ser montados e desmontados
+	- Locomoção dentro da célula
+	- Organização das organelas
+	- Cílios e Flagelos. Neste caso são estáveis
+	- Divisão celular, formando as fibras do fuso.
+	- Parede celular
+	- Sofre ação de drogas
+- Microfilamentos de Actina
+	- parte mais próxima a MP
+	- Microvilosidade -> aumenta a área de absorção
+	- proteínas globulares: Actina G e F
+	- Monômeros instáveis: podem juntar ou separar
+	- Suporte mecânico(consistência)
+	- Adesão celular - adesão entre células
+	- Ajuda na endocitose e exocitose
+	- Ciclose -> faz com que as organelas girarem.
+	- Adesão entre células
+	- Pseudópodes -> permite uma movimentação da célula
+	- Contração muscular
+	- Sofre ações de drogas
+- Filamentos intermediários
+	- Em organismos multicelulares
+	- Proteínas fibrosas 
+	- Cada célula tem um diferente conjunto de proteínas
+	- Estrutura da célula
+	- São estáveis
+	- resistência mecânica -> por isso as células da pele são resistentes
+	- adesão celular
+	- anexos epidermicos -> unha, cabelo e afins. Coisas que envolvem queratina
+	- lâmina nuclear - permite voltar o núcleo ao modo normal
+	- Posição nas organelas
+## Ribossomos 
+Síntese de proteínas.
+Podem estar no retículo endoplasmático rugoso ou no citoplasma.
+## Organelas
+- Retículo endoplasmático Rugoso - possui diversos ribossomos aderidos em suas paredes, formam as proteínas que são mandadas para o complexo de Golgi, e vão para fora da célula - secreções
+- Retículo endoplasmático Liso - síntese de lipídios(gorduras, como o colesterol, fosfolípidios) e quebra do álcool e metanol
+- Complexo de Golgi - recebe as proteínas, dão uma tratada, e manda por vesículas para fora ou para membrana plasmática e a formação dos lisossomos, armazena algumas proteínas
+- Lisossomos: digestão de itens fagocitadas. Pode fazer heterofágia(de algo fora da célula) e autofagia(digere algo que está dentro da célula)
+- Peroxissomos: quebrar a água oxigenada(H2O2), que é tóxica. A enzima catalase forma dai oxigênio e água.
+- Mitocôndria: respiração celular. Gere 37 ATPs. 
+- Núcleo: maior organela. Contém todo o DNA genético. 
+- Plastos(ex: cloroplastos): cloroplasto - pigmento verde e faz a fotossíntese. Tipo de cromoplasto. Leucoplastos - sem pigmentos, Cromoplastos - com pigmentos. 
+- Vacúolos: é uma organela, faz a regulação osmótica, reserva de algumas substâncias.
+### Núcleo celular
+- armazenar o material genético
+- centro de controle da célula
+- Estrutura
+	- envoltório nuclear
+		- formado por duas membranas
+			- cada uma formada por uma bicamada de fosfolipidios
+	- Poro nuclear 
+		- proteínas em que passam as moléculas de fora para dentro e vice versa
+	- Nucleoplasma
+		- também pode ser chamado de cariolinfa
+		- é o local onde fica o material genêtico
+	- Cromatina
+		- todos as proteínas associados ao DNA e o DNA
+			- eucromatina 
+				- DNA ativo
+				- Menos condensado 
+				- É o que forma as proteínas, sofrem a leitura
+			- heterocromatina 
+				- DNA inativo
+				- Está mais condensado 
+				- Cromatina sexual: quando é mulher tem-se XX, onde um X é inativo
+	- Nucléolo: parte com altíssima produção de DNA ribossómico
+- Cromossomo:
+	- uma molécula de DNA condensada
+	- Temos 46 cromossomos que é somática em cada célula, parte da mão e parte do pai, que depois é dividido em duas, sendo que cada parte que é 23, seria a quantidade de gametas. 
+	- diploide = célula com os cromossomos somáticos
+	- haploide = são célula com os gametas
+	- Cromossomos homólogos
+		- um cromossomo de cada pai
+- Cromátides irmãs
+	- Existe um cromossomo simples, mas quando acontece a divisão celular eles se duplicam formando duas cromatides, que são um cromossomo mas são moléculas diferentes.
+	- No Cromossomo existe um DNA importante, chamada de telômero, que trata da saúde da célula, e quando se divide se degrada um pouco.
+	- No meio do cromossomo tem o centrômero, que a junção de DNA e Cinetócoro, este ultimo, onde se fixam as fibras do fuso, que puxam para lados opostos.
+- Classificação dos cromossomos:
+	- metacêntrico: o centromero, está no meio
+	- submetacêntrico: o centromero está levemente cima
+	- acrocêntrico: perto das extremidades 
+	- telocêntrico: nas extremidades. 
+- Cariótipo
+	- Para ver se uma célula é normal com 2n = 46
+	- 22 AA(Autossómicos, são pares autossómicos) + XX ou XY
+- Classificação das células pela quantidade de núcleo:
+	- maioria é uninuclear
+	- anucleada: ex: hemácia, mas para só os mamíferos 
+	- dois núcleos: protozoários ciliados
+	- multinuclear: ex: músculo estriado esquelético
+### Retículo endoplasmático Rugoso
+- Também pode ser chamado de Hergatoplasma
+- Reticulo endoplasmático Granular
+- Estão em células eucarióticas
+- Rede de membranas delimitando cavidades(lumem ou luz)
+- Geralmente segue essas ordens -> núcleo -> R.E.R -> Pode ter R.E.L
+- Polirribossomos / Ribossomos Aderidos -> Face citosólica(os ribossomos estão em contato com citoplasma assim como no R.E.R) -> proteínas receptoras(fazem com que o ribossomo se prenda)
+- Após a tradução do DNA, os ribossomos voltam para o citosolo
+- Ribossomos aderidos ao RER, são idênticos ao citoplasma
+- Possui proteínas para interiorização das cadeias peptídicas 
+#### Funções
+- Suporte mecânico ao citosol
+- Síntese de proteínas que vão para
+	- fora da célula(secreção)
+	- lisossomos 
+	- membrana plasmática
+- Antes de serem enviadas elas passam por modificações
+- Adição de açúcares e dobramentos
+- Ação das chaperonas -> conversão para proteínas terciarias e quartenarias e impede que proteínas mal formadas.
+### Retículo Endoplasmático Liso
+- Retículo Endoplasmático Agranular
+- Redes de membranas que delimitam cavidades que se comunicam
+	- Luz ou lúmen
+- Formado por Vesículas Globulares ou túbulos contorcidos
+#### Funções
+- Produções de hormônios esteroides
+	- testosterona, progesterona, estrogêno
+- Síntese de lipidios da MP
+	- fosfolípidios
+- Formam os triglicerídeos
+	- Ácidos graxos + glicerol
+- No fígado: glicogenólise 
+- Desintoxicação: enzimas que tornam compostos tóxicos mais solúvel em água
+	- permitindo a eliminação
+- Reserva de Ca+ intracelular 
+	- Quando é feito isso, é chamado de retículo Sarcoplasmático
+### Lisossomos 
+- São organelas presentes em células eucarióticas
+- Função de digestão celular
+- Subfunções
+	- Heterofagia: digestão de algo que vem de fora da célula. Ex: bactérias
+	- Autofagia: digestão de estruturas que fazem parte da célula
+	- Autólise: autodestruição; Geralmente após uma lesão ou infecção 
+	- Apoptose: morte programada da célula. Processo muito importante
+- Estrutura
+	- Camada de fosfolípideos
+	- Interiormente tem uma camada de carboidratos
+		- dentro do fosfolideo tem um pH acido, então o carboidrato protege que não corroa a bicamada fosfolípidica
+		- Enzimas hidrolíticas
+		- Bomba de H+ -> a quebra do ATP, com hidrolise, resultando numa bomba de H+ deixando ácido
+		- Enzimas hidrolíticas -> ajudam a digerir. Mas necessitam de um pH ácido
+- Como funciona heterofágia
+	- O complexo de Golgi libera um complexo de Golgi primário
+	- É feito a fagocitose. O lisossomo se junto ao fagossomo.
+	- Forma-se vacuolo digestivo. 
+	- É feito a saída de nutrientes. Podendo ou não ser colocadas no citoplasma, outras podem ser excretadas. 
+- Como funciona Autofagia
+	- Sai do complexo de Golgi o lisossomo primário
+	- Se funde com uma organela, e é formado um vacúolo digestivo.
+		- Forma se o corpo residual, com apenas lixo dentro. E é feito a clasmocitose. 
+### Complexo de Golgi
+- Próxima ao R.E.R
+- Abundante em células secretoras
+- Estruturas
+	- cisternas(membranas dobradas - 5 a 8  dessas)
+		- trans -> concávo. Voltado a MP
+		- cis -> convexo. Vesicílas achatadas. Voltado ao R.E.R.
+		- Medianas -> no meio
+	- Vesículas esféricas
+		- trasportam inforamações entre cisternas
+- Funções
+	- "Correio da célula"
+	- Recebe, modifica, empacota e envia substâncias
+	- Pode armazenar substâncias
+	- Processamento de proteínas
+		- Glicosilação
+		- Sulfatação
+	- O envio pode ser para:
+		- MP. (Proteínas da membrana)
+		- Exocitose
+		- Lisossomos(Digestão célular)
+	- Forma os lisossomos
+	- Síntese de alguns carboidratos
+		- Hemicelulose, Pectua
+	- Forma o acrossoma
+		- nos espermatozoides 
+	- Forma a lamela média
+		- o que junta a MP com a parede célular
+### Mitocôndrias 
+- É uma organela célular
+- Respiração celular -> produção de ATP
+- Abundante em células de alto metabolismo
+- Uma mitocôndria gera aproximadamente 37 ATPs a partir de uma molécula de glicose
+- Não conseguem fazer nada sem oxigênio
+- Ficam na parte do citoplasma com maior demanda de energia
+- DNA mitocondrial. Só tem origem materna. 
+- Heteroplasmia
+	- em rarissimos casos o DNA da mitocondria do pai
+- Teoria da endossombiose
+	- mitocondrias antes eram vivos e separados
+		- Procarionte ancentral herotrófico aeróbico
+	- Que se juntou com uma célula ancentral heretrófica anaerobia
+- Fazem autoduplicação
+- Estrutura
+	- Duas membrana
+		- externa é um MP
+		- as internas formam cristas mitocondriais, formando umas dobraduras  
+	- Possui um DNA circular. Semelhante aos das bactérias
+	- Possuis os próprios ribossomos 
+	- Grânulos - armazenam cations
+	- Espaço intemembrana -> entre a primeira e a segunda camada
+	- Matriz mitocondrial
+### Peroxissomos
+- Descobriram que existiam corpos de oxidação na célula, chamando-se posteriormente de peroxissomos 
+- Uma membrana envolvendo enzimas
+- Esférica
+- Funções
+	- Detoxificação de substâncias tóxicas 
+		- Enzimas de catalase; peroxidase.
+	- Metabolismo de ácidos graxos
+		- Oxidação destes podendo gera Acetil Coa que gera a ATP
+	- Síntese de ácidos biliares e colesterol 
+	- Metabolismo de aminoácidos(AA)
+		- Quebra de AA -> Desaminação
+	- Síntese de Plasmogênio
+		- Tipo de fosfolípideo
+	- Metabolismo de peroxido de oxigênio
+	- 2H2O2 -> 2H2O + O2 : enzima da catalase
+	- Plantas -> essa organela é chamada de glioxissoma
+		- ciclo de glioxilato -> transforma os lipídios da semente em carboidrato
+### Plasmídeos
+- Carregam informação genética
+- Mesmo material do RNA
+- Resistências a antibióticos
+- Podem ser transmitidos plasmídeos entre bactérias
+### Plastos ou plastídeos 
+- São organelas
+- Células de plantas e algas
+- Diferentes formas e funções
+- Teoria da endossimbiose 
+- Diferenciação
+	- Células meristémáticas - quando a planta é jovem possuis estas
+		- Estrutura proplastídeo
+			- se tiver luz com o tempo vai se tornar em um cromoplasto - que tem cor
+				- Cloroplasto: verde - clorofila(pigmento)
+				- Eritoplasto: vermelho
+				- Xantoplasto: amarelo
+				- Feoplasto: marrom
+				- As flores tem estas cores por causas destes cromoplastos
+			- se não tiver luz com o tempo vai se tornar em um leucoplasto - que não tem cor
+				- Amiloplasto: reserva de amido
+					- Pode se transformar em estatólitos - geotropismo positivo das raízes - permite com que a raiz cresça para baixo
+				- Oleoplasto: lipídeos 
+				- Proteoplasto: reserva de proteínas
+- Cloroplastos
+	- Possui seu próprio DNA
+	- Possui seus próprios ribossomos
+	- Possui duas membranas
+	- O conjunto de tilacoide é chamado de Granum -> converte a energia solar em energia química
+		- Este tilacoide também tem membrana
+		- Dentro da membrana que está o pigmento da clorofila
+	- Estroma: é feito a segunda fase da fotossíntese
+	- Possui uma reserva de amido
+### Nucleolo
+- Não é uma organela
+- Presente no interior do núcleo
+- Associada a RON(região organizadora do nucleolo), encontra-se ali os sítios cromossómicos específicos -> encontra-se ali a parte os DNA mais lidos para produção de proteínas
+- Quantidades
+	- 1(maioria)
+	- Vários(Hepatocitos)
+- Composição química
+	- Proteínas(muitas com funções desconhecidas)
+	- DNA
+	- RNA
+- Funções
+	- Síntese de RNA ribossômico 
+	- Montagem de subunidades do ribossomo - a grande e a pequena
+		- Vão para o citoplasma
+	- É muito desenvolvido em células com alta produção de proteínas
+- Nucléolo durante a mitose
+	- desaparece no final da profáse
+	- reaparece na telófase(final)
+- Corante:
+	- He: hematoxilina(azul - DNA, RNA, ribossomos), Eosina(vermelha - citoplasma)

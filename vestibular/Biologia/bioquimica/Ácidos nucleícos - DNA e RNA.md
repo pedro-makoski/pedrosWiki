@@ -1,0 +1,50 @@
+- São orgânicos
+- Não está no núcleo 
+- **Função:** armazenar ou transmitir a informação genética
+- É um polímero, formado por monômeros, chamados de nucleotídeos 
+	- Formado por:
+		- fosfato(não muda)
+		- Açúcar - Pentose
+			- Quando é DNA -> a pentose é desoxirribose 
+			- Quando é RNA -> a pentose é ribose 
+		- Base nitrogenada(5 diferentes)
+			- DNA -> Adenina(A), Timina(T), Citosina(C), Guanina(G)
+			- RNA -> Adenina(A), Uracila(U), Citosina(C), Guanina(G)
+			- Outra classificação:
+				- Purinas: Adenina(A), Guanina(G)
+					- Possui dois aneis, no desenho
+				- Pirimidinas: Timina(T), Citosina(C), Uracila(U)
+					- Possui 1 anel
+# DNA
+- Ácido Desorribonucleico.
+- Fita dupla hélice. Duas fitas de DNA
+- Forma o cromossomo quando as fitas se enrola de forma bem condensada em histonas. Temos 46 moléculas de DNA
+- Gene -> Sequência de nucleotídeos. Pares de nucleotídeos que se ligam em sequência, no DNA é sempre A com T e C com G
+	- Pontes de hidrogênio que ligam
+		- G com C são 3 pontes de hidrogênio
+		- A com T são duas pontas de hidrogênio
+- Cromatina -> DNA + proteínas
+- A ligação entre nucleotídeos monômoros, é a ligação fosfodiéster
+- É lido do sentido 5 linhas para 3 linhas. O sentido da vida. De onde tem mais energia para onde tem menos energia
+	- Vias de mão dupla. Enquanto uma é 5 linha para 3 linhas o outro é inverso.
+- DNA-Polimerase - enzima que copia o DNA no sentido 5 linha até 3 linha
+- A duplicação do DNA é semi-convervátiva, conversa duas fitas, e é feitos outras análogas a elas.
+	- Está sendo aberta por uma proteína chamada elicase que quebra as pontes de hidrogênio. Criando uma nova fita usando a DNA-polimerase 
+- Relação de Chargaff
+	- 20% - A
+	- 20% - T
+	- 30% - C
+	- 30% - G
+# RNA
+Ácido ribonucleico. 
+Lembre-se: não tem T, e sim uracila(u).
+- Três tipos:
+	- RNA Mensageiro: RNAm
+		- Copia e leva a informação do gene até a formação da proteína
+	- RNA ribossômico: RNAr
+		- Associado as proteínas, forma os ribossomos
+		- Mais abundante nas nossas células
+	- RNA transportador: RNAt
+		- carregam os aminoácidos para a formação da proteína
+- Função é copiar a informação do gene, levar até o citoplasma para a formação de proteína.
+- Apenas uma fita

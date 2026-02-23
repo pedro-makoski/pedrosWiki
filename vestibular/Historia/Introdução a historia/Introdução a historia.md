@@ -1,0 +1,23 @@
+- História não é ciência do passado. O passado não pode ser objeto de ciência.
+- História é o estudo de uma mudança de duração, em diferentes espaços.
+- História: humanidade no tempo: trajetória do ser humano do tempo e no espaço.
+# Memoria x História
+- Memoria: representações coletivas ou individuais, que podem ter sido afetadas por emoções e sentimentos.
+	- Coletiva ou Individual
+	- Seletiva
+	- Ligado aos sentimentos
+	- Maleável
+	- Parte sempre do presente
+- História:
+	- Memória dos vencedores 
+	- Registros oficiais 
+	- Construção de estado
+	- Heróis e narrativas que representam o estado 
+	- Manutenção do poder
+- Histórias Subalternas
+	- Memória dos excluídos
+- Suportes de memorias
+	- Registros de documentos
+	- Monumentos
+	- Lugares de memorias
+	- Datas comemorativas

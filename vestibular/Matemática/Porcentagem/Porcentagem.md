@@ -1,0 +1,3 @@
+- Aumento: valor da porcentagem de aumento. Soma-se este ao valor inicial para ter o montante final
+- Desconto: mesmo do aumento, só que ao invés de acrescentar ao montante inicial, se desconta.
+- 

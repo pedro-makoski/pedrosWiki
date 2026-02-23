@@ -1,0 +1,3 @@
+- equivalentes - que representam a mesma a parte de um todo
+- números mistos -> indicam uma fração + um número inteiro
+	- Para transformar em uma fração multiplique o denominador com o número inteiro e some com o numerador, e permanece o denominador.

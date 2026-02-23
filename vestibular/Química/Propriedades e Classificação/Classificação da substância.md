@@ -1,0 +1,2 @@
+- Substância simples: formadas por um único tipo de átomo. H2, O2 e afins
+- Substância composta: formada por mais de um elemento. Exemplo de H2O

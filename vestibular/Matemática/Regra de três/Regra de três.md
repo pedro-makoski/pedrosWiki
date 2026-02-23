@@ -1,0 +1,3 @@
+Diretamente proporcional faz em cruzado.
+Inversamente proporcional faz linha com linha e iguala elas. Isso quando as grandezas estão diferenciadas por colunas.
+Regra de três composta - fixa a coluna que tem a variável, e as outras colunas informe se é diretamente ou inversamente proporcional a essa coluna, e então essa coluna a fixada é igual ao produto das outras colunas, porém quando é inversamente proporcional inverte a fração.

@@ -1,0 +1,4 @@
+- Homogênea -> 1 fase. Um exemplo bom é ar.
+- Heterogênea -> mais de 1 fase
+	- Existem substâncias que são heterogeneas mas parecem homogêneas que são os **coloides**
+		- Sangue, Leite, gelatina

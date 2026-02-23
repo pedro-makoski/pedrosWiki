@@ -1,0 +1,3 @@
+- Evaporação: lenta e feito em temperatura ambiente naturalmente
+- Calefação: muito rápido
+- Ebulição: meio rápido, mas não tanto
