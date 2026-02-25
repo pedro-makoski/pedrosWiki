@@ -5,8 +5,58 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Física  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:Biologia  ",
+      "color": {
+        "a": 1,
+        "rgb": 62793
+      }
+    },
+    {
+      "query": "path:Historia  ",
+      "color": {
+        "a": 1,
+        "rgb": 657150
+      }
+    },
+    {
+      "query": "path:Matemática  ",
+      "color": {
+        "a": 1,
+        "rgb": 454142
+      }
+    },
+    {
+      "query": "path:Português  ",
+      "color": {
+        "a": 1,
+        "rgb": 16758815
+      }
+    },
+    {
+      "query": "path:Química  ",
+      "color": {
+        "a": 1,
+        "rgb": 2424596
+      }
+    },
+    {
+      "query": "path:Redação  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +67,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8578560434309485,
+  "scale": 0.6118876662416716,
   "close": true
 }

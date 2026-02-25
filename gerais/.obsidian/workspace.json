@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "978b3e7979f93fad",
+        "id": "3675252ac0f11b90",
         "type": "tabs",
         "children": [
           {
-            "id": "eb38b9b7b7d88c68",
+            "id": "87b9151f0ba372eb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -197,8 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eb38b9b7b7d88c68",
+  "active": "87b9151f0ba372eb",
   "lastOpenFiles": [
+    "Cursos/curso.dev/Hospedagem.md",
+    "Como será feito a analise pelo RTD.md",
     "Cursos/Alura Hub/Java/Padrões de projeto 2.md",
     "Cursos/Alura Hub/Java/Coisas relacionadas do spring boot.md",
     "Cursos/Alura Hub/Java/Padrão de projeto comand.md",
@@ -208,7 +210,6 @@
     "Cursos/Alura Hub/Java/Carreira/Curso-008.md",
     "Cursos/Alura Hub/Java/Refatorando os códigos de uma API.md",
     "Cursos/Alura Hub/Java/Anotations.md",
-    "Como será feito a analise pelo RTD.md",
     "Cursos/curso.dev/Client-server.md",
     "Cursos/Alura Hub/Java/Testes em Java.md",
     "Cursos/Alura Hub/Java/Jackson-databind.md",
@@ -226,7 +227,6 @@
     "Cursos/curso.dev/Arquivos node.md",
     "Cursos/Alura Hub/Java/Anotações Spring Boot.md",
     "Cursos/Alura Hub/Java/Java Live Reload.md",
-    "Cursos/Alura Hub/Java/Java Controllers.md",
     "desktop.ini",
     "images (2).jpg",
     "Formação ligação peptídica.png",

@@ -1,0 +1,11 @@
+- [[Classificação da substância]]
+- [[Classificação quanto a composição]]
+- [[Classificação quanto ao número de fases]]
+- [[Densidade]]
+- [[Estados físicos.canvas]]
+- [[Leis ponderais]]
+- [[Propriedades e classificação]]
+- [[Propriedades específicas da materia]]
+- [[Propriedades gerais da materia]]
+- [[Tipos de vaporização]]
+

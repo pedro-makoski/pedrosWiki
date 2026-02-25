@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "71a4cb615230dba6",
+        "id": "98c915a5529d696b",
         "type": "tabs",
         "children": [
           {
-            "id": "054ad7a9adeb4cf9",
+            "id": "72e7463316181792",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Física/Geral.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Geral"
             }
           }
         ]
@@ -177,28 +181,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "054ad7a9adeb4cf9",
+  "active": "72e7463316181792",
   "lastOpenFiles": [
+    "Química/Propriedades e Classificação/Densidade.md",
+    "Aminoácidos.md",
+    "Matemática/Cálculo mental/Cálculo Mental.md",
+    "Guia.md",
+    "Redação/Competências.md",
+    "Química/Química.md",
+    "Redação/Redação.md",
+    "Química/Propriedades e Classificação/Propriedades e classificação.md",
+    "Física/Geral.md",
     "Química/Propriedades e Classificação/Estados físicos.canvas",
     "Química/Propriedades e Classificação/Propriedades específicas da materia.md",
     "Química/Propriedades e Classificação/Propriedades gerais da materia.md",
     "Química/Propriedades e Classificação/Leis ponderais.md",
-    "Química/Propriedades e Classificação/Untitled.md",
     "Química/Propriedades e Classificação/Classificação da substância.md",
     "Química/Propriedades e Classificação/Classificação quanto a composição.md",
     "Química/Propriedades e Classificação/Classificação quanto ao número de fases.md",
     "Química/Propriedades e Classificação/Tipos de vaporização.md",
     "Química/Propriedades e Classificação/Estado físico.md",
-    "Química/Guia.md",
     "Química/Propriedades e Classificação",
     "Química",
-    "Redação/Competências.md",
     "Redação",
     "Física/energia e trabalho/Energia e trabalho.md",
     "Física/Física.md",
     "Física/E.md",
     "Física/energia e trabalho",
-    "Guia.md",
     "Português/Morfologia/Verbo.md",
     "Física",
     "Português/Morfologia/Artigo.md",
@@ -206,10 +215,6 @@
     "Biologia/bioquimica/Ácidos nucleícos - DNA e RNA.md",
     "Biologia/citologia/Mitose e Meiose.md",
     "Biologia/citologia/Citologia.md",
-    "Biologia/citologia/Organelas citoplasmáticas.md",
-    "Biologia/citologia/Organelas e espermatozoide.md",
-    "Biologia/citologia/Membrana plasmática.md",
-    "Biologia/citologia/Especialização célular.md",
     "Pasted image 20260218151302.png",
     "desktop.ini",
     "Pasted image 20260204134500.png",

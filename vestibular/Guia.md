@@ -3,5 +3,8 @@
 - [[Historia]]
 - [[Biologia]]
 - [[Física]]
+- [[Química]]
+- [[Redação]]
+
 
 
