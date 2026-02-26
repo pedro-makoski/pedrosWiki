@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c7fdad143b5afe81",
+        "id": "76c0c2b784397b49",
         "type": "tabs",
         "children": [
           {
-            "id": "01c15b57fa5d6a19",
+            "id": "af476be4c10464f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Geral.md",
+                "file": "Química/Propriedades e Classificação/Alotropia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geral"
+              "title": "Alotropia"
             }
           }
         ]
@@ -181,40 +181,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "01c15b57fa5d6a19",
+  "active": "af476be4c10464f6",
   "lastOpenFiles": [
+    "Pasted image 20260226145346.png",
+    "Química/Propriedades e Classificação/Propriedades e classificação.md",
+    "Química/Propriedades e Classificação/Gráficos de temperatura e pressão.md",
+    "Química/Química.md",
+    "Química/Propriedades e Classificação/Estados de agregação e suas propriedades.md",
+    "Química/Propriedades e Classificação/Alotropia.md",
+    "Pasted image 20260226144306.png",
+    "Pasted image 20260226141811.png",
+    "Física/Geral.md",
     "Português/Morfologia/Verbo.md",
     "Português/Morfologia/Adjetivo.md",
     "Português/Morfologia/Substantivo.md",
     "Química/Propriedades e Classificação/Classificação da substância.md",
     "Química/Propriedades e Classificação/Classificação quanto a composição.md",
-    "Química/Propriedades e Classificação/Estados de agregação e suas propriedades.md",
     "Química/Propriedades e Classificação/Densidade.md",
     "Química/Propriedades e Classificação/Classificação quanto ao número de fases.md",
     "Química/Propriedades e Classificação/Propriedades gerais da materia.md",
     "Química/Propriedades e Classificação/Propriedades específicas da materia.md",
-    "Química/Propriedades e Classificação/Propriedades e classificação.md",
     "Química/Propriedades e Classificação/Estados físicos.canvas",
     "Pasted image 20260225152756.png",
     "Matemática/Untitled",
     "Matemática/Matemática.md",
     "Matemática/Matemática Básica.md",
     "Matemática/Matemática Básica.md",
-    "Física/Geral.md",
     "Aminoácidos.md",
     "Matemática/Cálculo mental/Cálculo Mental.md",
     "Guia.md",
     "Redação/Competências.md",
-    "Química/Química.md",
     "Redação/Redação.md",
     "Química/Propriedades e Classificação/Leis ponderais.md",
     "Química/Propriedades e Classificação/Tipos de vaporização.md",
-    "Química/Propriedades e Classificação/Estado físico.md",
     "Química/Propriedades e Classificação",
     "Química",
     "Redação",
-    "Física/energia e trabalho/Energia e trabalho.md",
-    "Física/Física.md",
     "Física/energia e trabalho",
     "Física",
     "Pasted image 20260218151302.png",
@@ -227,8 +229,6 @@
     "Pasted image 20260112104122.png",
     "Pasted image 20260112104117.png",
     "Pasted image 20260112104030.png",
-    "Pasted image 20260112102322.png",
-    "Pasted image 20260109160427.png",
-    "Pasted image 20260109154935.png"
+    "Pasted image 20260112102322.png"
   ]
 }

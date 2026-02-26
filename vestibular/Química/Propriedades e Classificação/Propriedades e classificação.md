@@ -8,4 +8,6 @@
 - [[Propriedades específicas da materia]]
 - [[Propriedades gerais da materia]]
 - [[Tipos de vaporização]]
+- [[Alotropia]]
+- [[Gráficos de temperatura e pressão]]
 
