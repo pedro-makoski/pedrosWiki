@@ -39,6 +39,8 @@ Grandezas que além do número, apontam para uma direção e sentido. Logo a cur
 - Sapere Aude
 - Unificar a física e a matemática
 - O fora da curva é melhor que qualquer curso pago
+- Se a Andressa conseguiu eu consigo
+- Não tem comparação com o UN
 # Aula 2
 ## Movimento retilíneo uniforme
 - Velocidade constante
@@ -59,3 +61,10 @@ Função Afim -> crescente progressivamente com o mesmo coeficiente angular a ca
 A velocidade seria a tangente de teta, do ângulo da inclinação do gráfico. 
 ## Princípio da Aula 2
 É preciso unificar a física e matemática.
+# Aula 3
+## Princípio da Aula 3
+- Personalização
+## Aceleração centrípeta
+Aceleração em direção ao centro de um circulo. Quando ele faz uma curva em um circulo, onde ele anda ao redor do circulo, ele sofre um aceleração centrípeta, rodando no circulo. Pois o centro força o corpo a ir para o centro, mas como continua em MRU, rodando em voltas.
+A força que puxa pro centro é perpendicular a direção da velocidade.
+Existem duas acelerações neste caso. A centrípeta perpendicular a velocidade, varia a direção e o sentido da velocidade, e a tangente que é paralela a velocidade, que altera a velocidade, mas não a alteração e sentido

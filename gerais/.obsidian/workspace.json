@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3675252ac0f11b90",
+        "id": "52882bcecaca66d8",
         "type": "tabs",
         "children": [
           {
-            "id": "87b9151f0ba372eb",
+            "id": "60a21bb28dad39a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/curso.dev/Orgânico x Impressora 3D.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Orgânico x Impressora 3D"
             }
           }
         ]
@@ -197,8 +202,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87b9151f0ba372eb",
+  "active": "60a21bb28dad39a7",
   "lastOpenFiles": [
+    "Cursos/curso.dev/Next.js.md",
+    "Cursos/curso.dev/Orgânico x Impressora 3D.md",
     "Cursos/curso.dev/Hospedagem.md",
     "Como será feito a analise pelo RTD.md",
     "Cursos/Alura Hub/Java/Padrões de projeto 2.md",
@@ -225,8 +232,6 @@
     "Cursos/curso.dev/Comandos GIT.md",
     "Cursos/curso.dev/Comandos git online.md",
     "Cursos/curso.dev/Arquivos node.md",
-    "Cursos/Alura Hub/Java/Anotações Spring Boot.md",
-    "Cursos/Alura Hub/Java/Java Live Reload.md",
     "desktop.ini",
     "images (2).jpg",
     "Formação ligação peptídica.png",

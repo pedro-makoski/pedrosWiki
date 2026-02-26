@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98c915a5529d696b",
+        "id": "c7fdad143b5afe81",
         "type": "tabs",
         "children": [
           {
-            "id": "72e7463316181792",
+            "id": "01c15b57fa5d6a19",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
     "id": "5deab9ed6cbdb069",
@@ -181,24 +181,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "72e7463316181792",
+  "active": "01c15b57fa5d6a19",
   "lastOpenFiles": [
+    "Português/Morfologia/Verbo.md",
+    "Português/Morfologia/Adjetivo.md",
+    "Português/Morfologia/Substantivo.md",
+    "Química/Propriedades e Classificação/Classificação da substância.md",
+    "Química/Propriedades e Classificação/Classificação quanto a composição.md",
+    "Química/Propriedades e Classificação/Estados de agregação e suas propriedades.md",
     "Química/Propriedades e Classificação/Densidade.md",
+    "Química/Propriedades e Classificação/Classificação quanto ao número de fases.md",
+    "Química/Propriedades e Classificação/Propriedades gerais da materia.md",
+    "Química/Propriedades e Classificação/Propriedades específicas da materia.md",
+    "Química/Propriedades e Classificação/Propriedades e classificação.md",
+    "Química/Propriedades e Classificação/Estados físicos.canvas",
+    "Pasted image 20260225152756.png",
+    "Matemática/Untitled",
+    "Matemática/Matemática.md",
+    "Matemática/Matemática Básica.md",
+    "Matemática/Matemática Básica.md",
+    "Física/Geral.md",
     "Aminoácidos.md",
     "Matemática/Cálculo mental/Cálculo Mental.md",
     "Guia.md",
     "Redação/Competências.md",
     "Química/Química.md",
     "Redação/Redação.md",
-    "Química/Propriedades e Classificação/Propriedades e classificação.md",
-    "Física/Geral.md",
-    "Química/Propriedades e Classificação/Estados físicos.canvas",
-    "Química/Propriedades e Classificação/Propriedades específicas da materia.md",
-    "Química/Propriedades e Classificação/Propriedades gerais da materia.md",
     "Química/Propriedades e Classificação/Leis ponderais.md",
-    "Química/Propriedades e Classificação/Classificação da substância.md",
-    "Química/Propriedades e Classificação/Classificação quanto a composição.md",
-    "Química/Propriedades e Classificação/Classificação quanto ao número de fases.md",
     "Química/Propriedades e Classificação/Tipos de vaporização.md",
     "Química/Propriedades e Classificação/Estado físico.md",
     "Química/Propriedades e Classificação",
@@ -206,29 +215,20 @@
     "Redação",
     "Física/energia e trabalho/Energia e trabalho.md",
     "Física/Física.md",
-    "Física/E.md",
     "Física/energia e trabalho",
-    "Português/Morfologia/Verbo.md",
     "Física",
-    "Português/Morfologia/Artigo.md",
-    "Português/Morfologia/Interjeição.md",
-    "Biologia/bioquimica/Ácidos nucleícos - DNA e RNA.md",
-    "Biologia/citologia/Mitose e Meiose.md",
-    "Biologia/citologia/Citologia.md",
     "Pasted image 20260218151302.png",
     "desktop.ini",
     "Pasted image 20260204134500.png",
     "Biologia/citologia/desktop.ini",
     "Biologia/citologia",
     "Matemática/Frações",
-    "Matemática/Cálculo mental",
     "Pasted image 20260204134354.png",
     "Pasted image 20260112104122.png",
     "Pasted image 20260112104117.png",
     "Pasted image 20260112104030.png",
     "Pasted image 20260112102322.png",
     "Pasted image 20260109160427.png",
-    "Pasted image 20260109154935.png",
-    "Pasted image 20260109154908.png"
+    "Pasted image 20260109154935.png"
   ]
 }

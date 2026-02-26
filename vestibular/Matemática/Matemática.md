@@ -7,6 +7,8 @@
 - [[Unidades de medida]]
 - [[Polinômios]]
 - [[Funções]]
+- [[Matemática Básica]]
+
 
 
 
