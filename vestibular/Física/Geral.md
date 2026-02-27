@@ -41,6 +41,8 @@ Grandezas que além do número, apontam para uma direção e sentido. Logo a cur
 - O fora da curva é melhor que qualquer curso pago
 - Se a Andressa conseguiu eu consigo
 - Não tem comparação com o UN
+- Mais aprendizado em menos tempo
+- UN Pass
 # Aula 2
 ## Movimento retilíneo uniforme
 - Velocidade constante
