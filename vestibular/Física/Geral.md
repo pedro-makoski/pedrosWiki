@@ -43,6 +43,7 @@ Grandezas que além do número, apontam para uma direção e sentido. Logo a cur
 - Não tem comparação com o UN
 - Mais aprendizado em menos tempo
 - UN Pass
+- Segunda feira 6 e 7 da manhã
 # Aula 2
 ## Movimento retilíneo uniforme
 - Velocidade constante

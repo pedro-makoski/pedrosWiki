@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "acd9485b4e451c4f",
+        "id": "f08afe79db10ba63",
         "type": "tabs",
         "children": [
           {
-            "id": "d1d7d0fdc07b18d9",
+            "id": "ce40481c90f4cdd0",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Nova aba"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polimer",
+                "query": "ca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -168,18 +168,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
     }
   },
-  "active": "d1d7d0fdc07b18d9",
+  "active": "e08eaf562e17c655",
   "lastOpenFiles": [
+    "Biologia/bioquimica/Ácidos nucleícos - DNA e RNA.md",
+    "Biologia/bioquimica/Carboidratos.md",
+    "Português/Funções de linguagem/Funções de linguagem.md",
+    "Português/Português.md",
+    "Física/Física.md",
+    "Português/Funções de linguagem",
+    "Física/Sem título",
+    "Física/termologia/Termologia.md",
     "Física/Geral.md",
+    "Física/termologia",
     "Química/Propriedades e Classificação/Alotropia.md",
     "Pasted image 20260226145346.png",
     "Química/Propriedades e Classificação/Propriedades e classificação.md",
@@ -205,11 +214,6 @@
     "Matemática/Matemática Básica.md",
     "Aminoácidos.md",
     "Matemática/Cálculo mental/Cálculo Mental.md",
-    "Guia.md",
-    "Redação/Competências.md",
-    "Redação/Redação.md",
-    "Química/Propriedades e Classificação/Leis ponderais.md",
-    "Química/Propriedades e Classificação/Tipos de vaporização.md",
     "Química/Propriedades e Classificação",
     "Química",
     "Redação",
@@ -218,9 +222,6 @@
     "Pasted image 20260218151302.png",
     "desktop.ini",
     "Pasted image 20260204134500.png",
-    "Biologia/citologia/desktop.ini",
-    "Biologia/citologia",
-    "Matemática/Frações",
     "Pasted image 20260204134354.png",
     "Pasted image 20260112104122.png",
     "Pasted image 20260112104117.png",
