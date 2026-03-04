@@ -11,10 +11,14 @@
             "id": "ce40481c90f4cdd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Português/Sintaxe/Analise Sintática.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Analise Sintática"
             }
           }
         ]
@@ -177,12 +181,21 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e08eaf562e17c655",
+  "active": "ce40481c90f4cdd0",
   "lastOpenFiles": [
+    "Português/Sintaxe/Sintaxe.md",
+    "Português/Sintaxe/Analise Sintática.md",
+    "Português/Geral.md",
+    "Português/semântica/Semântica.md",
+    "Português/Sintaxe",
+    "Português/semântica/Intertextualidade e paráfrase.md",
+    "Português/Português.md",
+    "Português/s.md",
+    "Português/semântica",
+    "desktop.ini",
     "Biologia/bioquimica/Ácidos nucleícos - DNA e RNA.md",
     "Biologia/bioquimica/Carboidratos.md",
     "Português/Funções de linguagem/Funções de linguagem.md",
-    "Português/Português.md",
     "Física/Física.md",
     "Português/Funções de linguagem",
     "Física/Sem título",
@@ -205,22 +218,13 @@
     "Química/Propriedades e Classificação/Densidade.md",
     "Química/Propriedades e Classificação/Classificação quanto ao número de fases.md",
     "Química/Propriedades e Classificação/Propriedades gerais da materia.md",
-    "Química/Propriedades e Classificação/Propriedades específicas da materia.md",
     "Química/Propriedades e Classificação/Estados físicos.canvas",
     "Pasted image 20260225152756.png",
     "Matemática/Untitled",
-    "Matemática/Matemática.md",
-    "Matemática/Matemática Básica.md",
-    "Matemática/Matemática Básica.md",
-    "Aminoácidos.md",
-    "Matemática/Cálculo mental/Cálculo Mental.md",
     "Química/Propriedades e Classificação",
     "Química",
     "Redação",
-    "Física/energia e trabalho",
-    "Física",
     "Pasted image 20260218151302.png",
-    "desktop.ini",
     "Pasted image 20260204134500.png",
     "Pasted image 20260204134354.png",
     "Pasted image 20260112104122.png",
