@@ -7,7 +7,7 @@ Podem ser variáveis(Pode ter singular e plural, e masculino e feminino) ou inva
 | [[Substantivo]] | [[Advérbio]]    |
 | [[Artigo]]      | [[Artigo]]      |
 | [[Adjetivo]]    | [[Conjunção]]   |
-| [[Verbo]]       | [[Interjeição]] |
+| [[Português/Morfologia/Verbo]]       | [[Interjeição]] |
 | [[Pronomes]]    | [[Preposição]]  |
 | [[Numeral]]     |                 |
 

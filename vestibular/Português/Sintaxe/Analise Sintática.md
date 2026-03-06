@@ -12,3 +12,9 @@ Tem dois tipos:
 Começa com letra maiúscula e termina com um ponto final.
 - Período simples: contém apenas uma oração
 - Período composto: contém duas ou mais orações
+# Termos da oração
+- [[Sujeito]]
+- [[Sintaxe Do Verbo]]
+- [[Predicado]]
+- [[Período Composto]]
+

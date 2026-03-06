@@ -3,7 +3,6 @@ tags:
   - português
   - literatura
 ---
-
 ## Mutação da língua
 A literatura, a língua portuguesa, como todas as outras, muda ao longo dos anos, por exemplo antes você era vossa mercê, depois virou vossemecê, vosmecê, vancê, você, vc. ou seja as línguas são mutáveis. então por exemplo o gosto de cores do carro, o gosto por mulheres, por homens, o que se vê como beleza em padrão mudou ao longo dos tempos, tipo a língua, que também muda, e com isso se mostra o que se vê como padrão na língua, que muda de acordo com a época. <span style="color:rgb(60, 60, 60)">para se falar, o que não vai fazer você parecer estranho.</span>
 ## O que é literatura
