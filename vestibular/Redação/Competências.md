@@ -114,3 +114,9 @@ Avalia a escrita e a leitura.
 	- democracia na educação
 	- transversalidade, vivência e globalidade
 	- sustentabilidade socio ambiental.
+# Resumo
+- Norma padrão - C1
+- Adequação - C2
+- Informações e argumentos - C3
+- Coesão e Coerência - C4
+- Intervenção - C5

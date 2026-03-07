@@ -53,4 +53,3 @@ Um ser vivo possui todas as seguintes características:
 	- reage ao meio ambiente
 - Movimento
 	- mesmo que seja uma planta, as organelas dentro da célula estão se locomovendo 
-	- 
