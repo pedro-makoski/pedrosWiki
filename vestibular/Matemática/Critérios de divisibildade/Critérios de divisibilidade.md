@@ -7,5 +7,6 @@
 - Por 8: Se seu 3 últimos algarismos for divisível por 8.
 - Por 9: A soma dos algarismos for divisível por 9.
 - Por 10: se o ultimo algarismo for 0.
-- Por 11: Para saber você pega os primeiros dígitos e diminui pelo ultimo, e vai fazendo isso até você achar um número que você saiba que é divisível por 11.
+- Por 11: Para saber você pega os primeiros dígitos e diminui pelo ultimo, e vai fazendo isso até você achar um número que você saiba que é divisível por 11. A diferença da soma dos valores alternados também deve ser divizivel por 11
+- Por 12: Se for divisível por 3 e por 4 ao mesmo tempo
 - 

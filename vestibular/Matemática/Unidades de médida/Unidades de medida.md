@@ -1,3 +1,17 @@
+# Prefixos
+- 10^1 - deca - da
+- 10^2 - hecto - h
+- 10^3 - quilo - k
+- 10^6 - mega - M
+- 10^9 - giga - G
+- 10^12 - tera - T
+- 10^-1 - deci - d
+- 10^-2 - centi - c
+- 10^-3 - mili - m
+- 10^-6 - micro - ypsolon
+- 10^-9 - nano - n
+- 10^-12 - pico
+
 # De Comprimento
 - Kilometro
 - Hectometro 
@@ -16,6 +30,7 @@ Avançando uma cada multiplica-se por 10. Retroscedendo dividindo por 10.
 - Centimetro(cm) ao quadrado
 - Milimetro(mm) ao quadrado
 Avançando uma cada multiplica-se por 100. Retroscedendo divide-se por 100.
+- Hectare - 10.000m^2
 # De Volume
 - Kilometro cubico
  - Hectometro cubico
@@ -25,6 +40,10 @@ Avançando uma cada multiplica-se por 100. Retroscedendo divide-se por 100.
 - Centimetro(cm) cubico
 - Milimetro(mm) cubico
 Avançando uma cada multiplica-se por 1000. Retroscedendo divide-se por 1000.
+
+1 cm^3 = 1 ml
+1 m^3 = 1000 L
+1 dm^3 - 1L
 # De Massa
 - Kilograma
 - Hectograma
