@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dcfed8bf145b958c",
+        "id": "fbe1d8575d430053",
         "type": "tabs",
         "children": [
           {
-            "id": "fc06c7921627648e",
+            "id": "f6707e3346c4a6a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Cinemática/Cinemática.md",
+                "file": "Química/Química Básica/Química Básica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cinemática"
+              "title": "Química Básica"
             }
           }
         ]
@@ -181,16 +181,19 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "fc06c7921627648e",
+  "active": "f6707e3346c4a6a6",
   "lastOpenFiles": [
-    "Física/Básica/Física Básica.md",
+    "Plano.md",
+    "Química/Química Básica/Química Básica.md",
+    "Química/Química Básica",
+    "Guia.md",
     "Física/Cinemática/Cinemática.md",
+    "Física/Básica/Física Básica.md",
     "Matemática/Unidades de médida/Unidades de medida.md",
     "Física/Cinemática",
     "Matemática/Escalas/Escalas.md",
     "Física/Básica",
     "Matemática/Regra de três/Regra de três.md",
-    "Plano.md",
     "Matemática/Trinômio de segundo Grau.md",
     "Matemática/Polinômios/Polinômios.md",
     "Matemática/Notação Cientifica/Notação Cientifica.md",
@@ -216,10 +219,7 @@
     "Português/Sintaxe/Analise Sintática.md",
     "Português/Sintaxe/Sintaxe Do Verbo.md",
     "Português/Sintaxe/Termos da Sintaxe - Termos Acessorios.md",
-    "Português/Sintaxe/Sintaxe.md",
-    "Português/Sintaxe/Transitividade Verbal.md",
     "Português/Morfologia/Pasted image 20260108104926.png",
-    "Português/Sintaxe",
     "Pasted image 20260226145346.png",
     "Pasted image 20260226144306.png",
     "Pasted image 20260226141811.png",
