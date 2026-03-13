@@ -1,6 +1,7 @@
 {
-  "accentColor": "#5d8f00",
+  "accentColor": "#a6ff00",
   "textFontFamily": "Inter",
   "baseFontSizeAction": false,
-  "cssTheme": "Prism"
+  "cssTheme": "Prism",
+  "baseFontSize": 15
 }

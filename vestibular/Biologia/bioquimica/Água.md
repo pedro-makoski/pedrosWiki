@@ -4,12 +4,13 @@
 - H2O
 - Quanto mais idosa uma pessoa, menos água ela tem
 - Molécula polar
-	- Cargas diferentes nos polos da molécula
+	- Cargas diferentes nos polos da molécula. No oxigênio tem carga parcial negativa, e no hidrogênio tem carga parcial positiva
+		- Compartilham os elétrons
 - 104,5 graus é o angulo formado entre um hidrogênio e outro.
 - Ligação entre hidrogênio e oxigênio - Ligação Covalente
 - Pontes(ou ligações) de hidrogênio - o hidrogênio(+), se conecta com outra molécula da água, pelo oxigênio(-). Uma molécula da água pode estar conectado com outras 4 quatro moléculas da água.
 - Temperatura
-	- Sólido
+	- Sólido - água expande
 	- Liquido - as moléculas da água estão constantemente se desfazendo e refazendo 
 	- Gasoso - as ligações se desfazem totalmente
 # Importância para vida
@@ -38,6 +39,12 @@ As moléculas do soluto vai separando as dos solvente e se intrometendo.
 Adesão - se unem a outras moléculas polares ao longo do tempo. Exemplo da água no papel.
 Coesão - forte ligação entre as moléculas de H2O. É tão forte que causa a tensão superficial, que permite com que até tal força não rompe as moléculas.
 Capilaridade - Adesão + Coesão. Permite que a água saia da raiz e vai para as folhas. Parede hidrofílica. 
+## 5 - Fisiologia Humana
+- Transporte de substâncias
+- Eliminação de substâncias - através da urina
+- Lubrificantes 
+- Equilíbrio Osmótico
+- Regulação da Temperatura Corpal
 # Funções da água para o corpo humano
 - Solvente universal - pelo fato de ser um solvente universal, garante um meio propicio para ser realizado as reações químicas.
 - Pelo fluxo da água que é levado para fora, substâncias toxicas. Como na urina.

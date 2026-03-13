@@ -1,0 +1,19 @@
+- Química da Vida
+- Universo célular
+- Rede de interações dentro da célula.
+- Avanço na medicina.
+	- Qualidade da vida
+- As moléculas, átomos e células interagem e refletem no organismo como todo
+- Os elementos dos CHONPS estão presente em 98% da massa corporal dos seres vivos
+# Orgânicas x Inorgânicas
+- Orgânicas: 
+	- Todas tem carbono, mas nem tudo que tem carbono é orgânico
+	- Proteínas(10-15% do corpo)
+	- Carboidratos(1%)
+	- Lipídios(2%-3%)
+	- Ácidos nucleicos(1%)
+	- Vitaminas
+- Inorgânicas
+	- Água(75-85% do corpo)
+		- Todas as reações precisam dela
+	- Sais minerais
