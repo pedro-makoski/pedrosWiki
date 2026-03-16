@@ -11,10 +11,15 @@
             "id": "8cf805715d4cad82",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Alura Hub/Java/Excessões.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Excessões"
             }
           }
         ]
@@ -49,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".assert",
+                "query": "HandleE",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,7 +62,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -197,7 +202,7 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8cf805715d4cad82",
+  "active": "6bbbc5f01df37320",
   "lastOpenFiles": [
     "Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 2 - Literatura - a natureza da linguagem literária/Literatura - a natureza da linguagem literária.md",
     "Formação ligação peptídica.png",
