@@ -1,0 +1,51 @@
+Alguma energia -> energia elétrica.
+- Renováveis
+	- Usam materiais em abundância e que dificilmente vão acabar
+	- Energia hidrelétrica
+		- Energia potência Gravitacional -> energia cinética -> energia elétrica
+		- Prós
+			- Barata de manter
+			- Fonte Renovável
+		- Contras
+			- Ocupa muito espaço
+			- Gás metano na decomposição de animais mortos em baixo da construção
+			- Risco de romper o edifício
+	- Energia termosolar
+		- Energia luminosa do sol -> energia térmica -> energia cinética -> energia elétrica
+	- Energia Solar
+		- As células fotovoltaicas tem seus elétrons agitados pela energia luminosa, fazendo que corram e forme a energia elétrica 
+		- Prós
+			- Barata de manter
+			- Renovável 
+		- Contras
+			- Pouco eficiente 
+			- Ocupa muito espaço
+			- Intermitente -> não confiável, pois nem sempre tem sol
+	- Energia Eólica
+		- A energia cinética do vento -> gira as turbinas -> energia elétrica
+		- Tem como contra
+			- Poluição sonora e visual
+			- Morte de passáros
+			- Muito vento em casas próximas gerando muita sujeira 
+	- Energia nuclear
+		- Fissão
+			- Quebrar o núcleo usando um neutron em um reator essa fissão vai causar uma explosão, criando um vapor da água e assim girando uma turbina
+			- Essa turbina esquenta muito, por isso precisa de uma água envolta, esta água rouba o calor assim esfriando.
+			- Contras
+				- Poluição térmica da água: que vai fazer ebulir alguns nutrientes vitais para vida dos animais marinhos, podendo causar mortes
+				- Pode dar problema com a explosão deste sistema, causando a destruição da vida próxima
+				- Onde deve ser guardado os materiais radioativos? Normalmente em caixas de chumbo
+		- Fusão
+			- Não existe atualmente, pois necessita de grande quantidade de calor para realizar
+			- Funde atomos
+	- Energia Geotérmica 
+		- Aproveita de áreas com muita atividade geotermica, usando do núcleo terrestre para movimentar uma turbina, gerando assim energia elétrica
+- Não renováveis
+	- Os material algum dia acabarão
+	- Energia termoelétricas 
+		- De carvão
+		- De gás
+		- De petróleo
+		- Eles esquentam esses elementos, que assim fazem movimentar o vapor da água causando assim o movimentos das turbinas, gerando energia elétrica
+		- Problemas
+			- Muita poluição
