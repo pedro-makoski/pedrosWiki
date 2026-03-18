@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Docker/Intro.md",
+                "file": "Cursos/Alura Hub/Docker/Instruções Dockerfile.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Instruções Dockerfile"
             }
           }
         ]
@@ -204,6 +204,9 @@
   },
   "active": "0bd2881cec96c7cc",
   "lastOpenFiles": [
+    "Cursos/Alura Hub/Docker/Criando imagens.md",
+    "Cursos/Alura Hub/Docker/Instruções Dockerfile.md",
+    "Cursos/Alura Hub/Docker/Intro.md",
     "Cursos/curso.dev/Comandos GIT.md",
     "Cursos/curso.dev/Client-server.md",
     "Cursos/curso.dev/Arquivos node.md",
@@ -211,7 +214,6 @@
     "Cursos/curso.dev/Por que os projetos do Filipe Deschamps sempre dão certo.md",
     "Cursos/curso.dev/Orgânico x Impressora 3D.md",
     "Cursos/curso.dev/Hospedagem.md",
-    "Cursos/Alura Hub/Docker/Intro.md",
     "Pasted image 20260317202628.png",
     "Pasted image 20260317202620.png",
     "Pasted image 20260317202536.png",
@@ -235,8 +237,6 @@
     "Cursos/Alura Hub/Java/Spring boot/Padrões de teste.md",
     "Cursos/Alura Hub/Java/Spring boot/Display Name - JUnity.md",
     "Cursos/Alura Hub/Java/Nomes de teste.md",
-    "Cursos/Alura Hub/Java/Spring boot/Fetch Type.md",
-    "Cursos/Alura Hub/Java/Testes em Java.md",
     "Untitled.base",
     "Pasted image 20260207093256.png",
     "desktop.ini",
