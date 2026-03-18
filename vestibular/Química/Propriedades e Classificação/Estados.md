@@ -1,0 +1,36 @@
+- Estados físicos da matéria 
+	- Físicos - não altera a identidade
+	- Alterar o estado físico não altera o elemento
+- Estados de agregação 
+# Os estados
+- Sólidos
+	- Moléculas com baixa agitação
+	- Moléculas quase fixas
+	- Volume fixo
+	- Forma fixa
+- Líquidos 
+	- Moléculas mais agitadas
+	- Forma variável
+	- Volume fixo
+- Gasosos
+	- Moléculas extremamente mais agitadas 
+	- Volume variável
+	- Forma variável
+# Transformações dos estados
+- Endotermicos
+	- Recebem energia
+	- São eles:
+		- Fusão -> sólido pro liquido. O da água é 0 ºC
+		- Vaporização 
+			- Evaporação - natural e lento, acontece em temperatura ambiente
+				- Quanto mais úmido o ambiente tende a uma dificuldade maior de evaporar
+			- Ebulição - a partir de um valor específico de temperatura
+			- Calefação - uma quantidade de matéria proporcional a temperatura, vaporiza de forma extremamente rápida
+			- Sublimação - de sólido para o gasoso sem passar pelo líquido
+- Exotérmicos 
+	- Liberam  energia
+	- São eles:
+		- Condensação/Liquefação: sólido pro liquido. Condensação geralmente se trata do vapor da água se tornando líquido, enquanto liquefação de um gás qualquer
+		- Solidificação: do estado sólido para o líquido 
+		- Ressublimação/Sublimação inversa/Sublimação: do gasoso para o sóilido sem passar pelo líquido
+A energia térmica pode influenciar nas mudanças dos estados. Assim como a pressão também ajuda.
