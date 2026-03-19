@@ -1,0 +1,9 @@
+- Dado dois eixos:
+	- X -> Calor ou dependendo tempo
+	- Y -> Temperatura de uma substância
+- Quando é uma substância pura
+	- Na temperatura de ebulição e fusão, será estabilizado a temperatura e só mudar o calor e o tempo, pois o calor recebi só vai servir para mudar de estado
+- Quando é uma mistura normal
+	- Vai haver uma variação tanto no Pf quanto no Pe, pois enquanto uma substância tem uma temperatura de ebulição/fusão maior a temperatura da outra pode ser menor, podendo na variação uma absorver uma parte da temperatura enquanto outra não
+- Mistura Eutetica -> tem variação de temperatura apenas no ponto de ebulição
+- Mistura Azeotrópica -> tem variação de temperatura apenas no ponto de fusão

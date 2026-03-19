@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "868e463ee06d47dd",
+        "id": "4e05695358b20589",
         "type": "tabs",
         "children": [
           {
-            "id": "5267fefb7217375f",
+            "id": "bef34fb6fee9bc44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Propriedades e Classificação/Densidade  2.md",
+                "file": "Química/Propriedades e Classificação/Diagrama de fases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Densidade  2"
+              "title": "Diagrama de fases"
             }
           }
         ]
@@ -181,8 +181,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5267fefb7217375f",
+  "active": "bef34fb6fee9bc44",
   "lastOpenFiles": [
+    "Pasted image 20260319171657.png",
+    "Química/Propriedades e Classificação/Gráfico de aquecimento.md",
+    "Química/Propriedades e Classificação/Diagrama de fases.md",
+    "Química/Propriedades e Classificação/Ponto de fusão e ebulição.md",
+    "Química/Propriedades e Classificação/Substância pura x simples.md",
     "Química/Propriedades e Classificação/Densidade  2.md",
     "Química/Propriedades e Classificação/Propriedades gerais da matéria.md",
     "Química/Propriedades e Classificação/Estados.md",
@@ -213,12 +218,7 @@
     "Biologia/bioquimica/Sais minerais.md",
     "Biologia/bioquimica/Água.md",
     "Biologia/bioquimica/Bioquímica.md",
-    "Plano.md",
-    "Química/Química Básica/Química Básica.md",
     "Química/Química Básica",
-    "Guia.md",
-    "Física/Básica/Física Básica.md",
-    "Matemática/Unidades de médida/Unidades de medida.md",
     "Física/Cinemática",
     "Física/Básica",
     "Matemática/Notação Cientifica",
