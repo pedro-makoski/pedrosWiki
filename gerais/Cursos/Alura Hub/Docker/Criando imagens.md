@@ -17,3 +17,11 @@ docker inspect nome-imagem
 - Digite ``nano`` terminal para editar um arquivo
 - Coloque o código do Dockerfile
 - Aperte ctrl+x, clique em yes, e depois de o nome ao arquivo.
+- Para buildar use: `docker build -t pedrom/allbooks:1.1 .`
+# Fazer push da imagem
+- `docker login nome-usuario` - fazer o login
+- `docker push nome-imagem` - enviar a imagem
+# Renomear imagem
+```bash
+docker tag nome-atual novo-nome
+```

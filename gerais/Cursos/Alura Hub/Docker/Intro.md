@@ -49,6 +49,12 @@ Você pode colocar depois mais comandos que serão especificados para a imagem.
 ```bash
 docker run nome-da-imagem
 ```
+-d -> fala para que o container vai rodar de plano de fundo.
+-P -> indica que as portas serão públicas para fora do isolamento do sistema
+bash - indica que vai ser rodado no bash.
+-p -> porta que será no computador:porta que será rodado no container. Exemplo `-p 3000:80`, onde 3000 é a porta que será usada e 80 é a porta interna do docker.
+Digite **ctrl+D** para parar de interagir com o container.
+-it -> indica que vai ter um terminal usável, no final também deve ser colocado bash.
 ## Vendo containers em execução
 ```java
 docker ps
@@ -65,15 +71,10 @@ docker start nome|id
 ```
 ## Como interagir com um container
 ```bash
-dever exec -it id|nome bash
+docker exec -it id|nome bash
 ```
 i - interage
 t - terminal padrão tty
--d -> fala para que o container vai rodar de plano de fundo.
--P -> indica que as portas serão públicas para fora do isolamento do sistema
-bash - indica que vai ser rodado no bash.
--p -> porta que será no computador:porta que será rodado no container. Exemplo `-p 3000:80`, onde 3000 é a porta que será usada e 80 é a porta interna do docker.
-Digite **ctrl+D** para parar de interagir com o container.
 ## Pausar sem ter que reiniciar todos os processos quando abrir de volta
 Pausar:
 ```bash

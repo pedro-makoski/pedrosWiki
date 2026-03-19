@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Docker/Instruções Dockerfile.md",
+                "file": "Cursos/Alura Hub/Docker/Persistir dados com um container.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Instruções Dockerfile"
+              "title": "Persistir dados com um container"
             }
           }
         ]
@@ -207,6 +207,7 @@
     "Cursos/Alura Hub/Docker/Criando imagens.md",
     "Cursos/Alura Hub/Docker/Instruções Dockerfile.md",
     "Cursos/Alura Hub/Docker/Intro.md",
+    "Cursos/Alura Hub/Docker/Persistir dados com um container.md",
     "Cursos/curso.dev/Comandos GIT.md",
     "Cursos/curso.dev/Client-server.md",
     "Cursos/curso.dev/Arquivos node.md",
@@ -236,7 +237,6 @@
     "Cursos/Alura Hub/Java/Carreira/Curso 21.md",
     "Cursos/Alura Hub/Java/Spring boot/Padrões de teste.md",
     "Cursos/Alura Hub/Java/Spring boot/Display Name - JUnity.md",
-    "Cursos/Alura Hub/Java/Nomes de teste.md",
     "Untitled.base",
     "Pasted image 20260207093256.png",
     "desktop.ini",
