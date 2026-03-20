@@ -47,3 +47,9 @@ Dentre as principais vantagens que os volumes apresentam em relação aos bind m
 - Existência dissociada do ciclo de vida de um container específico.
 
 Caso o container gere dados de estado não-persistente (informações temporárias que não precisam ser armazenadas por longo tempo), é recomendável a utilização de um ponto de montagem tmpfs para evitar armazenar tais dados de forma permanente e obter um melhor desempenho do container.
+# TMPFS
+Persiste de forma temporaria.
+```bash
+docker run -it --tmpfs=/app ubuntu bash
+```
+Usado para guardar coisas seguras.

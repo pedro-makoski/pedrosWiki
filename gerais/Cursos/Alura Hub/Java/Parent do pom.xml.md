@@ -1,0 +1,1 @@
+Diz um pom.xml que pode ser herdado.
