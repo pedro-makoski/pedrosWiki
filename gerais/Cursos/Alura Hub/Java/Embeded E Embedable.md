@@ -1,0 +1,1 @@
+Forma para injetar atributos compostos de classes diferentes. Coloca-se @Embedable em cima da classe que vai ser colocada como atributo, e @Embeded em cima do atributo.

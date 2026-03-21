@@ -19,8 +19,21 @@ A linguagem deve ser impessoal, ou seja não fale coisas que envolvam eu e nós.
 - Segui uma boa estrutura
 	- Contextualização do problema - leva ao problema
 		- Panorama Positiva - algo bom que aconteceu que leve ao ponto
-		- Alusão Histórica - a partir de um ponto histórico 
-		- Alusão Cultural - a partir de algo da cultura
+		- Alusão Histórica - a partir de um ponto histórico. 
+		- Alusão Cultural - a partir de algo da cultura. Quando falar de serie ou filme colocar entre aspas
 	- Apresentação do tema - encontre o problema de fato
 	- Tese e argumentos de defesa
 		- Esses que dão para os pontos que são discutidos no desenvolvimento
+# Como fazer um bom tópico frasal?
+Tópico Frasal - é o que inicia o desenvolvimento e apresenta uma defesa da tese. 
+É apenas uma oração. E para ser feita use os seguintes passos: 
+- Conecte o parágrafo anterior, depois conecte o problema com os argumentos
+- Coloque um juizo de valor para a conexão atribuindo positivamente/negativamente
+- Altere o uso das palavras do problema e do argumento usado antes.
+# Ponto acerca de impactos
+- Os argumentos quando o tema é relativo a impactos normalmente se refere a consequências
+# Estrutura do desenvolvimento
+- Tópico Frasal
+- Fundamentação - algo verdadeiro que releva a sua argumentação
+- Conexão - relaciona a fundamentação ao problema real
+- Finalização - finaliza o parágrafo.
