@@ -1,0 +1,4 @@
+- Instale a dependência do flyway no spring initalizr.
+- Coloque nas dependências
+- Crie no pasta resources outra pasta chamada **db** que tem outra chamada **migration**
+- Coloque nesta pasta o arquivo seguindo este formato: `V[numero-que-identifica-a-versao-atual]__nome-descritivo`
