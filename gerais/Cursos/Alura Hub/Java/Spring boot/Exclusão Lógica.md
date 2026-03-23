@@ -1,0 +1,1 @@
+Quando não apagamos realmente do banco algo, mas sim deixamos ela como inativa.

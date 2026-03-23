@@ -2,3 +2,4 @@
 - Coloque nas dependências
 - Crie no pasta resources outra pasta chamada **db** que tem outra chamada **migration**
 - Coloque nesta pasta o arquivo seguindo este formato: `V[numero-que-identifica-a-versao-atual]__nome-descritivo`
+- Você pode criar novas versões para alterar os anteriores.
