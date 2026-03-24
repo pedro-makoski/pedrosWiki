@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cb3a23d8f39b2367",
+        "id": "798ee33c49b9b8e4",
         "type": "tabs",
         "children": [
           {
-            "id": "ea2f46e3f72a18e7",
+            "id": "28e993f7e52dccd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redação/O que fazer na redação - GERAL.md",
+                "file": "Biologia/citologia/Bactérias.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "O que fazer na redação - GERAL"
+              "title": "Bactérias"
             }
           }
         ]
@@ -181,8 +181,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ea2f46e3f72a18e7",
+  "active": "28e993f7e52dccd7",
   "lastOpenFiles": [
+    "Biologia/citologia/Procariótica x Eucariótica.md",
+    "Biologia/citologia/Bactérias.md",
+    "Biologia/citologia/Pontos importantes sobre a célula.md",
+    "Biologia/Propriedades da água/Propriedades da água.md",
+    "Biologia/Propriedades da água",
+    "Redação/O que fazer na redação - GERAL.md",
     "Redação/Competências.md",
     "Redação/Como lidar com redações no ENEM.md",
     "Química/Propriedades e Classificação/Densidade  2.md",
@@ -196,7 +202,6 @@
     "Matemática/Matemática Básica.md",
     "Física/energia e trabalho/Fontes de energia.md",
     "Física/energia e trabalho/Tipos de Energia.md",
-    "Redação/O que fazer na redação - GERAL.md",
     "Historia/Pré-historia/desktop.ini",
     "Português/acentuação gráfica/desktop.ini",
     "Português/Funções de linguagem/desktop.ini",
@@ -215,14 +220,9 @@
     "Física/Cinemática/Cinemática.md",
     "Matemática/Escalas/Escalas.md",
     "Matemática/Frações/Frações.md",
-    "Matemática/Notação Cientifica/Notação Cientifica.md",
-    "Matemática/MMC e MDC/MMC e MDC.md",
-    "Biologia/bioquimica/Sais minerais.md",
-    "Biologia/bioquimica/Água.md",
     "Química/Química Básica",
     "Física/Cinemática",
     "Física/Básica",
-    "Matemática/Notação Cientifica",
     "Português/Morfologia/Pasted image 20260108104926.png",
     "Pasted image 20260226145346.png",
     "Pasted image 20260226144306.png",

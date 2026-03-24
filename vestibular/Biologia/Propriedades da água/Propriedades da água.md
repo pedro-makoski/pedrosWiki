@@ -1,0 +1,11 @@
+- Alta polaridade 
+	- O oxigênio possui uma tendência muito grande de roubar os elétrons, e o hidrogênio pelo contrário, logo quando no H2O é feito, temos uma aproximação muito grande dos elétrons para o oxigênio.
+	- Logo fica com o hidrogênio positivo e oxigênio negativo
+	- **Pontes de hidrogênio** - o hidrogênio(+) de uma molécula, se conecta(interage) com o oxigênio(-) de outra
+- Coesão das moléculas - onde a água tende a ter suas moléculas muito bem ligadas, e com uma alta força de atração. 
+	- Tensão superficial: na água é alta. As moléculas da superfície usam sua conexões apenas com as de baixo, tornando uma ligação ainda mais forte, pois é usada apenas para a ligação com as de baixo, e cria assim uma alta tensão superficial
+		- Isso permite com que alguns animais flutuem na água
+- Adesão com outras moléculas polares - permite que a água seja o **solvente universal**, onde nela que ocorre a maioria das reações do corpo humano(**metabolismo**). Ou seja, adesão trata-se da união das moléculas da água com outras moléculas polares, o que constituí grande parte das moléculas
+- Alto calor específico - demanda de muito calor para alterar a temperatura em 1 grau celsius, isso permite com que as enzimas, por exemplo, não se desnaturem facilmente, torando assim possível reações metabólicas mais ágeis, uma vez que as enzimas que fazem isso, dependem do seu formato, e o alto calor faz com que possam mudar de formato
+- Alto calor latente - permite com que seja muito difícil de congelar a água, permitindo uma melhor vida aquática
+	
