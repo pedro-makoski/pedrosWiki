@@ -1,0 +1,19 @@
+- Bicamadas fosfolípidica, tem carater anfíifilco/anfipático, mesmo tendo predominância hidrofóbica por causa da maior parte ser a cauda que é esta
+	- Logo, as moléculas apolares conseguem passar mais fácil que as polares
+	- Para as moléculas polares passarem ela precisa passar por proteínas transmembrana
+- A MP é semipermeável 
+	- Ou seja entra substâncias mais pequenas sobre ela
+- A MP tem permeabilidade seletiva, ou seja é feito verificações enzimáticas e químicas para verificar se pode entrar ou não, além do tamanho
+- Mosaico fluído: as proteínas/fosfolipidios podem se transportar dos locais da membrana
+- Colesterol: presente em animais para regular a fluidez e controlar o mosaico fluído 
+- Proteínas -> 
+	- Transmembranas/integrais/intrinsicas permitem o transporte de substância de dentro para fora ou o contrário 
+	- Periféricas/extrinsecas: produção enzimática, estrutural e de comunicação
+- Fosfolípidio 
+	- Pode ser saturado onde as ligações de carbono são simples, logo a cauda é mais e então é mais rígido 
+	- Pode ser insaturado onde as ligações de carbono são duplas ou triplas, a cauda é mais espaçosa e mais torta, permitindo maior fluidez 
+- Glicocalice/glicocalix 
+	- Feito de carbono
+	- Exterior a MP, e tem como função a comunicação, defesa, adesão 
+	- Pode ser uma glicoproteína onde o glicocalice está relacionado a uma proteína
+	- Ou pode ser um glicolipidio onde está relacionado a um lípidio
