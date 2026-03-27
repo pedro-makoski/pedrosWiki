@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dffbf3e8bf85a08c",
+        "id": "7ff5a9c455a2b371",
         "type": "tabs",
         "children": [
           {
-            "id": "84aa2f5f15c84e54",
+            "id": "7c3c448d6b52ca9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursos/Alura Hub/Java/Spring boot/Erros handler.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Erros handler"
+              "title": "Nova aba"
             }
           }
         ]
@@ -202,10 +197,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "84aa2f5f15c84e54",
+  "active": "6bbbc5f01df37320",
   "lastOpenFiles": [
-    "Cursos/Alura Hub/Java/Spring boot/Ocultando stacktrace nas respostas de erro.md",
+    "Reflexões das leituras",
     "Cursos/Alura Hub/Java/Spring boot/Erros handler.md",
+    "Cursos/Alura Hub/Java/Spring boot/Ocultando stacktrace nas respostas de erro.md",
     "Cursos/Alura Hub/Java/ResponseEntity.md",
     "Cursos/Alura Hub/Java/Spring boot/Sem título.md",
     "Cursos/Alura Hub/Java/Anotações Spring Boot.md",
@@ -229,7 +225,6 @@
     "Cursos/Alura Hub/Docker/Criando imagens.md",
     "Cursos/Alura Hub/Docker/Instruções Dockerfile.md",
     "Cursos/Alura Hub/Docker/Intro.md",
-    "Cursos/curso.dev/Comandos GIT.md",
     "Pasted image 20260317202628.png",
     "Pasted image 20260317202620.png",
     "Pasted image 20260317202536.png",
