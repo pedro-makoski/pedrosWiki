@@ -37,3 +37,21 @@ Tópico Frasal - é o que inicia o desenvolvimento e apresenta uma defesa da tes
 - Fundamentação - algo verdadeiro que releva a sua argumentação
 - Conexão - relaciona a fundamentação ao problema real
 - Finalização - finaliza o parágrafo.
+# Coerência
+Na competência 3 é isso que se pede. É a necessidade de você seguir uma lógica, de não se contradizer.
+Alguns princípios:
+- Não ser contraditório 
+- Não falar coisas sem relevância
+- Não repetir a mesma coisa mudando apenas as palavras - tautologia 
+- Ser claro, simples e conciso 
+- Seguir a hierarquia do texto, o que falou na introdução deve permanecer até o fim
+- Ter um entrelasamento 
+- Ter um raciocínio pensado - não falar qualquer coisa, pensar antes de escrever
+- Não forçar a barra com repertórios
+- Eu tenho domínio para falar disso?
+## Evite
+- Repetição de palavras
+- Palavras desnecessárias
+- Generalizações
+- Incoerência externa
+- Clichês e informalidades 
