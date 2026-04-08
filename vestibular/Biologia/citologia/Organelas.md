@@ -19,7 +19,7 @@ Possui ribossomos que geram as proteínas a partir dos RNAm que estão saindo do
 # Citoesqueleto 
 Ajuda na movimentação e na estrutura das células.
 # Peroxissomos 
-Impede que substâncias oxidem a célula, transformando as substâncias em coisas boas.
+Impede que substâncias oxidem a célula, transformando as substâncias em coisas boas. O Peroxissomo transformas as substâncias tóxicas em H2O2 e transforma este H2O+O2
 # Lisossomo
 Fazem a digestão celular com os enzimas que estão dentro deles.
 # Complexo de Golgi

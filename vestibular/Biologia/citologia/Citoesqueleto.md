@@ -1,0 +1,22 @@
+- Sustenta a célula de forma mecânica
+- Feita de filamentos de proteínas
+	- Polimerização - formação desses filamentos
+	- Despolimerização - fica tirando e colocando as proteínas das células
+- Quanto aos tipos:
+	- Microtúbulos: 
+		- Mais dinâmico
+		- Partem dos dois centríolos da célula, que estão no local chamado de centrossomo 
+		- Feito de tubulina
+		- Funções
+			- Permitem a movimentação das organelas
+			- Permite dar a estrutura da célula
+			- Ajuda no processo da divisão celular
+	- Microfilamentos
+		- Formado de actina
+		- Anexadas perto da MP
+		- Permite a mudança de formato da MP com microvilosidades, fagocitose e etc
+	- Filamentos intermediários 
+		- Extremamente estável
+		- Formando de queratina e outros
+		- Resistência do núcleo
+		- Resistência das células da pele
