@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3cd110a05dbd1adf",
+        "id": "00cf88a5460ed4d9",
         "type": "tabs",
         "children": [
           {
-            "id": "2fbdcb57ce774668",
+            "id": "c8e7b4dab6840820",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/citologia/Citoesqueleto.md",
+                "file": "Historia/Colonização/Apresentando os personagens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Citoesqueleto"
+              "title": "Apresentando os personagens"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "kilo",
+                "query": "plasmolise",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,11 +181,19 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "2fbdcb57ce774668",
+  "active": "c8e7b4dab6840820",
   "lastOpenFiles": [
-    "Biologia/citologia/Organelas.md",
+    "Historia/Colonização/desktop.ini",
     "Biologia/citologia/Citoesqueleto.md",
+    "Historia/Colonização/Apresentando os personagens.md",
+    "Historia/Colonização",
+    "Biologia/citologia/Transportes da MP.md",
+    "Biologia/citologia/Organelas.md",
+    "Biologia/citologia/Organelas citoplasmáticas.md",
+    "Biologia/citologia/Citologia.md",
+    "Biologia/citologia/Divisão celular.md",
     "Biologia/citologia/Sem título",
+    "Biologia/citologia/Bactérias.md",
     "Biologia/Introdução a biologia/Introdução a Biologia.md",
     "Biologia/citologia/Mitose e Meiose.md",
     "geral/Aula 1.md",
@@ -194,7 +202,6 @@
     "Redação/Sem título.md",
     "Redação/Como lidar com redações no ENEM.md",
     "Redação/Redação.md",
-    "Biologia/citologia/Transportes da MP.md",
     "Biologia/citologia/Leis da Citologia.md",
     "Biologia/citologia/Estrutura da MP.md",
     "Biologia/citologia/F.md",
@@ -204,13 +211,7 @@
     "Biologia/citologia/Pontos importantes sobre a célula.md",
     "Biologia/citologia/Organismos heterótrofos e autótrofos.md",
     "Biologia/citologia/Organelas e espermatozoide.md",
-    "Biologia/citologia/Organelas citoplasmáticas.md",
-    "Biologia/citologia/Membrana plasmática.md",
-    "Biologia/citologia/Especialização célular.md",
-    "Biologia/citologia/Citologia.md",
-    "Biologia/citologia/Bactérias.md",
     "Biologia/citologia",
-    "Redação/Competências.md",
     "Biologia/Propriedades da água",
     "Pasted image 20260319171657.png",
     "Historia/Pré-historia/desktop.ini",
@@ -222,7 +223,6 @@
     "Pasted image 20260109154808.png",
     "Química/Propriedades e Classificação/Sem título.canvas",
     "Química/Propriedades e Classificação/Estados físicos.canvas",
-    "Química/Química Básica",
     "Português/Morfologia/Pasted image 20260108104926.png",
     "Pasted image 20260226145346.png",
     "Pasted image 20260226144306.png",
