@@ -1,0 +1,12 @@
+- Pedro Alvares Cabral estava em rotas para as índias
+- No meio do percursos desviaram em direção ao Brasil
+	- Há possibilidade de ser por motivos:
+		- De Acidente: desviaram sem querer
+		- De proposito: sabiam que tinha algo e buscaram
+		- Meio termo: queriam ver se há a possibilidade de existir terras
+- Encontram o Brasil em 22 de Abril de 1500 no litoral da Bahia
+- O escriba Pero Vaz de Caminha registra os acontecimentos do "descobrimento", ao longo dos 10 dias que ficaram lá
+- Chamaram aqui de primeiramente "Ilha de Vera Cruz" e depois de "Terra de Santa Cruz"
+- Entre 1500 e 1530, tinham como ativo secundário, apenas com idas de reconhecimento(análise) e exploração do pau Brasil
+- Porém com a ameaça dos franceses estarem rodeando o país e a desvalorização das especiarias eles resolveram colonizar o Brasil
+	- Tornando o Brasil colônia da metrópole portugal

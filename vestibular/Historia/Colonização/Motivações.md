@@ -1,0 +1,51 @@
+# Econômicas
+- As especiarias são de extrema importância para conservação e temperamento, porém como estas viam das índias, e passavam pelo império otomano(odiava a europa), era passado muitos impostos. Motivando, então, os portugueses buscarem uma rota maritimica para chegar as índias
+- O mercantilismo, uma doutrina do capitalismo comercial. Tem como base vender mais do que comprar. E o metalismo que trazia o conceito de metais, que estavam acabando, devido aos altos preços das iguarias. 
+- Processo
+	- Produção do material na ásia - China e índia
+	- Transporte - para algum ponto
+	- Redistribuição - distribuição entre diferentes pontos
+	- Revenda para os países 
+	- O europeu consumia
+- Na época existia dois pontos comercias: Genova e Veneza, que eram pontos de distribuição comercial, que lucravam muito com essas iguarias. Com a expansão maritimíca essas cidades sofreram problemas.
+# Religiosa 
+- Duas relações muito importantes:
+	- Expansão da fé, junto com a expansão maritmica 
+	- Legitimação do poder
+- Infante Dom Henrique -> atacar o império islâmica pelo flanco(lado - através do outro lado da África). Este também queria a expansão da fé
+- No império islâmico na peninsula ibérica houve muitas revoluções cientificas
+- Etnocentrismo -> colocar a opinião do seu povo acima de todos
+- Bula de Inter Caetera -> A legitimação papal que ocasionou no tratado de tordesilhas 
+# Políticas
+- Centralização do estado. Unificação dos estados nacionais.
+	- Tira o poder dos feudos e coloca na coroa
+	- Permite
+		- Controle fiscal e tributário
+		- Reinvestimento dos lucros obtidos
+		- Poder centralizado tanto local quanto global
+- Espanha
+	- Os reinos dentro dela disputam seus territórios
+	- Castela casa-se com Aragão e juntam os reinos, unificando
+- Revolução de Avis em Portugal
+	- Permite a centralização política
+	- Investimento comercial e não feudal
+- A burguesia mercantil era um grande aliado à coroa portuguesa para a busca de novos reinos
+	- Todos poderiam sair lucrando da situação
+- Corrida política -> era de extrema importância buscar terras antes que os outros peguem
+- O império ultramarino criado da muito respeito e consideração a este império
+# Tecnologias
+- Bussola 
+	- Origem chinesa
+	- Mostra o norte magnético da terra
+- Astrolábio
+	- Permite calcular a latitude da terra
+- Cartografia
+	- Envolve um grande investimento
+	- Secreto
+	- Evoluído ao longo do tempo
+- Caravelas
+	- Leves e ágeis
+	- Permitiam a movimentação ágil 
+- Naus
+	- Permitia transportes de grande porte
+**Escola de Sagres nunca existiu**. Apenas simbolismos do alto investimento da coroa e burguesia.
