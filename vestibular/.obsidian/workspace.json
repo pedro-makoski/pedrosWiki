@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1ae8e27037607c5c",
+        "id": "dd66af74e0a21202",
         "type": "tabs",
         "children": [
           {
-            "id": "5a6ff1b851f62a7e",
+            "id": "3f2d1c35310c4798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Historia/Colonização/Chegada dos Portugueses ao Brasil.md",
+                "file": "Geografia/Geografia Economica/Capitalismo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chegada dos Portugueses ao Brasil"
+              "title": "Capitalismo"
             }
           }
         ]
@@ -181,10 +181,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "5a6ff1b851f62a7e",
+  "active": "3f2d1c35310c4798",
   "lastOpenFiles": [
-    "Historia/Colonização/Navegações.md",
+    "Geografia/Sem título.md",
+    "Geografia/Geografia Economica/Capitalismo.md",
+    "Geografia/Geografia Economica",
+    "Geografia",
     "Historia/Colonização/Chegada dos Portugueses ao Brasil.md",
+    "Historia/Colonização/Navegações.md",
     "Historia/Colonização/Sem título 1",
     "Historia/Colonização/Motivações.md",
     "Historia/Colonização/Sem título",
@@ -212,14 +216,10 @@
     "Biologia/citologia/F.md",
     "Biologia/citologia/Teoria Endossimbionte.md",
     "Biologia/citologia/Teoria da endossimbiose(sequêncial).md",
-    "Biologia/citologia/Procariótica x Eucariótica.md",
-    "Biologia/citologia/Pontos importantes sobre a célula.md",
     "Biologia/citologia",
     "Biologia/Propriedades da água",
     "Pasted image 20260319171657.png",
     "Historia/Pré-historia/desktop.ini",
-    "Português/acentuação gráfica/desktop.ini",
-    "Português/Funções de linguagem/desktop.ini",
     "Pasted image 20260109154808.png",
     "Química/Propriedades e Classificação/Sem título.canvas",
     "Química/Propriedades e Classificação/Estados físicos.canvas",
