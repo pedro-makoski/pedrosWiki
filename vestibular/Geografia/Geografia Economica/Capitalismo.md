@@ -56,8 +56,43 @@ Toda fase tem uma doutrina, que é o modo de pensamento central que se tem naque
 ## 2º Fase - Industrial
 - Grandes industrias
 - Sem escravização, para que todos consumam cada vez mais
+- Buscam eficiência e lucro
+- Produção de produtos manufaturados(materia prima alterada pela divisão do trabalho humano), bem como mais a frente maquino faturados(usam maquinas para dividir o trabalho e produzir)
+- A Inglaterra é pioneira, pois ela tinha:
+	- Mercado consumidor
+		- **Nota interessante:** a Inglaterra era uma das principais exportadoras de escravos, e com o capitalismo industrial resolveu proibir a escravização para ter mais mercado consumidor
+	- Matéria prima
+	- Mão de obra: as pessoas que vão fazer
+	- Capital
+	- Energia:
+		- Inclusive as empresas se localizavam em centros próximos a fontes de energia e seus mercados consumidores. Tendo como efeito colateral a concentração da poluição urbana
+- Processo de industrialização: transferência da matriz econômica da agrária para industrial
+	- O que permitiu a Inglatera ser uma das pioneiras com o cercamento de terras 
+- Uma invenção com um objetivo específico pode servir para outros em momentos posteriores.
 - **Doutrina:** liberalismo
 	- Sem intervenção do estado
+	- Adam Smith
+	- O estado deve deixar fazer e deixar passar tudo
+	- Tudo se resolveria pela *Invisible Hand*
+		- Que é um conceito que se aproveita da lei da oferta e da demanda, onde quando um produto quando não é mais viável o concorrente pode se aproveitar
+		- O problema é a formação de monopólios(uma empresa ser dona de todas as empresas de um setor específico) ou um cartel(parceria de valores entre concorrentes), onde é feito práticas abusivas
+		- A busca pelo lucro dos burgueses vai ocosionalmente criar um bem estar social e equilibrio econômico. Porém com as práticas abusivas pode dar problemas
+- Geopolítica industrial
+	- Os países europeus exerciam podem sobre os países africanos e asiáticos em busca de matéria prima e mercado consumidor, com práticas extremamente abusivas
+	- Neocolonialismo/Imperialismo: exploração dos países africanos e asiáticos
+		- Conferência de Berlim(1884-1885): divisão das terras africanas para que cada pais europeus pudesse explorar, uma vez que a Alemanha e a Itália também queria explorar as terras africanas, e não tinham nada
+- DIT
+	- Divisão Internacional do Trabalho
+	- Antes no capitalismo comercial, isso era apenas um protótipo
+	- Agora existe uma divisão internacional entre:
+		- Países industrializados 
+			- Produz os produz manufaturados 
+			- Recebe as matérias primas exploradas
+			- Maior valor agregado no seu produto final
+		- Países não industrializados
+			- Produzem as matérias primas
+				- Mais voláteis 
+				- Menor valor agregado
 ## 3º Fase - Financeira
 - O acumulo do capital está em investimentos, bolsa de valores e emprestimos financeiros
 - Doutrina: Keynesianismo
