@@ -94,11 +94,54 @@ Toda fase tem uma doutrina, que é o modo de pensamento central que se tem naque
 				- Mais voláteis 
 				- Menor valor agregado
 ## 3º Fase - Financeira
+- Também chamada de monopolista pois as industrias começam a formar grandes monopólios e potencializado com a bolsa de valores que permite a compra deliberada de ações, podendo gerar um grande poder de uma pessoa sobre algo
 - O acumulo do capital está em investimentos, bolsa de valores e emprestimos financeiros
+- Teve também em seu inicio como doutrina o liberalismo, porém com a criação de monopólios/carteis isso demonstrou que não seria um  bom sistema
+	- Ainda mais com o mercado de ações que permite a empresa:
+		- Ter seu valor alterado drasticamente muito rápido
+		- Fazer com que outros comprem suas ações, sem formalidades diretamente com o dono
+- Muitos empréstimos e criação do mercado de ações, gerando uma grande circulação de dinheiro e uma super produção
+- Criação de grandes de monopólio quebrando a ideia de livre e concorrência
+- Nos EUA 1900+
+	- Existe uma grande prosperidade na américa 
+	- American Way Of Life - American Dream
+	- Existe, então, uma superprodução de produtos industrializados, fazem mais do que vendem
+	- Uma inflação dos preços das ações - muitas pessoas comprando as ações e elas ficam valendo mais do que de fato valem
+	- Muitos empréstimos do banco colaboram para a uma inflação da produção
+	- Crise de 1929
+		- Existem três pilares
+			- Superprodução: produziam mais do que precisavam
+			- Euforia na especulação de preços: as empresas valiam mais do que deviam
+			- Subconsumo: enquanto produziam mais, graças aos empréstimos do banco, os trabalhadores ganhavam a mesma coisa, então o consumo não era suficiente 
+		- Alguns investidores percebem, na quinta feira negra, que as ações não valiam tanto assim, e começaram a vender, e muitas pessoas começaram a vender também, tendo uma queda exponencial dos preços, uma vez que estes também eram corretores
+			- Ao venderem as industrias falem
+			- Gerando desemprego
+			- Caindo o mercado consumidor
+			- Quebram outras empresas
+			- Os bancos não conseguem receber os valores emprestados de volta
+				- Cobram da Europa
+				- A Europa também fica mal pois não pode pagar
+			- Os países que vendem materiais também perdem o mercado consumidor externo
+			- Gera uma crise mundial
+			- **Causando o fim do liberalismo**
+				- Pois com a intervenção do estado é possível evitar estas quebras.
 - Doutrina: Keynesianismo
-	- Pouca intervenção do estado
+	- Volta a ter intervenção do estado
+	- O estado regula as ações para evitar grandes euforias ou grandes depressões 
+	- O estado também vai buscar mais saúde, educação, segurança, previdências e pleno emprego para todos
+	- Vai gerar uma quantidade de gastos absurda
+		- Inflação
+		- Dividas públicas
+	- O estado vai buscar o bem estar social
+	- Como estado tem mais poder sobre a economia, quando o governo for corrupto, isso pode acarretar em problemas sérios
 
 ## 4º Fase - Informacional
 - O dinheiro está centrado em dados, informações e itens imateriais
 - **Doutrina:** Neoliberalismo
+	- Intervenção mínima do estado 
+	- Privatização das estatais 
+	- Estado busca a segurança nacional
+	- Corte dos direitos sociais 
+	- Desregulamentação
+		- O estado vai diminuir a quantidade de regulamentação sobre as coisas que tinha feito antes 
 
