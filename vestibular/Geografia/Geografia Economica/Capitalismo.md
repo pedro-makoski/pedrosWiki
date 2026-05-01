@@ -121,6 +121,7 @@ Toda fase tem uma doutrina, que é o modo de pensamento central que se tem naque
 			- Os bancos não conseguem receber os valores emprestados de volta
 				- Cobram da Europa
 				- A Europa também fica mal pois não pode pagar
+				- Geram discursos totalitaristas culpando os outros pela sua quebra
 			- Os países que vendem materiais também perdem o mercado consumidor externo
 			- Gera uma crise mundial
 			- **Causando o fim do liberalismo**
