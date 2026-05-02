@@ -1,0 +1,9 @@
+- Contextualização imprecisa e genérica: quando a contextualização não incina para o problema
+- Contextualização fútil: quando existem detalhes desnecessários na contextualização
+- Problematização desconectada: quando a problematização não faz referência a contextualização
+- Problematização imprecisa, incompleta e pouco assertiva: quando você tangencia o problema
+- Problematização argumentativa: quando você já argumenta no problema
+- Tese argumentativa: quando você começa a fundamentar seu argumentos na tese
+- Tese fraca: quando sua tese não tem convicção do problema e que deve ser solucionado
+- Tópico aberto: quando você não conecta o problema com o tema e vice-versa no tópico frasal
+- Tópico queimado: quando você fundamenta já no tópico frasal
