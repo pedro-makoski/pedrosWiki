@@ -1,0 +1,13 @@
+- Transforma matéria prima em bens
+- Utiliza processos automáticos, com maquinas, padronizados e com busca num resultado padrão e igual no final
+- Tem como objetivo a produção em escala, buscando o máximo de eficiência
+- Utiliza energia e ciência
+- Utilizam maior capital para produzirem maior lucro
+- Cadeia produtiva: muitos processos para a produção de um bem final
+- Possuem desenvolvimento tecnológico
+- Buscam sempre serem mais eficiente que os **concorrentes**
+- Industrialização: passagem da matriz econômica da agricultura para as industrias 
+- Divisão do trabalho: podem ser em:
+	- Espaço: fazem coisas diferentes em locais diferentes
+	- Tempo: fazem coisas diferentes em tempos diferentes
+	- Pessoas: pessoas realizam tarefas diferentes

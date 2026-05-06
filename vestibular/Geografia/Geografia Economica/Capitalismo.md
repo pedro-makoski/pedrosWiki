@@ -138,6 +138,24 @@ Toda fase tem uma doutrina, que é o modo de pensamento central que se tem naque
 
 ## 4º Fase - Informacional
 - O dinheiro está centrado em dados, informações e itens imateriais
+- O poder está centrado nos dados. 
+- A divisão internacional do trabalho se dá para quem tem mais tecnologia.
+- Toyotismo
+	- Fazer o quanto for necessário 
+	- Just in time
+	- Cálculos para saber quanto é necessário produzir
+	- Estoque parado é perda de dinheiro
+- "The data is the new oil"
+- Desconcentração industrial
+	- As industrias espalhadas aonde é mais conveniente e barato
+- Milton Santos
+	- O espaço geografico é o meio técnico-cientifico informacional
+	- Não apenas a natureza transformada pelo homem, mas sim um espaço onde a informação, ciência e tecnologia estão embutidos
+- Multipolar
+	- O poder está diluído entre os países, bem como empresas e empresários
+- Uberização 
+	- Desemprego estrutural 
+		- Diferente do conjuntural que é quando acontece algum problema externo, o estrutural é quando não é mais necessário, pois vale mais apena usar uma maquina 
 - **Doutrina:** Neoliberalismo
 	- Intervenção mínima do estado 
 	- Privatização das estatais 
@@ -145,4 +163,5 @@ Toda fase tem uma doutrina, que é o modo de pensamento central que se tem naque
 	- Corte dos direitos sociais 
 	- Desregulamentação
 		- O estado vai diminuir a quantidade de regulamentação sobre as coisas que tinha feito antes 
+	- Redução das barreiras alfandegarias 
 
