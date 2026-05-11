@@ -1,0 +1,18 @@
+- Matéria prima e energia
+	- É interessante para industrias de materiais muito pesados ficar próximo da fonte de matérias primas. O que é comum para as siderúrgicas, por exemplo
+	- E também para outras pode ser interessante ficar perto de uma fonte de energia, principalmente as eletrointensivos. 
+- Transporte, comunicação e logística
+	- É necessário escolher um local estratégico para importar e exportar as matérias primas
+	- Perto de corredores:
+		- Rodoviários: via caminhão(muito caro)
+		- Hidroviários: via barcos(intermediários)
+		- Ferroviários: via trem(mais barato)
+	- É interessante, também, estabelecer portos para realizar exportações e importações internacionais 
+- Capital e tecnologia
+	- Produzir aonde tem muitos investimentos e muito desenvolvimento tecnológico, bem como também tem muitas mentes inteligentes e capazes 
+- Mão de obra e mercado consumidor 
+	- Pode ser aonde a mão de obra é mal qualificada e barata, mas também pode ser onde tem mentes brilhantes uteis 
+	- O mercado consumidor também pode ajudar, pois em industrias que envolvem produtos rapidamente perecíveis, é interessante construir perto da onde tem bastante gente que consome
+- Benefícios ficais, legislação e regulamentação
+	- Escolher um local com benefícios governamentais: poucos impostos, pouca regulamentação ambiental e etc
+	- Guerra fiscal: os políticos para se auto beneficiarem, diminuem as regulamentações de uma região e beneficiam com investimentos industrias com incentivos fiscais, afim de diminuir a taxa de desemprego, e assim votarem nele de novo. 

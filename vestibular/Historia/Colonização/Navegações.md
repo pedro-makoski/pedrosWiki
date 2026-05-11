@@ -3,7 +3,7 @@
 - **Infante Dom Henrique:** estrategista. Criou o modelo incremental da costa ocidental da africa(lado ocidental que encosta no mar da África)
 - **Dom João II**: também estrategista. Coordena a primeira ida ao cabo boa esperança. Arrasta o tratado de tordesilhas, permitindo uma parte da américa para portugal 
 - **Bartolomeu Dias**: vai até cabo boa esperança. E descobre que a África tem fim
-- **Vasco Da Goma**: chega às indias. Chegada um pouco hostil. Boa parte da tripulação morreu
+- **Vasco Da Gama**: chega às indias. Chegada um pouco hostil. Boa parte da tripulação morreu
 - **Pedro Alvares Cabral**: na segunda ida para as índias desvia e passa no Brasil, ainda não se sabe se foi proposital ou acidental
 ## Fases
 Portugal se estabelece na busca na rota da índia de forma incremental, buscando territórios e suas riquezas aos poucos.
