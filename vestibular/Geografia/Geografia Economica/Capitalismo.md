@@ -79,7 +79,7 @@ Toda fase tem uma doutrina, que é o modo de pensamento central que se tem naque
 		- A busca pelo lucro dos burgueses vai ocosionalmente criar um bem estar social e equilibrio econômico. Porém com as práticas abusivas pode dar problemas
 - Geopolítica industrial
 	- Os países europeus exerciam podem sobre os países africanos e asiáticos em busca de matéria prima e mercado consumidor, com práticas extremamente abusivas
-	- Neocolonialismo/Imperialismo: exploração dos países africanos e asiáticos
+	- Neocolonialismo/Imperialismo: exploração(pegar a matéria prima e obter mercado consumidor) dos países africanos e asiáticos
 		- Conferência de Berlim(1884-1885): divisão das terras africanas para que cada pais europeus pudesse explorar, uma vez que a Alemanha e a Itália também queria explorar as terras africanas, e não tinham nada
 - DIT
 	- Divisão Internacional do Trabalho

@@ -1,10 +1,12 @@
 O mundo agora está mais conectado. Ele está no estagio final do capitalismo. Globalização é um fenômeno perceptível na sociedade, é um processo que acontece em todo tempo, é uma condição a qual o mundo vive. 
 O mundo diminui no quesito tempo e espaço, pois agora ele está muito rápido a movimentação de um lugar para outro. O mercado, em contraposição, cresce muito. 
+Existe uma interconexão no mundo inteiro, com uma intensa transação de pessoas, bens, mercadoras, dinheiro, cultura.
 # Fases
 1. Gênese: com as grandes navegações, onde conecta a américa a Europa 
 2. Aceleração *física*: junto com as revoluções industriais e o **imperialismo**
 3. Integração Ideológica: o mundo fica bipolar defendendo ou o capitalismo ou o socialismo
 4. Globalização atual: depois do muro de Berlim, as tecnologias como internet e fibra ótica aumentaram as conexões e o mundo tem o capitalismo de forma hegemônica 
+	1. Não tem barreiras de fluxo de capital
 # Fase atual
 Não existe impedimento em maior parte do mundo para passagem de pessoas e informação. 
 Agora estamos no meio tecnico-cientifico-informacional. 
