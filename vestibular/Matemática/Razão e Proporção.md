@@ -8,3 +8,26 @@ Quando o valor está ao quadrado ao invés de multiplicar diretamente é feito i
 - Diretamente: faz cruzado
 - Inversamente: inverte uma das grandezas
 - Composta: coloca a igualdade entre o valor com a incognita e a multiplicação dos elementos, quando diretamente normal, quando inversamente em relação incognita é inverso.
+# Divisão diretamente proporcional
+- Quando vai ser dividido algo diretamente proporcional a quantidade de cada, divida pelo valor total pela soma dessas quantidade e multiplique pela quantidade que você deseja dividir
+$$
+a = k*x
+$$
+# Divisão inversamente proporcional
+$$
+a = \frac{k}{x}
+$$
+$$
+b = \frac{k}{y}
+$$
+$$
+c = \frac{k}{z}
+$$
+$$
+a +b + c=\frac{k}{x}+\frac{k}{y}+\frac{k}{z} = t
+$$
+$$
+t = k*\left( \frac{1}{x}+\frac{1}{y}+\frac{1}{z} \right)
+$$
+
+
