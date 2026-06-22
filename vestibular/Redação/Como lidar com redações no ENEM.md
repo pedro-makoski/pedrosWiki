@@ -51,3 +51,6 @@ Coerência - conectividade, evolução da discussão, conexão de ideias.
 - Você pode fazer por cima, se ter uma palavra errada depois de ter escrito tudo.
 - Na introdução coloque a teste 1 e a teste 2, no desenvolvimento desenvolve com argumentos as teses, e na conclusão resolve os textos já feitos, podendo retomar o que foi citado na introdução de referência, com a resolução
 - Marca de autoria: não exagere, mas é interessante usar retomadores de forma um pouco mais criátiva.
+# A redação necessita de uma habilidade motora e intelectual
+- A redação necessita de treino na mão
+- Você precisa treinar a redação na mão na prática, seria bom 1 vez por semana.
