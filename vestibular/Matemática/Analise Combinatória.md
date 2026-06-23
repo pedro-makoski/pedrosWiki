@@ -33,3 +33,39 @@ Quantidade de palavras sem ou com sentido possíveis de se formas com as letras 
 Para descobrir o anagrama da posição em ordem alfabética, você pode:
 - Relacionar a números
 - Fixar os valores iniciais somando até chegar no valor atual
+# Combinação
+$$
+C^p_n = Cp,n = \dbinom{n}{m}
+$$
+## Propriedades
+$$
+C^0_n = 1
+$$
+$$
+C^1_n = n
+$$
+$$
+C^n_n=1
+$$
+$$
+C^{p}_{n}+ C^{p+1}_{n} = C^{n+1}_{p+1}
+$$
+$$
+C^0_n+C^1_n+...+C^n_n= 2^n
+$$
+# Arranjo 
+$$
+A^p_m = \frac{m!}{(m-p)!}
+$$
+## Propriedades
+$$
+A_m^0 = 1
+$$
+$$
+A^1_m=m
+$$
+$$
+A^m_m=m!
+$$
+# Pelo menos um
+Do total de possibilidades menos a quantidade dos possíveis do contrário.
