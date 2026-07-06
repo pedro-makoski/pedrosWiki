@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6f9eead369fd5be",
+        "id": "7983e9b3a1123f05",
         "type": "tabs",
         "children": [
           {
-            "id": "9e68e370ebe93079",
+            "id": "e0e342633eb78a79",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,10 +182,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "9e68e370ebe93079",
+  "active": "e0e342633eb78a79",
   "lastOpenFiles": [
-    "Matemática/Critérios de divisibildade/Critérios de divisibilidade.md",
+    "Física/Física.md",
+    "Redação/Regras do ENEM.md",
+    "Redação/Estrutura.md",
+    "Redação/Texto dissertativo Argumentativo.md",
     "Física/Ondulatória/Ondulatória.md",
+    "Matemática/Critérios de divisibildade/Critérios de divisibilidade.md",
     "Física/Ondulatória",
     "Matemática/Razão e Proporção.md",
     "Matemática/Regra de três/Regra de três.md",
@@ -207,10 +211,6 @@
     "Geografia/Geografia Economica/Setores da econômia.md",
     "Geografia/Geografia Economica/Modelos produtivos.md",
     "Geografia/Geografia Economica/Escolha do local da indústria.md",
-    "Historia/Colonização/Navegações.md",
-    "Historia/Colonização/Motivações.md",
-    "Historia/Colonização/Chegada dos Portugueses ao Brasil.md",
-    "Historia/Colonização/Apresentando os personagens.md",
     "Biologia/Introdução a biologia/desktop.ini",
     "Matemática/Polinômios/desktop.ini",
     "Matemática/Funções/desktop.ini",

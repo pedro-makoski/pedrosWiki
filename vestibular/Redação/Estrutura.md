@@ -1,0 +1,18 @@
+- Introdução
+	- Contextualização: contextualiza o local em que o tema está inserido
+	- Apresentação do problema: apresenta o problema em si
+	- Tese com dois argumento explícitos: apresenta dois argumentos com a expressão da argumentação
+- Desenvolvimento 1/Desenvolvimento 2
+	- Tópico Frasal: conecta o argumento com o problema com a opinião junta
+	- Fundamentação/Sustentação: sustenta o argumento. Fundamenta com a lógica
+	- Ampliação: apresenta qual é o impacto real de fato
+	- Encerramento: conclui o argumento. Pode propor uma intervenção ou apenas resumir
+- Conclusão
+	- Tópico Frasal: resume o dois argumentos com a comprovação se é realmente conecta com o problema
+	- Proposta de intervenção
+		- Ação
+		- Agente
+		- Meio
+		- Finalidade
+		- Detalhamento: detalha algum dos itens anteriores
+	- Finalização
