@@ -90,3 +90,44 @@ Em ordem crescente de frequência e decrescente de comprimento de onda:
 # Frequência e período
 - Frequência: é a quantidade de ciclos em um segundo
 - Período: é a quantidade de tempo para um ciclo
+# Fenômenos ondulatórios
+- Reflexão
+	- A onda volta de forma igual com a mesma frequência ao bater numa fronteira
+	- É feito de forma angulada
+	- Reflexão total:
+		- É feito totalmente a refração da onda que veio
+	- Pode ser:
+		- Especular: em uma superfície lisa e polida ele volta de forma igual
+		- Dispersa: em uma superfície rugosa e regular ela volta de forma grossa
+	- Em uma corda quando é conecta a algo fixo ela inverte a onda e quando conectado ao algo movível ela continua na mesma posição
+- Difração
+	- Uma onda que não passaria passar por um lugar menor que ela, mudando a direção, normalmente.
+	- Difração das onda de rádio: radio é uma onda muito grande, porém por difração pode passar pelas janelas e portas da casa
+	- Sofre um espalhamento
+- Refração:
+	- Ao mudar de meio a onda pode mudar de velocidade e na maioria dos casos a direção
+	- Miragem: treme no calor
+	- Pode mudar mudar o comprimento de onda e a velocidade em dentrimento de manter a frequência
+- Polarização:
+	- A onda não passa por uma fresta, pois a onda está em um plano diferente da fresta. Existe uma filtragem da onda.
+	- Só funciona para onda transversal
+- Ressonância
+	- A onda interage com a matéria que possui a mesma ou próxima vibração que ela, e portanto aumentando a amplitude da vibração da matéria
+	- O microondas antes era considerado como ressonância, porém agora não é mais, mas sim um efeito elétrico
+- Interferência
+	- Uma onda interage com uma outra onda que está na mesma posição
+	- Pode ser:
+		- Construtiva:
+			- A onda se soma com outra, aumentando a amplitude
+		- Destrutiva:
+			- A onda se cancela com outra, diminuindo a amplitude
+- Efeito Doppler
+	- Existe uma mudança aparente da frequência, em virtude do emissor da onde emitir em diferentes posições e ao chegar em você parece que a frequência alterou.
+# Ondas estacionarias
+- As ondas vão e se refletem e como são idênticas a onda fica com a impressão de estacionada sem se propagar. São duas ondas idênticas que nos nós se anulam e em outros se constroem
+- Ela tem duas partes:
+	- Os nós: pontos sem entrega energética, em que as energias se anulam das duas ondas. Ele fica com o espaço vázio
+	- Os antinos/ventres: são espaços de maior entrega energética oferecendo muito calor. E representam as cristas ou vales da onda
+- A quantidade de espaços de vibração são chamadas de quantidades de harmônicos
+- Cada harmônico tem metade do comprimento de onda. Ou seja dois harmônicos tem dois comprimentos de onda. 
+	- Com isso é possível relacionar
