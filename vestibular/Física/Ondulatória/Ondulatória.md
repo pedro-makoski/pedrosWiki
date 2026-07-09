@@ -114,6 +114,7 @@ Em ordem crescente de frequência e decrescente de comprimento de onda:
 - Ressonância
 	- A onda interage com a matéria que possui a mesma ou próxima vibração que ela, e portanto aumentando a amplitude da vibração da matéria
 	- O microondas antes era considerado como ressonância, porém agora não é mais, mas sim um efeito elétrico
+	- Não é relacionado a quanto a matéria vibra, mas sim a capacidade possível dela vibrar
 - Interferência
 	- Uma onda interage com uma outra onda que está na mesma posição
 	- Pode ser:
@@ -127,7 +128,81 @@ Em ordem crescente de frequência e decrescente de comprimento de onda:
 - As ondas vão e se refletem e como são idênticas a onda fica com a impressão de estacionada sem se propagar. São duas ondas idênticas que nos nós se anulam e em outros se constroem
 - Ela tem duas partes:
 	- Os nós: pontos sem entrega energética, em que as energias se anulam das duas ondas. Ele fica com o espaço vázio
-	- Os antinos/ventres: são espaços de maior entrega energética oferecendo muito calor. E representam as cristas ou vales da onda
+	- Os antinos/ventres/fusos: são espaços de maior entrega energética oferecendo muito calor. E representam as cristas ou vales da onda
 - A quantidade de espaços de vibração são chamadas de quantidades de harmônicos
 - Cada harmônico tem metade do comprimento de onda. Ou seja dois harmônicos tem dois comprimentos de onda. 
 	- Com isso é possível relacionar
+- m - nº de harmônicos. 
+- A frequência de um elemento que dobra a quantidade de harmônicos é 2x maior, e com isso é possível formas essa relação
+## Equações
+$$
+L = \frac{m*\lambda}{2}
+$$
+Onde m é o número de harmônicos e lamda é comprimento de onda. Podemos reescrever como:
+$$
+\lambda = \frac{2L}{m}
+$$
+E portanto relacionando com a formula padrão de ondulatória:
+$$
+V = \frac{2L}{m}*f
+$$
+e portanto a frequência é: 
+$$
+f = \frac{m*V}{2L}
+$$
+Logo podemos concluir que quanto maior a largura da corda menor a frequência e vice-versa.
+E temos também a equação de Taylor:
+$$
+V = \sqrt{\frac{T}{M}}
+$$
+Sendo T a tensão da corda em newtons e M a densidade linear da corda em kg por metro, que é a massa divididas pela largura.
+# Acústica
+- O som é uma onda mecânica e longitudinal
+- O meio, tanto quanto matéria quanto por temperatura, ou seja com densidades diferentes, altera a velocidade
+- Nos ouvimos de x para y frequência:
+	- 20 Hz - grave
+	- 20.000 Hz - agudo
+- Intensidade é a amplitude a onda. Indica o quão vai ter alcance o som. Ela é medida em Wats por metro quadrado.
+- Qualidade do som
+	- Timbre
+		- Formato da onda
+		- Indica como vibra cada som. 
+		- Diferencia os sons com mesma frequência e amplitude
+	- Altura
+		- Quanto a frequência da onda
+		- Mais alto mais agudo, mais baixo mais grave
+	- Intensidade Sonora
+		- O nível da intensidade sonora é medida em decibels, que na verdade é bel só que como é muito pequeno, é medido em deci
+			- Não a intensidade em si, mas uma escala logaritima
+				- Baseado no I_{0} que é 10^{-12} w/m^2 que é o mínimo que o ser humano ouve
+				- A medida é então: Log_10 \frac{I}{I_{0}}
+		- 40 dB é uma conversa normal, 10 dB é muito baixo, 90 dB é barulhento, 100 dB doi e 200 dB é perigoso 
+- Propagação:
+	- Atenua conforme se propaga, ou seja abaixa a intensidade
+	- Quanto mais agudo passa mais, pois contorna os objetos por ter maior comprimento de onda e menor frequência 
+	- Quanto maior a intensidade de onda, também tem maior alcance
+- Outros Fenômenos 
+	- Reflexão
+		- Eco:
+			- Tempo de distância de reflexão e normal muito alto, passando a latência do ouvido, parecendo outro som
+		- Reforço:
+			- As ondas sonoras se juntam e por interferência construtiva aumenta a amplitude
+		- Reverberação:
+			- É um tempo intermediário em relação a latência, não podendo ser ouvido, porém gera um efeito interessante de cauda
+
+# Tubos sonoros
+- São tubos em que o áudio faz ressonância em si e cria-se uma onda estacionária
+- Pode ser:
+	- Tubos abertos: com dois buracos e que passa o som
+		- Existem nas cavidades dois ventres pela metade que juntos formam um
+		- Ou seja as duas extremidades contam como um harmônico
+		- A relação é a mesmas das cordas: L = (lambda * número de harmônicos) / 2
+	- Tubos fechados: com um buraco tampado
+		- O número de harmônicos sempre é impar, porcausa do harmônico formado na extremidade
+		- Cada harmônico é um quarto de lambda
+		- A relação é L = (lambda * número de harmônicos) / 4
+# Batimentos
+- Interação entre duas ondas semelhantes
+- Resultando em partes construtivas e destrutivas da onda
+- A frequência da onda do batimento é a frequência da onda de frequência maior menos a frequência da onda de frequência menor
+
