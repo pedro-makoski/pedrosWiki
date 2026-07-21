@@ -43,3 +43,5 @@ Por que pelo fato de ter pouco oxigênio, não é possível fazer a respiração
 - Inibidores: bloqueiam a passagem de elétrons pela cadeia. Causa um aumento de NADH dentro da célula. Pouca concentração de H+ fora e portanto não gere energia. Pode resultar em morte. O O2 não vai ser tão necessário, pois o H+ não está entrando. 
 - Bloqueadores: parecido com inibidores, só que bloqueia a ATP-sintase. 
 - Desacopladores: o padrão é que o gradiente de concentração de H+ esteja acoplados com a geração de ATP pela ATP-Sintase. Porém o desaclopador cria um canal permitindo a passsagem de H+ por outras vias, reduzindo a quantidade de chegadas na ATP-Sintase. Causando num aumento de temperatura. Isso é bom para ursos e bebês, que tem um tecido lipídico marrom, que possui termogênina que é um desacoplador para gerar mais temperatura. Para isso acontecer vai ser necessário mais oxigênio para gerar mais ATP, pois está tendo mais H+ que ATP.
+# Respiração Anaeróbica
+- Semelhante a Respiração celular, só que sem o oxigênio no final da cadeia, e sim outra molécula muito fotoelétrica inorgânica.
