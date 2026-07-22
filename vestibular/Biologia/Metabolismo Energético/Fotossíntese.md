@@ -29,8 +29,8 @@ Nesta fase ocorre só interação com a água nos tilacoides.
 1. Com a ajuda dos ATPs gerados, é adicionado os dois elétrons e o hidrogênio no dioxido de carbono virando a glicose.
 2. Ocorre no estroma
 3. Nesta fase é gerado G3P, no qual dois podem gerar 1 glicose
-4. Neste processo é necessário do ATP gerado no processo anterior, o NADPH e o CO2, este ultimo foi obtido pela entrada de estómatos.
-5. Para fazer o processo de gerar o G3P é feito o seguinte:
+4. Neste processo é necessário do ATP gerado no processo anterior, o NADPH e o CO2, este ultimo foi obtido pela entrada de estómatos. 
+5. Para fazer o processo de gerar o G3P é feito oseguinte:
 	1. O Rubisco, que é uma enzima, gruda o CO2 em um Rubisco Bifosfato
 	2. Depois da quebra do ATP, o NADPH é oxidado enquanto o o CO2 é reduzido
 	3. O produto final é gerado: 1 G3P

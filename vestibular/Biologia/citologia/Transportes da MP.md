@@ -17,7 +17,7 @@ A água vai do meio hipotônico para o meio hiepertônico, reversamente a difus�
 - Quando é colocado no meio hipotônico e explode é chamado de Apoptise 
 ### Células das hemácias 
 - Murcha -> crenação
-- Explode - hemólise 
+- Explode - hemólise
 ### Células vegetais
 A célula tem um vacúolo que faz a regulação osmótica, assim como uma parede célular muito forte, logo ela nunca muda de formato, se muda pouco, muito menos explode.
 ### Bactérias
