@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -184,6 +186,7 @@
   },
   "active": "ca3b72a2c82f9d42",
   "lastOpenFiles": [
+    "Redação/Momentos pré-textuais.md",
     "Português/Tipos Textuais/Sem título/desktop.ini",
     "Português/Tipos Textuais/Tipos Textuais.md",
     "Português/Tipos Textuais/Sem título",
@@ -198,7 +201,6 @@
     "Biologia/Metabolismo Energético/Fotossíntese.md",
     "Biologia/Metabolismo Energético/Fermentação.md",
     "Biologia/bioquimica/Ácidos nucleícos - DNA e RNA.md",
-    "Redação/Momentos pré-textuais.md",
     "Biologia/Biologia.md",
     "Biologia/citologia/Leis da Citologia.md",
     "Biologia/citologia/Citologia.md",
@@ -219,7 +221,6 @@
     "Matemática/Polinômios/desktop.ini",
     "Matemática/Funções/desktop.ini",
     "Matemática/Regra de três/desktop.ini",
-    "Historia/Pré-historia/desktop.ini",
     "Pasted image 20260319171657.png",
     "Pasted image 20260109154808.png",
     "Química/Propriedades e Classificação/Sem título.canvas",

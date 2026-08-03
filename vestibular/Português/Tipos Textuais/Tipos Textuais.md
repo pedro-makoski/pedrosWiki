@@ -60,9 +60,51 @@ Os tipos textuais são definições abstratas quanto á finalidade do texto e se
 	- Indireto Livre: a fala do personagem passa junto com a narração sem indicação 
 ## Descritivo
 - Descreve algo para o leitor
+- Constrói uma imagem verbal na cabeça do leitor
+- Congela o tempo, descrevendo apenas uma parte da sequência de acontecimentos
+- Raramente está sozinha, geralmente é acompanhada por outro tipo textual predominante
+- Tem mais caracterização do que ação
+- Atribui características a um referente
+- Usa-se de diferentes recursos linguísticos
+	- Adjetivação: adjetivos que auxiliam na descrição
+	- Verbos de estado: apontam para uma característica - ser, estar, parecer
+	- Figurar de linguagem: sinestesia, metáforas e comparação
+- Existem dois tipos
+	- Objetivos: percepção e verdadeira e amplamente verificável por todos. 
+	- Subjetivos: percepção que não é amplamente verificável por todos e é filtrada pelo julgamento e percepção do humano.
 ## Expositivo
 - Expõe informações sobre algum assunto
+- Informar, expõe, mostra algum assunto, tema ou afins sem marcar seu ponto de vista
+- Não defende e não convence
+- Parte de um tema, mobilizando informações para explicá-lo
+- Algumas características
+	- Informação estruturada, objetivada em explicá-la
+		- Pode possuir uma ordem:
+			- Cronológica: tempo
+			- Lógica: causa e efeito
+			- Espacial: a partir do local do espaço
+			- Classificação: estruturar a partir das classificações de cada coisa
+	- Não pode ter posicionamento, isso é coisa de texto argumentativo 
+	- Finalidade explicátiva
 ## Argumentativo
 - Defende algum ponto de vista e tenta convencer o leitor
+- Possui:
+	- Uma tese: Afirmação que expressa o posicionamento, deve ser passível de contestação
+	- Argumentos: sustentam por meio da razão a tese
+	- Conclusão: retoma a tese à luz dos argumentos
+- Parte sempre de uma tese
+- Objetiva-se na sedução do leitor
+- Tipos de argumento
+	- Argumento de autoridade: baseia-se em alguma autoridade, que pode ser fonte, instituição ou pessoa, podendo falhar se o autor não é muito autoritário no assunto
+	- Argumento por exemplificação: baseia-se em algum exemplo para justificar, o problema é que o exemplo pode ter uma correlação falsa com a tese
+	- Argumento por causa e efeito: baseia na causa do problema para sustentar a tese
+	- Argumento por dado estatístico: baseia-se em dados quantitativos para sustentar a tese 
 ## Injuntivo
 - Conjunto de ordens para o usuário fazer
+- Ordena, aconselha o leitor
+- Faz uma relação direta e pragmática(o que dever ser feito) para o leitor
+- Verbos de ordem
+- Pode ser em três formas verbais:
+	- Imperativo: efeito proximidade, bons para conselhos e ordens autoritárias, faz uma relação perto do leitor
+	- Infinitivo: efeito de distância, de impessoalidade, ordem genérica para todos
+	- Futuro do presente: ordem autoritária, deve ser feito, pensando já que a pessoa vai fazer aquilo.
