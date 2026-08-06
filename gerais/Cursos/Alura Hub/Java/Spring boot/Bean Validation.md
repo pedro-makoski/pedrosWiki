@@ -97,3 +97,19 @@ public record DadosCadastroMedico(
 
 }
 ```
+
+Outras anotações:
+- @Future: diz que tem que ser uma data no futuro.
+
+# Formato do LocalDateTime
+```
+YYYY-MM-DDTHH:MM:SS
+```
+## Exigindo formato de data específico para o JSON
+Use o anotation JsonFormat:
+```
+@NotNull
+@Future
+@JsonFormat(pattern = "dd/MM/yyyy HH:mm")
+LocalDateTime data
+```
