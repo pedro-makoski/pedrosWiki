@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "239db0a18edd0fa6",
+        "id": "b00b9aac533e6268",
         "type": "tabs",
         "children": [
           {
-            "id": "66f152dd3d0961ff",
+            "id": "11ac2c7ffe66fdbe",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Alura Hub/Java/Spring boot/Bean Validation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Bean Validation"
             }
           }
         ]
@@ -37,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -49,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "AutoConfigureMockMvc",
+                "query": "YYYY-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,8 +204,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "6bbbc5f01df37320",
+  "active": "11ac2c7ffe66fdbe",
   "lastOpenFiles": [
+    "Cursos/Alura Hub/Java/Spring boot/JsonAlias x JsonProperty.md",
+    "Cursos/Alura Hub/Java/Spring boot/Jackson.md",
+    "Cursos/Alura Hub/Java/Spring boot/Bean Validation.md",
+    "Cursos/Alura Hub/Java/Carreira/Curso 10.md",
+    "Cursos/Alura Hub/Java/Carreira/Curso 21.md",
+    "Cursos/Alura Hub/Java/Anotations.md",
     "Cursos/Alura Hub/Java/Spring Security/Lidando com o próprio Login.md",
     "Cursos/Alura Hub/Java/Spring Security/Melhor Hashing de Senha.md",
     "Cursos/Alura Hub/Java/Spring Security/Funcionamento do spring boot.md",
@@ -207,7 +220,6 @@
     "Pasted image 20260406150423.png",
     "Cursos/Alura Hub/Java/Spring boot/Testando controllers simulados.md",
     "Cursos/Alura Hub/Java/Para saber mais -gerando JSON com JacksonTester.md",
-    "Cursos/Alura Hub/Java/Carreira/Curso 21.md",
     "Cursos/Alura Hub/Java/Spring boot/Testes.md",
     "Cursos/Alura Hub/Java/Testes em Java.md",
     "Cursos/Alura Hub/Java/Spring boot/ArgumentCapture Mockito e then-should.md",
@@ -225,11 +237,6 @@
     "Cursos/Alura Hub/Java/Spring boot/Sem título.md",
     "Cursos/Alura Hub/Java/Anotações Spring Boot.md",
     "Cursos/Alura Hub/Java/Spring boot/Exclusão Lógica.md",
-    "Cursos/Alura Hub/Java/Paginação.md",
-    "Cursos/Dev.art/UI-UX.md",
-    "Cursos/Dev.art/Animações GSAP.md",
-    "Cursos/Alura Hub/Java/Migrations Com Flyway.md",
-    "Cursos/Alura Hub/Java/Curso-15.md",
     "Pasted image 20260317202628.png",
     "Pasted image 20260317202620.png",
     "Pasted image 20260317202536.png",
