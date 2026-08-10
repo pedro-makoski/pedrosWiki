@@ -108,3 +108,6 @@ Os tipos textuais são definições abstratas quanto á finalidade do texto e se
 	- Imperativo: efeito proximidade, bons para conselhos e ordens autoritárias, faz uma relação perto do leitor
 	- Infinitivo: efeito de distância, de impessoalidade, ordem genérica para todos
 	- Futuro do presente: ordem autoritária, deve ser feito, pensando já que a pessoa vai fazer aquilo.
+
+**Prolepse:** indica o que vai acontecer no futuro, um flashback do futuro.
+**Anacronia:** transitar entre linhas do tema
