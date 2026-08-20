@@ -23,7 +23,7 @@
 Avançando uma cada multiplica-se por 10. Retroscedendo dividindo por 10.
 # De Área
 - Kilometro ao quadrado
- - Hectometro ao quadrado
+- Hectometro ao quadrado
 - Decametro(DAM) ao quadrado
 - Metro ao quadrado
 - Decimetro(dm) ao quadrado
@@ -43,7 +43,7 @@ Avançando uma cada multiplica-se por 1000. Retroscedendo divide-se por 1000.
 
 1 cm^3 = 1 ml
 1 m^3 = 1000 L
-1 dm^3 - 1L
+1 dm^3 = 1L
 # De Massa
 - Kilograma
 - Hectograma

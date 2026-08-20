@@ -1,0 +1,1 @@
+Quantidade de liquido que sai ou entra por tempo. A vazão liquida é a vazão de entrada menos a vazão da saída.
