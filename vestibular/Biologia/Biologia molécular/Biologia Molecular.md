@@ -47,6 +47,14 @@ Os aminoácidos são um monômero formado por um grupo amina básico e um grupo 
 - Torna possível a construção de proteínas
 # Processo de expressão gênica
 - Existe o Gene no DNA, o qual é uma parte codificante deste
-- O DNA é transcrito em um RNA mensageiro, em um processo chamado de transcrição
+- **Transcrição:** O DNA é transcrito em um RNA mensageiro, em um processo chamado de transcrição
 - O RNA mensageiro passa pelos poros do núcleo em direção a um ribossomo, feito de RNA ribossômico e algumas proteínas
-- O ribossomo com a ajuda do RNA transportador traduz o RNA mensageiro em uma proteína, o RNA transportador ajuda pegando os aminoácidos necessário para a construção das ligações peptídicas
+- **Tradução:** O ribossomo com a ajuda do RNA transportador traduz o RNA mensageiro em uma proteína, o RNA transportador ajuda pegando os aminoácidos necessário para a construção das ligações peptídicas
+# Dogma da Biologia Molecular
+- O DNA é transcrito em RNAm que é filtrado em RNAm com as partes úteis no processo de transcrição e logo em seguida é sintetizado a proteína no Ribossomo
+- O responsável pela transcrição é o RNA polimerase que depois da parte do gene codificante aberto, o RNA polimerase fabrica o RNA mensageiro 
+- Para produzir as proteínas, cada aminoácido pode ser representado por 3 nucleotídeos que são chamados de códons. Os códons são códigos degenederados, isto é, um aminoácido pode ser representado por diferentes códons e universal, ou seja em todos os organismos aquele códon é sempre o mesmo aminoácido.
+- O códon que inicia é o AUG que é a metionina, enquanto existem outros três que indicam a parada
+# Modo de leitura de um DNA para RNA
+- O DNA ele tem dupla fita com uma fita chama de fita codificante que segue o fluxo 5' e 3' e também a fita molde que segue o fluxo 3' para 5'. O RNA vai sempre ler a fita molde e gera um RNA 5'3'.
+	- Esse último código gerado é feito considerando que sempre no final é adicionado ao 3' um novo nucleotídeo
