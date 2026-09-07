@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "878a8bd2d095b24b",
+        "id": "dbf42421e3fd7d83",
         "type": "tabs",
         "children": [
           {
-            "id": "a44dbf5e97cb647e",
+            "id": "e03c3edc7765c710",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Biologia/Biologia molécular/Biologia Molecular.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Biologia Molecular"
+              "title": "Nova aba"
             }
           }
         ]
@@ -55,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reverbera",
+                "query": "eucromatina",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,8 +180,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a44dbf5e97cb647e",
+  "active": "e08eaf562e17c655",
   "lastOpenFiles": [
+    "Biologia/citologia/Organelas citoplasmáticas.md",
+    "Biologia/citologia/Divisão celular.md",
+    "Biologia/citologia/Organelas.md",
+    "Biologia/citologia/Citologia.md",
+    "Biologia/citologia/Mitose e Meiose.md",
+    "Biologia/citologia/Citoesqueleto.md",
     "Biologia/Biologia molécular/Biologia Molecular.md",
     "Biologia/Biologia molécular",
     "Biologia/Metabolismo Energético/Respiração Celular.md",
@@ -210,16 +212,10 @@
     "Biologia/Metabolismo Energético/Fermentação.md",
     "Biologia/bioquimica/Ácidos nucleícos - DNA e RNA.md",
     "Biologia/Biologia.md",
-    "Biologia/citologia/Citologia.md",
     "Biologia/Introdução a biologia/Introdução a Biologia.md",
     "Biologia/Sem título.md",
     "Biologia/Metabolismo Energético",
-    "Biologia/citologia/Mitose e Meiose.md",
-    "Biologia/citologia/Divisão celular.md",
     "Redação/Eixos temáticos.md",
-    "Redação/Estrutura.md",
-    "Redação/Competências.md",
-    "Geografia/Geografia Economica/Globalização.md",
     "Física/Ondulatória",
     "Biologia/Introdução a biologia/desktop.ini",
     "Pasted image 20260319171657.png",
