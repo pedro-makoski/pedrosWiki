@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "878a8bd2d095b24b",
+        "id": "9b96f4798fa5d811",
         "type": "tabs",
         "children": [
           {
-            "id": "a44dbf5e97cb647e",
+            "id": "ce04670d04285f3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Biologia/Biologia molécular/Biologia Molecular.md",
+                "file": "Química/Atomistica/Atomística.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biologia Molecular"
+              "title": "Atomística"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reverbera",
+                "query": "Bomba",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,10 +184,22 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a44dbf5e97cb647e",
+  "active": "ce04670d04285f3a",
   "lastOpenFiles": [
-    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
+    "Química/Atomistica/Elementos Alótropos.md",
+    "Química/Atomistica/Atomística.md",
+    "Sem título.md",
+    "Biologia/citologia/Membrana plasmática.md",
+    "Física/Ondulatória/Ondulatória.md",
+    "Química/Atomistica",
+    "Química/Propriedades e Classificação/Propriedades específicas da materia.md",
+    "Química/Propriedades e Classificação/Propriedades gerais da materia.md",
+    "Química/Propriedades e Classificação/Propriedades gerais da matéria.md",
+    "Química/Propriedades e Classificação/Leis ponderais.md",
+    "Química/Propriedades e Classificação/Alotropia.md",
+    "Geografia/Geografia Economica/Capitalismo.md",
     "Biologia/Biologia molécular/Biologia Molecular.md",
+    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
     "Biologia/Biologia molécular",
     "Biologia/Metabolismo Energético/Respiração Celular.md",
     "Biologia/Metabolismo Energético/Introdução.md",
@@ -205,23 +217,11 @@
     "Química/Misturas/Separação de Misturas.md",
     "Química/Misturas/Base.md",
     "Química/Misturas",
-    "Física/Ondulatória/Ondulatória.md",
     "Biologia/citologia/Transportes da MP.md",
     "Biologia/Metabolismo Energético/Fotossíntese.md",
     "Biologia/Metabolismo Energético/Fermentação.md",
-    "Biologia/bioquimica/Ácidos nucleícos - DNA e RNA.md",
-    "Biologia/Biologia.md",
-    "Biologia/citologia/Citologia.md",
-    "Biologia/Introdução a biologia/Introdução a Biologia.md",
-    "Biologia/Sem título.md",
     "Biologia/Metabolismo Energético",
-    "Biologia/citologia/Mitose e Meiose.md",
-    "Biologia/citologia/Divisão celular.md",
-    "Redação/Eixos temáticos.md",
-    "Redação/Estrutura.md",
-    "Redação/Competências.md",
     "Física/Ondulatória",
-    "Biologia/Introdução a biologia/desktop.ini",
     "Pasted image 20260319171657.png",
     "Pasted image 20260109154808.png",
     "Química/Propriedades e Classificação/Sem título.canvas",
