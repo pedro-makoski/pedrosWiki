@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "9b96f4798fa5d811",
         "type": "tabs",
         "children": [
@@ -19,6 +20,19 @@
               },
               "icon": "lucide-file",
               "title": "Atomística"
+=======
+        "id": "dbf42421e3fd7d83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e03c3edc7765c710",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
+>>>>>>> refs/remotes/origin/main
             }
           }
         ]
@@ -55,7 +69,11 @@
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "Bomba",
+=======
+                "query": "eucromatina",
+>>>>>>> refs/remotes/origin/main
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -184,6 +202,7 @@
       "bases:Criar nova base": false
     }
   },
+<<<<<<< HEAD
   "active": "ce04670d04285f3a",
   "lastOpenFiles": [
     "Química/Atomistica/Elementos Alótropos.md",
@@ -198,6 +217,20 @@
     "Química/Propriedades e Classificação/Leis ponderais.md",
     "Química/Propriedades e Classificação/Alotropia.md",
     "Geografia/Geografia Economica/Capitalismo.md",
+=======
+  "active": "e08eaf562e17c655",
+  "lastOpenFiles": [
+<<<<<<< HEAD
+    "Biologia/citologia/Organelas citoplasmáticas.md",
+    "Biologia/citologia/Divisão celular.md",
+    "Biologia/citologia/Organelas.md",
+    "Biologia/citologia/Citologia.md",
+    "Biologia/citologia/Mitose e Meiose.md",
+    "Biologia/citologia/Citoesqueleto.md",
+=======
+    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
+>>>>>>> d0bda5f32683a02cea5804ec84a2d08d29032130
+>>>>>>> refs/remotes/origin/main
     "Biologia/Biologia molécular/Biologia Molecular.md",
     "Biologia/Biologia molécular/Ácidos Nucleícos.md",
     "Biologia/Biologia molécular",
@@ -220,7 +253,21 @@
     "Biologia/citologia/Transportes da MP.md",
     "Biologia/Metabolismo Energético/Fotossíntese.md",
     "Biologia/Metabolismo Energético/Fermentação.md",
+<<<<<<< HEAD
     "Biologia/Metabolismo Energético",
+=======
+    "Biologia/bioquimica/Ácidos nucleícos - DNA e RNA.md",
+    "Biologia/Biologia.md",
+    "Biologia/Introdução a biologia/Introdução a Biologia.md",
+    "Biologia/Sem título.md",
+    "Biologia/Metabolismo Energético",
+    "Redação/Eixos temáticos.md",
+<<<<<<< HEAD
+=======
+    "Redação/Estrutura.md",
+    "Redação/Competências.md",
+>>>>>>> d0bda5f32683a02cea5804ec84a2d08d29032130
+>>>>>>> refs/remotes/origin/main
     "Física/Ondulatória",
     "Pasted image 20260319171657.png",
     "Pasted image 20260109154808.png",

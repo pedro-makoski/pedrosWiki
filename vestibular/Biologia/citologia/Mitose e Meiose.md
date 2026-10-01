@@ -88,4 +88,29 @@ A célula não está em divisão.
 			- De dentro para fora -> citocinese centrifuga -> vegetais
 		- Formam-se 4 células
 
-![[Pasted image 20260218151302.png]]
+![[Pasted image 20260218151302.png|700]]
+# Ploidia
+Número de cromossomos de cada tipo. Células normais são 2n no corpo humano tem 46 isso, sendo n = 23, essas com 2n são chamadas de diploide. Enquanto isso células com a ploidia n são chamadas de haploides. 
+
+Existem 2 tipos de acontecimentos com o número relacionado aos cromossomos;
+- **Euploidia:** quando existe uma mudança do número de cromossomos de cada tipo. Pode ser poliploidia quando aumenta e haploidia quando diminui.
+- **Aneuploidia**: quando altera em uma unidade o número de cromossomos de um tipo
+# Relações das moléculas
+- **Cromatina:** fita de DNA enrolada em histonas que são blocos de 8 proteína em que o DNA se enrola 2 vezes formando o nucleossomo.
+- **Cromossomo**: versão duplicada do DNA de um tipo específico. Alto grau de compactação. Formado por 2 cromatides irmãs unidos por um centrossomo.
+- **Cromatidade**: unidade com DNA de um tipo específico
+- **Cromossomos homólogos**: dois cromossomos que representam a mesma característica
+- **Bivalente/Tetrade**: formação de cromossomos homólogos em coluna na fase 1.
+# Lei da segregação de Mendel - Segunda lei
+No processo de meiose para cada cromossomo as células resultantes podem receber pares que variam entre pai e mãe.
+
+Diante disso cada cromossomo tem um conjunto de alelos em cada gene. Os genes alelos são genes que apresentam a mesma característica, mas com valores diferentes ou não. Quando são os mesmos alelos são chamadas de homozigotos, enquanto diferentes são heterozigotos, os heterozigotos sempre tem um dominante, representado em maiúscula, e um recessivo, representado por uma letra minúscula. De acordo com Mendel existe uma certa quantidade de combinações possíveis entre os alelos. 
+
+As combinações entre dois heterozigotos seguem a proporção: 9 só dominante: 3 dominante e recessivo : 3 recessivo e dominante : 1 só recessivos.
+
+Genótipo: conjunto de genes iguais.
+# Aneuploidia 
+- Quando o ser vivo tem em seu processo de divisão celular da meiose ou mitose um cromossomo a mais ou a menos em uma das células
+- Se for na meiose ou a célula tem 47(2n + 1) - trissomia ou 45(2n - 1) - monossomia. Pode ser tanto no conjunto autossômico quanto sexual. 
+- Existem diferentes síndromes, o qual podem ser fatais ou não
+- Existe também o mosaicismo que pode ocorrer no início da vida de um indivíduo com poucas células, em que uma célula falha na mitose e isso acarreta na má formação de algumas células seguidas na linhagem dela.
