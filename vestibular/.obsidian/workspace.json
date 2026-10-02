@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "96dc2558721d7200",
+    "id": "121a90699f77b74f",
     "type": "split",
     "children": [
       {
-        "id": "dbf42421e3fd7d83",
+        "id": "3e121a2075e9cb90",
         "type": "tabs",
         "children": [
           {
-            "id": "e03c3edc7765c710",
+            "id": "ea2705b5bfe97526",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Português/Tipos Textuais/Tipos Textuais.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Tipos Textuais"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "03237a95d1603850",
+    "id": "81645e9a182ea1da",
     "type": "split",
     "children": [
       {
-        "id": "8bdfd238c172c5ad",
+        "id": "6c3a30d78b777ce7",
         "type": "tabs",
         "children": [
           {
-            "id": "e08eaf562e17c655",
+            "id": "073897380466604d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,12 +50,12 @@
             }
           },
           {
-            "id": "093fb0139b3c2838",
+            "id": "34cdc9243a005166",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "eucromatina",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,36 +67,39 @@
             }
           },
           {
-            "id": "db32cf7409440368",
+            "id": "a1fd9af7270c35c2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300
   },
   "right": {
-    "id": "5deab9ed6cbdb069",
+    "id": "96b620c1dbc97e44",
     "type": "split",
     "children": [
       {
-        "id": "429d2648b9ffbc17",
+        "id": "851c348a0078df7f",
         "type": "tabs",
         "children": [
           {
-            "id": "8d02ebc0d5da734c",
+            "id": "d97dfe307e622966",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geografia/Geografia Economica/Globalização.md",
+                "file": "Biologia/Biologia molécular/Ácidos Nucleícos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,24 +109,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Globalização"
+              "title": "Links inversos"
             }
           },
           {
-            "id": "a19ab03dd7098c12",
+            "id": "b83322783cf6e40f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Biologia/Biologia molécular/Ácidos Nucleícos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "59ddd347745d9fd0",
+            "id": "34db1883f50e7e20",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,11 +138,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "3da68ef66cd0e1da",
+            "id": "3dbfbb03dbc41c9b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -144,22 +152,22 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           },
           {
-            "id": "277cf99fcda6250a",
+            "id": "fef234e885dd3f07",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
+                "file": "Biologia/Biologia molécular/Ácidos Nucleícos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Sumário"
             }
           }
         ]
@@ -180,64 +188,28 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "e08eaf562e17c655",
+  "active": "ea2705b5bfe97526",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Biologia/citologia/Organelas citoplasmáticas.md",
-    "Biologia/citologia/Divisão celular.md",
-    "Biologia/citologia/Organelas.md",
-    "Biologia/citologia/Citologia.md",
-    "Biologia/citologia/Mitose e Meiose.md",
-    "Biologia/citologia/Citoesqueleto.md",
-=======
-    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
->>>>>>> d0bda5f32683a02cea5804ec84a2d08d29032130
-    "Biologia/Biologia molécular/Biologia Molecular.md",
-    "Biologia/Biologia molécular",
-    "Biologia/Metabolismo Energético/Respiração Celular.md",
-    "Biologia/Metabolismo Energético/Introdução.md",
-    "Matemática/Porcentagem/Porcentagem.md",
-    "Geografia/Demografia/Demografia.md",
-    "Geografia/Geografia Economica/Urbanização.md",
-    "Geografia/Demografia/desktop.ini",
-    "Geografia/Demografia",
-    "Biologia/citologia/Leis da Citologia.md",
-    "Português/Tipos Textuais/Tipos Textuais.md",
-    "Redação/Momentos pré-textuais.md",
-    "Português/Tipos Textuais/Sem título/desktop.ini",
-    "Português/Tipos Textuais/Sem título",
-    "Português/Tipos Textuais",
-    "Química/Misturas/Separação de Misturas.md",
-    "Química/Misturas/Base.md",
-    "Química/Misturas",
+    "Redação/Dicas.md",
+    "Redação/Argumentação.md",
+    "Aminoácidos.md",
     "Física/Ondulatória/Ondulatória.md",
-    "Biologia/citologia/Transportes da MP.md",
-    "Biologia/Metabolismo Energético/Fotossíntese.md",
-    "Biologia/Metabolismo Energético/Fermentação.md",
-    "Biologia/bioquimica/Ácidos nucleícos - DNA e RNA.md",
-    "Biologia/Biologia.md",
-    "Biologia/Introdução a biologia/Introdução a Biologia.md",
-    "Biologia/Sem título.md",
-    "Biologia/Metabolismo Energético",
-    "Redação/Eixos temáticos.md",
-<<<<<<< HEAD
-=======
-    "Redação/Estrutura.md",
+    "Redação/Proposta de intervenção.md",
+    "Redação/Coesão.md",
+    "Redação/Estrutura da redação.md",
+    "Redação/Introdução.md",
+    "Redação/Momentos pré-textuais.md",
     "Redação/Competências.md",
->>>>>>> d0bda5f32683a02cea5804ec84a2d08d29032130
-    "Física/Ondulatória",
-    "Biologia/Introdução a biologia/desktop.ini",
-    "Pasted image 20260319171657.png",
-    "Pasted image 20260109154808.png",
-    "Química/Propriedades e Classificação/Sem título.canvas",
-    "Química/Propriedades e Classificação/Estados físicos.canvas",
-    "Português/Morfologia/Pasted image 20260108104926.png",
-    "Pasted image 20260226145346.png",
-    "Pasted image 20260226144306.png",
-    "Pasted image 20260226141811.png",
-    "Pasted image 20260225152756.png",
-    "Pasted image 20260218151302.png",
-    "Pasted image 20260204134500.png",
-    "Pasted image 20260204134354.png"
+    "Redação/Como lidar com redações no ENEM.md",
+    "Redação/O que fazer na redação - GERAL.md",
+    "Redação/Competências V2.0.md",
+    "Matemática/Matemática financeira/Matemática Financeira.md",
+    "Matemática/Matemática financeira/desktop.ini",
+    "Matemática/Matemática financeira",
+    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
+    "Biologia/Biologia molécular/Biologia Molecular.md",
+    "Biologia/Biologia molécular/Mutação Gênica.md",
+    "Biologia/Biologia molécular/Duplicação do DNA.md",
+    "Biologia/Biologia molécular/DNA Recombinante.md"
   ]
 }

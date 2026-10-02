@@ -1,0 +1,30 @@
+- Não é para solucionar o problema de uma vez, mas uma forma de intervir no problema para melhorar a situação
+- Evite recitar frases contra os direitos humanos
+- Deve resolver os dois problemas citados, pode ser duas propostas
+- Deve conter os 5 elementos:
+	- Agente:
+		- Quem realiza a ação
+		- Evite agentes nulos, como você ou alguém
+		- Pode usar um dos GOMIFES:
+			- Governo
+			- ONGS
+			- Mídia
+			- Indivíduos e instituições
+			- Família
+			- Escola
+			- Sociedade
+	- Ação
+		- O que deve ser feito
+		- Ação concreta, evite coisas muito abstratas
+	- Modo/Meio
+		- Como será feito
+		- Use conectivos como por intermédio de, por meio de
+	- Finalidade
+		- Qual é o objetivo esperado
+	- Detalhamento:
+		- Algum item adicional a proposta que pode ser para o(a)
+			- Agente - mais recomendado
+			- Ação: cuidado com referências de lugar, restrição e público alvo
+			- Modo/Meio
+			- Efeito: é basicamente um efeito do efeito, porém é importante colocar um conectivo para indicar esse efeito do efeito
+

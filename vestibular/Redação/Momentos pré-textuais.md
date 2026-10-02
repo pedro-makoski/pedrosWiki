@@ -9,7 +9,7 @@
 			4. Perspectivas: preferencialmente argumentos de causa.
 2. Absorção da Coletânea de textos motivadores
 	1. Ler profundamente os textos motivadores buscando procurar pontos de vista sobre o tema e contextualizar o problema
-3. Brainstorming
+3. Brainstorming - fazer junto com o passo 2
 	1. Não selecione, apenas escreva
 	2. Não julgue muito sobre os pensamentos, para não atrapalhar a criatividade
 	3. Trazer todas as ideias sobre o tema, em diferentes aspectos
@@ -18,3 +18,5 @@
 		3. Qual a consequência?
 		4. Quem é o responsável?
 		5. O que eu sei de fora que tem a ver com isso(interdisciplinar)?
+4. Criar o projeto de texto com toda a estrutura que seu texto deve conter.
+
