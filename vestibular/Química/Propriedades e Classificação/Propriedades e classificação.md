@@ -3,7 +3,7 @@
 - [[Classificação quanto ao número de fases]]
 - [[Densidade]]
 - [[Estados físicos.canvas]]
-- [[Leis ponderais]]
+- [[Química/Propriedades e Classificação/Leis ponderais]]
 - [[Propriedades e classificação]]
 - [[Propriedades específicas da materia]]
 - [[Propriedades gerais da materia]]

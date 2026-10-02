@@ -1,50 +1,24 @@
 {
   "main": {
-    "id": "121a90699f77b74f",
+    "id": "626f256f3010a008",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "3e121a2075e9cb90",
-=======
-<<<<<<< HEAD
-        "id": "9b96f4798fa5d811",
+        "id": "386769887f9b1f24",
         "type": "tabs",
         "children": [
           {
-            "id": "ce04670d04285f3a",
+            "id": "2974d4db965ee645",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Atomistica/Atomística.md",
+                "file": "Química/Atomistica/Leis Ponderais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Atomística"
-=======
-        "id": "dbf42421e3fd7d83",
->>>>>>> cd60c490d7ab617ca47be88ef1510462c8ad35b6
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ea2705b5bfe97526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Português/Tipos Textuais/Tipos Textuais.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Tipos Textuais"
-=======
-              "title": "Nova aba"
->>>>>>> refs/remotes/origin/main
->>>>>>> cd60c490d7ab617ca47be88ef1510462c8ad35b6
+              "title": "Leis Ponderais"
             }
           }
         ]
@@ -53,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "81645e9a182ea1da",
+    "id": "80ea24f59bdf2b83",
     "type": "split",
     "children": [
       {
-        "id": "6c3a30d78b777ce7",
+        "id": "7be9603bcf4b402a",
         "type": "tabs",
         "children": [
           {
-            "id": "073897380466604d",
+            "id": "2bd5492bd8715b62",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,20 +50,12 @@
             }
           },
           {
-            "id": "34cdc9243a005166",
+            "id": "7b26fb73033b8567",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
                 "query": "",
-=======
-<<<<<<< HEAD
-                "query": "Bomba",
-=======
-                "query": "eucromatina",
->>>>>>> refs/remotes/origin/main
->>>>>>> cd60c490d7ab617ca47be88ef1510462c8ad35b6
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +67,7 @@
             }
           },
           {
-            "id": "a1fd9af7270c35c2",
+            "id": "7cf2f4376bdd4d29",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -120,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "96b620c1dbc97e44",
+    "id": "10048526b562bf15",
     "type": "split",
     "children": [
       {
-        "id": "851c348a0078df7f",
+        "id": "347c492c5c60c734",
         "type": "tabs",
         "children": [
           {
-            "id": "d97dfe307e622966",
+            "id": "bff70cf62f918f79",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia/Biologia molécular/Ácidos Nucleícos.md",
+                "file": "Física/Ondulatória/Ondulatória.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,12 +113,12 @@
             }
           },
           {
-            "id": "b83322783cf6e40f",
+            "id": "5f03e24e2b5db943",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Biologia/Biologia molécular/Ácidos Nucleícos.md",
+                "file": "Física/Ondulatória/Ondulatória.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +127,7 @@
             }
           },
           {
-            "id": "34db1883f50e7e20",
+            "id": "6321200ce386ec46",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -176,7 +142,7 @@
             }
           },
           {
-            "id": "3dbfbb03dbc41c9b",
+            "id": "5aa46044743772cb",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -190,12 +156,12 @@
             }
           },
           {
-            "id": "fef234e885dd3f07",
+            "id": "13605c0716aa18b5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Biologia/Biologia molécular/Ácidos Nucleícos.md",
+                "file": "Física/Ondulatória/Ondulatória.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,110 +188,10 @@
       "bases:Criar nova base": false
     }
   },
-<<<<<<< HEAD
-  "active": "ea2705b5bfe97526",
+  "active": "2974d4db965ee645",
   "lastOpenFiles": [
-    "Redação/Dicas.md",
-    "Redação/Argumentação.md",
-    "Aminoácidos.md",
     "Física/Ondulatória/Ondulatória.md",
-    "Redação/Proposta de intervenção.md",
-    "Redação/Coesão.md",
-    "Redação/Estrutura da redação.md",
-    "Redação/Introdução.md",
-    "Redação/Momentos pré-textuais.md",
-    "Redação/Competências.md",
-    "Redação/Como lidar com redações no ENEM.md",
-    "Redação/O que fazer na redação - GERAL.md",
-    "Redação/Competências V2.0.md",
-    "Matemática/Matemática financeira/Matemática Financeira.md",
-    "Matemática/Matemática financeira/desktop.ini",
-    "Matemática/Matemática financeira",
-    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
-    "Biologia/Biologia molécular/Biologia Molecular.md",
-    "Biologia/Biologia molécular/Mutação Gênica.md",
-    "Biologia/Biologia molécular/Duplicação do DNA.md",
-    "Biologia/Biologia molécular/DNA Recombinante.md"
-=======
-<<<<<<< HEAD
-  "active": "ce04670d04285f3a",
-  "lastOpenFiles": [
-    "Química/Atomistica/Elementos Alótropos.md",
-    "Química/Atomistica/Atomística.md",
-    "Sem título.md",
-    "Biologia/citologia/Membrana plasmática.md",
-    "Física/Ondulatória/Ondulatória.md",
-    "Química/Atomistica",
-    "Química/Propriedades e Classificação/Propriedades específicas da materia.md",
-    "Química/Propriedades e Classificação/Propriedades gerais da materia.md",
-    "Química/Propriedades e Classificação/Propriedades gerais da matéria.md",
-    "Química/Propriedades e Classificação/Leis ponderais.md",
-    "Química/Propriedades e Classificação/Alotropia.md",
-    "Geografia/Geografia Economica/Capitalismo.md",
-=======
-  "active": "e08eaf562e17c655",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Biologia/citologia/Organelas citoplasmáticas.md",
-    "Biologia/citologia/Divisão celular.md",
-    "Biologia/citologia/Organelas.md",
-    "Biologia/citologia/Citologia.md",
-    "Biologia/citologia/Mitose e Meiose.md",
-    "Biologia/citologia/Citoesqueleto.md",
-=======
-    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
->>>>>>> d0bda5f32683a02cea5804ec84a2d08d29032130
->>>>>>> refs/remotes/origin/main
-    "Biologia/Biologia molécular/Biologia Molecular.md",
-    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
-    "Biologia/Biologia molécular",
-    "Biologia/Metabolismo Energético/Respiração Celular.md",
-    "Biologia/Metabolismo Energético/Introdução.md",
-    "Matemática/Porcentagem/Porcentagem.md",
-    "Geografia/Demografia/Demografia.md",
-    "Geografia/Geografia Economica/Urbanização.md",
-    "Geografia/Demografia/desktop.ini",
-    "Geografia/Demografia",
-    "Biologia/citologia/Leis da Citologia.md",
-    "Português/Tipos Textuais/Tipos Textuais.md",
-    "Redação/Momentos pré-textuais.md",
-    "Português/Tipos Textuais/Sem título/desktop.ini",
-    "Português/Tipos Textuais/Sem título",
-    "Português/Tipos Textuais",
-    "Química/Misturas/Separação de Misturas.md",
-    "Química/Misturas/Base.md",
-    "Química/Misturas",
-    "Biologia/citologia/Transportes da MP.md",
-    "Biologia/Metabolismo Energético/Fotossíntese.md",
-    "Biologia/Metabolismo Energético/Fermentação.md",
-<<<<<<< HEAD
-    "Biologia/Metabolismo Energético",
-=======
-    "Biologia/bioquimica/Ácidos nucleícos - DNA e RNA.md",
-    "Biologia/Biologia.md",
-    "Biologia/Introdução a biologia/Introdução a Biologia.md",
-    "Biologia/Sem título.md",
-    "Biologia/Metabolismo Energético",
-    "Redação/Eixos temáticos.md",
-<<<<<<< HEAD
-=======
-    "Redação/Estrutura.md",
-    "Redação/Competências.md",
->>>>>>> d0bda5f32683a02cea5804ec84a2d08d29032130
->>>>>>> refs/remotes/origin/main
-    "Física/Ondulatória",
-    "Pasted image 20260319171657.png",
-    "Pasted image 20260109154808.png",
-    "Química/Propriedades e Classificação/Sem título.canvas",
-    "Química/Propriedades e Classificação/Estados físicos.canvas",
-    "Português/Morfologia/Pasted image 20260108104926.png",
-    "Pasted image 20260226145346.png",
-    "Pasted image 20260226144306.png",
-    "Pasted image 20260226141811.png",
-    "Pasted image 20260225152756.png",
-    "Pasted image 20260218151302.png",
-    "Pasted image 20260204134500.png",
-    "Pasted image 20260204134354.png"
->>>>>>> cd60c490d7ab617ca47be88ef1510462c8ad35b6
+    "Química/Atomistica/Leis Ponderais.md",
+    "Física/Física.md"
   ]
 }
