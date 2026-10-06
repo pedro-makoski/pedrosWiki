@@ -1,38 +1,20 @@
 {
   "main": {
-    "id": "96dc2558721d7200",
+    "id": "e27980ec5f16ce69",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "9b96f4798fa5d811",
+        "id": "5766218e631dd8c5",
         "type": "tabs",
         "children": [
           {
-            "id": "ce04670d04285f3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Química/Atomistica/Atomística.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Atomística"
-=======
-        "id": "dbf42421e3fd7d83",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e03c3edc7765c710",
+            "id": "7987a3545aebd2cb",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
               "title": "Nova aba"
->>>>>>> refs/remotes/origin/main
             }
           }
         ]
@@ -41,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "03237a95d1603850",
+    "id": "352959b87f7e4e6d",
     "type": "split",
     "children": [
       {
-        "id": "8bdfd238c172c5ad",
+        "id": "75aa306d6dce91c4",
         "type": "tabs",
         "children": [
           {
-            "id": "e08eaf562e17c655",
+            "id": "f9a13fe435c3fdc1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,16 +46,12 @@
             }
           },
           {
-            "id": "093fb0139b3c2838",
+            "id": "b97e7e126233dd5f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "Bomba",
-=======
-                "query": "eucromatina",
->>>>>>> refs/remotes/origin/main
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,36 +63,38 @@
             }
           },
           {
-            "id": "db32cf7409440368",
+            "id": "9f4a768feec5ccba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "Marcadores"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 300
   },
   "right": {
-    "id": "5deab9ed6cbdb069",
+    "id": "b2c2a430d2c0641a",
     "type": "split",
     "children": [
       {
-        "id": "429d2648b9ffbc17",
+        "id": "3068492683254b1b",
         "type": "tabs",
         "children": [
           {
-            "id": "8d02ebc0d5da734c",
+            "id": "97d3f712fbda48bd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geografia/Geografia Economica/Globalização.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,11 +104,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Globalização"
+              "title": "Links inversos"
             }
           },
           {
-            "id": "a19ab03dd7098c12",
+            "id": "1c6d8c589487a542",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -137,11 +117,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Links de saída"
             }
           },
           {
-            "id": "59ddd347745d9fd0",
+            "id": "e3a9be815044fb82",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,11 +132,11 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "3da68ef66cd0e1da",
+            "id": "38b661d7a7e4ea32",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,22 +146,21 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Todas as propriedades"
             }
           },
           {
-            "id": "277cf99fcda6250a",
+            "id": "13b354aa1d52706e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Sumário"
             }
           }
         ]
@@ -202,84 +181,6 @@
       "bases:Criar nova base": false
     }
   },
-<<<<<<< HEAD
-  "active": "ce04670d04285f3a",
-  "lastOpenFiles": [
-    "Química/Atomistica/Elementos Alótropos.md",
-    "Química/Atomistica/Atomística.md",
-    "Sem título.md",
-    "Biologia/citologia/Membrana plasmática.md",
-    "Física/Ondulatória/Ondulatória.md",
-    "Química/Atomistica",
-    "Química/Propriedades e Classificação/Propriedades específicas da materia.md",
-    "Química/Propriedades e Classificação/Propriedades gerais da materia.md",
-    "Química/Propriedades e Classificação/Propriedades gerais da matéria.md",
-    "Química/Propriedades e Classificação/Leis ponderais.md",
-    "Química/Propriedades e Classificação/Alotropia.md",
-    "Geografia/Geografia Economica/Capitalismo.md",
-=======
-  "active": "e08eaf562e17c655",
-  "lastOpenFiles": [
-<<<<<<< HEAD
-    "Biologia/citologia/Organelas citoplasmáticas.md",
-    "Biologia/citologia/Divisão celular.md",
-    "Biologia/citologia/Organelas.md",
-    "Biologia/citologia/Citologia.md",
-    "Biologia/citologia/Mitose e Meiose.md",
-    "Biologia/citologia/Citoesqueleto.md",
-=======
-    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
->>>>>>> d0bda5f32683a02cea5804ec84a2d08d29032130
->>>>>>> refs/remotes/origin/main
-    "Biologia/Biologia molécular/Biologia Molecular.md",
-    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
-    "Biologia/Biologia molécular",
-    "Biologia/Metabolismo Energético/Respiração Celular.md",
-    "Biologia/Metabolismo Energético/Introdução.md",
-    "Matemática/Porcentagem/Porcentagem.md",
-    "Geografia/Demografia/Demografia.md",
-    "Geografia/Geografia Economica/Urbanização.md",
-    "Geografia/Demografia/desktop.ini",
-    "Geografia/Demografia",
-    "Biologia/citologia/Leis da Citologia.md",
-    "Português/Tipos Textuais/Tipos Textuais.md",
-    "Redação/Momentos pré-textuais.md",
-    "Português/Tipos Textuais/Sem título/desktop.ini",
-    "Português/Tipos Textuais/Sem título",
-    "Português/Tipos Textuais",
-    "Química/Misturas/Separação de Misturas.md",
-    "Química/Misturas/Base.md",
-    "Química/Misturas",
-    "Biologia/citologia/Transportes da MP.md",
-    "Biologia/Metabolismo Energético/Fotossíntese.md",
-    "Biologia/Metabolismo Energético/Fermentação.md",
-<<<<<<< HEAD
-    "Biologia/Metabolismo Energético",
-=======
-    "Biologia/bioquimica/Ácidos nucleícos - DNA e RNA.md",
-    "Biologia/Biologia.md",
-    "Biologia/Introdução a biologia/Introdução a Biologia.md",
-    "Biologia/Sem título.md",
-    "Biologia/Metabolismo Energético",
-    "Redação/Eixos temáticos.md",
-<<<<<<< HEAD
-=======
-    "Redação/Estrutura.md",
-    "Redação/Competências.md",
->>>>>>> d0bda5f32683a02cea5804ec84a2d08d29032130
->>>>>>> refs/remotes/origin/main
-    "Física/Ondulatória",
-    "Pasted image 20260319171657.png",
-    "Pasted image 20260109154808.png",
-    "Química/Propriedades e Classificação/Sem título.canvas",
-    "Química/Propriedades e Classificação/Estados físicos.canvas",
-    "Português/Morfologia/Pasted image 20260108104926.png",
-    "Pasted image 20260226145346.png",
-    "Pasted image 20260226144306.png",
-    "Pasted image 20260226141811.png",
-    "Pasted image 20260225152756.png",
-    "Pasted image 20260218151302.png",
-    "Pasted image 20260204134500.png",
-    "Pasted image 20260204134354.png"
-  ]
+  "active": "7987a3545aebd2cb",
+  "lastOpenFiles": []
 }
