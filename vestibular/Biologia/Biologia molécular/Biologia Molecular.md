@@ -75,3 +75,7 @@ Após ser gerado o RNAm, pela RNA polimerase, na verdade chamado de pré RNAm, �
 - Existe diversos RNAt já com o aminoácido na célula, ele apenas vai para encaixar
 - O stop códon não chama nenhum aminoácido, apenas algumas moléculas chamadas fatores de liberação que fecham a conexão do RNAt com a ligação polpipeptídica.
 - A proteína liberada realiza modificações pos-traducionais para o envio para fora e para ir para a fase secundária, terciária e quaternária.
+# Relações Nominais
+- Nucleotídeo: pentose + grupo fosfato + base nitrogenada
+- Nucleosídeo: pentose + base nitrogenada
+- Genoma -> genes e outras partes não codificantes

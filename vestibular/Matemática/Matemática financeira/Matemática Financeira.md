@@ -1,0 +1,5 @@
+- Fator multiplicativo:
+	- Fator de aumento:
+		- 100% + Porcentagem de aumento
+	- Fator de desconto
+		- 100% - Porcentagem de desconto

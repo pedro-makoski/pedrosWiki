@@ -1,0 +1,21 @@
+- Introdução:
+	- Contextualização
+	- Apresentação do tema
+	- Tese com 2 argumentos
+		- Expresse uma opinião
+		- Modalize ela
+		- Coloque dois argumentos que podem ser cada:
+			- De causa
+			- De consequência
+			- De problema
+			- De importância
+- Desenvolvimento:
+	- Tópico frasal -> articula tema ao argumento, sintetizando de forma específica e clara o núcleo do que vai ser apresentado no parágrafo
+	- Ampliação: tem a problematização e a fundamentação, sem importar a ordem
+		- Problematização: problematiza o item, traz causas, consequências, impedimento etc
+		- Fundamentação: fundamenta o argumento com algum repertório
+	- Fechamento do parágrafo: conclui as ideias
+		- Pode ser por:
+			- Spoiler da proposta de intervenção
+			- Ou conexão do argumento ao tema
+
