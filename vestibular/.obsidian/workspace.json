@@ -1,42 +1,24 @@
 {
   "main": {
-<<<<<<< HEAD
     "id": "e27980ec5f16ce69",
     "type": "split",
     "children": [
       {
-        "id": "5766218e631dd8c5",
+        "id": "509d92888fff5f48",
         "type": "tabs",
         "children": [
           {
-            "id": "7987a3545aebd2cb",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
-=======
-    "id": "626f256f3010a008",
-    "type": "split",
-    "children": [
-      {
-        "id": "386769887f9b1f24",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2974d4db965ee645",
+            "id": "3c090362b154d3a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Atomistica/Leis Ponderais.md",
+                "file": "Português/Gêneros textuais 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leis Ponderais"
->>>>>>> refs/remotes/origin/main
+              "title": "Gêneros textuais 2"
             }
           }
         ]
@@ -45,7 +27,6 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
     "id": "352959b87f7e4e6d",
     "type": "split",
     "children": [
@@ -55,17 +36,6 @@
         "children": [
           {
             "id": "f9a13fe435c3fdc1",
-=======
-    "id": "80ea24f59bdf2b83",
-    "type": "split",
-    "children": [
-      {
-        "id": "7be9603bcf4b402a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2bd5492bd8715b62",
->>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -80,16 +50,12 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "b97e7e126233dd5f",
-=======
-            "id": "7b26fb73033b8567",
->>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "5 PERGUNTAS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,11 +67,7 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "9f4a768feec5ccba",
-=======
-            "id": "7cf2f4376bdd4d29",
->>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -124,7 +86,6 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
     "id": "b2c2a430d2c0641a",
     "type": "split",
     "children": [
@@ -134,25 +95,11 @@
         "children": [
           {
             "id": "97d3f712fbda48bd",
-=======
-    "id": "10048526b562bf15",
-    "type": "split",
-    "children": [
-      {
-        "id": "347c492c5c60c734",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bff70cf62f918f79",
->>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Física/Ondulatória/Ondulatória.md",
->>>>>>> refs/remotes/origin/main
+                "file": "Português/Gêneros textuais 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,16 +113,12 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "1c6d8c589487a542",
-=======
-            "id": "5f03e24e2b5db943",
->>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Física/Ondulatória/Ondulatória.md",
+                "file": "Português/Gêneros textuais 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -184,11 +127,7 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "e3a9be815044fb82",
-=======
-            "id": "6321200ce386ec46",
->>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -203,11 +142,7 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "38b661d7a7e4ea32",
-=======
-            "id": "5aa46044743772cb",
->>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -221,19 +156,12 @@
             }
           },
           {
-<<<<<<< HEAD
             "id": "13b354aa1d52706e",
-=======
-            "id": "13605c0716aa18b5",
->>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "Física/Ondulatória/Ondulatória.md",
->>>>>>> refs/remotes/origin/main
+                "file": "Português/Gêneros textuais 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -260,15 +188,12 @@
       "bases:Criar nova base": false
     }
   },
-<<<<<<< HEAD
-  "active": "7987a3545aebd2cb",
-  "lastOpenFiles": []
-=======
-  "active": "2974d4db965ee645",
+  "active": "3c090362b154d3a9",
   "lastOpenFiles": [
-    "Física/Ondulatória/Ondulatória.md",
-    "Química/Atomistica/Leis Ponderais.md",
-    "Física/Física.md"
+    "Sem título.base",
+    "Português/Morfologia/Pronomes.md",
+    "Redação/Eixos temáticos.md",
+    "Português/Gêneros textuais 2.md",
+    "Português/Tipos Textuais/Tipos Textuais.md"
   ]
->>>>>>> refs/remotes/origin/main
 }
