@@ -1,0 +1,2 @@
+- Os gêneros, diferentemente dos tipos, são concretos 
+- **Suporte/Tecnologia:** ferramenta usada para escrever o gênero

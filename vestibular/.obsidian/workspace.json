@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "386769887f9b1f24",
+        "id": "9e95d03a21edf66e",
         "type": "tabs",
         "children": [
           {
-            "id": "2974d4db965ee645",
+            "id": "f72ba30e1264b570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Química/Atomistica/Leis Ponderais.md",
+                "file": "Português/Gêneros Textuais/Gêneros textuais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leis Ponderais"
+              "title": "Gêneros textuais"
             }
           }
         ]
@@ -188,10 +188,15 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "2974d4db965ee645",
+  "active": "f72ba30e1264b570",
   "lastOpenFiles": [
-    "Física/Ondulatória/Ondulatória.md",
+    "Português/Gêneros Textuais/desktop.ini",
+    "Português/Gêneros Textuais/Gêneros textuais.md",
+    "Português/Gêneros Textuais",
+    "Química/Atomistica/Atomística.md",
+    "Química/Atomistica/Elementos Alótropos.md",
     "Química/Atomistica/Leis Ponderais.md",
+    "Física/Ondulatória/Ondulatória.md",
     "Física/Física.md"
   ]
 }
