@@ -1,0 +1,2 @@
+O Cargo serve tanto para criar novos pacotes, quanto para gerenciar bibliotecas externas.
+O  `cargo new <nome do projeto>` cria um projeto. O cargo init cria a partir do atual. E o cargo run roda o projeto atual.

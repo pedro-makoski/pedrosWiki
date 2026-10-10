@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b00b9aac533e6268",
+        "id": "ace15ab0c905d11b",
         "type": "tabs",
         "children": [
           {
-            "id": "11ac2c7ffe66fdbe",
+            "id": "8851e7050e815c62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Java/Spring boot/Bean Validation.md",
+                "file": "Cursos/Rust/Gerenciamento de pacotes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bean Validation"
+              "title": "Gerenciamento de pacotes"
             }
           }
         ]
@@ -204,11 +204,23 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "11ac2c7ffe66fdbe",
+  "active": "8851e7050e815c62",
   "lastOpenFiles": [
+    "Cursos/Rust/Gerenciamento de pacotes.md",
+    "Cursos/Rust/Gerenciamento de erros.md",
+    "Cursos/Rust/Condição IF.md",
+    "Cursos/Rust/Compilando e imprimindo.md",
+    "Cursos/Rust/Escopos em Rust.md",
+    "Cursos/Rust/Const e Static.md",
+    "Cursos/CURL.md",
+    "Cursos/Rust/Repetição.md",
+    "Cursos/Rust/Gerenciamento de memória.md",
+    "Cursos/Rust/Funções.md",
+    "Cursos/Rust/Tipos no Rust.md",
+    "Cursos/Rust",
+    "Cursos/Alura Hub/Java/Spring boot/Bean Validation.md",
     "Cursos/Alura Hub/Java/Spring boot/JsonAlias x JsonProperty.md",
     "Cursos/Alura Hub/Java/Spring boot/Jackson.md",
-    "Cursos/Alura Hub/Java/Spring boot/Bean Validation.md",
     "Cursos/Alura Hub/Java/Carreira/Curso 10.md",
     "Cursos/Alura Hub/Java/Carreira/Curso 21.md",
     "Cursos/Alura Hub/Java/Anotations.md",
@@ -222,21 +234,10 @@
     "Cursos/Alura Hub/Java/Para saber mais -gerando JSON com JacksonTester.md",
     "Cursos/Alura Hub/Java/Spring boot/Testes.md",
     "Cursos/Alura Hub/Java/Testes em Java.md",
-    "Cursos/Alura Hub/Java/Spring boot/ArgumentCapture Mockito e then-should.md",
-    "Cursos/Alura Hub/Java/Alternativas ao mockito.md",
-    "Cursos/Alura Hub/Java/Spring Security/Inicial.md",
-    "Cursos/Alura Hub/Java/Sem título.md",
-    "Cursos/Alura Hub/Java/Spring Security/Objetivos.md",
     "Pasted image 20260328084208.png",
     "Pasted image 20260328083444.png",
     "Cursos/Alura Hub/Java/Spring Security",
     "Reflexões das leituras",
-    "Cursos/Alura Hub/Java/Spring boot/Erros handler.md",
-    "Cursos/Alura Hub/Java/Spring boot/Ocultando stacktrace nas respostas de erro.md",
-    "Cursos/Alura Hub/Java/ResponseEntity.md",
-    "Cursos/Alura Hub/Java/Spring boot/Sem título.md",
-    "Cursos/Alura Hub/Java/Anotações Spring Boot.md",
-    "Cursos/Alura Hub/Java/Spring boot/Exclusão Lógica.md",
     "Pasted image 20260317202628.png",
     "Pasted image 20260317202620.png",
     "Pasted image 20260317202536.png",
@@ -251,7 +252,6 @@
     "Cursos/Alura Hub/Java/Carreira/Untitled",
     "Cursos/Alura Hub/Java/Carreira/curso-006",
     "Cursos/Alura Hub/Java/Carreira",
-    "Cursos/Alura Hub/Untitled 1",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Língua portuguesa e literatura/Aula 3 - semântica/Semântica mapa mental.canvas",
     "estudos/Escola/Ano 2/Primeiro trimestre/Biologia/Untitled.canvas",
     "estudos/Escola/Ano 1/primeiro trimestre e segundo - 2024/Artes/Aula 2 - arte rupestre/Arte-rupestre.canvas",
