@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "e27980ec5f16ce69",
+    "id": "94346252c0e84ceb",
     "type": "split",
     "children": [
       {
-        "id": "509d92888fff5f48",
+        "id": "a50d922e1308d915",
         "type": "tabs",
         "children": [
           {
-            "id": "3c090362b154d3a9",
+            "id": "b6265ab66f93a36e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Português/Gêneros textuais 2.md",
+                "file": "Português/Gêneros Textuais/Gêneros textuais.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gêneros textuais 2"
+              "title": "Gêneros textuais"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "352959b87f7e4e6d",
+    "id": "18fc2015aac86b17",
     "type": "split",
     "children": [
       {
-        "id": "75aa306d6dce91c4",
+        "id": "12df971ad68d2154",
         "type": "tabs",
         "children": [
           {
-            "id": "f9a13fe435c3fdc1",
+            "id": "1aa7abb9edca1ecb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -50,12 +50,12 @@
             }
           },
           {
-            "id": "b97e7e126233dd5f",
+            "id": "a144c037007e1b05",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "5 PERGUNTAS",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
             }
           },
           {
-            "id": "9f4a768feec5ccba",
+            "id": "645501ad48405463",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,20 +86,20 @@
     "width": 300
   },
   "right": {
-    "id": "b2c2a430d2c0641a",
+    "id": "b84c49a2af95d4b9",
     "type": "split",
     "children": [
       {
-        "id": "3068492683254b1b",
+        "id": "4d46c3d59ac37dc2",
         "type": "tabs",
         "children": [
           {
-            "id": "97d3f712fbda48bd",
+            "id": "be544b481c863ae6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Português/Gêneros textuais 2.md",
+                "file": "Português/Gêneros Textuais/Gêneros textuais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,12 +113,12 @@
             }
           },
           {
-            "id": "1c6d8c589487a542",
+            "id": "0dc2ac736c88d420",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Português/Gêneros textuais 2.md",
+                "file": "Português/Gêneros Textuais/Gêneros textuais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "e3a9be815044fb82",
+            "id": "2966611cea8d6a7a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -142,7 +142,7 @@
             }
           },
           {
-            "id": "38b661d7a7e4ea32",
+            "id": "57c70f7665e1ff36",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -156,12 +156,12 @@
             }
           },
           {
-            "id": "13b354aa1d52706e",
+            "id": "4924a28ac3499177",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Português/Gêneros textuais 2.md",
+                "file": "Português/Gêneros Textuais/Gêneros textuais.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,12 +188,9 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "3c090362b154d3a9",
+  "active": "b6265ab66f93a36e",
   "lastOpenFiles": [
-    "Sem título.base",
-    "Português/Morfologia/Pronomes.md",
-    "Redação/Eixos temáticos.md",
     "Português/Gêneros textuais 2.md",
-    "Português/Tipos Textuais/Tipos Textuais.md"
+    "Português/Gêneros Textuais/Gêneros textuais.md"
   ]
 }
