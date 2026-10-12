@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ace15ab0c905d11b",
+        "id": "450ffb86172a5f2d",
         "type": "tabs",
         "children": [
           {
-            "id": "8851e7050e815c62",
+            "id": "0e151bd529200b4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Rust/Gerenciamento de pacotes.md",
+                "file": "Cursos/Rust/Structs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Gerenciamento de pacotes"
+              "title": "Structs"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "YYYY-",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,8 +204,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8851e7050e815c62",
+  "active": "0e151bd529200b4c",
   "lastOpenFiles": [
+    "Cursos/Rust/Vectors em Rust.md",
+    "Cursos/Rust/Structs.md",
+    "Cursos/Rust/Option.md",
+    "Cursos/Rust/Enums no Rust.md",
+    "Cursos/Rust/Metaprogramação e Reflections.md",
+    "Cursos/Rust/Arrays no Rust.md",
     "Cursos/Rust/Gerenciamento de pacotes.md",
     "Cursos/Rust/Gerenciamento de erros.md",
     "Cursos/Rust/Condição IF.md",
@@ -227,13 +233,7 @@
     "Cursos/Alura Hub/Java/Spring Security/Lidando com o próprio Login.md",
     "Cursos/Alura Hub/Java/Spring Security/Melhor Hashing de Senha.md",
     "Cursos/Alura Hub/Java/Spring Security/Funcionamento do spring boot.md",
-    "Cursos/Alura Hub/Java/Spring Security/Validações de erros.md",
-    "Cursos/Alura Hub/Java/Spring Security/Roles.md",
     "Pasted image 20260406150423.png",
-    "Cursos/Alura Hub/Java/Spring boot/Testando controllers simulados.md",
-    "Cursos/Alura Hub/Java/Para saber mais -gerando JSON com JacksonTester.md",
-    "Cursos/Alura Hub/Java/Spring boot/Testes.md",
-    "Cursos/Alura Hub/Java/Testes em Java.md",
     "Pasted image 20260328084208.png",
     "Pasted image 20260328083444.png",
     "Cursos/Alura Hub/Java/Spring Security",

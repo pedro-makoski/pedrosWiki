@@ -1,0 +1,1 @@
+A metaprogramação é colocar dados de programação sem ser diretamente na linguagem. Reflection é deixar a própria linguagem de programação com sua metaprogramação.
