@@ -11,10 +11,15 @@
             "id": "92accc494b8de08e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Cursos/Alura Hub/Java/Java DOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Java DOC"
             }
           }
         ]
@@ -201,6 +206,7 @@
   },
   "active": "92accc494b8de08e",
   "lastOpenFiles": [
+    "Cursos/Alura Hub/Java/Java DOC.md",
     "Cursos/Rust/Structs.md",
     "Cursos/Rust/Vectors em Rust.md",
     "Cursos/Rust/Option.md",
@@ -227,7 +233,6 @@
     "Cursos/Alura Hub/Java/Anotations.md",
     "Cursos/Alura Hub/Java/Spring Security/Lidando com o próprio Login.md",
     "Cursos/Alura Hub/Java/Spring Security/Melhor Hashing de Senha.md",
-    "Cursos/Alura Hub/Java/Spring Security/Funcionamento do spring boot.md",
     "Pasted image 20260406150423.png",
     "Pasted image 20260328084208.png",
     "Pasted image 20260328083444.png",
