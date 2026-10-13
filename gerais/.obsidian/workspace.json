@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "450ffb86172a5f2d",
+        "id": "61d08b7465bd28c2",
         "type": "tabs",
         "children": [
           {
-            "id": "0e151bd529200b4c",
+            "id": "92accc494b8de08e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursos/Rust/Structs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Structs"
+              "title": "Nova aba"
             }
           }
         ]
@@ -204,10 +199,10 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "0e151bd529200b4c",
+  "active": "92accc494b8de08e",
   "lastOpenFiles": [
-    "Cursos/Rust/Vectors em Rust.md",
     "Cursos/Rust/Structs.md",
+    "Cursos/Rust/Vectors em Rust.md",
     "Cursos/Rust/Option.md",
     "Cursos/Rust/Enums no Rust.md",
     "Cursos/Rust/Metaprogramação e Reflections.md",

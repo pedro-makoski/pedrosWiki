@@ -36,3 +36,43 @@ Faz uma reflexão a partir de um acontecimento do cotidiano. É jornalistica poi
 - A finalidade é estética, ou seja tem como finalidade utilitária ao leitor
 - Quer que eu leitor se imerja no texto, gerando emoções, descrevendo figuras e etc
 - Faz o leitor viver, experimentar aquilo que está lendo
+## Os eixos de classificação
+Para determinar o gênero literário é classificado por diferentes eixos. Porém, essas classificações são híbridas e podem se mesclar nos textos.
+- Por modo ou tripartição de aristóteles
+	- **Épico**: o texto se discorre pela fala em terceira pessoa
+	- **Lírico**: o texto se discorre pela fala do eu lírico, expressando uma experiência pessoal e subjetiva
+	- **Dramático**: se discorre a partir do diálogo. Exatamente como no teatro
+- Por formato
+	- **Prosa**: texto normal discorrido em parágrafos. Fluxo continuo.
+	- **Verso**: em linhas ritimícas
+- Por finalidade
+	- **Literal**: a finalidade é o próprio conteúdo do texto
+	- **Alegoria:** a finalidade é o entendimento da lição de moral passada pelo texto
+- Por complexidade e extensão
+- E se real ou fictício
+## Os gêneros
+### Gêneros Literários Narrativos/Épicos em Prosa
+- Se diferenciam pela extensão e complexidade, bem como pela percepção do tempo narrativo
+- Os gêneros dentro deste quadro são:
+	- Romance: narrativa longa e complexa
+	- Conto: narrativa curta com um conflito
+	- Novela: ponto intermediário entre os dois
+	- Crônica Literária: Semelhante a crônica jornalística, porém com mais respaldo ao cenário fictício
+### Gêneros literários em verso
+- Poema
+	- Forma que designa todo tipo de verso
+	- O poema é composto por verso, que são as linhas
+	- A forma influência o entendimento semântico
+	- Forma fixa ou livre, quanto a estrutura ritmíca
+- Soneto
+	- Forma fixa
+	- Os recursos expressivos são potencializados pela tensão entre o conteúdo e a forma fixa dele
+	- Segue o formato 4 versos na estrofe 1, mais 4 na 2, mais 3 na 3 e mais 3 na 4 - 4433
+	- As rimas se dão por: ABBA, ABBA, CDC, DCD
+- Haicai
+	- São apenas 3 versos
+	- Capturam e registram um vislumbre rápida e conciso
+### Gêneros com finalidade alegorica 
+- **Fábula**: entre animais, com finalidade de extrair uma lição
+- **Apólogo**: entre objetos inanimados, com finalidade de extrair uma lição
+- **Parábola**: entre humanos, com a finalidade de extrair uma lição
