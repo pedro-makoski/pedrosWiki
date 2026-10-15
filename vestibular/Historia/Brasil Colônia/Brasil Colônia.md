@@ -75,7 +75,36 @@
 	- **Mém-De-Sá**: 
 		- Funda o Rio de Janeiro
 		- Expulsa o franceses
+			- Os franceses inclusive tinham uma vila na Ilha Guanabara no Rio de Janeiro, então ele expulsa eles. Esses franceses eram protestantes buscando refúgio.
 		- Catequiza mais com os jesuítas
 		- Cria engenhos
 		- Impulsiona a colonização com seus feitos
 		- Derrota o conflito com os tamoios
+# Câmaras Municipais
+- Representação política local
+- Com representantes eleitos pelos **homens bons**
+	- **Homens bons:** brancos, católicos e da elite, geralmente donos de engenhos, capitanias ou porções de terra
+	- Isso representa uma oligarquia em que o poder está na mão de uma elite
+		- **Patrimonialismo**: poder na mão dos ricos
+- A câmara era composta por 3 cargos:
+	- Vereador
+	- Procurador
+	- Judiciário
+- As funções da câmera é:
+	- Arrecadar impostos
+	- Controlar a justiça
+	- Garantir o cumprimento das leis
+	- Regulamento do comercio e seus preços
+	- Investimento em obras públicas
+# Pacto Colonial
+- O que inclui a lógica exclusivo metropolitano
+- A ideia é que a colônia devia seguir tudo que era imposto pela metrópole
+	- Sem gerar concorrência
+	- Não podia realizar compra de produtos de outros países
+	- Não podia realizar a produção de produtos manufaturados
+	- Devia produzir de forma primária e exportar isso para Portugal
+	- Somente os navios portugueses podia navegar para o Brasil
+- Essa lógica era baseada na doutrina econômica da época, o **mercantilismo**
+	- **Protecionismo alfandegário**: não podiam comprar de outras nações e se pudessem deveriam pagar uma taxa extrema
+	- **Metalismo**: armazenamento de metais preciosos
+	- **Balança Comercial Favorável**: não podiam comprar mais do que vender.
