@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/Alura Hub/Java/Testes Java.md",
+                "file": "Cursos/Alura Hub/Java/Build do Java.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Testes Java"
+              "title": "Build do Java"
             }
           }
         ]
@@ -207,6 +207,7 @@
   "active": "ac0fe3e8132e0a11",
   "lastOpenFiles": [
     "Cursos/Alura Hub/Java/Testes Java.md",
+    "Cursos/Alura Hub/Java/Build do Java.md",
     "Cursos/Alura Hub/Java/Java DOC.md",
     "Cursos/Rust/Structs.md",
     "Cursos/Rust/Vectors em Rust.md",
@@ -232,7 +233,6 @@
     "Cursos/Alura Hub/Java/Carreira/Curso 10.md",
     "Cursos/Alura Hub/Java/Carreira/Curso 21.md",
     "Cursos/Alura Hub/Java/Anotations.md",
-    "Cursos/Alura Hub/Java/Spring Security/Lidando com o próprio Login.md",
     "Pasted image 20260406150423.png",
     "Pasted image 20260328084208.png",
     "Pasted image 20260328083444.png",
