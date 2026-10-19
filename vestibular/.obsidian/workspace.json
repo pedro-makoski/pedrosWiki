@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6e03387b91e1c9",
+        "id": "2323b0c22bc8a629",
         "type": "tabs",
         "children": [
           {
-            "id": "4a9054030dff1d3c",
+            "id": "d8cb1f323454c819",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Física/Eletrodinâmica/Sprint Eletrodinâmica.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Sprint Eletrodinâmica"
             }
           }
         ]
@@ -184,12 +188,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "4a9054030dff1d3c",
+  "active": "d8cb1f323454c819",
   "lastOpenFiles": [
+    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
+    "Física/Eletrodinâmica/Sprint Eletrodinâmica.md",
+    "Física/Eletrodinâmica",
     "Biologia/Biologia molécular/Biologia Molecular.md",
     "Biologia/Biologia molécular/Mutação Gênica.md",
     "Biologia/Biologia molécular/Duplicação do DNA.md",
-    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
     "Biologia/Biologia molécular/DNA Recombinante.md",
     "Química/Misturas/Separação de Misturas.md",
     "Historia/Brasil Colônia/Brasil Colônia.md",
