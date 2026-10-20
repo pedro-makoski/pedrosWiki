@@ -131,3 +131,68 @@ $$
 P = \frac{U_{ab}^2}{R}
 $$
 Resistência realmente será inversamente proporcional a potência.
+## Circuito Associado Misto
+O circuito associado misto possui sequências paralelas e em série. Para resolve-la deve ser simplificado progressivamente as seções em paralelo e as em série com as relação equivalentes das formulas acima para cada, até chegar a uma mais simples e descobrir a corrente original e a partir dela, as seguintes.
+# Multimêtros
+Medem as grandezas relacionadas.
+## Amperimêtro(corrente mais alta)/galvanômetro(corrente mais baixa)
+Mede a quantidade âmperes. Ela é feita de forma em série com a parte requerida e deve ter resistência igual a 0, para não conflitar com o funcionamento normal do circuito.
+## Voltimetro
+Mede a quantidade de volts. É feito de forma paralela e deve resistência infinita, isto é um buraco  na passagem, pois isso mantem a quantidade de corrente no fluxo padrão sem ir para o voltimetro. 
+# Baterias
+
+## Geradoras
+As baterias geradoras ativam energia para a corrente no fluxo normal do positivo para o negativo, elas tem uma força eletromotriz gerada e uma resistência que é feita sobre ela, definida por r.
+Como essa resistência realiza a perda da energia final a formula da tensão útil final do sistema é:
+$$
+U_{ab}= \epsilon - r*i
+$$
+Em que o epsilon representa o fem(força eletro motriz). E podemos relacionar com a outra fórmula:
+$$
+U_{ab} = R i
+$$
+E portanto podemos realizar muitas relações com isso.
+
+### Em série
+Quando colocado essas baterias em série é somado a quantidade de tensão das baterias, ficando:
+$$
+U_{ab} = n\epsilon - n*r*i
+$$
+Em que n representa a quantidade de batérias em série. Entretanto, neste modo as batérias tendem a gerar ter desgaste mais facilmente.
+
+Quando é totalmente desgastada a única diferença feita sobre o sistema é o uso da sua resistência.
+
+$$
+U_{eq} = n*U
+$$
+$$
+r_{eq} = n*r
+$$
+
+O negativo de uma fica no positivo da outra.
+### Em paralelo
+A quantidade em volts é a mesma do que a unidade da bateria, entretanto a bateria é menos desgastada.
+E quando uma bateria com tensão igual aparece a corrente é divida para cada batéria.
+$$
+U_{eq} = U_{ab}
+$$
+$$
+U_{bateria} = \epsilon - r*\frac{i}{n} 
+$$
+O que é muito semelhante a colocar a resistência pela divisão, ou seja a bateria equivalente seria a mesma coisa que uma resistência n vezes menor.
+
+
+## Receptoras
+Quando colocado tensões diferentes entre as baterias no paralelo a bateria com menor potencial gera uma corrente fcem(força contra e eletromotriz) fazendo a passagem para entrada no positivo, o que supera o desgaste da bateria.  
+# Alteradores de circuito
+Alteram o circuito, obrigando o recálculo da corrente.
+## Queimação
+Quando um elemento queima, os elementos em série param de funcionar e os elementos em paralelo é como se este com seu resistor parasse de existir. 
+## Curto Circuito
+Quando o circuito é encurtado, ou por uma fiação sem resistor ou por um contato direto entre os fios. Essa encurtação realiza uma diminuição da resistência final, podendo gerar a queima dos componentes que não estavam preparados para isso. 
+
+## Sobrecarga
+Quando um sistema necessita de uma potência mais elevada do que consegue. Normalmente, para garantir a estabilidade da casa é usado um disjuntor que ao receber maior potência derrete e impede a continuidade da corrente, impedindo, portanto a queima.
+
+## Diodo
+Representado por uma flecha e uma barrinha, caso a flecha esteja na mesma direção da corrente a corrente passa(R = 0), caso esteja contra a corrente ela não passa(R = infinito). Ou seja, quando está contra a corrente, é como se toda a via de passagem por ela fosse inviabilizada. Inclusive a lampada LED é um diodo que possibilita a perda de energia do elétron emitindo luz.
