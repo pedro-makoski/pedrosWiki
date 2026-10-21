@@ -1,0 +1,2 @@
+Seja bem vindo ao Pedro's Wiki. Aqui coloco um resumo dos meus próprios estudos. 
+Por se tratar de um relato pessoal, não tem nenhum compromisso com a veracidade ou ortografia, apenas com a finalidade do compartilhamento de trabalho.
