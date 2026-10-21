@@ -196,3 +196,9 @@ Quando um sistema necessita de uma potência mais elevada do que consegue. Norma
 
 ## Diodo
 Representado por uma flecha e uma barrinha, caso a flecha esteja na mesma direção da corrente a corrente passa(R = 0), caso esteja contra a corrente ela não passa(R = infinito). Ou seja, quando está contra a corrente, é como se toda a via de passagem por ela fosse inviabilizada. Inclusive a lampada LED é um diodo que possibilita a perda de energia do elétron emitindo luz.
+# Ponte de Wheatstone
+Quando temos um ciricuito em paralelo com dois resistores em série em cada paralelo, existem a tensão no meio entre esse dois resistores para cada paralelo, chamando cada uma de Vc e Vd, caso Vc seja igual a Vd, a multiplicação dos resistores cruzados é igual:
+
+$$
+R_{1}*R_{4} = R_{2}*R_{3}
+$$

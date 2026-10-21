@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2323b0c22bc8a629",
+        "id": "25e89c35604edaed",
         "type": "tabs",
         "children": [
           {
-            "id": "d8cb1f323454c819",
+            "id": "1fcff87aa2b2ccfd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Eletrodinâmica/Sprint Eletrodinâmica.md",
+                "file": "Redação/Repertórios por eixo temático.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sprint Eletrodinâmica"
+              "title": "Repertórios por eixo temático"
             }
           }
         ]
@@ -188,10 +188,14 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "d8cb1f323454c819",
+  "active": "1fcff87aa2b2ccfd",
   "lastOpenFiles": [
-    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
+    "Redação/Redação.md",
+    "Redação/Sem título.canvas",
+    "Redação/Repertórios por eixo temático.md",
+    "Sem título 1.base",
     "Física/Eletrodinâmica/Sprint Eletrodinâmica.md",
+    "Biologia/Biologia molécular/Ácidos Nucleícos.md",
     "Física/Eletrodinâmica",
     "Biologia/Biologia molécular/Biologia Molecular.md",
     "Biologia/Biologia molécular/Mutação Gênica.md",
