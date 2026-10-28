@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6b57a03f90b67ee",
+        "id": "837576b37762d64d",
         "type": "tabs",
         "children": [
           {
-            "id": "fcd44cd44a42d37e",
+            "id": "7d85181f5d5fef40",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cursos/Alura Hub/Java/Java DOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Java DOC"
+              "title": "Nova aba"
             }
           }
         ]
@@ -56,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Swagger",
+                "query": "mockmvc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +72,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -205,12 +199,16 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "fcd44cd44a42d37e",
+  "active": "6bbbc5f01df37320",
   "lastOpenFiles": [
+    "Cursos/Alura Hub/Java/Testes Java.md",
+    "Cursos/Alura Hub/Java/Spring boot/Testando controllers simulados.md",
+    "Cursos/Alura Hub/Java/Carreira/Curso 21.md",
+    "Cursos/Alura Hub/Java/Spring boot/ArgumentCapture Mockito e then-should.md",
+    "Cursos/Alura Hub/Java/Carreira/Curso 9.md",
+    "Cursos/Alura Hub/Java/Java DOC.md",
     "Cursos/Alura Hub/Go lang/Gin/Gin Swagger.md",
     "Cursos/Alura Hub/Java/Build do Java.md",
-    "Cursos/Alura Hub/Java/Testes Java.md",
-    "Cursos/Alura Hub/Java/Java DOC.md",
     "Cursos/Rust/Structs.md",
     "Cursos/Rust/Vectors em Rust.md",
     "Cursos/Rust/Option.md",
@@ -230,10 +228,6 @@
     "Cursos/Rust/Tipos no Rust.md",
     "Cursos/Rust",
     "Cursos/Alura Hub/Java/Spring boot/Bean Validation.md",
-    "Cursos/Alura Hub/Java/Spring boot/JsonAlias x JsonProperty.md",
-    "Cursos/Alura Hub/Java/Spring boot/Jackson.md",
-    "Cursos/Alura Hub/Java/Carreira/Curso 10.md",
-    "Cursos/Alura Hub/Java/Carreira/Curso 21.md",
     "Pasted image 20260406150423.png",
     "Pasted image 20260328084208.png",
     "Pasted image 20260328083444.png",

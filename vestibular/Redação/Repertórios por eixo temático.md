@@ -47,4 +47,4 @@ A economia é de extrema importância para um país, porém na lógica capitalis
 ## Repertórios
 - **Ricardo Antunes, O Privilégio da Servidão:** fala neste texto sobre a uberização, em que é mascarado os direitos sociais, em prol de um "trabalhar para si mesmo"
 - **Shoshana Zuboff, A Era do Capitalismo de Vigilância**: está sendo muito comum o uso de dados pessoais dos usuários para a promoção de vendas, algoritmos, prevendo nosso comportamento para consumo
-	- **José Saramago**: Escritor português, ao receber um prêmio, afirmou que "o chamado neoliberalismo é um capitalismo totalitário", a qual submete todas as dimensões da vida a uma lógica de mercado.
+- **José Saramago**: Escritor português, ao receber um prêmio, afirmou que "o chamado neoliberalismo é um capitalismo totalitário", a qual submete todas as dimensões da vida a uma lógica de mercado.

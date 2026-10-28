@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "vestibular/Redação/Repertórios por eixo temático.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "Repertórios por eixo temático"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "José",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Procurar"
             }
           },
           {
@@ -76,7 +76,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -184,8 +185,8 @@
   },
   "active": "8311401a2ba0413b",
   "lastOpenFiles": [
-    "vestibular/Matemática/Escalas/Escalas.md",
     "README.md.md",
+    "vestibular/Matemática/Escalas/Escalas.md",
     "vestibular/Biologia/Biologia molécular/Ácidos Nucleícos.md",
     "vestibular/Biologia/Biologia molécular/Á.md",
     "vestibular/Biologia/Biologia molécular/Sem título.md",

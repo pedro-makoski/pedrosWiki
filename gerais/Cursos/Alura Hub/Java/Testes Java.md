@@ -155,7 +155,7 @@ class ConsultaControllerTest {
     @WithMockUser // Informa que será mockado o usuário e não precisará ser feito a autenticação
     void agendar_cenerio1() throws Exception {
         var response = mvc.perform( // Realiza a requisição
-                MockMvcRequestBuilders.post("/consultas")) // Indica que é um post para a rota descrita 
+	                MockMvcRequestBuilders.post("/consultas")) // Indica que é um post para a rota descrita 
                 .andReturn().getResponse(); // Obtem retorno
 
         Assertions.assertThat(response.getStatus()).isEqualTo(HttpStatus.BAD_REQUEST.value()); // Verifique se o código retornado foi 400
