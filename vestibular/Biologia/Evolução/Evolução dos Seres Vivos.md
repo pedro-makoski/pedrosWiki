@@ -73,3 +73,5 @@ A especiação pode ser feita de 4 formas distintas:
 - Depois com os repteis foi introduzido a possibilidade de viver no modo terrestre, e o ovo cumpria todo o cuidado com o ser vivo necessário
 - Depois com as aves foi introduzido a endotermia, com o calor gerado dentro do ser, esses seres vivos partem do tipo Amniota
 - E por fim com a introdução dos mamíferos foi introduzido a placenta, podendo o ser que nasceu ficar dentro da mãe
+# Coevolução
+Os indivíduos se auto ajudam na evolução e se tornam evolutivamente dependentes.

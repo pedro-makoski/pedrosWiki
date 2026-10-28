@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vestibular/Redação/Repertórios por eixo temático.md",
+                "file": "gerais/Cursos/Alura Hub/Java/Hibernate/Persistir dados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Repertórios por eixo temático"
+              "title": "Persistir dados"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "José",
+                "query": "=",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,12 +76,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.30078125
   },
   "right": {
     "id": "a638518d82bb32f0",
@@ -183,8 +182,11 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8311401a2ba0413b",
+  "active": "6cab95c40fcfa6fb",
   "lastOpenFiles": [
+    "gerais/Cursos/Intensivão Full Stack hashtag/Aula 4.md",
+    "vestibular/geral/Aula 1.md",
+    "vestibular/Redação/Repertórios por eixo temático.md",
     "README.md.md",
     "vestibular/Matemática/Escalas/Escalas.md",
     "vestibular/Biologia/Biologia molécular/Ácidos Nucleícos.md",

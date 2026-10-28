@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52342a60047f3132",
+        "id": "e58d8000f9c83c6f",
         "type": "tabs",
         "children": [
           {
-            "id": "c94ab310140fbea1",
+            "id": "ca59da8a8eb97f53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -188,10 +188,12 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "c94ab310140fbea1",
+  "active": "ca59da8a8eb97f53",
   "lastOpenFiles": [
     "Biologia/Evolução/Evolução dos Seres Vivos.md",
     "Biologia/Ecologia/Ecologia.md",
+    "Sem título 1.md",
+    "Pasted image 20260109154808.png",
     "Biologia/Ecologia",
     "Pasted image 20261026150449.png",
     "Biologia/Sem título 1.md",
