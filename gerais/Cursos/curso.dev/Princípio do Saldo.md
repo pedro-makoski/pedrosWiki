@@ -1,0 +1,26 @@
+- É necessário buscar fazer muito com pouco e não pouco com muito, pois planejamento demais pode atrasar o seu projeto e diminuir o saldo
+- O saldo é aquilo que seu cerebro considera em relação ao ganho pelo gasto, o maior saldo normalmente está em fazer nada
+- Existem 4 níveis para esse saldo do maior para o menor
+	- Nível 1
+		- Lembrar individualmente
+		- A partir de notas pessoas
+		- Para funcionar precisa de um baixo custo para se aquecer e iniciar o processo
+	- Nível 2
+		- Ser lembrado por um grupo
+	- Nível 3
+		- Expandir Conhecimento
+		- Adicionar notas e detalhes para as tarefas
+		- Começa a ficar cansativo o processo de produção
+	- Nível 4
+		- Uso de métricas
+		- Os superiores começam a desenvolver métricas para indentificar a produtividade e o progresso
+		- Entretanto, é uma tarefa que envolve um saldo extremamente baixo e fica uma processo muito cansátivo
+- O termo intermediário de um projeto é trabalhar pouco e ganhar pouco, dividindo em mini tarefas que ajudam o processo de construção, guiando você, mas sem gerar um fardo enorme de construir um projeto numa tomada só
+- Por isso é interessante criar **Issue De Inception**, em que é construído a concepção da sua ideia de transcorrida numa issue do *github*
+- É interessante, criar milestones com Issues de processo, com o objetivo de gerar um sentimento de progresso no desenvolvimento e gerar uma recompensa ao cerebro. 
+- Essas Milestones e suas Issues tendem a mudar ao longo do tempo, ou seja são imprevisíveis, e isso é muito normal e é bom que aconteça dessa forma
+- Com isso você consegue domar a biologia do seu cerebro dando a ele dopamina no processo de desenvolvimento
+	- Constitindo em:
+		- **Inicio**: o seu cerebro vê que ganha algo com aquilo
+		- **Progresso**: você sente o progresso no processo
+		- **Conclusão**: o seu cerébro conclui que aquilo é realmente bom e produtivo
