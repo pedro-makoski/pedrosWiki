@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "884f124c8f0c5f49",
+        "id": "64abb3d50f52643b",
         "type": "tabs",
         "children": [
           {
-            "id": "8943acf0ccb5e40d",
+            "id": "9ed1cc6f47c62b54",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "patri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,9 +188,13 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "8943acf0ccb5e40d",
+  "active": "9ed1cc6f47c62b54",
   "lastOpenFiles": [
+    "Sem título 2.md",
     "Sociologia/Introdução a Sociologia.md",
+    "Historia/Brasil Colônia/Brasil Colônia.md",
+    "Biologia/Metabolismo Energético/Respiração Celular.md",
+    "Biologia/citologia/Organelas citoplasmáticas.md",
     "Biologia/Ecologia/Ecologia.md",
     "Biologia/Evolução/Evolução dos Seres Vivos.md",
     "Sociologia",
@@ -212,7 +216,6 @@
     "Biologia/Biologia molécular/Biologia Molecular.md",
     "Biologia/Biologia molécular/DNA Recombinante.md",
     "Química/Misturas/Separação de Misturas.md",
-    "Historia/Brasil Colônia/Brasil Colônia.md",
     "Historia/Colonização/Apresentando os personagens.md",
     "Historia/Colonização/Motivações.md",
     "Historia/Colonização/Chegada dos Portugueses ao Brasil.md",

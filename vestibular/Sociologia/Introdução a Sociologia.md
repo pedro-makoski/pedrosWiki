@@ -120,6 +120,8 @@ O que mantêm uma sociedade coesa.
 		- Obedecem porque as coisas sempre foram assim
 		- Exemplo:
 			- **Patriarcalismo:** respeito aos pais
+			- **Clientelismo**: troca de favores privados por um cargo público
+			- **Patrimonialismo**: confusão do que é privado e público por gestão do governo
 		- O estado moderno pode desestabilizar o tradicional
 	- Carismático
 		- Respaldada na crença da extraordinariedade de um ser carismático
@@ -176,3 +178,109 @@ Então se formaria neste novo estado uma **ditadura do proletariado**, em que o 
 
 ### Consciência de Classe
 É a consciência do entendimento da classe em que você participa, dos seus problemas e necessidades para uma melhor qualidade desta.
+### Alienação
+Alienação em si significa **separar**. De acordo com Marx, a tendência natural é que o trabalho no ser humano realize ações na natureza e também na sua própria satisfação pessoal. Entretanto, no capitalismo isso é contrariado, pois o ser humano é alienado da sua essência pelo seu trabalho. A alienação é feita em quatro níveis:
+1) **Em relação ao produto:** o trabalhador é separado do seu produto
+2) **Em relação ao processo**: o trabalhador é distanciado do processo completo da produção de algo
+3) **Em relação a essência humana**: o trabalhador é distanciado em relação àquilo que nasceu para ser e a sua realização pessoal com seu trabalho feito
+4) **Em relação aos outros seres humanos**: é gerado maior concorrência, quando feito dessa forma
+### Fetichismo da Mercadoria 
+É ocultado o trabalho e a exploração de um produto de uma mercadoria, em relação ao seu produto final. 
+### Superestrutura 
+Existem dois tipos de estrutura:
+- **Infraestrutura**: material e concreto
+- **Superestrutura**: de ideia, política e jurídico
+De acordo com Marx, a infraestrutura, que é constituída pela classe com maior domínio de meios de produção, afeta a superestrutura, ou seja as ideias dominantes. 
+
+O que é diferente de Hegel, que a superestrutura afeta a infraestrutura.
+### Ideologia
+Conjunto de ideias que apresenta na realidade de forma parcial e que oculta contradições a ela. Fazendo com que a ideologia dominante pareca natural as relações de opressão que são feitas. 
+### Marx e Desigualdade
+Para Marx, a desigualdade não tem relação ao mérito, mas sim as condições iniciais da pessoa.
+### Hegemonia
+Não apenas o domínio do poder, mas também das ideias e do consenso, por meio de aplicação em instituições, como escolas, hospitais e etc.
+### Escola de Frankfurt
+Escola de estuda da teoria marxista, com sociólogos e filósofos que contribuem para a ideia de Marx.
+### Mais valia e exploração
+- Primeiramente, é necessário definir o conceito de **valor-trabalho:**
+	- Quanto maior o valor o valor maior o tempo de trabalho social que os indivíduos relacionados tiveram com este
+- A força de trabalho, a mão de obra não vende o seu trabalho, mas sim aluguel do seu tempo total de trabalho
+- **Acumulação primitiva:** o processo histórico que levou a conjuntura atual de alienação
+- A diferença do valor que o proletariado produz e o que recebe é o conceito chamado **mais-valia**, o que constitui o conceito de exploração ou de apropriação
+- Existe a mais valia:
+	- **Absoluta:** em relação ao que ganha e recebe no bruto
+	- **Relativa**: pois, quando é inserido uma maquina a exploração fica, para Marx, maior, pois o funcionário se auto paga mais rápido
+# Cultura
+- Existe, antes de tudo, um senso comum do conceito de cultura: item erudito, refinado
+- Porém, no conceito antropológico, a cultura é tudo que o homem produz, apreende e reproduz dentro de um conceito de sociedade
+- Na antropologia, não cabe em seu escopo diferenciar culturas, como era feito antigamente com a hegemônica em relação a uma cultura primitiva
+## 5 verticais na cultura:
+1) A cultura é apreendida e não herdada biologicamente
+	1) Inclusive, muitos usaram de um conceito errôneo de que é herdado biologicamente para ilegitimar descendências ou pessoas de uma região, pelo determinismo biológico e geográfico
+	2) Existe um processo de **endoculturação** para antropologia ou **socialização** para a sociologia, em que o indivíduo recebe a cultura dos outros
+2) A cultura é compartilhada, é coletiva
+	1) Ou seja, não existe cultura que não esteja manifestada em um coletivo
+3) A cultura é simbólica
+	1) Ou seja, ela interpreta os símbolos com um significado cada, ou seja cada símbolo pode ter uma matriz de significados
+4) A cultura é dinâmica
+	1) A cultura muda ao longo do tempo e do espaço
+	2) Isso pode ocorrer pela interação entre os coletivos
+	3) Duas estratégias para isso acontecer é:
+		1) **Aculturação**: um indivíduo perde a sua cultura para ficar com a de uma classe opressora
+		2) **Sincretismo**: geralmente em um contexto de religião como motor de resistência, em que o indivíduo mistura duas culturas para formar uma nova
+5) Possui dimensão material e imaterial
+	1) Ela pode influenciar as questões físicas, de expressões de forma de matéria, ou de forma imaterial, como em ideias, língua e entre outros
+
+## Hibridismo Cultural
+Duas culturas diferentes se expressam de forma compartilhada em um conteúdo.
+## Subculturas
+São culturas que compartilham uma mesma cultura hegemônica, porém se distoam em partes mais específicas..
+Dentro desse contexto, surge a **contracultura** que são culturas que lutam contra a cultura hegemônica.
+## Etnocentrismo
+- Colocar uma cultura acima de outras, só por que ela é sua e você considera ela como a mais correta
+- Ela causa a diferença, colocando o outro como inferior
+- É natural, para todas as culturas, colocar a outra cultura como estranha e inferior
+- **Esteriótipo:** colocar um olhar generalizante, rígido e simplificado sobre algum grupo, geralmente com um conceito preconceituoso e que exclui as individualidades
+- **Eurocentrismo**: colocar a cultura europeia como superior em relação as outras culturas
+- **Evolucionismo Cultural:** preconceito errado, afirmando que existe uma evolução das culturas, para afirmar que uma é melhor que a outra. Foi usando isso que a Europa justificou os massacres em outras culturas
+## Relativismo Cultural
+A cultura deve ser analisado, quando de forma antropológica, relativa a própria cultura e não a outra. 
+Existe também, o **relativismo cultural absoluto** que é dizer que todas as culturas são iguais e boas, mesmo tendo culturas que vão contra os próprios direitos humanos.
+## Tipos de cultura
+- **Cultura Erudita**
+	- Feita por especialistas com formação técnica
+	- Lida pela elite, em escolas de alto nível, em faculdades e entre outras formas elitizadas
+- **Cultura Popular**
+	- Feita pela população
+	- Transmitida oralmente
+	- Ouvida pela própria população
+	- Ligado a tradição de alguma região
+- **Cultura de Massa**
+	- Feita por industrias e empresas
+	- Transmitidas por veículos de massa
+A ordem feita pela sociedade é achar a erudita é melhor que a popular que é melhor que a de massa.
+## Apropriação Cultural
+Um grupo se apropria de uma cultura popular com fins comerciais.
+## Industria Cultural
+- Proposto por Theodoro Adorno e Mark Horkheimer, no livro que de forma mais ampla crítica a razão instrumentalizada para legitmar a classe dominante
+	- Em que essa razão calcula os meios sem pensar criticamente sobre os fins
+- A industria cultural em si, não tem o nome mais de cultura de massa, pois ela não faz de forma espontânea, mas sim focado para as massas com o fito de gerar lucros
+- A crítica à industria cultural, portanto conclui que:
+	- Os bens culturais viram mercadorias
+	- Os bens culturais ficam padronizados
+	- Pseudo-individualidade: 
+		- Os bens culturais em si são muitos semelhantes, porém um pouco diferentes para gerar diferentes identificações ao público alvo
+	- **Passividade:** não faz o telespectador pensar criticamente ao ver a obra
+		- Diversão como mecanismo de viabilização do trabalho e da manutenção da ordem
+	- Função ideológica
+		- Integra o indivíduo a ordem vigente
+		- Não gera reflexão crítica
+		- Gera tranquilidade e conformismo ao indivíduo
+### Herbert Mercuse - O Homem Unidimensional
+- Propõe que o indivíduo segue um fluxo:
+	- A industria cultural gera uma necessidade nele, por meio da identificação
+	- A industria cultural, posteriormente, atende ele
+	- O indivíduo é neutralizado, não criticando, então, o sistema hegemônico
+### Walter Benjamim
+- As obras de cultura tem uma aura ou seja a originalidade
+- A reprodução tecnica, causa a queda da aura, entretanto deixa o acesso a produção mais democrático a muitos.
