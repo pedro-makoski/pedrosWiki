@@ -284,3 +284,24 @@ Um grupo se apropria de uma cultura popular com fins comerciais.
 ### Walter Benjamim
 - As obras de cultura tem uma aura ou seja a originalidade
 - A reprodução tecnica, causa a queda da aura, entretanto deixa o acesso a produção mais democrático a muitos.
+## Identidade x Alteridade
+- **Identidade:** traços de um certo grupo que reforçam uma coesão de um coletivo
+- **Alteridade**: reconhecimento das diferenças dos outros e suas condições
+### Propriedades da identidade
+- **Relacional**: a identidade se faz pela relação de contraste com os outros
+- **Histórica e construída**: a identidade é construída historicamente e inclusive, é neste momento que faz a identidade nacional, o que mantem uma sociedade unida
+- **Múltipla**: o indivíduo possui para si diferentes identidades
+	- De acordo com Stuart Hall, existem três tipos de sujeitos de individualidade:
+		- **Iluminista:** advinda da razão
+		- **Sociológica**: advinda do contato e socialização
+		- **Pós-moderna**: advinda de diferentes tipos de personalidade, que na sua origem pode até serem contraditórios. Relacionado ao processo de globalização
+	- Existe um certo efeito político para isso em que uma identidade específica pode ser relacionada a reivindicação política
+	- E são criados **movimentos identitários** para defender a identidade que pode ser muitas vezes marginalizada pela hegemonia
+	- **Tribos Urbanas:** grupos pequenos que possuem uma identidade própria
+- **Poder:** a identidade não deve vir de uma força do governo, mas sim de uma força pessoal. 
+# Patrimônio
+Tudo aquilo que para um grupo de indivíduos representa uma parte importante para representar sua identidade e que, portanto, é digna de ser preservada.
+
+1) O patrimônio é uma escolha social, ou seja, ela representa para um grupo social algo importante
+2) **Patrimônio Material**: são os patrimônios físicos, que são protegidos por **tombamento**, o qual impede que aquilo que foi tombado seja destruído
+3) **Patrimônio Imaterial**: são os patrimônios que são praticados de forma viva e são transmitidas de geração em geração. Para proteger é necessário registrar.
