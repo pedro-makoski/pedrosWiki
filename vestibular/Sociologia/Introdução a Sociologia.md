@@ -305,3 +305,106 @@ Tudo aquilo que para um grupo de indivíduos representa uma parte importante par
 1) O patrimônio é uma escolha social, ou seja, ela representa para um grupo social algo importante
 2) **Patrimônio Material**: são os patrimônios físicos, que são protegidos por **tombamento**, o qual impede que aquilo que foi tombado seja destruído
 3) **Patrimônio Imaterial**: são os patrimônios que são praticados de forma viva e são transmitidas de geração em geração. Para proteger é necessário registrar.
+# Socialização
+- É o método pelo qual um indivíduo se torna membro de uma sociedade
+- O indivíduo interioriza normas, leis, regras, formas de tratamento de uma sociedade e com isso torna-se pleno membro dela
+## Verticais
+1) Necessidade de Socialização
+	1) O indivíduo tem a tendência a se socializar e a repetir padrões de uma sociedade
+2) Formação do "eu"
+	1) A socialização forma o *self*
+	2) E com a socialização o indivíduo absorve a expectativa que o ambiente o espera
+3) Socialização Primária
+	1) Socialização em que o indivíduo recebe da família
+	2) Dado por afeto e amor
+	3) O indivíduo se socializa a partir esperança da manutenção do amor familiar
+4) Socialização Secundária
+	1) Se dá pela escola, igreja, estado, partido político, prisões e etc
+5) Rupturas / Ressocialização
+	1) O indivíduo tem uma mudança abrupta cultural
+	2) Se da por instituições como o exercito, as prisões e etc
+## Objetivo da prisão
+> Ressocializar o indivíduo
+
+## Instituições Totais
+São instituições que gerenciam todas as instituições de socialização do indivíduo.
+## Robert Merton - Socialização Antecipatória
+Afirma que o indivíduo se socializa antes de entrar no próprio contexto em que será socializado daquela forma. Normalmente, decorrente de um desejo de entrar naquele contexto.
+## Definição de atributos na socialização
+- **Valores:** ideias e concepções do que é bom e agradável
+- **Normas**: aplicação prática das concepções, por meio de regras
+- **Status**: ocupação de um indivíduo em determinado grupo
+- **Papel**: conjunto de comportamentos que se espera de alguém com certo status
+## Controle Social
+- Forçar alguém a "socializar", adequando-se as normas
+- Pode ser:
+	- **Informal**: aplicado sem punições formais, por intermédio do medo, de falarem ou pensarem mal de você
+	- **Formal**: com aplicações de sanções sobre o indivíduo
+- Pode ser por meio de elogios e concordâncias para manter ele com o modo de socialização já presente e que agrada
+## Desvio 
+Não cumprir as normas de uma sociedade.
+## Sociabilidade
+Predisposição a socializar e fazer outros gostarem de você.
+## Agentes de Socialização
+- Família
+	- Transmite valores mais primários
+	- Atitudes básicas, valores importantes e etc.
+- Escola
+	- Passa normas de forma impessoal
+	- Permite a convivência com estranhos
+- Grupo de Pares
+	- Pessoas que possuem condição semelhante a sua
+	- Contribuem para a construção da personalidade do indivíduo
+- Religião
+	- Transmite valores morais, rituais e uma cosmovisão
+- Meios de comunicação
+	- Transmite supostos valores de perfeição e estética e entre outros tipos
+- Trabalho
+	- Transmite diferentes normas para a sua profissão
+
+É possível que esses valores sejam **conflitantes**.
+## Instituições Sociais
+- É abstrata e não possui localização física
+- São um conjunto relativamente estável de normas, valores, papeis e comportamentos que regula uma área da vida coletiva e reponde a necessidades permanentes de uma sociedade
+- Ela é durável sobrevive aos indivíduos (geral)
+- Ela aplica normas e sanções para caso não seja cumprido alguma regra fundamental
+- Distribuem papeis e posições para os participantes
+- Precisa ter legitimidade
+- Interdepende de outras instituições
+- Para Marx, essas instituições servem para legitimar a dominação capitalista
+### Família
+União de pessoas com laços afetivos e/ou genéticos que promova a uma relação de afeto e uma base de cuidado.
+
+Família Mongamica para Marx, é promovida pelo capitalismo moderno para manter uma relação de patrimônios, estável. 
+# Foucault  - Livro: "Vigiar e Punir"
+- De acordo com Focault, o poder não pertence a um grupo de indivíduos específicos, mas sim está difusa e capilarizada(até nas micro relações) com o fito de punir os outros
+- O poder faz com que você se auto vigie e vigie o próximo
+- Existe uma micro física do poder, que é o processo de influenciar os outros para seguirem os comportamentos e formar o próprio indivíduo
+## Poder Disciplinar 
+- Antes, o poder disciplinar era espetacular para servir de exemplo para os outros não fazerem novamente
+- Agora, o poder está justamente produzindo essa micro física, exercendo uma personalidade para o indivíduo
+- O indivíduo, agora, é adestrado para se tornar dócil e útil, por meio de instrumentos como:
+	- Vigilância
+	- Controle do tempo e do espaço 
+	- Exame
+	- Normalização, que se dá por explicar o que é normal e um desvio
+- Todos estes instrumentos dão acesso ao **panóptico**, em que todos temes estarem sendo vigiados e serem punidos
+## Biopoder
+O indivíduo permanece vivo, mas sempre com o medo de ser punido na possibilidade de estar sendo vigiado.
+## Biopolítica 
+As pessoas seguem as políticas de saúde e bem estar para se manterem nesse esquema.
+## Saber-Poder
+O conhecimento confere a pessoa, maior nível de poder.
+## Subjetivação
+- O sujeito é subjetivo
+- É o processo de tornar-se sujeito
+- Um sujeito que é produzido e submetido as condições de poder
+# Peter Burguer
+- A sociedade e o indivíduo possui uma dupla relação, em que o indivíduo realiza ações que podem se exteriorizar e os próximos indivíduos interiorizam essa ação
+- Construção Social da Realidade
+	- A sociedade se constrói com uma entidade própria e objetiva
+# Rousseau
+- Afirma que o homem em seu estado natural é livre, sozinho, tem amor a si próprio e tem piedade para respeitar os outros
+- Porém, a partir do momento que se institui a propriedade privada, o homem se torna mal e o que antes era uma desigualdade natural(idade, gênero e afins) cria-se uma desigualdade moral, em que é proibido de entrar na propriedade do outro e cria-se com isso várias problemáticas no mundo
+- Para Rousseau, para solucionar isso, seria necessário a criação de um **contrato social**, em que todos teriam o comprometimento de suprimir as desigualdades e ter um bem comum
+- E, por fim, ele afirmava que as crianças tinham um psique diferente dos adultos e deveriam receber um tratamento especial
