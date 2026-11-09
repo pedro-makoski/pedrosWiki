@@ -9,6 +9,8 @@ O carbono pode estar, por exemplo, em formato de grafite e diamante, entretanto 
 
 Outros exemplos do carbono é o fulereno, uma bola pouco densa usada como nanotecnologia para transportar substâncias no corpo. E também o grafeno com a altura de um átomo e tem uma das maiores resistências existentes.
 
+O nanotubo é um tubo formado pelo grafeno em forma de tubo com alta condutividade.
+
 O diamante tem, também, mais dureza, não resistência, dureza. Pois ele consegue riscar outros elementos.
 ## Exemplo do Enxofre 
 - O enxofre rómbico é mais simples e rígido

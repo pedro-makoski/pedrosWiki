@@ -54,6 +54,8 @@ C^-, C^{2-}
 $$
 # Semelhança atômica
 - **Isótopo:** mesmo número de prótons, mas com diferente número de neutrôns
+	- **Exemplo:** prótio, deutério e trítio, que são elementos com massas diferentes do hidrogênio
+	- Ou ainda, o carbono-12 e o carbono-14, em que esse elemento final indica a massa
 - **Isobaro**: mesmo número de massa, porém diferentes números de prótons
 - **Isótono**: mesmo número de neutrôns. 
 - **Isoeletrônico**: mesmo número de elétrons

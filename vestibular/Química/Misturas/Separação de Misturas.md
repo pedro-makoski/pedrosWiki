@@ -45,6 +45,7 @@ Dissolução - soluto em solvente. Diluição -> solvente em soluto+solvente
 ## 15 - Sifonação
 - Passa por um tubo curvado uma parte do líquido mais denso para o outro lado
 - É necessário uma pressão inicial de puxada mas o resto a pressão atmosférica já ajuda
+- Feita a partir de dois líquidos que não se misturam e consegue separar com uma diferença de pressão de um tubo **curvo** conectada a parte da superfície
 ## 16 - Extração
 - A água se solve naturalmente e de forma gradual em algumas substâncias polares, permitindo a separação
 ## 17 - Sublimação/Liofização
@@ -66,9 +67,11 @@ Dissolução - soluto em solvente. Diluição -> solvente em soluto+solvente
 Feito na ETA(Estação de tratamento da água), é responsável por limpar a água, principalmente das superfície, pois apresenta maior quantidade de dejetos. 
 É feito da seguinte forma:
 1. Captação da água dos rios
-2. Pré-Alcanalização: o CaO virgem se junta com a água, com a finalidade de diminuir a acidez dela.
+2. Pré-Alcanalização: o CaO virgem se junta com a água, com a finalidade de diminuir a acidez dela. A água com isso fica mais básica.
 3. Coagulação/Floculação
 	1. Colocando minerais de Fe ou alumínio as substâncias coloides(1 nm a 1000 nm) se fixam formando uma parte só, neutralizando suas cargas
+	2. A coagulação é o processo de adição do sulfato de alumínio na água
+	3. A floculação é o processo em que os coloides que são negativos, por isso anteriormente repulsavam entre si, se aglutinam no componente adicionando a água
 4. Decantação:
 	1. Os itens aglutinados caem para baixo, pois são mais densos, com o tempo
 5. Filtração
@@ -95,6 +98,8 @@ Feito na ETE(Estação de tratamento de esgoto). É responsável por limpar a á
 A água gerada é chamada de água de reusa, usando principalmente para construção civil.
 # Mineração
 - Extrair várias coisas da terra, com o objetivo de encontrar algum material específico
-- Minério: conjunto de diversos elementos químicos, dentre os quais possui um elemento útil para algum setor da sociedade
+- **Minério:** conjunto de diversos elementos químicos, dentre os quais possui um elemento útil para algum setor da sociedade, este é elemento útil é chamado de **mineral**
 - É extraído a rocha e triturado, e por meio da flotação se elimina a areia, estes restos são armazenados em barragens, pois não é bom para natureza deixar no rio.
 - A mistura de outras substâncias não metais a um metal é chamado de ganga.
+- **Ganga**: metal impuro com outras substâncias
+- Separa com flotação de metal a areia do metal
