@@ -12,6 +12,7 @@
 	- Volume variável
 	- Forma variável
 	- Agregação é quase nulo
+	- Maior nível de entropia
 # Variação de energia
 Segue o seguinte padrão(exemplo da água):
 - O elemento continua no sólido até 0 graus celsius
