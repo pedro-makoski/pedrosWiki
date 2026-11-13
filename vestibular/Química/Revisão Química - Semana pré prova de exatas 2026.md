@@ -230,3 +230,108 @@ A diferença entre a entalpia dos produtos e a dos reagentes.
 - **Ebuilioscopia**: ao adicionar algum soluto, a temperatura de ebulição aumenta
 - **Crioscopia**: ao adicionar algum soluto, diminui a temperatura de congelamento, pois o soluto atrapalha a aproximação dos elementos
 - **Pressão osmótica**: quando tem dois líquidos um sem soluto e outro com soluto separados por uma barreira semipermeável, a água da água pura passa para a água com soluto então é aumentando o volume, para evitar isso é feito uma pressão osmótica(pi) que faz com que não passe de um lugar pro outro. Quando a pressão feita é maior que pi, então a água com soluto passa para a água pura. 
+# Cinética Química
+- Estuda a velocidade das reações
+- Medida em mols por tempo
+## Fatores
+- **Superfície de contato:** quanto mais superfície para tocar mais fácil de se encontrar as moléculas e assim reagir
+- **Concentração**: quanto maior a concentração mais fácil de reagir, pois tem mais moléculas no mesmo espaço
+- **Temperatura**: quanto maior a temperatura, maior o grau de agitação das moléculas e, portanto, maior a capacidade de reagirem
+- **Catalisador**: ao adicionar um catalisador a energia de ativação (necessária para reagir) é diminuída, mantendo todas as outras energias
+
+# Equilíbrio Químico
+Quando a velocidade de reação dos reagentes pros produtos se torna igual a dos produtos para os reagentes em um estágio em que as reações e os produtos acontecem para ambos os lados.
+
+## Deslocamento do equilíbrio 
+- **Concentração**: quanto maior a concentração de um lado, menor vai ser a concentração do outro e vice versa
+- **Pressão**: quando aumenta favorece o lado com mais gás e quando diminui favorece para o com mais gás
+- **Temperatura**: favorece a parte endotérmica, quando aumenta e exotérmica quando diminui 
+### Catalisadores
+- Podem acelerar o processo de equilibrio químico, mas não diferencia as posições
+## Constante de equilíbrio
+Dado a reação que está em equilíbrio
+$$
+nA + mB \rightleftharpoons qC + tD
+$$
+A constante de equilíbrio é:
+$$
+K = \frac{[C]^q[D]^t}{[A]^n[B]^m}
+$$
+Em que estar entre parênteses indica que é a concentração do item.
+
+
+## pH
+Indica o potencial hidrogeniônico
+$$
+pH = -log_{10}{[H^{+}]}
+$$
+
+## Indicadores de pH - fenoftaleina
+Indica o nível de pH. Branco indica que ácido ou neutro e rosa indica que é básico
+## Tampões
+Impede a alta variação de pH ao adicionar uma quantidade relativa de H+ ou OH-. Exemplo disso é o sangue.
+
+# Eletroquímica
+- Processo de criar um ddp entre dois compostos químicos
+- Relação entre um anodo (polo negativo que se oxida e envia elétrons) e um cátodo (polo positivo que recebe elétrons). 
+- A diferença de potencial entre esses dois gera um DDP ou seja uma diferença de potência que é calculada pela diferença da tensão maior (do cátodo) e da tensão menor (anodo)
+- Para, juntamente, enviar os íons eles passam por um canal salinizado
+
+## Evitar oxidação do ferro
+- **Galvanização (revestimento):** Utilização de zinco oxidado (ZnO), que oxidado e não oxidado é a mesma coisa e evita que o ferro se oxide, algo que acontece para com ele com muita facilidade
+- **Uso de estanho**: colocar estanho na parte de dentro para impedir de oxidar com a água na parte interna
+- **Metal de Sacrifício, Anodo de sacrifício ou proteção catódica**: usar um anodo que impessa a oxidação do ferro
+## Eletrolise 
+### Ignea
+- Oxigênio doam elétrons para as baterias
+### Aquoso
+- É invertido os sinais do cátodo e do anodo, fazendo com que os elétrons vão para o sentido contrário restabelecendo o material desgastado
+# Isomeria 
+Quando é um composto diferente, mas com forma muito semelhante
+## Planos
+Se presenciam na forma plana
+### De Cadeia
+- A cadeia de carbonos é alterada, por exemplo de forma retilínea para uma conexão de outro elemento
+### De Posição
+- Um elemento carbônico troca de posição
+### De função
+- Troca de função da molécula para outra
+### Metameria
+- Troca de um elemento não carbônico de posição
+### Tautomeria
+- Realização feita pelo equilíbrio entre duas moléculas 
+## Espacial
+### Geometrica - cis-trans
+- A cis é a molécula polar e trans é apolar, realizada pela inversão dos elementos eletronegativos para que eles se estabeleçam simetria e não gere polaridade no caso da trans 
+
+### Optíca
+- Um carbono ligado a quatro outros radicais que são diferentes entre si
+
+# Reações Orgânicas
+## Esterificação
+- Transformar um ácido carboxílico e um álcool em água e um ester
+
+## Oxidação do Álcool
+- Oxidar um álcool gerando diferentes subprodutos
+
+## Ozonolise
+- Usando um ozônio para quebrar uma molécula orgânica
+
+## Saponificação
+- Óleo mais Souda Caustica(NaOH) virando sabão e glicerol
+
+# Polímeros 
+Cadeia longa de moléculas que foram juntadas.
+## De Adição
+- Trocar uma dupla ligação por uma ligação com outra molécula semelhante
+
+## De condensação
+- Fazer uma alteração da molécula, por exemplo por hidrólise (saída de água), para montar uma cadeia
+- PET
+	- Poliester (muitos esters)
+- Nylon
+	- Poliamina (cadeia de aminas)
+- Kevlar
+	- Extremamente resistente
+	- Formado por amidas
+

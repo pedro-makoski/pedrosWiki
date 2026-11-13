@@ -3,5 +3,6 @@
   "textFontFamily": "Inter",
   "baseFontSizeAction": false,
   "cssTheme": "Prism",
-  "baseFontSize": 15
+  "baseFontSize": 15,
+  "showRibbon": true
 }
