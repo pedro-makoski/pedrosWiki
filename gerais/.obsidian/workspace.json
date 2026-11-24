@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos/curso.dev/Estilizador de código.md",
+                "file": "Cursos/HTML, CSS & JS/Aulas/Cores/Cores.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Estilizador de código"
+              "title": "Cores"
             }
           }
         ]
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"git diff\"",
+                "query": "sentido das cores",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,13 +206,13 @@
   },
   "active": "2224028eea0d0326",
   "lastOpenFiles": [
+    "Cursos/curso.dev/Estilizador de código.md",
     "Cursos/curso.dev/Comandos GIT.md",
     "Cursos/curso.dev/Client-server.md",
     "Cursos/curso.dev/Arquivos node.md",
     "Cursos/curso.dev/Protocolos.md",
     "Cursos/curso.dev/Princípio do Saldo.md",
     "Cursos/curso.dev/Por que os projetos do Filipe Deschamps sempre dão certo.md",
-    "Cursos/curso.dev/Estilizador de código.md",
     "Cursos/curso.dev/Orgânico x Impressora 3D.md",
     "Cursos/Alura Hub/Java/Spring Security/Adicionando redirecionamento de segurança.md",
     "Cursos/Alura Hub/Java/Spring Security/Configuração Básica de Segurança.md",

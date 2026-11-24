@@ -16,13 +16,13 @@ Para criar um site bom é necessário usar a psicologia das cores, a partir do s
 
 ---
 
-|   |   |
-|---|---|
-|**COR**|**SENTIDO QUE ELA TRAZ**|
-|**AZUL**|Competência, sabedoria, calma, confiança, profissionalismo, segurança, integridade.|
-|**VERMELHO**|Amor, emoção, energia, raiva, perigo.|
-|**VERDE**|Saúde, natureza, dinheiro, sorte, inveja.|
-|**AMARELO**|Felicidade, alegria, otimismo, covardia|
+|              |                                                                                     |
+| ------------ | ----------------------------------------------------------------------------------- |
+| **COR**      | **SENTIDO QUE ELA TRAZ**                                                            |
+| **AZUL**     | Competência, sabedoria, calma, confiança, profissionalismo, segurança, integridade. |
+| **VERMELHO** | Amor, emoção, energia, raiva, perigo.                                               |
+| **VERDE**    | Saúde, natureza, dinheiro, sorte, inveja.                                           |
+| **AMARELO**  | Felicidade, alegria, otimismo, covardia                                             |
 
 A cor **Azul,** estatisticamente a cor mais aceita do mundo com _**46%**_ de aprovação. E com a menor taxa de rejeição de apenas _**1%.**_
 

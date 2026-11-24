@@ -88,3 +88,57 @@ E quando se trata de todo o gás se multiplica pela quantidade de moléculas que
 $$
 E_c^{gas} = \frac{3}{2}n*R*T
 $$
+# Primeira lei da termodinâmica
+## Variação da energia interna
+A variação da energia interna, como vimos a na formula anterior é dependente da variação de temperatura.
+
+Caso a variação seja positiva, significa que o gás aqueceu e se for negativa significa que o gás esfriou e se é igual não houve alteração de temperatura. 
+## Variação de calor
+Não relaciona a temperatura.
+
+- Aumentou o calor -> houve um aumento de calor que entrou para o sistema
+- Diminui o calor -> houve uma diminuição do calor
+- Manteve-se igual -> não trocou o calor com o meio externo, pois foi muito rápida, isso é chamada de transformação adiabática
+## Variação de trabalho
+O gás tende a se expandir
+- Caso o trabalho seja positivo: o embulo lenvatou-se para cima, ou seja o gás perdeu energia para o meio externo e se expandiu
+- E caso seja negativo: recebeu calor, por meio de uma força externa
+
+$$
+\Delta W = \Delta V*P
+$$
+Essa relação acima só funciona em caso de pressão isobárica, em outros casos deve ser calculado a área do gráfico.
+## Relação da energia interna com o trabalho e variação de calor
+A energia interna que está relacionada a variação de temperatura acontece pois o calor que entrou aumenta o calor interno e o trabalho feita tira o calor interno, portanto a variação se da por:
+$$
+\Delta U = \Delta Q - Wgas
+$$
+Essa é a formula do balanço térmico.
+## Aplicações da primeira lei
+### Expansão Adiabática/Rápida
+- Sem variação de calor
+- O trabalho é positivo
+- Portanto a variação da temperatura é negativo
+- Pois
+$$
+\Delta U = - Wgas
+$$
+### Compressão Adiabática/Rápida
+- Sem variação de calor
+- O trabalho é negativo
+- Portanto a variação de temperatura será positiva
+### Expansão Isotérmica/Lenta
+- Não há variação de temperatura, portanto não há variação da energia interna, isso significa que a variação de calor é igual a variação do trabalho
+- Como é expansão a variação de calor será positiva, pois a variação do trabalho positivo
+### Compressão Isotérmica/Lenta
+
+### Expansão Isotérmica/Lenta
+- Não há variação de temperatura, portanto não há variação da energia interna, isso significa que a variação de calor é igual a variação do trabalho
+- Como é expansão a variação de calor será negativa, pois a variação do trabalho será negativa
+# Transformações cíclicas 
+São um conjunto de transformações especiais (isobáricas, isovolumetricas, isotermicas e adiabáticas) que voltam para o mesmo estado inicial
+
+Em transformações cíclicas:
+- A variação da energia interna é 0, pois a variação da temperatura é 0, uma vez que ela começa e termina com a mesma temperatura
+- O trabalho exercido pelo gás é positivo quando a área de expansão é maior que a de compressão e negativo quando a área de compressão é maior do que a de expansão
+- E a variação de calor é igual ao trabalho exercido
